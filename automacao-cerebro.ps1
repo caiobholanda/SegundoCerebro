@@ -14,4 +14,5 @@ $prompts = @{
     'mes' = "Use a skill revisao-mensal."
 }
 
+$env:PATH += ";C:\Users\estagio.ti\AppData\Roaming\npm;C:\Users\estagio.ti\.local\bin"
 claude -p $prompts[$Rotina] --dangerously-skip-permissions
