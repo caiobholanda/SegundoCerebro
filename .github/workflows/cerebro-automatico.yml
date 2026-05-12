@@ -1,0 +1,85 @@
+name: Segundo Cérebro — Automação Diária
+
+on:
+  schedule:
+    - cron: '0 10 * * *'   # 07:00 BRT (manhã — nota diária)
+    - cron: '0 13 * * *'   # 10:00 BRT (pesquisa — 7 temas)
+    - cron: '0 1 * * *'    # 22:00 BRT (noite — processar inbox)
+    - cron: '0 21 * * 5'   # 18:00 BRT sexta (manutenção semanal)
+  workflow_dispatch:
+    inputs:
+      rotina:
+        description: 'Rotina a executar'
+        required: true
+        default: 'manha'
+        type: choice
+        options: [manha, pesquisa, noite, semana]
+
+jobs:
+  executar:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout vault
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Instalar Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Instalar Claude Code CLI
+        run: npm install -g @anthropic-ai/claude-code
+
+      - name: Determinar rotina pelo horário
+        id: rotina
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            echo "nome=${{ inputs.rotina }}" >> $GITHUB_OUTPUT
+          else
+            HORA=$(TZ="America/Fortaleza" date +%H)
+            if [ "$HORA" = "07" ]; then
+              echo "nome=manha" >> $GITHUB_OUTPUT
+            elif [ "$HORA" = "10" ]; then
+              echo "nome=pesquisa" >> $GITHUB_OUTPUT
+            elif [ "$HORA" = "22" ]; then
+              echo "nome=noite" >> $GITHUB_OUTPUT
+            else
+              echo "nome=semana" >> $GITHUB_OUTPUT
+            fi
+          fi
+
+      - name: Executar rotina
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          ROTINA: ${{ steps.rotina.outputs.nome }}
+        run: |
+          PROMPTS_MANHA="Use a skill nota-diaria do vault. Liste os projetos ativos e crie a nota diária de hoje em 06 - Diário/."
+          PROMPTS_PESQUISA="Execute a pesquisa diaria autonoma. Para cada um dos 7 temas (Claude API, Claude Code, Economia de Tokens, Deploy e Infraestrutura, Inteligencia Artificial, Programacao e Dev, Mercado TI Brasil) use WebSearch e crie uma nota em 03 - Pesquisa/ seguindo as convencoes do vault (CLAUDE.md)."
+          PROMPTS_NOITE="Use a skill processar-inbox. Em seguida use a skill processar-inbox-pesquisa para o dia de hoje. Por ultimo use a skill conectar-notas modo vassoura nas notas criadas hoje."
+          PROMPTS_SEMANA="Use a skill manutencao-semanal."
+
+          case "$ROTINA" in
+            manha)   PROMPT="$PROMPTS_MANHA" ;;
+            pesquisa) PROMPT="$PROMPTS_PESQUISA" ;;
+            noite)   PROMPT="$PROMPTS_NOITE" ;;
+            semana)  PROMPT="$PROMPTS_SEMANA" ;;
+          esac
+
+          claude -p "$PROMPT" --dangerously-skip-permissions
+
+      - name: Commit e push das notas geradas
+        run: |
+          git config user.name "Segundo Cérebro Bot"
+          git config user.email "caiobholanda2007@gmail.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "Nenhuma nota nova gerada."
+          else
+            git commit -m "auto: rotina $(TZ='America/Fortaleza' date '+%Y-%m-%d %H:%M') BRT"
+            git push
+          fi
