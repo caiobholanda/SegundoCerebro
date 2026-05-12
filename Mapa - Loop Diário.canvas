@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"home","type":"file","file":"🏠 Home.md","x":0,"y":-200,"width":280,"height":100,"color":"6"},
+		{"id":"diario","type":"file","file":"06 - Diário/_MOC - Diário.md","x":-500,"y":0,"width":260,"height":100,"color":"5"},
+		{"id":"inbox","type":"file","file":"00 - Inbox/_MOC - Inbox.md","x":-180,"y":100,"width":260,"height":100,"color":"1"},
+		{"id":"pesquisa","type":"file","file":"03 - Pesquisa/_MOC - Pesquisa.md","x":180,"y":100,"width":260,"height":100,"color":"2"},
+		{"id":"roteiros","type":"file","file":"04 - Roteiros/_MOC - Roteiros.md","x":500,"y":0,"width":260,"height":100,"color":"3"},
+		{"id":"projetos","type":"file","file":"01 - Projetos/_MOC - Projetos.md","x":0,"y":280,"width":260,"height":100,"color":"4"},
+		{"id":"manut","type":"text","text":"**Manutenção semanal**\n\n`use a skill manutencao-semanal`","x":800,"y":280,"width":260,"height":120,"color":"6"},
+		{"id":"loop-text","type":"text","text":"## 🔁 Loop diário\n\n1. Manhã → Diário\n2. Captura → Inbox\n3. Tema novo → Pesquisa\n4. Produção → Roteiro\n5. Sexta → Manutenção","x":-800,"y":280,"width":280,"height":200}
+	],
+	"edges":[
+		{"id":"e1","fromNode":"home","fromSide":"bottom","toNode":"diario","toSide":"top","label":"começar"},
+		{"id":"e2","fromNode":"diario","fromSide":"right","toNode":"inbox","toSide":"left","label":"captura"},
+		{"id":"e3","fromNode":"inbox","fromSide":"right","toNode":"pesquisa","toSide":"left","label":"processa"},
+		{"id":"e4","fromNode":"pesquisa","fromSide":"right","toNode":"roteiros","toSide":"left","label":"destila"},
+		{"id":"e5","fromNode":"roteiros","fromSide":"bottom","toNode":"projetos","toSide":"right","label":"executa"},
+		{"id":"e6","fromNode":"projetos","fromSide":"left","toNode":"diario","toSide":"bottom","label":"reflete"},
+		{"id":"e7","fromNode":"projetos","fromSide":"right","toNode":"manut","toSide":"left","label":"revisa"}
+	]
+}

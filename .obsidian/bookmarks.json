@@ -1,0 +1,16 @@
+{
+  "items": [
+    {"type": "file", "path": "🏠 Home.md", "title": "🏠 Home"},
+    {"type": "file", "path": "00 - LEIA-ME.md", "title": "📖 LEIA-ME"},
+    {"type": "file", "path": "CLAUDE.md", "title": "📜 CLAUDE.md (regras)"},
+    {"type": "group", "title": "MOCs", "items": [
+      {"type": "file", "path": "00 - Inbox/_MOC - Inbox.md", "title": "📥 Inbox"},
+      {"type": "file", "path": "01 - Projetos/_MOC - Projetos.md", "title": "🚀 Projetos"},
+      {"type": "file", "path": "02 - Áreas/_MOC - Áreas.md", "title": "🌱 Áreas"},
+      {"type": "file", "path": "03 - Pesquisa/_MOC - Pesquisa.md", "title": "🔎 Pesquisa"},
+      {"type": "file", "path": "04 - Roteiros/_MOC - Roteiros.md", "title": "🎬 Roteiros"},
+      {"type": "file", "path": "05 - Referências/_MOC - Referências.md", "title": "📚 Referências"},
+      {"type": "file", "path": "06 - Diário/_MOC - Diário.md", "title": "📅 Diário"}
+    ]}
+  ]
+}

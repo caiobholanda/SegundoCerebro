@@ -1,0 +1,15 @@
+{
+  "showInlineTitle": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "00 - Inbox",
+  "attachmentFolderPath": "z - Anexos",
+  "alwaysUpdateLinks": true,
+  "useMarkdownLinks": false,
+  "newLinkFormat": "shortest",
+  "showLineNumber": true,
+  "spellcheck": true,
+  "spellcheckLanguages": [
+    "pt-BR"
+  ],
+  "promptDelete": true
+}

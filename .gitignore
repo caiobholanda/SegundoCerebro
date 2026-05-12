@@ -1,0 +1,17 @@
+# Obsidian workspace state (muda a cada sessão, não precisa versionar)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+.obsidian/.cache
+
+# Lixeira do Obsidian
+.trash/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Node / scripts locais
+node_modules/
+*.log

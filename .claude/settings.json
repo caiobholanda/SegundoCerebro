@@ -1,0 +1,15 @@
+{
+  "hooks": {
+    "PostToolUse": [
+      {
+        "matcher": "Edit|Write",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "pwsh -File .claude/hooks/PostToolUse.ps1 -FilePath \"$CLAUDE_TOOL_FILE_PATH\""
+          }
+        ]
+      }
+    ]
+  }
+}

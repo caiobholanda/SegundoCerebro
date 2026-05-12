@@ -1,0 +1,24 @@
+filters:
+  and:
+    - file.folder.startsWith("01 - Projetos")
+    - status == "ativo" or status == "em-andamento"
+properties:
+  status:
+    displayName: Status
+  prazo:
+    displayName: Prazo
+  atualizado:
+    displayName: Atualizado
+views:
+  - type: table
+    name: Tabela
+    order:
+      - file.name
+      - status
+      - prazo
+      - atualizado
+    sort:
+      - column: prazo
+        direction: ASC
+  - type: cards
+    name: Cards
