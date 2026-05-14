@@ -1,7 +1,7 @@
 ---
 tipo: moc
 criado: 2026-04-29
-atualizado: 2026-05-13
+atualizado: 2026-05-14
 ---
 
 # 🔎 MOC — Pesquisa
@@ -16,6 +16,15 @@ Estudos sobre temas e ferramentas. Material **destilado por você** — não é 
 5. **Conexões** — `relacionado-a:` no frontmatter.
 
 ## Pesquisas
+
+### 2026-05-14 (Pesquisa Diária)
+- [[Pesquisa - 2026-05-14 - Claude API]]
+- [[Pesquisa - 2026-05-14 - Claude Code]]
+- [[Pesquisa - 2026-05-14 - Economia de Tokens]]
+- [[Pesquisa - 2026-05-14 - Deploy e Infraestrutura]]
+- [[Pesquisa - 2026-05-14 - Inteligencia Artificial]]
+- [[Pesquisa - 2026-05-14 - Programacao e Dev]]
+- [[Pesquisa - 2026-05-14 - Mercado TI Brasil]]
 
 ### 2026-05-13 (Pesquisa Diária)
 - [[Pesquisa - 2026-05-13 - Claude API]]

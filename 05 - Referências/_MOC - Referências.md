@@ -1,7 +1,7 @@
 ---
 tipo: moc
 criado: 2026-04-29
-atualizado: 2026-04-29
+atualizado: 2026-05-14
 ---
 
 # 📚 MOC — Referências
@@ -34,6 +34,22 @@ tags: [referencia, tema-principal]
 - [[Referência - Doc - SQL]] — DDL, DML, JOINs, GROUP BY, CTEs, window functions, transações, índices (PostgreSQL)
 - [[Referência - Doc - Node.js]] — fs, path, http, EventEmitter, streams, process, CommonJS vs ESM, package.json
 - [[Referência - Doc - React]] — components, props, useState, useEffect, useContext, useRef, useMemo, useCallback, useReducer, hooks customizados, React Router v6
+
+## Infra, Cloud e DevOps
+- [[Referência - Artigo - Cloud Computing Trends 2026 CloudKeeper]]
+- [[Referência - Artigo - K3s vs Kubernetes Edge 2026]]
+- [[Referência - Artigo - Kubecost vs OpenCost FinOps Kubernetes 2026]]
+- [[Referência - Artigo - Crossplane vs Terraform Times Pequenos 2026]]
+- [[Referência - Doc - AWS Kiro IDE Agentic 2026]]
+
+## Claude / IA / Dev
+- [[Referência - Artigo - Claude Code Hooks Subagents Skills 2026]]
+- [[Referência - Doc - Anthropic Release Notes 2026]]
+- [[Referência - Doc - Claude Code Changelog 2026]]
+- [[Referência - Doc - Claude Code Hooks Reference 2026]]
+- [[Referência - Doc - Claude Managed Agents Memory 2026]]
+- [[Referência - Doc - Claude Platform on AWS Pricing 2026]]
+- [[Referência - Doc - Claude Agent SDK Overview]]
 
 ## Outras Referências
 - [[Referência - Vídeo - Claude Code Transformou Obsidian em Segundo Cérebro]]

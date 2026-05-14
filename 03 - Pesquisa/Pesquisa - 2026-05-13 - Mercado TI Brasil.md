@@ -2,7 +2,7 @@
 tipo: pesquisa
 status: ativo
 criado: 2026-05-13
-atualizado: 2026-05-13
+atualizado: 2026-05-14
 tags: [pesquisa, mercado-ti, brasil, salario, carreira, ia]
 pergunta-central: "Qual é o cenário do mercado de TI no Brasil em 2026 — vagas, salários e áreas mais quentes?"
 relacionado-a: [Pesquisa - 2026-05-08 - Mercado TI Brasil, Pesquisa - 2026-05-13 - Inteligencia Artificial, Pesquisa - 2026-05-13 - Programacao e Dev]
@@ -96,8 +96,8 @@ O mercado de TI no Brasil em 2026 está estruturalmente desequilibrado: o país 
 - [LATAM Software Engineer Salary Guide 2026 — Mismo.team](https://mismo.team/latam-software-engineer-salary-guide-averages-costs/)
 
 ## 🚧 Lacunas
-- Salário de AI Engineer junior no Brasil (a tabela mostra senior/mid)
-- Empresas que mais contratam AI devs no Brasil (startups vs corporações)
-- Freelance/remote-first: como impacta os salários médios?
-- Certificações mais valorizadas para o mercado brasileiro em 2026 (AWS? Google AI?)
-- Déficit de talentos: está sendo suprido por bootcamps ou formação tradicional?
+- ~~Salário de AI Engineer junior no Brasil~~ → respondido em [[Pesquisa - 2026-05-14 - Mercado TI Brasil]]
+- ~~Empresas que mais contratam AI devs no Brasil (startups vs corporações)~~ → respondido em [[Pesquisa - 2026-05-14 - Mercado TI Brasil]]
+- ~~Freelance/remote-first: como impacta os salários médios?~~ → respondido em [[Pesquisa - 2026-05-14 - Mercado TI Brasil]]
+- ~~Certificações mais valorizadas para o mercado brasileiro em 2026 (AWS? Google AI?)~~ → respondido em [[Pesquisa - 2026-05-14 - Mercado TI Brasil]]
+- ~~Déficit de talentos: está sendo suprido por bootcamps ou formação tradicional?~~ → respondido em [[Pesquisa - 2026-05-14 - Mercado TI Brasil]]

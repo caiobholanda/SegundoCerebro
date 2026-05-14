@@ -4,7 +4,7 @@ fonte: doc
 autor: Anthropic
 url: https://code.claude.com/docs/en/changelog
 criado: 2026-05-13
-atualizado: 2026-05-13
+atualizado: 2026-05-14
 tags: [referencia, claude-code, agente, automacao]
 ---
 
@@ -29,3 +29,4 @@ Agent View e /goal mudam fundamentalmente o fluxo de trabalho: de conversacional
 ## 🔗 Conecta com
 - [[Pesquisa - 2026-05-13 - Claude Code]]
 - [[Pesquisa - 2026-05-08 - Claude Code Skills e Automacao]]
+- [[Pesquisa - 2026-05-14 - Claude Code]]

@@ -108,8 +108,10 @@ Nível 4 — Investimento técnico:
 - [Token Optimization saves 80% — Obvious Works](https://www.obviousworks.ch/en/token-optimization-saves-up-to-80-percent-llm-costs/)
 
 ## 🚧 Lacunas
-- Compaction API: disponível para todos os modelos ou só Opus 4.6?
-- Cache de 1 hora: quando compensa vs 5 minutos? Qual breakeven em chamadas/hora?
-- LLMLingua: latência extra de compressão justifica a economia em casos de tempo real?
-- Preços Opus 4.7 input ($5) vs nota anterior ($15) — confirmar qual está correto
-- Semantic caching: como funciona com respostas que precisam ser atuais/contextuais?
+> Todas as lacunas abaixo foram respondidas em [[Pesquisa - 2026-05-14 - Economia de Tokens]]
+
+- ✅ Compaction API: suporta Opus 4.7, Opus 4.6, Sonnet 4.6 e Mythos Preview (não apenas Opus 4.6)
+- ✅ Cache 1h: breakeven em ~5 reads/hora; TTL 5min quebra-even com ~2 reads/sessão
+- ✅ LLMLingua: overhead de 21s (original) ou <3s (LLMLingua-2) — inviável para chat em tempo real com APIs comerciais
+- ✅ Opus 4.7 input = $5/MTok confirmado. O preço de $15 pertence ao Opus 4.1 (legado)
+- ✅ Semantic caching: confidence score ponderado (70% similaridade + 30% frescor) resolve respostas dinâmicas

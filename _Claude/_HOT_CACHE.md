@@ -1,6 +1,6 @@
 ---
 tipo: meta
-atualizado: 2026-05-08
+atualizado: 2026-05-14
 ---
 
 # Hot Cache — Contexto Recente
@@ -9,6 +9,15 @@ atualizado: 2026-05-08
 > Não edite manualmente — será sobrescrito na próxima compactação.
 
 ## Última Sessão
+
+2026-05-14 (pesquisa Claude Code): Lacunas da pesquisa de 13/05 respondidas.
+- Agent View: sem data GA anunciada; Research Preview desde 11/05/2026; UI pode mudar antes de GA
+- /goal: sem timeout fixo — controle declarativo ("ou parar após N turnos"); subagentes travam após 10min de idle
+- Hooks: ~27-28 eventos documentados (não 25); Agent Teams adiciona TaskCreated/TeammateIdle/TaskCompleted; skills podem ter hooks locais no frontmatter YAML (escopo = lifetime da skill)
+- Multi-agent billing: sem billing separado; cada subagente tem contexto independente; custo ~3-4x de sessão sequencial; exemplos reais: $8k–$47k em execuções sem supervisão
+- Novos recursos semana 12-14/05: /goal, --plugin-url, /recap, claude project purge, skills folder protection expandida
+- Routines (abr/2026): automações cloud-managed com schedule/API/GitHub triggers; limite Pro=5/dia
+- Desktop redesign (abr/2026): sidebar multi-sessão, terminal integrado, side chat isolado
 
 2026-05-12 (sistema-chamados): Integração completa do projeto no vault.
 - `_Claude/projetos/sistema-chamados/_CONTEXTO.md` reescrito com estado atual completo
@@ -59,8 +68,14 @@ Sistema de memória autônoma ativo: hooks SessionStart (injeta hot cache) + Pos
 
 ## Decisões Recentes
 
-*(nenhuma ainda)*
+2026-05-14 (pesquisa economia de tokens):
+- Confirmado: Opus 4.7 input = $5/MTok (não $15 — esse valor é do Opus 4.1 legado)
+- Compaction API suporta: Opus 4.7, Opus 4.6, Sonnet 4.6, Mythos Preview. Haiku não.
+- LLMLingua inviável para tempo real com APIs comerciais (overhead 21s original, <3s LLMLingua-2)
+- Semantic caching dinâmico: confidence = 70% similaridade + 30% frescor
 
 ## Padrões Aprendidos
 
-*(nenhum ainda)*
+- Preços Claude: Opus 4.x ($5 input) é a família moderna. Opus 4.1 e anteriores ($15 input) são legado.
+- Tokenizador Opus 4.7: até 35% mais tokens que modelos anteriores para o mesmo texto.
+- Fast Mode Opus 4.7 disponível: 2,5× tokens/s de output, mas 6× o preço padrão ($30 input/$150 output)
