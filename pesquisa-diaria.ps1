@@ -48,7 +48,7 @@ Priorize qualidade e densidade de informacao util. Foque especialmente nos temas
 # Mudar para o diretorio do vault e rodar claude headless
 $env:PATH += ";C:\Users\estagio.ti\AppData\Roaming\npm;C:\Users\estagio.ti\.local\bin"
 Set-Location $VAULT
-$result = claude --print -p $prompt 2>&1
+$result = claude -p $prompt --dangerously-skip-permissions 2>&1
 
 if ($LASTEXITCODE -eq 0) {
     Add-Content $LOG "[$date $time] Pesquisa concluida com sucesso."

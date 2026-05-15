@@ -122,7 +122,7 @@ Objetivo: cada pesquisa deve gerar uma nota que valha a pena reler em 6 meses.
 $env:PATH += ";C:\Users\estagio.ti\AppData\Roaming\npm;C:\Users\estagio.ti\.local\bin"
 Set-Location $VAULT
 
-$result = claude --print -p $prompt 2>&1
+$result = claude -p $prompt --dangerously-skip-permissions 2>&1
 
 if ($LASTEXITCODE -eq 0) {
     Add-Content $LOG "[$date $time] Concluido com sucesso."
