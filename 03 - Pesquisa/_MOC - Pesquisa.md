@@ -19,6 +19,7 @@ Estudos sobre temas e ferramentas. Material **destilado por você** — não é 
 
 ### 2026-05-15 (Pesquisa Diária)
 - [[Pesquisa - 2026-05-15 - Claude API]]
+- [[Pesquisa - 2026-05-15 - Claude Code]]
 
 ### 2026-05-14 (Pesquisa Diária)
 - [[Pesquisa - 2026-05-14 - Claude API]]
