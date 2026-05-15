@@ -22,6 +22,8 @@ Estudos sobre temas e ferramentas. Material **destilado por você** — não é 
 - [[Pesquisa - 2026-05-15 - Claude Code]]
 - [[Pesquisa - 2026-05-15 - Economia de Tokens]]
 - [[Pesquisa - 2026-05-15 - Deploy e Infraestrutura]]
+- [[Pesquisa - 2026-05-15 - Inteligencia Artificial]]
+- [[Pesquisa - 2026-05-15 - Programacao e Dev]]
 
 ### 2026-05-14 (Pesquisa Diária)
 - [[Pesquisa - 2026-05-14 - Claude API]]

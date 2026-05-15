@@ -5,6 +5,7 @@
 #   30% -> aprofunda 1 dos 7 temas fixos (escolhido aleatoriamente)
 
 $VAULT = "C:\Users\estagio.ti\Desktop\ClaudeCode\SegundoCerebroOficial"
+. "$VAULT\email-config.ps1"
 $LOG   = Join-Path $VAULT "_Claude\sessoes\pesquisa-continua.log"
 
 $date    = Get-Date -Format "yyyy-MM-dd"
@@ -127,9 +128,31 @@ $result = claude -p $prompt --dangerously-skip-permissions 2>&1
 if ($LASTEXITCODE -eq 0) {
     Add-Content $LOG "[$date $time] Concluido com sucesso."
     Add-Content $LOG "[$date $time] Resumo: $($result | Select-Object -Last 3 | Out-String)"
+    $status     = "SUCESSO"
+    $statusIcon = "[OK]"
 } else {
     Add-Content $LOG "[$date $time] ERRO (exit $LASTEXITCODE): $($result | Select-Object -Last 5 | Out-String)"
+    $status     = "ERRO (exit $LASTEXITCODE)"
+    $statusIcon = "[ERRO]"
 }
+
+# Monta descricao do modo para o email
+$modoDesc = if ($chance -le 30) { "Tema fixo: $($tema.nome)" } else { "Aleatorio — $cat" }
+
+# Envia email de relatorio
+$assunto = "$statusIcon [Cerebro] $modoDesc — $date $time"
+$corpo   = @"
+Segundo Cerebro — Relatorio de Pesquisa Continua
+=================================================
+Data/Hora : $date $time
+Modo      : $modoDesc
+Status    : $status
+
+--- Resumo da pesquisa ---
+$($result | Out-String | Select-String -Pattern '.' | Select-Object -Last 30 | ForEach-Object { $_.Line } | Out-String)
+"@
+$emailOk = Enviar-Relatorio -Assunto $assunto -Corpo $corpo
+Add-Content $LOG "[$date $time] Email: $(if ($emailOk) { 'enviado' } else { 'nao enviado (verifique email-config.ps1)' })"
 
 Add-Content $LOG "[$date $time] === Fim do ciclo ==="
 Add-Content $LOG ""
