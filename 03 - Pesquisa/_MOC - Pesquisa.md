@@ -1,7 +1,7 @@
 ---
 tipo: moc
 criado: 2026-04-29
-atualizado: 2026-05-14
+atualizado: 2026-05-20
 ---
 
 # 🔎 MOC — Pesquisa
@@ -16,6 +16,51 @@ Estudos sobre temas e ferramentas. Material **destilado por você** — não é 
 5. **Conexões** — `relacionado-a:` no frontmatter.
 
 ## Pesquisas
+
+### 2026-05-20 (Pesquisa Diária)
+- [[Pesquisa - 2026-05-20 - Claude API]]
+- [[Pesquisa - 2026-05-20 - Claude Code e Claude.ai]]
+- [[Pesquisa - 2026-05-20 - Economia de Tokens]]
+- [[Pesquisa - 2026-05-20 - Deploy e Infraestrutura]]
+- [[Pesquisa - 2026-05-20 - Inteligencia Artificial]]
+- [[Pesquisa - 2026-05-20 - Programacao e Dev]]
+- [[Pesquisa - 2026-05-20 - Mercado TI Brasil]]
+
+### 2026-05-19 (Pesquisa Diária)
+- [[Pesquisa - 2026-05-19 - Claude API]]
+- [[Pesquisa - 2026-05-19 - Claude Code e Claude.ai]]
+- [[Pesquisa - 2026-05-19 - Economia de Tokens]]
+- [[Pesquisa - 2026-05-19 - Deploy e Infraestrutura]]
+- [[Pesquisa - 2026-05-19 - Inteligencia Artificial]]
+- [[Pesquisa - 2026-05-19 - Programacao e Dev]]
+- [[Pesquisa - 2026-05-19 - Mercado TI Brasil]]
+
+### 2026-05-18 (Pesquisa Diária)
+- [[Pesquisa - 2026-05-18 - Claude API]]
+- [[Pesquisa - 2026-05-18 - Claude Code e Claude.ai]]
+- [[Pesquisa - 2026-05-18 - Economia de Tokens]]
+- [[Pesquisa - 2026-05-18 - Deploy e Infraestrutura]]
+- [[Pesquisa - 2026-05-18 - Inteligencia Artificial]]
+- [[Pesquisa - 2026-05-18 - Programacao e Dev]]
+- [[Pesquisa - 2026-05-18 - Mercado TI Brasil]]
+
+### 2026-05-17 (Pesquisa Diária)
+- [[Pesquisa - 2026-05-17 - Claude API]]
+- [[Pesquisa - 2026-05-17 - Claude Code e Claude.ai]]
+- [[Pesquisa - 2026-05-17 - Economia de Tokens]]
+- [[Pesquisa - 2026-05-17 - Deploy e Infraestrutura]]
+- [[Pesquisa - 2026-05-17 - Inteligencia Artificial]]
+- [[Pesquisa - 2026-05-17 - Programacao e Dev]]
+- [[Pesquisa - 2026-05-17 - Mercado TI Brasil]]
+
+### 2026-05-16 (Pesquisa Diária)
+- [[Pesquisa - 2026-05-16 - Claude API]]
+- [[Pesquisa - 2026-05-16 - Claude Code]]
+- [[Pesquisa - 2026-05-16 - Economia de Tokens]]
+- [[Pesquisa - 2026-05-16 - Deploy e Infraestrutura]]
+- [[Pesquisa - 2026-05-16 - Inteligencia Artificial]]
+- [[Pesquisa - 2026-05-16 - Programacao e Dev]]
+- [[Pesquisa - 2026-05-16 - Mercado TI Brasil]]
 
 ### 2026-05-15 (Pesquisa Diária)
 - [[Pesquisa - 2026-05-15 - Claude API]]

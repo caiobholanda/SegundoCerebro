@@ -4,7 +4,6 @@
 
 $VAULT = "C:\Users\estagio.ti\Desktop\ClaudeCode\SegundoCerebroOficial"
 $LOG   = Join-Path $VAULT "_Claude\sessoes\pesquisa-diaria.log"
-. "$VAULT\email-config.ps1"
 
 $date = Get-Date -Format "yyyy-MM-dd"
 $time = Get-Date -Format "HH:mm"
@@ -53,34 +52,6 @@ $result = claude -p $prompt --dangerously-skip-permissions 2>&1
 
 if ($LASTEXITCODE -eq 0) {
     Add-Content $LOG "[$date $time] Pesquisa concluida com sucesso."
-    $statusIcon = "[OK]"
-    $status     = "SUCESSO — 7 temas pesquisados"
 } else {
     Add-Content $LOG "[$date $time] ERRO: $result"
-    $statusIcon = "[ERRO]"
-    $status     = "ERRO (exit $LASTEXITCODE)"
 }
-
-# Envia email de relatorio
-$assunto = "$statusIcon [Cerebro] Pesquisa diaria completa — $date $time"
-$corpo   = @"
-Segundo Cerebro — Relatorio de Pesquisa Diaria
-===============================================
-Data/Hora : $date $time
-Rotina    : pesquisa-diaria (todos os 7 temas)
-Status    : $status
-
-Temas pesquisados:
-  1. Claude API
-  2. Claude Code e Claude.ai
-  3. Economia de Tokens
-  4. Deploy e Infraestrutura
-  5. Inteligencia Artificial
-  6. Programacao e Dev
-  7. Mercado de TI Brasil
-
---- Resumo ---
-$($result | Out-String | Select-String -Pattern '.' | Select-Object -Last 30 | ForEach-Object { $_.Line } | Out-String)
-"@
-$emailOk = Enviar-Relatorio -Assunto $assunto -Corpo $corpo
-Add-Content $LOG "[$date $time] Email: $(if ($emailOk) { 'enviado' } else { 'nao enviado (verifique email-config.ps1)' })"

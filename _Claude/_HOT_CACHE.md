@@ -1,6 +1,6 @@
 ---
 tipo: meta
-atualizado: 2026-05-14
+atualizado: 2026-05-16
 ---
 
 # Hot Cache — Contexto Recente
@@ -9,6 +9,55 @@ atualizado: 2026-05-14
 > Não edite manualmente — será sobrescrito na próxima compactação.
 
 ## Última Sessão
+
+2026-05-20 (pesquisa diária): 7 notas criadas/confirmadas em `03 - Pesquisa/`. Destaques:
+- Claude API: **Anthropic adquiriu a Stainless por ~$300M** (gerava SDKs oficiais de OpenAI, Google e Anthropic); Andrej Karpathy se juntou à Anthropic (pré-treinamento); MCP Tunnels (research preview) + Self-Hosted Sandboxes (public beta) lançados no evento Code with Claude London (19/05); Cache Diagnostics public beta (`cache_miss_reason`); Claude Platform on AWS
+- Claude Code: Flags de agente expandidas (--add-dir, --settings, --mcp-config, --plugin-dir, --permission-mode, --model, --effort); terminalSequence para notificações headless; MCP parallel reconnect ~2× mais rápido; OAuth fix para múltiplos servidores; WSL2 clipboard fix
+- Inteligência Artificial: **Google I/O 2026 (19-20/mai)** — Gemini 3.5 Flash (novo padrão, 4× mais rápido), Gemini Omni (multimodal/vídeo), Gemini Spark (agente pessoal autônomo), Android XR, CodeMender (rival do Mythos); OpenAI GPT-5.3-Codex; Meta modelos "Mango"+"Avocado" em desenvolvimento
+- Economia de Tokens: ArXiv papers novos sobre prompt caching (2601.06007 e 2602.22812); savings realistas 70-80% com combinação de técnicas
+- Deploy: Padrão 2026 consolidado = Vercel (frontend) + Railway/Fly.io (backend) + managed DB
+- Programação: TypeScript #1 GitHub 2025; dev como revisor/arquiteto; DevSecOps + Green Software como padrão
+- Mercado TI Brasil: 18,5% crescimento em 2025; US$67,8bi; 44% empresas expandindo; salário médio R$7.666
+
+2026-05-19 (pesquisa diária — sessão vespertina): Complemento às 7 notas criadas pela automação das 10h. Complementos adicionados:
+- Claude API: tabela de preços completa (Haiku $1/$5, Sonnet $3/$15, Opus $5/$25, Fast Mode $30/$150); tokenizador Opus 4.7 +35% tokens; Advisor Tool beta; histórico de lançamentos 4.x
+- Claude Code: PostToolUse duration_ms; updatedToolOutput para todos os tools; terminalSequence para notificações headless; MCP paralelo (2× mais rápido); tabela de promoção de limites (+50% até 13/jul/2026)
+- Inteligência Artificial: Google I/O 2026 acontece HOJE (19/mai, 14h BRT); Gemini 4 benchmark 84,6% ARC-AGI2; Android XR glasses; GPT-5.5 Instant como padrão ChatGPT; Project Mariner descontinuado
+- Mercado TI Brasil: tabela salarial detalhada (IA R$19,5k–R$27,1k; DevOps R$9-14k; backend pleno R$6-9k); concursos até R$26k; ROI de certificações; Finep/BNDES R$205M para IA nacional
+- Duplicata Mercado de TI Brasil.md movida para 07 - Arquivo/
+
+2026-05-18 (pesquisa diária — sessão vespertina): Complemento às 7 notas criadas pela sessão matutina de hoje em `03 - Pesquisa/`:
+- Claude API: Advisor Tool beta (`anthropic-beta: advisor-tool-2026-03-01`); Claude for Small Business (conectores QuickBooks/HubSpot/etc.); Rate limits dobrados confirmados; tabela de preços Opus 4.7 ($5/$25)
+- Claude Code: /goal supervisor architecture (segunda sessão valida antes de marcar Done); updatedToolOutput para todos os tools via PostToolUse; terminalSequence; MCP OAuth fix; OTEL isolation; plugin zip support; Routines (5/dia Pro)
+- IA: GPT-5.5 Instant padrão ChatGPT desde 05/mai; família GPT-Realtime (3 modelos de voz); Meta Muse Spark (Meta Superintelligence Labs); Google Android Show — Gemini Intelligence como camada de SO, Googlebook, Magic Pointer (DeepMind), Auto Browse (Chrome); Google I/O 2026 em 19-20/mai (Gemini 4 esperado)
+- Mercado TI Brasil: tabela salarial detalhada (dev pleno R$6-9k, IA R$19.5k+); certificações (+30-35% ROI); setores que mais contratam
+- Notas de Deploy, Economia, Programacao e Dev: sem alterações (sessão matutina já estava completa)
+
+2026-05-18 (pesquisa diária — sessão matutina): 7 notas criadas em `03 - Pesquisa/`:
+- Claude API: Files API beta, Skills beta, MCP Connector beta, Claude Platform no AWS, Billing Split 15/06/2026 (API separada de subscription), Managed Agents Dreaming + Multiagent Orchestration ($0,08/h), Opus 4.7 default Fast Mode
+- Claude Code: Agent View + novos flags `claude agents` (--add-dir, --settings, --mcp-config, --model, --effort); Rate limits 2× para todos os planos pagos
+- IA: DeepMind AI co-mathematician (48% FrontierMath Tier 4); Baidu ERNIE 5.1; Microsoft Work Trend Index 2026 (adoção bloqueada por cultura); Fundo Finep/BNDES R$205M para IA nacional
+- Deploy: Agentic Ops como nova fronteira DevOps; IDPs (Internal Developer Platforms); Amazon EKS Hybrid Nodes; fuga do Kubernetes SaaS; Agent Code Explosion no CI/CD
+- Programação: Python + TypeScript dominam; IA agêntica transformou dev de escritor para revisor/arquiteto; DevSecOps como padrão; Low-Code complementar; Green Software emergindo
+- Mercado TI Brasil: gap 106k profissionais/ano (53k formados vs 159k demanda); R$666bi investidos até 2026; 44% empresas expandindo equipes TI
+
+2026-05-17 (pesquisa diária): 7 notas criadas em `03 - Pesquisa/`:
+- Claude API: GPT-5.5 Instant como padrão ChatGPT; Agent View (Research Preview); Advisor Tool beta; Message Batches até 300k output tokens; rate limits dobrados; Opus 4.7 tokenizador +35% tokens
+- Claude Code e Claude.ai: PostToolUse com duration_ms; updatedToolOutput para todos os tools; terminalSequence para notificações; MCP paralelo; /goal, --plugin-url, /recap confirmados
+- Economia de Tokens: Semantic caching 70% redução (Redis LangCache); LLMLingua-2 <3s overhead; model routing 60-80% economia; combinado 50-80%; cache reads 0,1× base
+- Deploy e Infraestrutura: Vercel flow/step handler unificado + Node 26 sandbox; Fly.io com GPU + Kubernetes + object storage; padrão 2026 = Vercel+Railway+managed DB
+- Inteligência Artificial: GPT-5.5 Instant lançado; 3 modelos realtime áudio (GPT-Realtime-2/Translate/Whisper); Meta Muse Spark + agente "Hatch"; Google "Remy" + Project Mariner descontinuado (04/05)
+- Programação e Dev: TypeScript #1 GitHub; Node.js maior gap supply/demand; IA como infraestrutura padrão (Copilot, CodeWhisperer, Claude Code); WASM + Rust crescendo
+- Mercado TI Brasil: déficit 530k vagas; salário médio R$7.666; dev pleno R$6-9k; cibersegurança/dados/cloud R$8-15k; concursos TI até R$26k; certificações +30% no 1º ano
+
+2026-05-16 (pesquisa diária): 7 notas criadas em `03 - Pesquisa/`:
+- Claude API: Opus 4.7 (16/04), preços atuais, Managed Agents beta ($0.08/h), Compaction API (fev/2026)
+- Claude Code: hooks com duration_ms + terminalSequence, MCP 500K chars, subagentes em paralelo
+- Economia de Tokens: LLMLingua 20× compressão, semantic caching −70%, Compaction API, técnicas de 60-80% redução
+- Deploy e Infraestrutura: Railway vs Fly.io vs Vercel comparativo, IA gerando pipelines CI/CD, edge computing
+- Inteligência Artificial: GPT-5.4/5.3-Codex (OpenAI), Muse Spark (Meta), Gemini 3 Deep Think 45% ARC-AGI, agente Remy (Google)
+- Programação e Dev: TypeScript ultrapassou Python no GitHub (ago/2025), Rust mais admirada, WASM cresce
+- Mercado TI Brasil: déficit 530k vagas, salário médio R$7.666, concursos TI até R$26k, IA+cloud=cargos top
 
 2026-05-14 (pesquisa Claude Code): Lacunas da pesquisa de 13/05 respondidas.
 - Agent View: sem data GA anunciada; Research Preview desde 11/05/2026; UI pode mudar antes de GA

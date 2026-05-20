@@ -1,5 +1,5 @@
-# Segundo CÃ©rebro â€” Export para Claude.ai Projects
-> Gerado automaticamente em 2026-05-11 Ã s 13:23. NÃ£o edite â€” serÃ¡ sobrescrito.
+﻿# Segundo CÃ©rebro â€” Export para Claude.ai Projects
+> Gerado automaticamente em 2026-05-20 Ã s 10:06. NÃ£o edite â€” serÃ¡ sobrescrito.
 > Este arquivo deve ser carregado como Project Knowledge no claude.ai.
 
 ---
@@ -74,6 +74,80 @@
 
 ## Última Sessão
 
+2026-05-20 (pesquisa diária): 7 notas criadas/confirmadas em `03 - Pesquisa/`. Destaques:
+- Claude API: **Anthropic adquiriu a Stainless por ~$300M** (gerava SDKs oficiais de OpenAI, Google e Anthropic); Andrej Karpathy se juntou à Anthropic (pré-treinamento); MCP Tunnels (research preview) + Self-Hosted Sandboxes (public beta) lançados no evento Code with Claude London (19/05); Cache Diagnostics public beta (`cache_miss_reason`); Claude Platform on AWS
+- Claude Code: Flags de agente expandidas (--add-dir, --settings, --mcp-config, --plugin-dir, --permission-mode, --model, --effort); terminalSequence para notificações headless; MCP parallel reconnect ~2× mais rápido; OAuth fix para múltiplos servidores; WSL2 clipboard fix
+- Inteligência Artificial: **Google I/O 2026 (19-20/mai)** — Gemini 3.5 Flash (novo padrão, 4× mais rápido), Gemini Omni (multimodal/vídeo), Gemini Spark (agente pessoal autônomo), Android XR, CodeMender (rival do Mythos); OpenAI GPT-5.3-Codex; Meta modelos "Mango"+"Avocado" em desenvolvimento
+- Economia de Tokens: ArXiv papers novos sobre prompt caching (2601.06007 e 2602.22812); savings realistas 70-80% com combinação de técnicas
+- Deploy: Padrão 2026 consolidado = Vercel (frontend) + Railway/Fly.io (backend) + managed DB
+- Programação: TypeScript #1 GitHub 2025; dev como revisor/arquiteto; DevSecOps + Green Software como padrão
+- Mercado TI Brasil: 18,5% crescimento em 2025; US$67,8bi; 44% empresas expandindo; salário médio R$7.666
+
+2026-05-19 (pesquisa diária — sessão vespertina): Complemento às 7 notas criadas pela automação das 10h. Complementos adicionados:
+- Claude API: tabela de preços completa (Haiku $1/$5, Sonnet $3/$15, Opus $5/$25, Fast Mode $30/$150); tokenizador Opus 4.7 +35% tokens; Advisor Tool beta; histórico de lançamentos 4.x
+- Claude Code: PostToolUse duration_ms; updatedToolOutput para todos os tools; terminalSequence para notificações headless; MCP paralelo (2× mais rápido); tabela de promoção de limites (+50% até 13/jul/2026)
+- Inteligência Artificial: Google I/O 2026 acontece HOJE (19/mai, 14h BRT); Gemini 4 benchmark 84,6% ARC-AGI2; Android XR glasses; GPT-5.5 Instant como padrão ChatGPT; Project Mariner descontinuado
+- Mercado TI Brasil: tabela salarial detalhada (IA R$19,5k–R$27,1k; DevOps R$9-14k; backend pleno R$6-9k); concursos até R$26k; ROI de certificações; Finep/BNDES R$205M para IA nacional
+- Duplicata Mercado de TI Brasil.md movida para 07 - Arquivo/
+
+2026-05-18 (pesquisa diária — sessão vespertina): Complemento às 7 notas criadas pela sessão matutina de hoje em `03 - Pesquisa/`:
+- Claude API: Advisor Tool beta (`anthropic-beta: advisor-tool-2026-03-01`); Claude for Small Business (conectores QuickBooks/HubSpot/etc.); Rate limits dobrados confirmados; tabela de preços Opus 4.7 ($5/$25)
+- Claude Code: /goal supervisor architecture (segunda sessão valida antes de marcar Done); updatedToolOutput para todos os tools via PostToolUse; terminalSequence; MCP OAuth fix; OTEL isolation; plugin zip support; Routines (5/dia Pro)
+- IA: GPT-5.5 Instant padrão ChatGPT desde 05/mai; família GPT-Realtime (3 modelos de voz); Meta Muse Spark (Meta Superintelligence Labs); Google Android Show — Gemini Intelligence como camada de SO, Googlebook, Magic Pointer (DeepMind), Auto Browse (Chrome); Google I/O 2026 em 19-20/mai (Gemini 4 esperado)
+- Mercado TI Brasil: tabela salarial detalhada (dev pleno R$6-9k, IA R$19.5k+); certificações (+30-35% ROI); setores que mais contratam
+- Notas de Deploy, Economia, Programacao e Dev: sem alterações (sessão matutina já estava completa)
+
+2026-05-18 (pesquisa diária — sessão matutina): 7 notas criadas em `03 - Pesquisa/`:
+- Claude API: Files API beta, Skills beta, MCP Connector beta, Claude Platform no AWS, Billing Split 15/06/2026 (API separada de subscription), Managed Agents Dreaming + Multiagent Orchestration ($0,08/h), Opus 4.7 default Fast Mode
+- Claude Code: Agent View + novos flags `claude agents` (--add-dir, --settings, --mcp-config, --model, --effort); Rate limits 2× para todos os planos pagos
+- IA: DeepMind AI co-mathematician (48% FrontierMath Tier 4); Baidu ERNIE 5.1; Microsoft Work Trend Index 2026 (adoção bloqueada por cultura); Fundo Finep/BNDES R$205M para IA nacional
+- Deploy: Agentic Ops como nova fronteira DevOps; IDPs (Internal Developer Platforms); Amazon EKS Hybrid Nodes; fuga do Kubernetes SaaS; Agent Code Explosion no CI/CD
+- Programação: Python + TypeScript dominam; IA agêntica transformou dev de escritor para revisor/arquiteto; DevSecOps como padrão; Low-Code complementar; Green Software emergindo
+- Mercado TI Brasil: gap 106k profissionais/ano (53k formados vs 159k demanda); R$666bi investidos até 2026; 44% empresas expandindo equipes TI
+
+2026-05-17 (pesquisa diária): 7 notas criadas em `03 - Pesquisa/`:
+- Claude API: GPT-5.5 Instant como padrão ChatGPT; Agent View (Research Preview); Advisor Tool beta; Message Batches até 300k output tokens; rate limits dobrados; Opus 4.7 tokenizador +35% tokens
+- Claude Code e Claude.ai: PostToolUse com duration_ms; updatedToolOutput para todos os tools; terminalSequence para notificações; MCP paralelo; /goal, --plugin-url, /recap confirmados
+- Economia de Tokens: Semantic caching 70% redução (Redis LangCache); LLMLingua-2 <3s overhead; model routing 60-80% economia; combinado 50-80%; cache reads 0,1× base
+- Deploy e Infraestrutura: Vercel flow/step handler unificado + Node 26 sandbox; Fly.io com GPU + Kubernetes + object storage; padrão 2026 = Vercel+Railway+managed DB
+- Inteligência Artificial: GPT-5.5 Instant lançado; 3 modelos realtime áudio (GPT-Realtime-2/Translate/Whisper); Meta Muse Spark + agente "Hatch"; Google "Remy" + Project Mariner descontinuado (04/05)
+- Programação e Dev: TypeScript #1 GitHub; Node.js maior gap supply/demand; IA como infraestrutura padrão (Copilot, CodeWhisperer, Claude Code); WASM + Rust crescendo
+- Mercado TI Brasil: déficit 530k vagas; salário médio R$7.666; dev pleno R$6-9k; cibersegurança/dados/cloud R$8-15k; concursos TI até R$26k; certificações +30% no 1º ano
+
+2026-05-16 (pesquisa diária): 7 notas criadas em `03 - Pesquisa/`:
+- Claude API: Opus 4.7 (16/04), preços atuais, Managed Agents beta ($0.08/h), Compaction API (fev/2026)
+- Claude Code: hooks com duration_ms + terminalSequence, MCP 500K chars, subagentes em paralelo
+- Economia de Tokens: LLMLingua 20× compressão, semantic caching −70%, Compaction API, técnicas de 60-80% redução
+- Deploy e Infraestrutura: Railway vs Fly.io vs Vercel comparativo, IA gerando pipelines CI/CD, edge computing
+- Inteligência Artificial: GPT-5.4/5.3-Codex (OpenAI), Muse Spark (Meta), Gemini 3 Deep Think 45% ARC-AGI, agente Remy (Google)
+- Programação e Dev: TypeScript ultrapassou Python no GitHub (ago/2025), Rust mais admirada, WASM cresce
+- Mercado TI Brasil: déficit 530k vagas, salário médio R$7.666, concursos TI até R$26k, IA+cloud=cargos top
+
+2026-05-14 (pesquisa Claude Code): Lacunas da pesquisa de 13/05 respondidas.
+- Agent View: sem data GA anunciada; Research Preview desde 11/05/2026; UI pode mudar antes de GA
+- /goal: sem timeout fixo — controle declarativo ("ou parar após N turnos"); subagentes travam após 10min de idle
+- Hooks: ~27-28 eventos documentados (não 25); Agent Teams adiciona TaskCreated/TeammateIdle/TaskCompleted; skills podem ter hooks locais no frontmatter YAML (escopo = lifetime da skill)
+- Multi-agent billing: sem billing separado; cada subagente tem contexto independente; custo ~3-4x de sessão sequencial; exemplos reais: $8k–$47k em execuções sem supervisão
+- Novos recursos semana 12-14/05: /goal, --plugin-url, /recap, claude project purge, skills folder protection expandida
+- Routines (abr/2026): automações cloud-managed com schedule/API/GitHub triggers; limite Pro=5/dia
+- Desktop redesign (abr/2026): sidebar multi-sessão, terminal integrado, side chat isolado
+
+2026-05-12 (sistema-chamados): Integração completa do projeto no vault.
+- `_Claude/projetos/sistema-chamados/_CONTEXTO.md` reescrito com estado atual completo
+- `_Claude/projetos/sistema-chamados/_DECISOES.md` com todas as decisões de 2026-05-11 e 2026-05-12
+- `01 - Projetos/Projeto - Sistema Chamados.md` criado (template padrão)
+- `01 - Projetos/_MOC - Projetos.md` atualizado com wikilink do projeto
+
+2026-05-11 (sistema-chamados — sessão de desenvolvimento):
+- **Push mobile**: is_mobile flag, pushsubscriptionchange com oldEndpoint, reconexão em focus/online
+- **Alertas de prazo**: janela 10min adicionada, prazo_alertas reset ao reabrir/atualizar prazo
+- **Filtro admin**: filtro por ID client-side com debounce; removidos filtros de prioridade e data
+- **Histórico por usuário**: modal z-3000 + popup chamado z-3100 sem navegar de tela
+- **iOS PWA**: manifest.json + apple meta tags; banner de instalação para usuários iOS browser
+- **Bug fix chat**: clearInterval ao abrir modal evita chat compartilhado entre chamados
+- **setor_origem**: toner entrada rastreia setor de origem da redistribuição
+- **Badge #ID**: visível em todos os portais (admin, mobile, usuário)
+
 2026-05-11 (upgrade autonomia): Loop autônomo completo instalado.
 - **6 skills novas**: nota-permanente, conectar-notas, buscar-vault, sintetizar-moc, processar-inbox-pesquisa, revisao-mensal
 - **3 sub-agentes**: curador, conector, historiador (em `.claude/agents/`)
@@ -103,15 +177,21 @@ Sistema de memória autônoma ativo: hooks SessionStart (injeta hot cache) + Pos
 
 ## Projetos Ativos
 
-- **sistema-chamados** — sistema de suporte TI do Hotel Gran Marquise. Stack: Node.js + Express + SQLite + JWT. Deploy automático via Railway + GitHub Actions.
+- **sistema-chamados** — sistema de suporte TI do Hotel Gran Marquise. Stack: Node.js + Express + SQLite + JWT + Web Push. Deploy automático via Railway + GitHub Actions. Em produção e ativo. Nota: `01 - Projetos/Projeto - Sistema Chamados.md`.
 
 ## Decisões Recentes
 
-*(nenhuma ainda)*
+2026-05-14 (pesquisa economia de tokens):
+- Confirmado: Opus 4.7 input = $5/MTok (não $15 — esse valor é do Opus 4.1 legado)
+- Compaction API suporta: Opus 4.7, Opus 4.6, Sonnet 4.6, Mythos Preview. Haiku não.
+- LLMLingua inviável para tempo real com APIs comerciais (overhead 21s original, <3s LLMLingua-2)
+- Semantic caching dinâmico: confidence = 70% similaridade + 30% frescor
 
 ## Padrões Aprendidos
 
-*(nenhum ainda)*
+- Preços Claude: Opus 4.x ($5 input) é a família moderna. Opus 4.1 e anteriores ($15 input) são legado.
+- Tokenizador Opus 4.7: até 35% mais tokens que modelos anteriores para o mesmo texto.
+- Fast Mode Opus 4.7 disponível: 2,5× tokens/s de output, mas 6× o preço padrão ($30 input/$150 output)
 
 ---
 
@@ -208,7 +288,7 @@ Antes de criar/editar `.md`, `.base` ou `.canvas`, o Claude Code DEVE consultar 
 
 ## O que é
 
-Sistema interno de suporte TI do Hotel Gran Marquise (Fortaleza-CE). Usuários abrem chamados pelo portal; admins gerenciam pelo painel.
+Sistema interno de suporte TI do Hotel Gran Marquise (Fortaleza-CE). Usuários do hotel abrem chamados pelo portal web; admins de TI gerenciam tudo pelo painel administrativo. Existe também um app mobile (PWA) para técnicos em campo.
 
 ## URLs
 
@@ -221,32 +301,102 @@ Sistema interno de suporte TI do Hotel Gran Marquise (Fortaleza-CE). Usuários a
 - Node.js + Express + better-sqlite3 + JWT
 - Sem framework frontend — HTML/CSS/JS puro com fetch API
 - SQLite em `data/chamados.db`
-- Deploy: Railway via GitHub Actions
+- Web Push Notifications (VAPID via `web-push`) com Service Worker
+- Deploy: Railway via GitHub Actions (push em main → deploy automático)
 
-## Estrutura
+## Estrutura de arquivos
 
 ```
+server.js                      — entry point, monta rotas, checarPrazos (a cada 2min)
 src/
-  server.js        — entry point
-  db.js            — todas as queries SQLite
-  auth.js          — middleware JWT
+  db.js                        — todas as queries SQLite + migrations inline
+  auth.js                      — middleware JWT (requireAdmin, requireMaster)
+  push.js                      — envio de push notifications (enviarParaAdmin, enviarParaTodos)
   rotas/
-    admins.js      — rotas /api/admin/*
-    chamados.js    — abertura pública de chamados
-    estoque.js     — estoque + movimentações
+    admins.js                  — /api/admin/* (login, usuários, push, etc.)
+    chamados.js                — abertura pública de chamados
+    usuarios.js                — portal do usuário comum
+    relatorios.js              — exportação de relatórios
+    itens.js                   — suprimentos e toneres
+    inventario.js              — inventário de equipamentos
+    estoque.js                 — estoque + movimentações (setor_origem incluído)
 public/
-  admin-painel.js  — painel principal
-  admin-itens.js   — estoque/suprimentos
-  mobile.js        — app mobile para técnicos
-  css/style.css    — estilos únicos
+  admin-painel.html + js/      — painel principal de chamados
+  admin-usuarios.html + js/    — gerenciamento de admins e usuários do portal
+  admin-relatorios.html        — relatórios e gráficos
+  admin-itens.html + js/       — gerenciamento de suprimentos/toneres
+  admin-estoque.html + js/     — estoque completo
+  admin-inventario.html + js/  — inventário
+  admin-login.html + js/       — login admin (por e-mail)
+  index.html + js/usuario.js   — portal do usuário comum
+  mobile.html + js/mobile.js   — app mobile PWA para técnicos
+  manifest.json                — PWA manifest (iOS home screen)
+  sw.js                        — Service Worker (push + pushsubscriptionchange)
+  css/style.css                — único arquivo de estilos
 ```
 
-## Funcionalidades Principais
+## Regras de negócio importantes
 
-- Chamados: abrir, assumir, concluir, prazo automático para impressora (2 dias úteis)
-- Estoque: toneres (por cor), periféricos, suprimentos, nobreaks (novo/usado)
-- Wizard mobile: perguntas de movimentação ao concluir chamado
-- Prazo: pula fins de semana + feriados Fortaleza/CE/nacionais
+- **Domínio obrigatório**: `@granmarquise.com.br` para admins e usuários
+- **Hierarquia**: `is_master = 1` tem acesso total; admin comum só gerencia chamados
+- **Status dos chamados**: `aberto → em_andamento → concluido` ou `encerrado`; reabrir volta para `aberto`
+- **Timezone**: America/Fortaleza (UTC-3) em todas as exibições; prazos armazenados em UTC
+- **Prazo impressora**: 2 dias úteis, pula fins de semana + feriados Fortaleza (nacionais + CE + municipais)
+- **Push subscriptions**: `is_mobile` flag distingue app mobile (técnico) de desktop (admin)
+
+## Funcionalidades principais
+
+### Chamados
+- Usuários comuns abrem chamados com nome, setor, tipo, descrição e arquivos
+- Admins assumem, adicionam anotações, definem prazo, concluem ou encerram
+- Chat interno por chamado (admin ↔ usuário, atualização por polling)
+- Reabrir chamado zera alertas de prazo (`DELETE FROM prazo_alertas`)
+- Filtro por ID (client-side, debounce 150ms) no painel do admin
+
+### Prazo e Alertas
+- Alertas automáticos via push em 3 janelas: <10min, 10-60min, 1-24h
+- `checarPrazos()` roda a cada 2 minutos no servidor
+- `prazo_alertas (chamado_id, tipo)` evita duplicatas; resetado ao atualizar/reabrir
+- Admin responsável recebe alerta individual; sem responsável → todos os admins
+
+### Estoque / Toneres
+- Movimentações rastreadas com `setor_origem` (toner vindo de algum setor)
+- Cálculo de saldo via UNION ALL (saídas positivas + entradas negativas)
+- Wizard mobile ao concluir chamado pergunta sobre movimentação de equipamentos
+
+### Notificações Push
+- VAPID keys geradas em `push.js`; chave pública exposta em `/api/admin/push/vapid-public-key`
+- `pushsubscriptionchange` no SW re-inscreve automaticamente e avisa backend via `/push/resubscribe`
+- Subscriptions com `is_mobile=1` recebem URL `/mobile`; demais recebem URL do admin
+- Só deleta subscription em erro 404/410 (não 401/403)
+- Reconecta automaticamente em `focus` e `online` events
+
+### App Mobile (PWA)
+- URL: `/mobile`
+- Instalável no iOS via "Adicionar à Tela de Início" (manifest.json + apple meta tags)
+- Push só funciona no iOS quando instalado como PWA (não no Safari browser)
+- Detecta iOS + standalone: se browser → mostra banner de instalação
+
+### Portal do Usuário
+- Usuários veem seus chamados com badge `#ID`
+- Não tem acesso ao chat ou dados internos
+
+### Gerenciamento de Usuários (admin-usuarios)
+- Botões de ação como ícones SVG em toolbar agrupada
+- Histórico de chamados por usuário (modal z-index 3000)
+- Clicar no ID do chamado no histórico abre popup do chamado (z-index 3100)
+- Senha visível ao editar (campo `type="text"` + botão olho)
+
+## Deploy automático
+
+Hook Stop em `ClaudeCode/.claude/settings.json` faz commit+push automático após cada sessão. GitHub Actions executa `railway up` automaticamente.
+
+## Padrões de código
+
+- CSS em variáveis: `--gold`, `--navy`, `--border`
+- `sanitizarTexto()` em todos os inputs de texto antes de salvar
+- Migrations inline no `initDb()` com try/catch (`ALTER TABLE ... ADD COLUMN`)
+- Rotas admin exigem cookie JWT via `requireAdmin` ou `requireMaster`
 
 ---
 
@@ -286,405 +436,400 @@ Obsidian é o frontend (markdown local, navegação, graph view) e Claude Code �
 
 ...[truncado]
 
-### Pesquisa - 2026-05-08 - Seguranca da Informacao
+### Pesquisa - 2026-05-20 - Programacao e Dev
 
-# Pesquisa — Segurança da Informação (Maio 2026)
+# Programação e Dev — Novidades de 2026-05-20
 
-## Ameaças Mais Relevantes de 2026
+## Ranking de Linguagens em 2026
 
-**Ransomware-as-a-Service (RaaS)** continua sendo a principal ameaça corporativa. Grupos como LockBit (reformulado após operação policial de 2024) e novos players vendem kits prontos para atacantes sem conhecimento técnico. O Brasil é o 3º país mais atacado da América Latina.
+### Top linguagens por adoção/demanda
 
-**Ataques a cadeias de suprimentos (supply chain)**: comprometer uma biblioteca ou dependência npm/pip amplifica o impacto para milhares de projetos simultaneamente. O ataque ao `xz-utils` (2024) demonstrou que até projetos com décadas de história são vulneráveis.
+1. **TypeScript** — #1 no GitHub desde ago/2025 (ultrapassou Python e JavaScript)
+   - Usado em: frontend (React, Next.js), backend (Node.js), tooling
+   - Razão do domínio: type safety, DX superior, adoção massiva por grandes projetos
+   
+2. **Python** — dominante em IA/ML
+   - Alimenta >80% dos projetos de ML e IA atualmente
+   - Core skill para: cientistas de dados, engenheiros de IA, backend
+   - Cresce junto com o boom de IA
+   
+3. **JavaScript** — essencial para web
+   - Continua indispensável para frameworks React e Vue.js
+   - Runtime cada vez mais: Node.js, Deno, Bun
 
-**IA usada como arma**: phishing gerado por LLMs é indistinguível de comunicação humana. Deepfakes de voz para engenharia social em tempo real (chamadas fraudulentas) cresceram 300% em 2025.
+4. **Rust** — segurança + performance
+   - Mais admirada por desenvolvedores (pesquisas Stack Overflow consecutivas)
+   - Cresce em: WebAssembly, sistemas embarcados, CLI tools, infraestrutura
+   - Adotado por: Linux kernel, Windows, Android, ferramentas de build (Rolldown, Oxc)
 
-## Vulnerabilidades Recentes Notáveis
+5. **Go** — microserviços
+   - Simplicidade e eficiência em arquiteturas distribuídas
+   - Forte em: backends de alta carga, CLIs, ferramentas DevOps
+   - Kubernetes e grande parte da infra cloud escrita em Go
 
-| CVE | Sistema | Impacto |
-|-----|---------|---------|
-| CVE-2026-0234 | OpenSSH (< 9.8) | RCE remoto sem autenticação |
-| CVE-2026-1101 | Windows NTLM | Relay attack facilitado |
-| CVE-2026-2891 | Apache Struts | Injeção de template |
+### Linguagens com momentum específico
+- **WASM (WebAssembly)**: crescendo como target de compilação para Rust/C++ no browser
+- **Kotlin**: domina Android, avança em backend (Kotlin Multiplatform)
+- **Swift**: iOS/macOS, avança em server-side
 
-*Manter sistemas atualizados e monitorar CVEs críticos via [nvd.nist.gov](https://nvd.nist.gov) é prática essencial*
+## Frameworks Mais Demandados
 
-## Tendências em Cibersegurança
-
-**Zero Trust Architecture** deixou de ser conceito e virou exigência para empresas que querem seguro cibernético. Modelo: nunca confiar, sempre verificar — mesmo tráfego interno.
-
-**SIEM + SOAR integrados com IA**: ferramentas como Microsoft Sentinel e Splunk SOAR usam ML para correlacionar eventos e automatizar resposta a incidentes, reduzindo tempo médio de contenção (MTTC).
-
-**DevSecOps consolidado**: segurança integrada ao pipeline de CI/CD desde o início — SAST (análise estática), DAST (análise dinâmica) e SCA (análise de composição de software) em cada build. Ferramentas: Snyk, Semgrep, Trivy.
-
-**Regulação crescente no Brasil**: a LGPD ganhou dentes em 2025 com multas aplicadas efetivamente pela ANPD. Empresas investindo em DPO (Data Protection Officer) e mapeamento de dados.
-
-## Certificações Valorizadas no Mercado
-
-1. **CompTIA Security+** — porta de entrada, reconhecida globalmente
-2. **CEH (Certified Ethical Hacker)** — testes de invasão
-3. **CISSP** — nível senior, gestão de segurança
-4. **AWS Security Specialty** — cloud security
-5. **OSCP (Offensive Security)** — hands-on, valorizado em Red Team
-
-## Práticas Essenciais para Devs
-
-...[truncado]
-
-### Pesquisa - 2026-05-08 - Programacao e Desenvolvimento
-
-# Pesquisa — Programação e Desenvolvimento (Maio 2026)
-
-## Linguagens em Alta
-
-**TypeScript** continua dominante no desenvolvimento web fullstack — Node.js sem TypeScript tornou-se minoria em novos projetos. O ecossistema Bun (runtime alternativo ao Node) ganhou adoção significativa pela velocidade de startup e compatibilidade nativa com TypeScript sem transpilação.
-
-**Rust** avançou no backend, substituindo C++ em sistemas críticos, com adoção crescente no kernel Linux e no ecossistema WASM (WebAssembly). Para desenvolvedores web que querem performance, Rust + WASM virou alternativa séria ao JavaScript pesado.
-
-**Python** mantém liderança absoluta em IA/ML e scripts de automação. O Python 3.13 trouxe melhorias no GIL (Global Interpreter Lock) que abriram espaço para mais paralelismo real.
-
-**Go** consolidou como língua franca de infraestrutura e CLIs — Docker, Kubernetes, Terraform e a maioria das ferramentas DevOps são escritas em Go.
-
-## Frameworks e Ferramentas
-
-| Categoria | Destaque 2026 |
-|-----------|--------------|
-| Frontend | Next.js 15, Astro 5 (SSG/SSR híbrido), SolidJS |
-| Backend | Hono (ultra-leve, edge-first), Fastify, NestJS |
-| Mobile | React Native com Expo SDK 53, Flutter 4 |
-| ORM/DB | Drizzle ORM (TypeScript nativo), Prisma 6 |
-| Runtime | Bun 1.x (Node drop-in replacement) |
-| Testes | Vitest (substitui Jest em projetos Vite), Playwright |
-
-## Boas Práticas que Emergiram
-
-**Edge computing como padrão**: funções próximas ao usuário (Cloudflare Workers, Vercel Edge, AWS Lambda@Edge) para latência <10ms global. Aplicações que antes precisavam de servidor dedicado agora rodam sem gerenciar infraestrutura.
-
-**Monorepos com Turborepo/Nx**: projetos médios/grandes abandonaram multi-repo para facilitar refactoring compartilhado e CI/CD unificado.
-
-**Feature flags nativas**: ferramentas como Unleash e OpenFeature viraram padrão para releases graduais sem deploy, substituindo variáveis de ambiente hacky.
-
-**IA no toolchain**: Copilot, Cursor e Claude Code integrados ao workflow — estima-se que 70%+ dos devs senior usam IA para geração de código, testes e revisão.
-
-## SQLite em Produção
-
-Uma mudança notável: **SQLite ganhou credibilidade em produção** para aplicações de pequeno/médio porte. Ferramentas como Turso (SQLite distribuído) e libSQL permitiram escalar SQLite sem abrir mão de simplicidade. O padrão "SQLite para MVP, PostgreSQL quando necessário" virou mainstream.
-
-## Conexões
-
-- [[projetos/sistema-chamados/_CONTEXTO]] — Node.js + SQLite em produção, exatamente este padrão
+| Framework | Ecosistema | Demanda |
+|-----------|-----------|---------|
+| React | JavaScript/TypeScript | Mais demandado UI |
+| Next.js | React/TypeScript | Full-stack web padrão |
 
 ...[truncado]
 
-### Pesquisa - 2026-05-08 - Mercado TI Brasil
+### Pesquisa - 2026-05-20 - Mercado TI Brasil
 
-# Pesquisa — Mercado de TI Brasil (Maio 2026)
+# Mercado TI Brasil — Novidades de 2026-05-20
 
 ## Panorama Geral
 
-O mercado de TI brasileiro movimentou **R$ 280 bilhões em 2025** e projeta crescimento de 12% para 2026, segundo a ABES (Associação Brasileira das Empresas de Software). O Brasil está entre os 10 maiores mercados de TI do mundo e é o líder absoluto na América Latina.
+O setor de TI no Brasil teve crescimento de **18,5% em 2025**, superando a média global de 14,1% e atingindo **US$ 67,8 bilhões** em faturamento. Para 2026, a trajetória de expansão continua.
 
-A demanda por profissionais de tecnologia continua aquecida apesar da automação via IA — o que mudou é o **perfil da vaga**: menos código repetitivo, mais capacidade de arquitetar soluções, integrar sistemas e usar ferramentas de IA de forma produtiva.
+- **44%** das empresas planejam ampliar equipes de TI em 2026
+- Modalidades variadas: CLT, PJ, remoto, híbrido
+- Objetivo principal das contratações: fortalecer infraestrutura tecnológica e preparar sistemas para IA
 
-## Salários (CLT, mercado nacional, maio 2026)
+## Tabela Salarial (2026)
 
-| Cargo | Júnior | Pleno | Sênior |
-|-------|--------|-------|--------|
-| Desenvolvedor Web (Node/React) | R$ 3.500–5.000 | R$ 6.000–9.000 | R$ 12.000–18.000 |
-| Desenvolvedor Fullstack | R$ 4.000–6.000 | R$ 7.000–11.000 | R$ 14.000–22.000 |
-| Engenheiro de Dados | R$ 5.000–7.000 | R$ 9.000–14.000 | R$ 16.000–25.000 |
-| DevOps/SRE | R$ 5.000–8.000 | R$ 10.000–15.000 | R$ 18.000–30.000 |
-| Segurança da Informação | R$ 4.500–7.000 | R$ 9.000–14.000 | R$ 15.000–25.000 |
-| Suporte TI (N1/N2) | R$ 1.800–3.000 | R$ 3.500–5.500 | R$ 5.500–8.000 |
+| Cargo / Área | Júnior | Pleno | Sênior |
+|-------------|--------|-------|--------|
+| Desenvolvedor Backend (geral) | R$ 3-5k | R$ 6-9k | R$ 12-18k |
+| Desenvolvedor Frontend | R$ 3-4k | R$ 5-8k | R$ 10-15k |
+| Engenheiro DevOps/Cloud | R$ 5-7k | R$ 9-14k | R$ 15-22k |
+| Especialista em IA/ML | R$ 8-12k | R$ 19,5-27k | R$ 25k+ |
+| Cibersegurança | R$ 5-8k | R$ 8-15k | R$ 18-28k |
+| Engenheiro de Dados | R$ 5-8k | R$ 8-15k | R$ 18-25k |
+| Arquiteto de Nuvem | R$ — | R$ 12-18k | R$ 20-35k |
 
-*PJ multiplica por 1.3–1.6x dependendo do regime*
+**Salário médio geral TI**: R$ 7.666/mês (Glassdoor, dados jan-mai 2026)
 
-## Vagas em Alta
+### Concursos públicos TI
+- Salários de até **R$ 26.000** em concursos TI federais
+- Alta competição mas estabilidade e benefícios atrativos
 
-As habilidades mais demandadas em portais como LinkedIn, Gupy e Vagas.com em 2026:
+## Áreas em Alta / Hot Skills
 
-1. **Engenharia de Dados** — pipelines, dbt, Spark, Snowflake/BigQuery
-2. **Especialistas em IA/ML** — não cientistas de dados puros, mas engenheiros que colocam modelos em produção (MLOps)
-3. **Cloud Engineers** — AWS Solutions Architect e Azure Administrator são as certificações mais pedidas
-4. **Segurança Ofensiva/Defensiva** — Red Team e SOC analistas escassos
-5. **Devs com habilidades de IA** — não basta codar: saber prompt engineering, usar Copilot/Claude com eficiência e integrar LLMs é diferencial
+### Áreas com maior demanda 2026
+1. **Inteligência Artificial / Machine Learning** — maior crescimento salarial
+2. **Cibersegurança** — déficit crítico de profissionais
+3. **Engenharia de Dados** — BigData, pipelines, ETL
+4. **Arquitetura de Nuvem** — AWS, Azure, GCP
+5. **DevOps / SRE** — automação de infraestrutura
 
-## Tendências de Carreira
-
-**Remote-first consolidado**: ~60% das vagas de TI no Brasil são remotas ou híbridas. Profissionais do Nordeste (incluindo Fortaleza-CE) têm acesso às mesmas oportunidades de São Paulo sem precisar migrar.
-
-**Carreiras em alta que não são dev**: Product Manager técnico, Arquiteto de Soluções Cloud, Especialista em IA/Automação, Analista de Segurança.
-
-**Bootcamps vs. Graduação**: o mercado aceitou devs sem diploma — o que importa é portfólio e habilidade demonstrável. Cursos como Rocketseat, Alura, Full Cycle e DIO têm boa reputação.
-
-## Fortaleza-CE: Polo Regional
-
-...[truncado]
-
-### Pesquisa - 2026-05-08 - Inteligencia Artificial
-
-# Pesquisa — Inteligência Artificial (Maio 2026)
-
-## Panorama Atual dos Modelos
-
-A disputa entre os grandes labs de IA continua em ritmo acelerado em 2026. A família **Claude 4** da Anthropic (Opus 4.7, Sonnet 4.6, Haiku 4.5) estabeleceu novos benchmarks em raciocínio longo e uso de ferramentas (*tool use*), consolidando o modelo como referência para agentes autônomos em produção. O **GPT-4.5** da OpenAI e o **Gemini 2.0 Pro** do Google seguem como principais concorrentes, cada um com vantagens em domínios específicos — o Gemini mantém liderança em contextos multimodais longos (até 2M tokens).
-
-O movimento mais relevante do trimestre foi a corrida pelos **modelos de raciocínio extendido** (*extended thinking*): Claude, o1-Pro e Gemini Thinking passaram a oferecer cadeia de raciocínio visível ao usuário, permitindo auditoria do processo antes da resposta final.
-
-## Agentes Autônomos e MCP
-
-O protocolo **MCP (Model Context Protocol)**, lançado pela Anthropic, virou padrão de facto para integração de ferramentas em agentes LLM. Ferramentas como Cursor, Zed, Windsurf e o próprio Claude Code o adotaram, criando um ecossistema de servidores MCP para Figma, GitHub, bancos de dados, calendários e mais. A ideia central — separar "o que o modelo faz" de "quais ferramentas ele acessa" — reduziu drasticamente o custo de criar agentes especializados.
-
-**Claude Code** (CLI + IDE) tornou-se a ferramenta padrão para desenvolvimento assistido por IA com acesso total ao sistema de arquivos, terminal e web. Permite loops autônomos (`/loop`), hooks em eventos do ciclo de vida e memória persistente por projeto.
-
-## Papers Relevantes (Q1-Q2 2026)
-
-- **"Scaling Laws for Agent Efficiency"** (DeepMind): demonstra que agentes pequenos bem instruídos superam modelos grandes com prompts genéricos em tarefas estruturadas.
-- **"RAG vs Fine-tuning in 2026"**: RAG (Retrieval-Augmented Generation) venceu o debate para bases de conhecimento mutáveis; fine-tuning permanece relevante apenas para mudanças profundas de estilo/domínio.
-- **"Constitutional AI v2"** (Anthropic): evolução do RLHF com feedback sintético estruturado, reduzindo custo de alinhamento em 60%.
-
-## Ferramentas Lançadas Recentemente
-
-| Ferramenta | Empresa | Destaque |
-|-----------|---------|----------|
-| Claude Code Desktop | Anthropic | App nativo Win/Mac com hooks e memória |
-| Cursor 1.0 | Anysphere | Editor com agent mode nativo |
-| Windsurf 2.0 | Codeium | Cascades (multi-step agent) |
-| Perplexity Pro | Perplexity AI | Pesquisa com fontes verificadas em tempo real |
-| Runway Gen-3 Alpha | Runway | Vídeo IA de 10s com consistência temporal |
-
-## Tendências para Monitorar
-
-1. **Modelos locais crescendo**: Llama 3.3, Mistral Large e Gemma 3 rodam em hardware consumer com qualidade próxima ao GPT-4 de 2023.
-2. **IA em produção real**: empresas migraram de POCs para sistemas em produção, exigindo observabilidade, fallbacks e custos controlados.
-3. **Regulação**: EU AI Act em vigor parcial; empresas ajustando logging e explicabilidade.
-
-## Conexões
-
-- [[_Claude/_GLOBAL]] — preferências e padrões de uso de IA neste vault
-- [[projetos/sistema-chamados/_CONTEXTO]] — uso de IA para classificação de chamados
+### Tecnologias que mais valorizam o salário
+- Segurança da informação e gestão de riscos
+- Cloud computing (certificações AWS/Azure/GCP)
 
 ...[truncado]
 
-### Pesquisa - 2026-05-08 - Economia de Tokens Claude
+### Pesquisa - 2026-05-20 - Inteligencia Artificial
 
-# Pesquisa — Economia de Tokens no Claude (Maio 2026)
+# Inteligência Artificial — Novidades de 2026-05-20
 
-## Por Que Tokens Importam
+## Google I/O 2026 — Era Agêntica Declarada
 
-Tokens são a unidade de custo e contexto do Claude. 1 token ≈ 4 caracteres em inglês, ≈ 3 caracteres em português. Cada chamada consome tokens de **entrada** (prompt + contexto) e **saída** (resposta gerada). A janela de contexto do Claude Sonnet 4.6 é de 200K tokens; Haiku 4.5 também 200K.
+O Google I/O 2026 aconteceu nos dias **19-20 de maio** e foi marcado pela declaração: **"Chegamos à era dos agentes autônomos"**. O Google posicionou agentes capazes de resolver tarefas longas e complexas como o novo padrão.
 
-Economizar tokens = menos custo + sessões mais longas sem compactação.
+### Gemini 3.5 Flash — Novo Modelo Padrão
+- **Novo padrão** no app Gemini e no Modo de IA da Busca Google (a partir de 19/05)
+- **4× mais rápido** que outros modelos de fronteira comparáveis
+- Supera o Gemini 3.1 Pro em benchmarks de: código, raciocínio multimodal, tarefas agênticas
+- Otimizado para velocidade, multimodalidade e execução autônoma de tarefas
 
-## Estratégias para Claude.ai (Chat)
+### Gemini Omni
+- Gera "qualquer coisa a partir de qualquer prompt" — qualquer modalidade
+- Especialidade: geração de vídeo de alta fidelidade em tempo real
+- Combina expertises de todos os modelos Gemini anteriores
+- Posicionado como resposta ao GPT-5 da OpenAI na geração multimodal
 
-### 1. Seja cirúrgico no prompt
-Evite contexto desnecessário. Em vez de copiar 500 linhas de código, cole só a função relevante. Em vez de "Como eu faria para...", diga direto o que quer.
+### Gemini Spark — Agente Pessoal
+- IA de propósito geral que **executa tarefas sozinha** (não apenas responde perguntas)
+- Raciocina sobre informações em **aplicações conectadas** do usuário
+- Objetivo: gerenciar a vida digital do usuário tomando ações em seu nome
+- Comparable ao Project Mariner mas como agente pessoal integrado ao ecossistema Google
 
-### 2. Use Projetos com Knowledge
-Coloque documentação fixa (CLAUDE.md, contexto do projeto) no **Project Knowledge** do claude.ai. Ele é armazenado fora do contexto ativo e injetado com custo reduzido — sem gastar tokens re-explicando a cada conversa.
+### Google Search — Inteligência Agêntica
+Novidades na busca do Google com IA:
+- **Agentes de informação**: rastreiam temas e resumem atualizações de blogs, notícias e redes sociais
+- **Interface generativa**: cria tabelas, gráficos e simulações diretamente na SERP
+- **Mini-apps**: gerados on-the-fly para tarefas recorrentes do usuário
 
-### 3. Não repita o que o Claude já sabe
-Se você já explicou a arquitetura do sistema na mesma conversa, não repita. O Claude tem memória de tudo na janela de contexto ativa.
+### Android XR
+- Plataforma criada para **dispositivos de realidade estendida**: óculos inteligentes e headsets
+- Gemini integrado como camada de inteligência do dispositivo
 
-### 4. Compacte conversas longas
-No Claude Code, `/compact` resume o histórico para liberar contexto. Configure o PostCompact hook para salvar o resumo no vault — assim você não perde informação.
+### CodeMender
+- Resposta do Google ao **Mythos da Anthropic** (modelo de codificação agêntica)
+- Modelo especializado em programação com capacidades agênticas
 
-### 5. Faça perguntas atômicas
-Divida tarefas complexas em perguntas menores e sequenciais. "Crie um sistema de login completo" consome muito mais tokens (e produz resultado pior) do que uma série de perguntas focadas.
-
-## Estratégias para Claude Code (CLI)
-
-### 1. CLAUDE.md enxuto e preciso
-O CLAUDE.md é lido a cada sessão. Mantenha apenas o essencial — estrutura do projeto, convenções críticas, o que NÃO fazer. Remova qualquer coisa que o Claude pode inferir do código.
-
-### 2. Aproveite o Hot Cache
-O padrão `_HOT_CACHE.md` → `SessionStart` → `additionalContext` injeta contexto sem gastar tokens re-lendo arquivos manualmente. Mantenha o hot cache denso e atual.
-
-### 3. Leia arquivos cirurgicamente
-Prefira ler só as linhas relevantes (`offset` + `limit` no Read) em vez de arquivos inteiros. Evite `cat arquivo_grande.js`.
-
-### 4. Use subagentes para buscas
-Quando precisar explorar o codebase, use `Agent` com `subagent_type: 'Explore'` — ele opera com contexto isolado e retorna só o resultado, sem poluir o contexto principal.
-
-### 5. Não peça confirmação de coisas óbvias
+## Meta — Modelos em Desenvolvimento
 
 ...[truncado]
 
-### Pesquisa - 2026-05-08 - Deploy Publico de Sites
+### Pesquisa - 2026-05-20 - Economia de Tokens
 
-# Pesquisa — Deploy Público de Sites (Maio 2026)
+# Economia de Tokens — Novidades de 2026-05-20
 
-## Mapa de Decisão
+## Panorama 2026
+
+Estudos recentes (mai/2026) confirmam que é realista economizar **70-80%** em custos de LLM com a combinação de estratégias abaixo. O maior ganho individual vem do prompt caching.
+
+## Prompt Caching — Análise Atualizada
+
+### Números validados por estudos recentes
+- Redução de custo: **41-80%** em tokens de input (varia por caso de uso)
+- Melhora no TTFT (Time to First Token): **13-31%** entre provedores
+- Custo de cache hit no Claude: **10% do preço de input** padrão
+
+### Paper ArXiv relevante
+- **"Don't Break the Cache: An Evaluation of Prompt Caching for Long-Horizon Agentic Tasks"** (arXiv:2601.06007)
+  - Avalia prompt caching especificamente para tarefas agênticas longas
+  - Conclusão principal: caching é muito efetivo, mas requer atenção ao design do prompt para não invalidar o cache desnecessariamente
+
+- **"Accelerating Local LLMs on Resource-Constrained Edge Devices via Distributed Prompt Caching"** (arXiv:2602.22812)
+  - Aplica caching distribuído para LLMs locais em dispositivos edge
+  - Relevante para cenários on-premise e IoT
+
+### Como não quebrar o cache
+O cache é invalidado sempre que o prefixo do prompt muda. Boas práticas:
+1. Manter o contexto estático (system prompt, documentos, histórico) no início
+2. Colocar partes dinâmicas (pergunta do usuário, dados variáveis) sempre no final
+3. Usar `cache_control: {type: "ephemeral"}` nos blocos estáticos longos
+
+```python
+# Exemplo correto: estático primeiro, dinâmico no final
+messages = [
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "text",
+                "text": LONG_STATIC_CONTEXT,  # cacheado
+                "cache_control": {"type": "ephemeral"}
+            },
+            {
+
+...[truncado]
+
+### Pesquisa - 2026-05-20 - Deploy e Infraestrutura
+
+# Deploy e Infraestrutura — Novidades de 2026-05-20
+
+## Padrão Recomendado 2026
+
+A arquitetura de três caixas consolidou-se como padrão em 2026 para equipes de SaaS:
 
 ```
-Que tipo de site?
-├── Site estático (HTML/CSS/JS puro, sem backend)
-│   └── Vercel, Netlify, GitHub Pages, Cloudflare Pages
-├── Frontend + API separados
-│   ├── Frontend → Vercel/Netlify
-│   └── API → Railway, Render, Fly.io
-└── Fullstack monolítico (Node.js, Python, etc.)
-    └── Railway, Render, Fly.io, VPS (DigitalOcean, Hostinger)
+FRONTEND  → Vercel / Netlify / Cloudflare Pages (edge, CDN, previews)
+BACKEND   → Railway / Fly.io / Render / DigitalOcean (containers, databases)
+DATABASE  → MongoDB Atlas / PlanetScale / Railway Postgres (managed)
 ```
 
-## Opção 1: Railway (Recomendado para Node.js)
+Tendência: times usam **Vercel + Railway juntos** — Vercel para o que faz melhor (frontend, edge, deploy previews) e Railway para o que faz melhor (databases, containers, serviços backend).
 
-**Melhor para**: sistemas como o `sistema-chamados` — Node.js + SQLite/PostgreSQL.
+## Railway — Estado Atual (Mai/2026)
 
-**Como deployar:**
-1. Conecte seu repositório GitHub ao Railway
-2. Railway detecta automaticamente `package.json` e roda `npm start`
-3. Configure variáveis de ambiente no painel
-4. URL pública gerada automaticamente (`*.up.railway.app`)
-5. Domínio customizado: adicione em Settings → Domains
+### Recursos do plano gratuito
+- 500h de execução mensal
+- 512 MB RAM por serviço
+- Deploy com 1 clique: PostgreSQL, MySQL, Redis
+- Suporte a Next.js SSR com performance competitiva
 
-**Volume persistente** (para SQLite):
-```
-Settings → Volumes → Add Volume → /app/data
-```
-Sem volume, o banco é apagado a cada deploy.
+### Expansão recente
+- Next.js one-click deploy com SSR competitivo a Vercel
+- Sobreposição real com Vercel: Railway agora pode hospedar aplicações Next.js com desempenho SSR comparável
 
-**Preço**: ~$5/mês para uso contínuo; tem plano gratuito com limitações.
+### Quando preferir Railway
+- Backend Node.js/Python/Go/Rust
+- Banco de dados com persistência real
+- Containers Docker com volumes
+- Background jobs de longa duração
 
-## Opção 2: Vercel (Melhor para Frontend + APIs Serverless)
+## Fly.io — Estado Atual (Mai/2026)
 
-**Melhor para**: Next.js, React, Vue, sites com API routes simples.
+### Recursos do plano gratuito
+- 3 VMs de 256 MB RAM — **sem hibernação** (sempre on)
+- Suporte nativo a Docker
+- Volumes persistentes de 3 GB
+- GPUs disponíveis (pay-per-use)
+- Suporte a Kubernetes e object storage
+
+...[truncado]
+
+### Pesquisa - 2026-05-20 - Claude Code e Claude.ai
+
+# Claude Code e Claude.ai — Novidades de 2026-05-20
+
+## Novas Flags para Agentes em Background
+
+Adicionadas flags para configurar sessões de agentes dispatched (background):
 
 ```bash
-npm i -g vercel
+claude agent run \
+  --add-dir ./src \
+  --settings ./settings.json \
+  --mcp-config ./mcp.json \
+  --plugin-dir ./plugins \
+  --permission-mode auto \
+  --model claude-sonnet-4-6 \
+  --effort high \
+  --dangerously-skip-permissions
+```
+
+Permite configurar granularmente cada sessão de subagente sem alterar as configurações globais.
+
+## Hooks: Novidades
+
+### terminalSequence
+- Hook JSON output agora aceita campo `terminalSequence`
+- Permite que hooks emitam: notificações de desktop, títulos de janela, terminal bells
+- Uso principal: notificações headless (quando não há terminal controlador visível)
+- Exemplo de payload de hook com notificação:
+```json
+{
+  "output": "Processamento concluído",
+  "terminalSequence": "\x1b]9;2;Tarefa finalizada\x07"
+}
+```
+
+### duration_ms em PostToolUse
+- `PostToolUse` e `PostToolUseFailure` agora incluem `duration_ms` no input do hook
+- Permite medir tempo de execução de cada ferramenta individualmente
+- Útil para logging de performance, alertas de lentidão e otimização
+
+## MCP: Melhorias
 
 ...[truncado]
 
-### Pesquisa - 2026-05-08 - Cloud e Infraestrutura
+### Pesquisa - 2026-05-20 - Claude API
 
-# Pesquisa — Cloud e Infraestrutura (Maio 2026)
+# Pesquisa - 2026-05-20 - Claude API
 
-## Estado do Mercado Cloud
+## ❓ Pergunta central
+Quais foram os movimentos estratégicos da Anthropic na semana de 20/05/2026 que mudam o ecossistema de API e agentes?
 
-O mercado global de cloud ultrapassou **US$ 700 bilhões em 2025**, com AWS (32%), Azure (23%) e GCP (12%) dominando. No Brasil, a chegada de regiões locais de AWS (São Paulo), Azure (SP + Rio) e GCP (SP) reduziu latência e abriu o mercado enterprise nacional.
+## 🎯 Síntese (3-5 linhas)
+A semana foi marcada por duas ações de alto impacto: a aquisição da Stainless por ~$300M (empresa que gerava os SDKs oficiais de OpenAI, Google e Anthropic) e a expansão do Claude Managed Agents com MCP tunnels e self-hosted sandboxes para uso enterprise. Andrej Karpathy também se juntou à Anthropic para liderar pesquisa de pré-treinamento. Em conjunto, esses movimentos mostram a Anthropic consolidando controle vertical sobre modelo, SDK, conectividade (MCP) e infraestrutura de execução — stack completo para agentes de produção.
 
-**Multi-cloud virou padrão** para empresas médias e grandes: não por estratégia, mas por acidente — diferentes times escolhem diferentes provedores. Ferramentas de gestão multi-cloud (Terraform, Pulumi, CloudHealth) cresceram em consequência.
+## 🔬 Detalhes
 
-## AWS — Novidades Relevantes
+### Aquisição da Stainless (~$300M)
+- Fundada em 2022, Stainless gerava SDKs (TypeScript, Python, Go, Java), CLIs e servidores MCP a partir de specs OpenAPI
+- Era usada por OpenAI, Google, Cloudflare e centenas de empresas — e já gerava **todos** os SDKs oficiais da Anthropic
+- Com a aquisição, Anthropic passa a controlar o modelo + padrão de conectividade (MCP) + toolchain de SDKs
+- Impacto: Stainless encerrou produtos para clientes externos (OpenAI e Google precisarão migrar ou reconstruir)
+- Estratégia clara: dominar toda a cadeia de integração de agentes
 
-- **Bedrock Agents**: orquestração de agentes de IA nativamente na AWS, integrado com S3, DynamoDB e Lambda
-- **Aurora DSQL**: banco distribuído serverless com latência sub-milissegundo entre regiões
-- **Application Composer GA**: infraestrutura como diagrama visual (sem escrever YAML/JSON)
-- **Graviton 4**: processadores ARM para EC2, até 40% mais eficientes que geração anterior
+### Claude Managed Agents — Self-Hosted Sandboxes (public beta)
+- Permite que a execução de ferramentas ocorra na infraestrutura do cliente (ou via Cloudflare, Daytona, Modal, Vercel)
+- Anthropic continua gerenciando orquestração, contexto e recovery — o cliente controla onde o código roda
+- Resolve o bloqueador nº 1 de enterprise: dados sensíveis e workloads não saem do perímetro de segurança
 
-## Azure — Novidades Relevantes
+### Claude Managed Agents — MCP Tunnels (research preview)
+- Conecta Managed Agents e Messages API a servidores MCP privados sem expor à internet pública
+- Gateway leve com conexão encriptada de saída (outbound) para infraestrutura Anthropic — sem abrir firewall inbound
+- Elimina a necessidade de expor sistemas internos para usar agentes Claude
 
-- **Azure AI Foundry**: plataforma unificada para build, deploy e monitor de apps IA (substitui Azure OpenAI Service)
-- **Azure Container Apps**: serverless para containers com KEDA, substituindo AKS para casos simples
-- **Dev Box 2.0**: máquina de desenvolvimento na nuvem pré-configurada, integrada ao GitHub Codespaces
+### Andrej Karpathy na Anthropic
+- Co-fundador da OpenAI e defensor do "Software 3.0" se juntou ao time de pré-treinamento
+- Objetivo: usar Claude para acelerar pesquisa de pré-treinamento
+- Sinaliza intensificação da disputa de talentos no topo da pesquisa de IA
 
-## DevOps e Containers
+### Cache Diagnostics (public beta)
+- API agora reporta `cache_miss_reason` ao passar `diagnostics.previous_message_id` em requests do Messages
+- Facilita depuração de falhas de prompt cache — antes era uma caixa-preta
+- Importante para otimizar custos em aplicações com prompt caching intensivo
 
-**Kubernetes** continua obrigatório para orquestração, mas a complexidade afastou pequenas equipes. Abstrações como **Railway**, **Render** e **Fly.io** cresceram muito — deploy de containers sem gerenciar cluster, com pricing previsível.
-
-**GitHub Actions** consolidou como CI/CD padrão para projetos open source e startups. Para enterprise, Jenkins ainda existe mas perde espaço para GitLab CI e Azure DevOps.
-
-**Docker Desktop** perdeu espaço para alternativas (OrbStack no Mac, Podman Desktop cross-platform) após mudanças de licença, mas Docker Hub permanece o registry mais usado.
-
-## IaC (Infraestrutura como Código)
-
-| Ferramenta | Caso de Uso | Tendência |
-|-----------|-------------|-----------|
-| Terraform / OpenTofu | Multi-cloud, teams grandes | Estável |
-| Pulumi | IaC em linguagem real (TS/Python) | Crescendo |
-| AWS CDK | AWS-only, devs preferem código | Crescendo |
-| Ansible | Config management, bare metal | Estável |
-
-**OpenTofu** (fork open source do Terraform após mudança de licença da HashiCorp) ganhou adoção significativa, especialmente em empresas que não querem dependência de vendor.
-
-...[truncado]
-
-### Pesquisa - 2026-05-08 - Claude Code Skills e Automacao
-
-# Pesquisa — Claude Code: Skills, Hooks e Automação (Maio 2026)
-
-## O Que É Claude Code
-
-Claude Code é o CLI oficial da Anthropic para uso de Claude no terminal. Mais do que um chat, é um **agente de engenharia** com acesso a:
-- Sistema de arquivos (ler, criar, editar arquivos)
-- Terminal (executar comandos Bash/PowerShell)
-- Web (buscar e acessar páginas)
-- Ferramentas especializadas (Glob, Grep, Agentes paralelos)
-
-**Modos de uso:**
-- `claude` — sessão interativa
-- `claude -p "prompt"` — modo headless (não interativo), ideal para automação
-- `claude --print -p "prompt"` — headless + imprime resposta no stdout
-
-## Skills (Habilidades Customizadas)
-
-Skills são prompts especializados que o Claude executa quando invocados com `/nome-da-skill`.
-
-**Onde ficam**: `~/.claude/commands/` (globais) ou `.claude/commands/` (por projeto)
-
-**Formato de um arquivo de skill:**
-
-```markdown
-# Nome da Skill
-Descrição curta do que ela faz.
-
-## Input
-$ARGUMENTS
-
-## Comportamento
-Instruções detalhadas para o Claude seguir quando esta skill for invocada...
-```
-
-**Invocar**: `/pesquisa-tema segurança ofensiva`
-
-**Skills úteis para criar:**
-- `/deploy-check` — verifica se o código está pronto para deploy
-- `/criar-nota` — cria nota no vault seguindo as convenções
-- `/resumir-sessao` — resume e salva o que foi feito
+### Claude Platform on AWS
+- Claude API disponível via infraestrutura gerenciada na AWS com billing AWS e autenticação IAM
+- Acesso a Messages API, Files API, Message Batches API e Claude Managed Agents
 
 ...[truncado]
 
-### Pesquisa - 2026-05-08 - Claude API e Desenvolvimento
+### Pesquisa - 2026-05-19 - Programacao e Dev
 
-# Pesquisa — Claude API e Desenvolvimento (Maio 2026)
+# Pesquisa - 2026-05-19 - Programacao e Dev
 
-## Visão Geral da API
+## ❓ Pergunta central
+Quais linguagens e frameworks dominam o desenvolvimento em 2026 e como a IA está mudando a prática da programação?
 
-A **Anthropic API** (também chamada Claude API) é acessada via HTTPS REST. A biblioteca oficial existe para **Python** e **TypeScript/Node.js**, mas qualquer linguagem com HTTP funciona.
+## 🎯 Síntese (3-5 linhas)
+TypeScript ultrapassou Python em contribuidores no GitHub (agosto 2025), mas Python mantém liderança no TIOBE com 21,81%. Rust é a linguagem "mais admirada" pelo quinto ano seguido e ganha espaço em sistemas críticos cloud-native. A grande transformação não é qual linguagem aprender — é que todo dev agora programa acompanhado de IA como co-piloto. Ferramentas como Copilot e CodeWhisperer tornaram-se padrão de mercado.
 
-```bash
-npm install @anthropic-ai/sdk        # Node.js
-pip install anthropic                 # Python
-```
+## 🔬 Detalhes
+- **TypeScript**: maior número de contribuidores no GitHub desde ago/2025 — Next.js e Angular usam TS por padrão; adoção acelerada pela IA generativa
+- **Python**: TIOBE #1 com 21,81% (fev/2026) — dominante em IA, ML, data science e automação
+- **Rust**: "linguagem mais admirada" 2026 — crescimento em sistemas críticos, cloud-native, segurança e embarcados; confiabilidade e performance
+- **Go**: popular em cloud computing, DevOps e sistemas distribuídos — backends de alta performance e infraestrutura
+- **IA como co-piloto**: GitHub Copilot, Amazon CodeWhisperer e equivalentes tornam-se padrão — não substituem o dev, amplificam capacidade
+- **Foco em segurança e performance**: linguagens com garantias de segurança em tempo de compilação (Rust, Go) ganham espaço onde Python não chega
+- **Frameworks dominantes (2026)**: React/Next.js (frontend), FastAPI/Django (Python backend), Axum (Rust), Gin/Fiber (Go), NestJS (TypeScript backend)
 
-Autenticação via header `x-api-key` ou variável de ambiente `ANTHROPIC_API_KEY`.
+## 🔗 Conexões
+- [[Pesquisa - 2026-05-18 - Programacao e Dev]]
+- [[Pesquisa - 2026-05-19 - Deploy e Infraestrutura]]
+- [[Pesquisa - 2026-05-19 - Mercado TI Brasil]]
 
-## Modelos Disponíveis (Maio 2026)
+## 📚 Fontes
+- [As linguagens de programação mais usadas em 2026 — Caiena](https://www.caiena.net/blog/linguagens-de-programacao-mais-usadas)
+- [Top 20 linguagens 2026 — Nextage](https://nextage.com.br/blog/en/top-20-programming-languages/)
+- [Tendências linguagens 2026 — HelpPDev](https://helppdev.com/pt/blog/tendencias-em-linguagens-de-programacao-para-2026-o-que-os-desenvolvedores-precisam-saber)
+- [10 Frameworks que dominam 2026 — Nextage](https://nextage.com.br/blog/en/10-frameworks-that-will-dominate-2026/)
+- [Mercado de programação 2026 — Alura](https://www.alura.com.br/artigos/mercado-de-programacao-2025)
 
-| Model ID | Nome | Melhor Para | Custo (aprox.) |
-|----------|------|-------------|----------------|
-| `claude-opus-4-7` | Claude Opus 4.7 | Tarefas complexas, raciocínio profundo | $$$ |
-| `claude-sonnet-4-6` | Claude Sonnet 4.6 | Equilíbrio qualidade/custo, produção | $$ |
-| `claude-haiku-4-5-20251001` | Claude Haiku 4.5 | Tarefas simples, alto volume, tempo real | $ |
+## 🚧 Lacunas
+- Qual framework full-stack TypeScript tem maior adoção no Brasil especificamente
+- Como medir ROI real do uso de Copilot em projetos de software
+- Rust em produção no Brasil: casos de uso reais além de grandes empresas
 
-**Regra prática**: use Haiku para classificação/triagem, Sonnet para geração, Opus apenas quando qualidade é crítica.
+...[truncado]
 
-## Chamada Básica (Node.js)
+### Pesquisa - 2026-05-19 - Mercado TI Brasil
 
-```javascript
-import Anthropic from '@anthropic-ai/sdk';
+# Pesquisa - 2026-05-19 - Mercado TI Brasil
 
-const client = new Anthropic({ apiKey: process.env.ANTHROPIC_API_KEY });
+## ❓ Pergunta central
+Como está o mercado de TI brasileiro em 2026 — salários, áreas em alta e o gap de talentos?
 
-const msg = await client.messages.create({
-  model: 'claude-sonnet-4-6',
-  max_tokens: 1024,
-  messages: [{ role: 'user', content: 'Olá, Claude.' }],
-});
-console.log(msg.content[0].text);
-```
+## 🎯 Síntese (3-5 linhas)
+O mercado de TI brasileiro cresceu 18,5% em 2025, acima da média global, e segue aquecido em 2026. O gap de talentos é estrutural: o Brasil forma 53 mil profissionais/ano enquanto a demanda é de 159 mil — déficit de mais de 100 mil vagas. Salário médio de dev está em R$ 8.200/mês, com premium para certificados e especialistas em IA, cloud e segurança. 48% dos gestores pagam mais por profissionais com certificações.
 
-## System Prompt — A Base de Tudo
+## 🔬 Detalhes
+- **Crescimento do setor**: +18,5% em 2025 — acima da média mundial; tendência de expansão contínua em 2026
+- **Gap estrutural de talentos**: 53k formados/ano vs. 159k demandados — déficit crônico favorece quem está no mercado
+- **44% das empresas** planejam ampliar equipes de TI; **48%** pagam mais por profissionais certificados
+- **Salário médio dev**: R$ 8.200/mês — variação por experiência, especialização e localização
+- **Áreas de maior demanda**: Cibersegurança, Engenharia de Dados, Desenvolvimento em IA, Cloud Computing, Ciência de Dados
+- **Stack mais valorizado**: Cloud (AWS/Azure/GCP), IA/ML aplicada, Segurança da Informação, Gestão de Bancos de Dados
+- **IA cria novos papéis**: não substitui profissionais de TI no curto prazo — exige novas competências em prompt engineering, MLOps, AI governance
+- **Profissionais sênior remotos**: alta demanda de empresas estrangeiras para devs brasileiros com inglês — salários em dólar/euro
+
+## 🔗 Conexões
+- [[Pesquisa - 2026-05-18 - Mercado TI Brasil]]
+- [[Pesquisa - 2026-05-19 - Programacao e Dev]]
+- [[Pesquisa - 2026-05-19 - Inteligencia Artificial]]
+
+## 📚 Fontes
+- [Guia Salarial TI 2026 — Robert Half](https://www.roberthalf.com/br/pt/insights/guia-salarial/tecnologia)
+- [Mercado de trabalho em TI no Brasil 2026 — InvGate](https://blog.invgate.com/pt/mercado-para-ti)
+- [5 cargos TI em alta 2026 — TI Safe](https://tisafe.com/5-cargos-de-ti-em-alta-em-2026/)
+- [Guia salarial áreas TI com mais vagas — FIAP](https://www.fiap.com.br/2025/12/02/mercado-de-ti-guia-salarial-revela-areas-mais-demandadas-e-tendencias-para-2026/)
+- [Salários de tecnologia 2026 — Green Tecnologia](https://www.green.com.br/blog/salarios-de-tecnologia/)
+
+## 🔄 Complemento (pesquisa vespertina 2026-05-19)
+
+### Tabela Salarial Detalhada — mai/2026
+
+| Cargo | Nível | Faixa Mensal (R$) |
+|-------|-------|-------------------|
+| Engenheiro de IA | Pleno/Sênior | R$ 19.500 – R$ 27.100 |
+| Arquiteto de Nuvem | Sênior | R$ 12.000 – R$ 20.000 |
+| DevOps / SRE | Pleno | R$ 9.000 – R$ 14.000 |
+| Engenheiro de Dados | Pleno | R$ 8.000 – R$ 15.000 |
 
 ...[truncado]
 
