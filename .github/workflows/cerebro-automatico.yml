@@ -2,7 +2,9 @@ name: Segundo Cérebro — Automação Diária
 
 on:
   schedule:
-    - cron: '*/30 * * * *'  # a cada 30 minutos (pesquisa contínua 24/7)
+    - cron: '0 * * * *'      # :00 de toda hora — 24 execuções/dia
+    - cron: '30 3-20 * * *'  # :30 das 00:30 às 17:30 BRT — 18 execuções/dia
+    # total: 42 execuções/dia × 7 temas = 294 chamadas/dia
   workflow_dispatch:
     inputs:
       rotina:
