@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-16"?>
+<Task version="1.2" xmlns="http://schemas.microsoft.com/windows/2004/02/mit/task">
+  <RegistrationInfo>
+    <Description>Sincroniza o vault Obsidian com o GitHub a cada 30 minutos</Description>
+  </RegistrationInfo>
+  <Triggers>
+    <TimeTrigger>
+      <Repetition>
+        <Interval>PT30M</Interval>
+        <StopAtDurationEnd>false</StopAtDurationEnd>
+      </Repetition>
+      <StartBoundary>2026-01-01T00:00:00</StartBoundary>
+      <Enabled>true</Enabled>
+    </TimeTrigger>
+  </Triggers>
+  <Principals>
+    <Principal id="Author">
+      <LogonType>InteractiveToken</LogonType>
+      <RunLevel>LeastPrivilege</RunLevel>
+    </Principal>
+  </Principals>
+  <Settings>
+    <ExecutionTimeLimit>PT2M</ExecutionTimeLimit>
+    <StartWhenAvailable>true</StartWhenAvailable>
+    <StopIfGoingOnBatteries>false</StopIfGoingOnBatteries>
+    <DisallowStartIfOnBatteries>false</DisallowStartIfOnBatteries>
+  </Settings>
+  <Actions>
+    <Exec>
+      <Command>pwsh.exe</Command>
+      <Arguments>-NonInteractive -ExecutionPolicy Bypass -File "C:\Users\estagio.ti\Desktop\ClaudeCode\SegundoCerebroOficial\sincronizar-obsidian.ps1"</Arguments>
+    </Exec>
+  </Actions>
+</Task>

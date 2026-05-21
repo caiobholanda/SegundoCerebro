@@ -18,8 +18,13 @@ $prompts = @{
 $log = "$vault\_Claude\sessoes\automacao.log"
 if (-not (Test-Path (Split-Path $log))) { New-Item -ItemType Directory -Path (Split-Path $log) -Force | Out-Null }
 
-$env:PATH += ";C:\Users\estagio.ti\AppData\Roaming\npm;C:\Users\estagio.ti\.local\bin"
+$env:PATH += ";C:\Users\estagio.ti\AppData\Roaming\npm;C:\Users\estagio.ti\.local\bin;C:\Program Files\Git\bin"
 $ts = Get-Date -Format "yyyy-MM-dd HH:mm:ss"
+
+# Sincronizar notas do GitHub Actions antes de rodar
+$pullResult = git pull --no-rebase --no-edit origin main 2>&1
+Add-Content $log "[$ts] git pull: $pullResult"
+
 Add-Content $log "[$ts] Iniciando rotina: $Rotina"
 
 $output = claude -p $prompts[$Rotina] --dangerously-skip-permissions 2>&1
