@@ -15,3 +15,6 @@ desktop.ini
 # Node / scripts locais
 node_modules/
 *.log
+
+# Memória privada do Claude (email, contexto pessoal, URLs de produção)
+_Claude/
