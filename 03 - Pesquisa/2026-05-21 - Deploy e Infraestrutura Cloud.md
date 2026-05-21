@@ -3,39 +3,39 @@
 tipo: pesquisa
 criado: 2026-05-21
 atualizado: 2026-05-21
-pergunta-central: Como estruturar um processo eficiente e escalável de deploy utilizando infraestrutura cloud?
-relacionado-a: [automacao-devops, computacao-em-nuvem]
+pergunta-central: Quais são as melhores práticas para realizar deploys e gerenciar infraestrutura em ambientes de computação em nuvem?
+relacionado-a: [desenvolvimento, operações, devops]
 tags: [pesquisa, dev, infra]
 ---
 
 # Pesquisa - Deploy e Infraestrutura Cloud
 
 ## ❓ Pergunta central
-Como estruturar um processo eficiente e escalável de deploy utilizando infraestrutura cloud?
+Quais são as melhores práticas para realizar deploys e gerenciar infraestrutura em ambientes de computação em nuvem?
 
 ## 🎯 Síntese (3-5 linhas)
-Deploy e infraestrutura cloud são elementos centrais para a entrega de software moderna. Usar provedores de nuvem como AWS, Google Cloud ou Azure permite escalar aplicações dinamicamente, automatizar deploys via CI/CD pipelines e gerenciar recursos de forma otimizada. No entanto, escolher a arquitetura correta (serverless, containers ou máquinas virtuais) e implantar boas práticas de segurança e monitoramento são desafios críticos para o sucesso do processo.
+Deploy e infraestrutura cloud são pilares essenciais para aplicações modernas, permitindo escalabilidade, alta disponibilidade e automação. Ferramentas como Docker, Kubernetes e Terraform se destacam na automação de processos. A adoção de boas práticas como CI/CD, monitoramento contínuo e segurança desde o design são críticas para minimizar falhas e otimizar custos.
 
 ## 🔬 Detalhes
-- **Conceito de Deploy**: Processo de disponibilizar uma aplicação ou serviço para uso em um ambiente de produção.
-- **Infraestrutura como Código (IaC)**: Ferramentas como Terraform e AWS CloudFormation permitem gerenciar infraestrutura de forma programática, garantindo consistência e rastreabilidade.
-- **CI/CD (Continuous Integration/Continuous Deployment)**: Pipelines automatizados (ex.: GitHub Actions, GitLab CI/CD, Jenkins) são essenciais para agilizar a entrega e reduzir erros humanos.
-- **Modelos de Infraestrutura Cloud**: Três principais abordagens incluem serverless (como AWS Lambda), containers (Docker, Kubernetes) e máquinas virtuais (EC2, Google Compute Engine).
-- **Escalabilidade e Redundância**: Load balancers, auto-scaling groups e estratégias multiregionais garantem alta disponibilidade e desempenho.
-- **Segurança e Compliance**: Implementar boas práticas como controle de acesso baseado em funções (IAM), criptografia de dados e backups regulares é vital para proteger aplicações e dados na nuvem.
+- **Conceito de deploy**: Processo de disponibilizar uma aplicação em um ambiente de produção, garantindo que ela funcione conforme esperado para os usuários finais.
+- **Infraestrutura como Código (IaC)**: Ferramentas como Terraform e CloudFormation permitem descrever a infraestrutura como código, garantindo consistência e reprodutibilidade.
+- **Orquestração com Kubernetes**: Kubernetes é uma solução popular para gerenciar contêineres, permitindo escalabilidade e balanceamento de carga automatizados.
+- **Integração e entrega contínuas (CI/CD)**: Prática de automatizar a integração e entrega de código para acelerar o desenvolvimento e reduzir erros.
+- **Segurança na nuvem**: Inclui práticas como gerenciamento de identidades, criptografia, backups regulares e controle de acesso rigoroso.
+- **Custos e dimensionamento**: Estratégias de escalabilidade horizontal e vertical permitem otimizar custos e atender à demanda variável.
 
 ## 🔗 Conexões
-- [[Pesquisa - Automação DevOps]]
-- [[Referência - AWS para Iniciantes]]
-- [[Pesquisa - Kubernetes e Orquestração de Containers]]
+- [[Pesquisa - Kubernetes e Orquestração de Contêineres]]
+- [[Projeto - Implementação de CI/CD no fluxo de trabalho]]
+- [[Referência - Terraform e Infraestrutura como Código]]
 
 ## 📚 Fontes
-- [[Referência - Livro: The Phoenix Project]]
-- [[Referência - Site: AWS Well-Architected Framework]]
-- [[Referência - Guia: Google Cloud Deployment Best Practices]]
+- [[Referência - Livro - Site Reliability Engineering]]
+- [[Referência - Artigo - Best Practices for Cloud Deployment]]
+- [[Referência - Curso - Terraform and Kubernetes for Beginners]]
 
 ## 🚧 Lacunas
-- Comparação detalhada entre custos de diferentes provedores cloud para pequenos e grandes projetos.
-- Melhores práticas para implementar monitoramento e alertas em um ambiente multicloud.
-- Impacto ambiental do uso de infraestrutura cloud e soluções para mitigar a pegada de carbono.
+- Quais são os desafios específicos de segurança na implementação de pipelines de CI/CD?
+- Quais métricas são mais eficazes para monitorar o desempenho da infraestrutura cloud?
+- Como avaliar o custo-benefício entre diferentes provedores de nuvem, como AWS, Azure e Google Cloud?
 ```
