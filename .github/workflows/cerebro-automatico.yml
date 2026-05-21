@@ -2,16 +2,13 @@ name: Segundo Cérebro — Automação Diária
 
 on:
   schedule:
-    - cron: '0 10 * * *'    # 07:00 BRT (manhã — nota diária)
-    - cron: '0 13 * * *'    # 10:00 BRT (pesquisa — 7 temas)
-    - cron: '0 1 * * *'     # 22:00 BRT (noite — processar inbox)
-    - cron: '0 21 * * 5'    # 18:00 BRT sexta (manutenção semanal)
+    - cron: '*/30 * * * *'  # a cada 30 minutos (pesquisa contínua 24/7)
   workflow_dispatch:
     inputs:
       rotina:
         description: 'Rotina a executar'
         required: true
-        default: 'manha'
+        default: 'pesquisa'
         type: choice
         options: [manha, pesquisa, noite, semana]
 
@@ -34,7 +31,7 @@ jobs:
           python-version: '3.11'
 
       - name: Instalar dependências
-        run: pip install openai
+        run: pip install openai duckduckgo-search
 
       - name: Determinar rotina pelo horário
         id: rotina
@@ -43,14 +40,15 @@ jobs:
             echo "nome=${{ inputs.rotina }}" >> $GITHUB_OUTPUT
           else
             HORA=$(TZ="America/Fortaleza" date +%H)
+            DIA=$(TZ="America/Fortaleza" date +%u)
             if [ "$HORA" = "07" ]; then
               echo "nome=manha" >> $GITHUB_OUTPUT
-            elif [ "$HORA" = "10" ]; then
-              echo "nome=pesquisa" >> $GITHUB_OUTPUT
             elif [ "$HORA" = "22" ]; then
               echo "nome=noite" >> $GITHUB_OUTPUT
-            else
+            elif [ "$HORA" = "18" ] && [ "$DIA" = "5" ]; then
               echo "nome=semana" >> $GITHUB_OUTPUT
+            else
+              echo "nome=pesquisa" >> $GITHUB_OUTPUT
             fi
           fi
 
