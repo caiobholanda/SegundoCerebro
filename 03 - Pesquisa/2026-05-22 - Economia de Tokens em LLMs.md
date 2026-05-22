@@ -1,41 +1,42 @@
-```markdown
 ---
 tipo: pesquisa
 criado: 2026-05-22
 atualizado: 2026-05-22
-pergunta-central: Como a economia de tokens impacta o custo, eficiência e acessibilidade no uso de LLMs?
-relacionado-a: [ia, produtividade]
-tags: [pesquisa, ia, produtividade]
+pergunta-central: Quais estratégias de otimização de tokens e prompt caching são mais eficazes para reduzir custos em aplicações LLM em 2026?
+relacionado-a: [Claude API, Inteligência Artificial, Programação e Dev]
+tags: [pesquisa, ia, tokens, custos, otimizacao, caching]
 ---
 
 # Pesquisa - Economia de Tokens em LLMs
 
 ## ❓ Pergunta central
-Como a economia de tokens impacta o custo, eficiência e acessibilidade no uso de LLMs?
+Quais estratégias de otimização de tokens e prompt caching são mais eficazes para reduzir custos em aplicações LLM em 2026?
 
 ## 🎯 Síntese (3-5 linhas)
-A economia de tokens em LLMs é uma abordagem essencial para minimizar custos e otimizar a eficiência no uso de modelos de linguagem. Ela envolve práticas como redução de tokens desnecessários, compressão de prompts e utilização estratégica de contextos menores sem comprometer a qualidade das respostas. Essa temática é crítica para tornar a tecnologia mais acessível e sustentável, especialmente em aplicações comerciais de larga escala.
+Em 2026, economia de tokens evoluiu de boa prática para necessidade operacional. O prompt caching da Anthropic cobra leituras a 0,1× do preço base (90% de desconto), e semantic caching com Redis LangCache atinge ~73% de redução em cargas de alta repetição. A estratégia de posicionar conteúdo estático no início do prompt é o passo mais simples e de maior impacto. Combinando múltiplas técnicas, a maioria das aplicações alcança 60-80% de redução de custos.
 
 ## 🔬 Detalhes
-- Tokens representam as menores unidades de texto processadas por LLMs. Controlar a quantidade de tokens influencia diretamente os custos, uma vez que provedores como OpenAI cobram por token usado.
-- Reduzir tokens desnecessários em prompts é uma prática recomendada para melhorar a eficiência sem afetar a qualidade das respostas.
-- O uso de "context windows" mais curtos pode economizar tokens, mas exige ajustes cuidadosos para manter a coerência em diálogos longos.
-- Ferramentas como compressão semântica e reformulação de prompts ajudam a diminuir o consumo de tokens sem alterar o significado do conteúdo.
-- Modelos menores ou personalizados podem ser mais econômicos em tokens, mas demandam trade-offs em termos de capacidade e precisão.
-- Estratégias como "token streaming" permitem processar entradas maiores ao fragmentar o contexto em pedaços menores, otimizando custos.
+- **Prompt caching Anthropic:** leituras de cache = 0,1× do preço base de entrada (90% de desconto)
+- **Redução típica:** 50-90% nos custos de tokens de entrada para interações repetidas
+- **Redis LangCache:** semantic caching gerenciado; reconhece consultas similares sem re-chamar o LLM; ~73% de redução em cargas com alta repetição
+- **Estratégia de posicionamento:** instruções estáticas, boilerplate de retrieval e schemas de ferramentas devem ir no início do prompt para maximizar cache hit rate
+- **Compressão de prompt:** remoção de verbosidade sem perda de contexto
+- **Seleção inteligente de modelo:** Haiku para tarefas simples, Opus para raciocínio complexo
+- **Resultado combinado:** compressão + caching de contexto + seleção de modelo + caching de resposta → 60-80% de redução
+- **Cache diagnostics Anthropic (beta):** endpoint para identificar onde o cache diverge e otimizar estrutura do prompt
 
 ## 🔗 Conexões
-- [[Claude API e Anthropic SDK]]
-- [[Pesquisa - Modelos de linguagem eficientes]]
-- [[Referência - Economia de Computação em IA]]
+- [[2026-05-22 - Claude API e Anthropic SDK]]
+- [[2026-05-22 - Inteligência Artificial — avanços]]
+- [[Pesquisa - 2026-05-13 - Economia de Tokens]]
 
 ## 📚 Fontes
-- [[Referência - OpenAI ChatGPT API Documentation]]
-- [[Referência - Anthropic: Uso eficiente de LLMs]]
-- [[Referência - Artigo sobre compressão em prompts para IA]]
+- [Token optimization 2026: Saving up to 80% LLM costs — Obvious Works](https://www.obviousworks.ch/en/token-optimization-saves-up-to-80-percent-llm-costs/)
+- [LLM Token Optimization: Cut Costs & Latency — Redis](https://redis.io/blog/llm-token-optimization-speed-up-apps/)
+- [Prompt caching: como reduzir custos em até 90% — Data Hackers](https://www.datahackers.news/p/prompt-caching-como-reduzir-custos-em-ate-90-com-ia-guia-pratico-com-anthropic)
+- [LLM Token Optimization Strategies — Token Optimize](https://www.tokenoptimize.dev/guides/llm-token-optimization-strategies)
 
 ## 🚧 Lacunas
-- Qual é o impacto real da economia de tokens no tempo de processamento em diferentes LLMs?
-- Quais são as melhores práticas para otimizar prompts sem comprometer a qualidade de respostas em tarefas específicas?
-- Como a economia de tokens pode ser aplicada em domínios específicos, como saúde e finanças, onde a precisão é crítica?
-```
+- Qual o custo de escrita de cache vs. leitura na Anthropic atualmente?
+- Redis LangCache tem suporte a múltiplos provedores LLM?
+- Como medir cache hit rate em produção para validar a estratégia?

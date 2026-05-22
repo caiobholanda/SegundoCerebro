@@ -1,42 +1,46 @@
-```markdown
 ---
 tipo: pesquisa
 criado: 2026-05-22
 atualizado: 2026-05-22
-pergunta-central: Como a programação e o desenvolvimento estão moldando o futuro das tecnologias e da sociedade?
-relacionado-a: [tecnologia, inovação, educação]
-tags: [pesquisa, dev, produtividade]
+pergunta-central: Quais são as tendências e ferramentas que estão redefinindo programação e desenvolvimento de software em 2026?
+relacionado-a: [Claude Code, Inteligência Artificial, Deploy e Infraestrutura]
+tags: [pesquisa, dev, programacao, ferramentas, tendencias]
 ---
 
 # Pesquisa - Programação e Desenvolvimento
 
 ## ❓ Pergunta central
-Como a programação e o desenvolvimento estão moldando o futuro das tecnologias e da sociedade?
+Quais são as tendências e ferramentas que estão redefinindo programação e desenvolvimento de software em 2026?
 
 ## 🎯 Síntese (3-5 linhas)
-A programação e o desenvolvimento são pilares fundamentais da era digital, impulsionando inovações tecnológicas e transformando setores como saúde, educação, comunicação e finanças. O crescimento de tecnologias como IA, blockchain e automação está redefinindo o papel dos desenvolvedores e ampliando os limites do que é possível. Ainda assim, desafios éticos, de acessibilidade e de segurança precisam ser enfrentados.
+Em 2026, o desenvolvimento orientado por IA é o novo padrão — ferramentas como GitHub Copilot e Claude Code são assistentes de facto no ciclo de desenvolvimento. IA agentic (sistemas autônomos que planejam e executam sem input humano) está migrando de experimento para produção. Low-code e no-code democratizam a criação, enquanto Python, Go e Rust lideram as linguagens mais demandadas. Engenharia de prompt emerge como nova competência técnica core.
 
 ## 🔬 Detalhes
-- Programação é a base para a criação de softwares, aplicativos e sistemas que permeiam todos os aspectos da vida moderna, desde smartphones até veículos autônomos.
-- Linguagens de programação como Python, JavaScript e Rust têm se destacado pela versatilidade, comunidade e eficiência.
-- Desenvolvimento de software segue metodologias como Agile e DevOps, que priorizam a colaboração e entregas rápidas.
-- Inteligência artificial (IA) e aprendizado de máquina estão revolucionando áreas como saúde, transporte e segurança.
-- A adoção do desenvolvimento low-code e no-code democratiza o acesso à criação de soluções tecnológicas, permitindo que pessoas sem formação em programação também contribuam.
-- A crescente preocupação com cibersegurança está moldando práticas de desenvolvimento para incluir padrões mais robustos de proteção desde a concepção dos projetos.
+- **Desenvolvimento orientado por IA:** GitHub Copilot, Amazon CodeWhisperer e Claude Code como padrão de mercado — sugestão de código, detecção de bugs e aceleração do ciclo dev
+- **IA agentic:** evolução de assistente reativo para operador autônomo — IA que planeja, decide e executa workflows sem supervisão constante
+- **Low-code/No-code:** redução de até 90% no tempo de desenvolvimento para soluções não críticas; democratiza acesso à criação tech
+- **DevSecOps consolidado:** segurança integrada desde a concepção — não mais etapa final de revisão
+- **Linguagens em alta:**
+  - **Python:** dominante em IA, ML e ciência de dados
+  - **Go:** backend e arquiteturas distribuídas — concorrência e performance
+  - **Rust:** sistemas, blockchain e jogos — segurança de memória sem GC
+- **Engenharia de prompt:** prompts como nova forma de "linguagem de programação" — competência diferenciadora em 2026
+- **Programação sustentável:** código eficiente para reduzir consumo de energia — requisito crescente em licitações e contratos enterprise
+- **Tendências Gartner/McKinsey:** IA invisível (integrada a produtos sem que usuários percebam), plataformas compostas e arquiteturas event-driven
 
 ## 🔗 Conexões
-- [[Claude API e Anthropic SDK]]
-- [[Referência - Livro Clean Code de Robert C. Martin]]
-- [[Pesquisa - Inteligência Artificial Generativa]]
-- [[Pesquisa - Metodologias Ágeis em Desenvolvimento de Software]]
+- [[2026-05-22 - Claude Code — CLI e agentes]]
+- [[2026-05-22 - Deploy e Infraestrutura Cloud]]
+- [[2026-05-22 - Inteligência Artificial — avanços]]
+- [[Pesquisa - 2026-05-13 - Programacao e Dev]]
 
 ## 📚 Fontes
-- [[Referência - Artigo "The Future of Programming" - TechCrunch]]
-- [[Referência - Livro "The Pragmatic Programmer" - Andrew Hunt e David Thomas]]
-- [[Referência - Artigo "How Low-Code Platforms are Changing Software Development" - Forbes]]
+- [Tendências de desenvolvimento de software 2026 — Innowise](https://innowise.com/blog/software-development-trends/)
+- [2026 Software Development Trends — Idealogic](https://idealogic.dev/blog/software-development-trends-2026)
+- [Tendências de Linguagens de Programação em 2026 — JF Developer](https://blog.jfconstantino.com.br/2025/08/28/tendencias-de-linguagens-de-programacao-em-2026-o-que-esperar-do-futuro-do-codigo/)
+- [Principais tendências tecnológicas estratégicas 2026 — Gartner](https://www.gartner.com.br/pt-br/artigos/principais-tendencias-tecnologicas-para-2026)
 
 ## 🚧 Lacunas
-- Qual será o impacto das tecnologias emergentes na necessidade de aprendizado de linguagens de programação tradicionais?
-- Como abordar de maneira eficaz os desafios éticos associados ao desenvolvimento de IA e automação?
-- Quais são as melhores práticas para garantir acessibilidade digital em um mundo cada vez mais dependente de software?
-```
+- Como medir produtividade real de dev com IA vs. sem IA em times médios?
+- Rust está substituindo Go ou são nichos complementares?
+- Engenharia de prompt vai se formalizar como disciplina ou será absorvida pelas ferramentas?
