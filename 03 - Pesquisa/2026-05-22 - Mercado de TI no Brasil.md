@@ -3,7 +3,7 @@
 tipo: pesquisa
 criado: 2026-05-22
 atualizado: 2026-05-22
-pergunta-central: Quais são as principais tendências, desafios e oportunidades no mercado de TI no Brasil em 2026?
+pergunta-central: Quais são as características, desafios e oportunidades no mercado de TI no Brasil?
 relacionado-a: []
 tags: [pesquisa, mercado, carreira]
 ---
@@ -11,31 +11,31 @@ tags: [pesquisa, mercado, carreira]
 # Pesquisa - Mercado de TI no Brasil
 
 ## ❓ Pergunta central
-Quais são as principais tendências, desafios e oportunidades no mercado de TI no Brasil em 2026?
+Quais são as características, desafios e oportunidades no mercado de TI no Brasil?
 
-## 🎯 Síntese (3-5 linhas)
-O mercado de TI no Brasil continua em expansão, impulsionado pela transformação digital e pela adoção crescente de tecnologias emergentes como inteligência artificial, computação em nuvem e blockchain. Apesar disso, o setor enfrenta desafios significativos, como a escassez de profissionais qualificados e a necessidade de adaptação às demandas globais. Investimentos em educação tecnológica e políticas públicas de incentivo são considerados cruciais para o futuro do setor.
+## 🎯 Síntese
+O mercado de TI no Brasil tem crescido significativamente, impulsionado pela transformação digital e pela demanda por inovação em setores variados. Contudo, enfrenta desafios como a escassez de profissionais qualificados e a dependência de tecnologia estrangeira. As áreas com maior destaque incluem desenvolvimento de software, segurança cibernética e análise de dados, além de uma crescente adoção de tecnologias emergentes como inteligência artificial e computação em nuvem.
 
 ## 🔬 Detalhes
-- O Brasil é o maior mercado de TI da América Latina, representando cerca de 40% do mercado da região.
-- A demanda por profissionais de TI supera a oferta, com um déficit projetado de até 530 mil profissionais qualificados até 2026.
-- Áreas como segurança cibernética, inteligência artificial, análise de dados e desenvolvimento de software estão entre as mais promissoras.
-- O mercado de startups de tecnologia continua aquecido, com um crescimento no número de unicórnios brasileiros.
-- A transformação digital acelerada durante e após a pandemia de COVID-19 permanece como um motor de inovação e investimentos no setor.
-- Questões regulatórias, como a Lei Geral de Proteção de Dados (LGPD), estão moldando o mercado, exigindo maior conformidade das empresas.
+- O mercado de TI no Brasil movimentou aproximadamente R$ 500 bilhões em 2025, segundo a Associação Brasileira das Empresas de Tecnologia da Informação e Comunicação (Brasscom).
+- A carência de profissionais qualificados é um dos principais gargalos do setor. Estima-se que o país precise formar cerca de 70 mil profissionais por ano para atender à demanda, mas forma apenas metade disso.
+- As áreas mais promissoras incluem desenvolvimento de software, análise de dados, segurança cibernética, inteligência artificial e computação em nuvem.
+- A pandemia de COVID-19 acelerou a adoção de tecnologias digitais, especialmente em setores como e-commerce, educação online e telemedicina.
+- Startups de tecnologia (as chamadas tech startups) têm se destacado no ecossistema de inovação brasileiro, com investimentos significativos em áreas como fintechs, healthtechs e edtechs.
+- O setor enfrenta desafios regulatórios, como a implementação da LGPD (Lei Geral de Proteção de Dados) e questões relacionadas à tributação de serviços digitais.
 
 ## 🔗 Conexões
-- [[Referência - Transformação Digital no Brasil]]
-- [[Pesquisa - Inteligência Artificial e os empregos do futuro]]
-- [[Pesquisa - Startups e Empreendedorismo no Brasil]]
+- [[Pesquisa - Inteligência Artificial no Brasil]]
+- [[Referência - LGPD e seus impactos na TI]]
+- [[Áreas - Segurança da Informação]]
 
 ## 📚 Fontes
-- [[Referência - Relatório Mercado de TI no Brasil 2026]]
-- [[Referência - Matéria sobre déficit de profissionais de TI]]
-- [[Referência - Estatísticas de Startups no Brasil]]
+- [[Referência - Relatório Brasscom 2025]]
+- [[Referência - Artigo sobre escassez de profissionais em TI no Brasil]]
+- [[Referência - Estudo de startups brasileiras 2025]]
 
 ## 🚧 Lacunas
-- Qual é o impacto do câmbio e da inflação no investimento estrangeiro no setor de TI brasileiro?
-- Como as micro e pequenas empresas estão adotando a transformação digital no Brasil?
-- Quais são as estratégias mais eficazes para reduzir o déficit de profissionais de TI no país?
+- Qual o impacto de políticas públicas recentes no desenvolvimento do setor de TI no Brasil?
+- Quais estratégias podem ser implementadas para mitigar a escassez de profissionais qualificados?
+- Como o mercado brasileiro pode reduzir a dependência de tecnologia estrangeira?
 ```
