@@ -1,41 +1,39 @@
-```markdown
 ---
 tipo: pesquisa
 criado: 2026-05-22
 atualizado: 2026-05-22
-pergunta-central: Como realizar deploys eficientes e escaláveis utilizando infraestrutura cloud?
-relacionado-a: [CI/CD, DevOps, Kubernetes, AWS, Azure, GCP]
+pergunta-central: Como estruturar e otimizar o deploy de aplicações em ambientes de infraestrutura cloud?
+relacionado-a: [arquitetura-de-software, devops, computacao-em-nuvem]
 tags: [pesquisa, dev, infra]
 ---
 
 # Pesquisa - Deploy e Infraestrutura Cloud
 
 ## ❓ Pergunta central
-Como realizar deploys eficientes e escaláveis utilizando infraestrutura cloud?
+Como estruturar e otimizar o deploy de aplicações em ambientes de infraestrutura cloud?
 
 ## 🎯 Síntese (3-5 linhas)
-Deploy e infraestrutura cloud estão no centro da entrega contínua de software moderno. Com a adoção da nuvem, práticas como CI/CD, automação e uso de orquestradores (como Kubernetes) se tornaram pilares. Entender como escolher provedores, configurar pipelines e gerenciar escalabilidade é essencial para garantir eficiência e resiliência em aplicações e sistemas.
+O deploy em infraestrutura cloud consiste na distribuição e gerenciamento de aplicações em servidores baseados em nuvem. Ele requer escolhas estratégicas sobre provedores, ferramentas, orquestração e monitoramento para garantir escalabilidade, alta disponibilidade e custo-eficiência. Tecnologias como containers, CI/CD pipelines e infraestrutura como código (IaC) são essenciais. A segurança e o controle de custos também são fatores cruciais nesse processo.
 
 ## 🔬 Detalhes
-- **Infraestrutura como Código (IaC)**: Ferramentas como Terraform e AWS CloudFormation permitem gerenciar infraestrutura de forma declarativa, garantindo consistência e reprodutibilidade.
-- **CI/CD Pipelines**: Integração Contínua (CI) e Entrega Contínua (CD) automatizam testes, builds e deploys, reduzindo o tempo de entrega e aumentando a confiabilidade.
-- **Orquestração de Contêineres**: Kubernetes e Docker Swarm são amplamente utilizados para gerenciar clusters de contêineres, oferecendo escalabilidade e resiliência.
-- **Escolha do Provedor de Nuvem**: AWS, Google Cloud Platform (GCP) e Microsoft Azure são líderes no mercado, cada um com suas vantagens em serviços e preços.
-- **Gerenciamento de custos**: Estratégias como uso de instâncias reservadas, dimensionamento automático e monitoramento de uso ajudam a otimizar custos na nuvem.
-- **Segurança na Nuvem**: Implementar práticas como controle de acesso baseado em funções (RBAC), criptografia e auditoria contínua é fundamental para proteger dados e sistemas.
+- A escolha entre provedores de nuvem como AWS, Google Cloud e Azure deve considerar custo, escalabilidade, compatibilidade com ferramentas e suporte.
+- Containers (ex.: Docker) e orquestradores (ex.: Kubernetes) facilitam a portabilidade e o escalonamento de aplicações na nuvem.
+- Infraestrutura como Código (IaC) com ferramentas como Terraform e AWS CloudFormation permite criar e gerenciar recursos de forma automatizada e reproduzível.
+- CI/CD pipelines asseguram que o código seja testado e implantado continuamente, com ferramentas populares como Jenkins, GitLab CI/CD e GitHub Actions.
+- Monitoramento e observabilidade, usando ferramentas como Prometheus, Grafana e AWS CloudWatch, são fundamentais para identificar problemas e otimizar o desempenho.
+- Estratégias de deploy, como Blue-Green Deployment ou Canary Releases, minimizam o impacto de mudanças no ambiente de produção.
 
 ## 🔗 Conexões
-- [[Projeto - Implementação de CI/CD com GitHub Actions]]
-- [[Guia - Introdução ao Kubernetes]]
-- [[Referência - Melhores práticas em AWS para DevOps]]
+- [[Projeto - Configurar CI/CD com GitHub Actions]]
+- [[Referência - Kubernetes para desenvolvedores]]
+- [[Claude API e Anthropic SDK]]
 
 ## 📚 Fontes
 - [[Referência - Livro: Kubernetes Up and Running]]
-- [[Referência - Artigo: Best Practices for Cloud Deployments]]
-- [[Referência - Documentação oficial AWS]]
+- [[Referência - Artigo: Como usar Terraform na AWS]]
+- [[Referência - Documentação oficial do Docker]]
 
 ## 🚧 Lacunas
-- Quais são os critérios mais eficazes para decidir entre provedores de nuvem em projetos específicos?
-- Como otimizar a integração entre diferentes ferramentas de CI/CD e infraestrutura de nuvem?
-- Quais são as práticas mais avançadas de segurança para deploys em multi-cloud?
-```
+- Quais são os principais desafios na migração de sistemas legados para infraestrutura cloud?
+- Como calcular o ROI (Retorno sobre Investimento) ao adotar ambientes de nuvem pública versus privada?
+- Quais ferramentas emergentes podem substituir ou complementar Kubernetes e Docker?
