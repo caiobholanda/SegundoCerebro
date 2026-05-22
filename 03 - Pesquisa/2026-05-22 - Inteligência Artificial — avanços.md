@@ -1,41 +1,41 @@
+```markdown
 ---
 tipo: pesquisa
 criado: 2026-05-22
 atualizado: 2026-05-22
-pergunta-central: Quais são os avanços mais relevantes em IA e modelos LLM em maio de 2026?
-relacionado-a: [Claude API, Economia de Tokens, Programação e Dev]
-tags: [pesquisa, ia, llm, agentes]
+pergunta-central: Quais foram os principais avanços recentes na área de Inteligência Artificial e suas implicações para a sociedade?
+relacionado-a: [tecnologia, automação, ética]
+tags: [pesquisa, ia]
 ---
 
 # Pesquisa - Inteligência Artificial — avanços
 
 ## ❓ Pergunta central
-Quais são os avanços mais relevantes em IA e modelos LLM em maio de 2026?
+Quais foram os principais avanços recentes na área de Inteligência Artificial e suas implicações para a sociedade?
 
 ## 🎯 Síntese (3-5 linhas)
-Em maio de 2026, os modelos de fronteira atingiram um "platô": GPT-5.2, Claude Opus 4.5 e Gemini 3 Pro estão tecnicamente empatados nas principais benchmarks. O foco do mercado deslocou-se de capacidade bruta para operacionalidade — modelos que executam tarefas reais, usam ferramentas, mantêm janelas de contexto grandes e coordenam-se com outros sistemas. Agentes de IA autônomos consolidam-se como a tendência dominante, não mais apenas modelos conversacionais.
+A Inteligência Artificial avançou significativamente nos últimos anos, com destaques como modelos de linguagem generativa, aprendizado por reforço aplicado a jogos e robótica, e o crescimento da IA generativa em diversas áreas como arte e design. Esses avanços têm transformado setores econômicos, levantando questões éticas e regulatórias.
 
 ## 🔬 Detalhes
-- **Platô da fronteira:** GPT-5.2 (50 pts), Claude Opus 4.5 (49 pts) e Gemini 3 Pro (48 pts) em Arena Elo — gap técnico quase inexistente
-- **Modelos de fronteira com maior Elo:** GPT-5, Claude Opus 4.6, Gemini 3.1 Pro, Grok 4, DeepSeek V3.2 (faixa 1.450-1.561)
-- **Open-source relevante:** GLM 5.1 — modelo MoE com 744B parâmetros (40B ativos), contexto de 200K tokens, focado em coding e raciocínio agentic
-- **Foco em operacionalidade:** chamar ferramentas, janelas de contexto maiores, análise multimodal e consistência em tarefas longas
-- **Agentes autônomos como padrão:** LLMs agindo via APIs, coordenando-se com outros sistemas e completando tarefas de forma independente
-- **Revolução do raciocínio:** modelos passam de mimetização para estratégia — planejam, otimizam e tomam decisões com menos supervisão humana
-- **Tendência "small models":** modelos menores e especializados ganham espaço para casos de uso específicos com menor custo
+- Modelos como GPT-4 e Claude 2 têm ampliado os limites da linguagem natural, permitindo maior precisão em respostas, tradução e criação de conteúdo.
+- A IA generativa tem impactado setores criativos, como arte, música e design, possibilitando que sistemas criem obras originais.
+- O aprendizado por reforço tem sido aplicado com sucesso em jogos complexos e em robótica, promovendo avanços em simulações e automação.
+- A integração de IA em saúde tem acelerado diagnósticos, personalização de tratamentos e descoberta de novos medicamentos.
+- Avanços em visão computacional permitem maior precisão em áreas como reconhecimento facial, segurança e direção autônoma.
+- Novos modelos de IA estão sendo desenvolvidos com maior eficiência energética, reduzindo o impacto ambiental de treinamentos em larga escala.
 
 ## 🔗 Conexões
-- [[2026-05-22 - Claude API e Anthropic SDK]]
-- [[2026-05-22 - Economia de Tokens em LLMs]]
-- [[Pesquisa - 2026-05-13 - Inteligencia Artificial]]
+- [[Claude API e Anthropic SDK]]
+- [[Pesquisa - Ética em Inteligência Artificial]]
+- [[Pesquisa - Automação e o futuro do trabalho]]
 
 ## 📚 Fontes
-- [LLM News Today May 2026 — LLM Stats](https://llm-stats.com/ai-news)
-- [Qual a melhor IA em 2026? — Mindtek](https://www.mindtek.com.br/2026/05/qual-a-melhor-ia-2026/)
-- [Principais modelos LLM 2026 — GPTMaker](https://gptmaker.ai/principais-modelos-llm-2026/)
-- [A virada dos agentes de IA — Fast Company Brasil](https://fastcompanybrasil.com/ia/a-virada-dos-agentes-de-ia-o-que-mudou-em-2025-e-o-que-esperar-de-2026/)
+- [[Referência - GPT-4 Whitepaper]]
+- [[Referência - artigo sobre IA generativa na arte]]
+- [[Referência - impacto da IA na saúde]]
 
 ## 🚧 Lacunas
-- O platô de fronteira é sustentável ou haverá nova ruptura de capacidade em breve?
-- Como avaliar modelos open-source MoE para casos de uso em produção no Brasil?
-- Qual o impacto regulatório (EU AI Act, etc.) nos modelos disponíveis globalmente?
+- Quais regulamentações estão sendo propostas globalmente para mitigar riscos éticos da IA?
+- Como os avanços em IA podem impactar a desigualdade econômica e social em longo prazo?
+- Quais são os limites técnicos e éticos para a implementação da IA em áreas sensíveis como segurança e defesa?
+```

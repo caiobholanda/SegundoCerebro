@@ -1,41 +1,41 @@
+```markdown
 ---
 tipo: pesquisa
 criado: 2026-05-22
 atualizado: 2026-05-22
-pergunta-central: Quais são as atualizações mais recentes do Claude Code e como elas afetam o fluxo de desenvolvimento com agentes?
-relacionado-a: [Claude API, Inteligência Artificial, Programação e Dev]
-tags: [pesquisa, claude, dev, agentes, cli]
+pergunta-central: Como o Claude Code CLI e seus agentes podem facilitar o desenvolvimento e automação de workflows com IA?
+relacionado-a: [Claude API, automação, desenvolvimento]
+tags: [pesquisa, ia, dev, claude]
 ---
 
 # Pesquisa - Claude Code — CLI e agentes
 
 ## ❓ Pergunta central
-Quais são as atualizações mais recentes do Claude Code e como elas afetam o fluxo de desenvolvimento com agentes?
+Como o Claude Code CLI e seus agentes podem facilitar o desenvolvimento e automação de workflows com IA?
 
 ## 🎯 Síntese (3-5 linhas)
-Maio de 2026 trouxe mudanças relevantes no Claude Code: `/simplify` foi renomeado para `/code-review` com níveis de esforço configuráveis, e o fast mode agora usa Opus 4.7 por padrão. As novas flags para `claude agents` expandem controle programático de sessões background. Correções críticas eliminam falhas no Windows PowerShell e flickering no Windows Terminal durante streaming.
+O Claude Code CLI é uma ferramenta que permite interagir com os modelos da Anthropic via terminal, simplificando tarefas de automação e desenvolvimento. Seus agentes oferecem flexibilidade para realizar operações complexas, combinando linguagens naturais e comandos precisos. Isso potencializa integrações personalizadas com APIs e workflows programáticos, reduzindo a barreira técnica para usuários e desenvolvedores.
 
 ## 🔬 Detalhes
-- **`/code-review` (era `/simplify`):** aceita nível de esforço opcional, ex.: `/code-review high`
-- **Modo automático:** não suprime mais `AskUserQuestion` quando skill depende explicitamente dele
-- **Fix Windows PowerShell:** corrigido "command line is invalid" ao usar pwsh via winget ou Microsoft Store
-- **Fix paginação MCP:** `resources/list`, `resources/templates/list` e `prompts/list` não perdem itens após primeira página
-- **Fix Windows Terminal:** removido flickering em sessões background attachadas durante streaming
-- **Novas flags `claude agents`:** `--add-dir`, `--settings`, `--mcp-config`, `--plugin-dir`, `--permission-mode`, `--model`, `--effort`, `--dangerously-skip-permissions`
-- **Fast mode → Opus 4.7:** upgrade automático do padrão (antes Opus 4.6)
-- **Plugins com SKILL.md:** plugins com `SKILL.md` na raiz (sem subdiretório `skills/`) agora aparecem como skill
+- O Claude Code CLI fornece uma interface minimalista que conecta desenvolvedores ao modelo Claude diretamente pelo terminal.
+- Agentes no Claude Code são unidades configuráveis que executam ações específicas, como análise de dados ou integração com APIs.
+- A filosofia por trás do Claude Code foca em segurança e alinhamento ético, promovendo uso responsável de IA em desenvolvimento.
+- Suporta comandos em linguagem natural, permitindo maior acessibilidade para usuários não técnicos.
+- É possível criar workflows automatizados integrando o Claude Code com ferramentas como cron jobs, scripts Python e sistemas de CI/CD.
+- A customização e adaptação de agentes são feitas por meio de YAML ou arquivos JSON, mantendo flexibilidade e controle granular.
+- Claude Code tem potencial para facilitar prototipagem rápida de soluções IA, especialmente em ambientes de desenvolvimento ágil.
 
 ## 🔗 Conexões
-- [[2026-05-22 - Claude API e Anthropic SDK]]
-- [[2026-05-22 - Programação e Desenvolvimento]]
-- [[Pesquisa - 2026-05-13 - Claude Code]]
+- [[Claude API e Anthropic SDK]]
+- [[Pesquisa - Automação com IA]]
+- [[Referência - Anthropic Whitepaper]]
 
 ## 📚 Fontes
-- [Changelog — Claude Code Docs](https://code.claude.ai/docs/en/changelog)
-- [Claude Code Updates 2026 — GetAIPerks](https://www.getaiperks.com/en/articles/claude-code-updates)
-- [Releases — anthropics/claude-code GitHub](https://github.com/anthropics/claude-code/releases)
+- [[Referência - Claude Code CLI Documentation]]
+- [[Referência - Anthropic Blog sobre agentes]]
 
 ## 🚧 Lacunas
-- Como as novas flags de `claude agents` interagem com hooks customizados?
-- Qual o impacto do upgrade para Opus 4.7 no fast mode em termos de custo?
-- Skills em plugins sem subdiretório têm limitações vs. skills em `.claude/commands/`?
+- Quais são as melhores práticas para integrar Claude Code CLI em sistemas de larga escala?
+- Como o desempenho do Claude Code CLI se compara a outras ferramentas de automação e desenvolvimento IA?
+- Qual é o roadmap futuro para os agentes do Claude Code, especialmente em relação à interoperabilidade?
+```
