@@ -1,39 +1,40 @@
+```markdown
 ---
 tipo: pesquisa
 criado: 2026-05-22
 atualizado: 2026-05-22
-pergunta-central: Como estruturar e otimizar o deploy de aplicações em ambientes de infraestrutura cloud?
-relacionado-a: [arquitetura-de-software, devops, computacao-em-nuvem]
+pergunta-central: Como implementar uma infraestrutura cloud escalável e eficiente para deploys ágeis e seguros?
+relacionado-a: [DevOps, automação, escalabilidade]
 tags: [pesquisa, dev, infra]
 ---
 
 # Pesquisa - Deploy e Infraestrutura Cloud
 
 ## ❓ Pergunta central
-Como estruturar e otimizar o deploy de aplicações em ambientes de infraestrutura cloud?
+Como implementar uma infraestrutura cloud escalável e eficiente para deploys ágeis e seguros?
 
 ## 🎯 Síntese (3-5 linhas)
-O deploy em infraestrutura cloud consiste na distribuição e gerenciamento de aplicações em servidores baseados em nuvem. Ele requer escolhas estratégicas sobre provedores, ferramentas, orquestração e monitoramento para garantir escalabilidade, alta disponibilidade e custo-eficiência. Tecnologias como containers, CI/CD pipelines e infraestrutura como código (IaC) são essenciais. A segurança e o controle de custos também são fatores cruciais nesse processo.
+Deploy e infraestrutura cloud são pilares centrais para entrega contínua e escalabilidade de aplicações modernas. A escolha de ferramentas, provedores e práticas como automação e containerização é essencial para garantir desempenho, segurança e custos otimizados. A combinação de boas práticas DevOps com serviços gerenciados pode acelerar o time-to-market e reduzir riscos.
 
 ## 🔬 Detalhes
-- A escolha entre provedores de nuvem como AWS, Google Cloud e Azure deve considerar custo, escalabilidade, compatibilidade com ferramentas e suporte.
-- Containers (ex.: Docker) e orquestradores (ex.: Kubernetes) facilitam a portabilidade e o escalonamento de aplicações na nuvem.
-- Infraestrutura como Código (IaC) com ferramentas como Terraform e AWS CloudFormation permite criar e gerenciar recursos de forma automatizada e reproduzível.
-- CI/CD pipelines asseguram que o código seja testado e implantado continuamente, com ferramentas populares como Jenkins, GitLab CI/CD e GitHub Actions.
-- Monitoramento e observabilidade, usando ferramentas como Prometheus, Grafana e AWS CloudWatch, são fundamentais para identificar problemas e otimizar o desempenho.
-- Estratégias de deploy, como Blue-Green Deployment ou Canary Releases, minimizam o impacto de mudanças no ambiente de produção.
+- Infraestrutura em cloud oferece vantagens como escalabilidade, flexibilidade e custo sob demanda, com modelos de IaaS (Infraestrutura como Serviço), PaaS (Plataforma como Serviço) e SaaS (Software como Serviço).
+- Ferramentas de automação como Terraform e Ansible facilitam a gestão de infraestrutura como código (IaC), promovendo consistência e versionamento.
+- Containerização com Docker e orquestração via Kubernetes permite implantações mais ágeis, escaláveis e portáveis entre diferentes ambientes.
+- O uso de CI/CD (Integração Contínua e Entrega Contínua) é essencial para automatizar testes, builds e deploys, reduzindo erros manuais e acelerando o ciclo de desenvolvimento.
+- Provedores de cloud populares incluem AWS, Azure e Google Cloud, cada um oferecendo serviços como servidores virtuais, bancos de dados gerenciados e ferramentas de monitoramento.
+- Boas práticas de segurança em cloud incluem autenticação multifator, criptografia de dados em trânsito e repouso e configuração correta de permissões e firewalls.
 
 ## 🔗 Conexões
-- [[Projeto - Configurar CI/CD com GitHub Actions]]
-- [[Referência - Kubernetes para desenvolvedores]]
-- [[Claude API e Anthropic SDK]]
+- [[Pesquisa - Automação com Terraform]]
+- [[Pesquisa - Kubernetes e Orquestração de Contêineres]]
 
 ## 📚 Fontes
-- [[Referência - Livro: Kubernetes Up and Running]]
-- [[Referência - Artigo: Como usar Terraform na AWS]]
-- [[Referência - Documentação oficial do Docker]]
+- [[Referência - Livro: Infrastructure as Code (Kief Morris)]]
+- [[Referência - Artigo: Introdução ao Kubernetes (Blog DigitalOcean)]]
+- [[Referência - Curso: AWS Certified Solutions Architect (Udemy)]]
 
 ## 🚧 Lacunas
-- Quais são os principais desafios na migração de sistemas legados para infraestrutura cloud?
-- Como calcular o ROI (Retorno sobre Investimento) ao adotar ambientes de nuvem pública versus privada?
-- Quais ferramentas emergentes podem substituir ou complementar Kubernetes e Docker?
+- Qual a melhor abordagem para gerenciar custos em infraestruturas multi-cloud?
+- Como alinhar práticas de segurança com a crescente adoção de microsserviços em cloud?
+- Quais são as tendências emergentes em automação e infraestrutura serverless?
+```
