@@ -1,42 +1,38 @@
-```markdown
 ---
 tipo: pesquisa
 criado: 2026-05-21
 atualizado: 2026-05-21
-pergunta-central: Quais são os principais avanços recentes em inteligência artificial e como eles estão transformando diferentes setores?
-relacionado-a: [tecnologia, inovação, machine-learning]
+pergunta-central: Quais são os avanços mais recentes em inteligência artificial e como estão impactando a sociedade?
+relacionado-a: [[Claude API e Anthropic SDK]], [[Pesquisa - Ética em IA]]
 tags: [pesquisa, ia]
 ---
 
 # Pesquisa - Inteligência Artificial — avanços
 
 ## ❓ Pergunta central
-Quais são os principais avanços recentes em inteligência artificial e como eles estão transformando diferentes setores?
+Quais são os avanços mais recentes em inteligência artificial e como estão impactando a sociedade?
 
 ## 🎯 Síntese (3-5 linhas)
-Os avanços recentes em inteligência artificial incluem o desenvolvimento de modelos de linguagem generativos como o GPT-4, a aplicação de algoritmos de aprendizado profundo no diagnóstico médico, a expansão do uso de IA generativa em design e criação artística, e o crescimento da automação em indústrias como transporte e manufatura. Esses progressos estão acelerando a transformação digital, mas levantam desafios éticos e regulatórios significativos.
+Os avanços recentes em inteligência artificial incluem melhorias em modelos generativos, como GPT-4; maior eficiência em aprendizado por reforço; IA aplicada à medicina de precisão; e sistemas responsáveis por decisões complexas em tempo real. Embora promissora, a evolução da IA traz desafios éticos e sociais, especialmente em transparência e regulação.
 
 ## 🔬 Detalhes
-- O lançamento de modelos de linguagem como o [[GPT-4]] e o [[Claude]] demonstrou capacidades avançadas em processamento de linguagem natural, redação criativa e resolução de problemas complexos.
-- IA generativa está sendo usada para criar imagens, vídeos e música de alta qualidade, impactando indústrias criativas como design, marketing e entretenimento.
-- No setor de saúde, algoritmos de aprendizado profundo estão sendo usados para diagnóstico precoce de doenças, como câncer e doenças cardíacas, com precisão superior à de especialistas humanos em alguns casos.
-- Avanços em visão computacional e aprendizado por reforço estão acelerando o desenvolvimento de veículos autônomos e drones, com impacto direto nos setores de transporte e logística.
-- A aplicação de IA em manufatura está otimizando processos produtivos, reduzindo custos e aumentando a eficiência por meio de automação e manutenção preditiva.
-- Novas abordagens em IA ética e explicável estão sendo desenvolvidas para lidar com questões relacionadas à transparência, viés algorítmico e impacto social.
+- Modelos generativos baseados em grandes linguagens, como GPT-4 e Claude, estão redefinindo o processamento de linguagem natural e criatividade artificial.
+- Aprendizado por reforço está sendo usado para resolver problemas complexos, como estratégias de controle em robótica avançada.
+- IA médica está acelerando diagnósticos e tratamentos personalizados, incluindo análise de imagens e previsão de doenças.
+- Sistemas autônomos de decisão (ex.: veículos autônomos) estão em fase de testes mais robustos, com foco em segurança e confiabilidade.
+- A fusão entre IA e IoT (Internet das Coisas) está criando ecossistemas inteligentes em cidades, residências e indústrias.
+- Discussões sobre ética e regulação de IA ganharam força, incluindo iniciativas como a Carta de Princípios da Anthropic para IA responsável.
 
 ## 🔗 Conexões
 - [[Claude API e Anthropic SDK]]
-- [[Pesquisa - Ética em Inteligência Artificial]]
-- [[Pesquisa - Impacto da IA no mercado de trabalho]]
-- [[Referência - Livro - Inteligência Artificial e o Futuro da Humanidade]]
+- [[Pesquisa - Ética em IA]]
 
 ## 📚 Fontes
-- [[Referência - Artigo - GPT-4 e o futuro do NLP]]
-- [[Referência - Relatório - O impacto da IA na saúde em 2026]]
-- [[Referência - Artigo - IA generativa nas indústrias criativas]]
+- [[Referência - OpenAI GPT-4: avanços e aplicações]]
+- [[Referência - Anthropic e a segurança em IA]]
+- [[Referência - Artigo sobre IA e medicina de precisão]]
 
 ## 🚧 Lacunas
-- Como equilibrar o avanço da IA com a necessidade de regulamentações éticas eficazes?
-- Quais serão os impactos de longo prazo da IA generativa em empregos criativos e no conceito de autoria?
-- Como garantir a segurança de sistemas de IA em aplicações críticas, como transporte autônomo e saúde?
-```
+- Quais são as implicações legais dos sistemas de IA que tomam decisões autônomas?
+- Como equilibrar inovação em IA com questões de privacidade e controle de dados?
+- Quais são os próximos passos para integrar IA em setores industriais de alta complexidade?
