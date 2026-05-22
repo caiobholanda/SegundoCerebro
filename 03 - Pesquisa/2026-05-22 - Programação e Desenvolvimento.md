@@ -3,40 +3,39 @@
 tipo: pesquisa
 criado: 2026-05-22
 atualizado: 2026-05-22
-pergunta-central: Como a programação e o desenvolvimento estão moldando o futuro das tecnologias e da sociedade?
-relacionado-a: [tecnologia, inovação, educação]
+pergunta-central: Como a programação e o desenvolvimento evoluem para atender às demandas da sociedade moderna?
+relacionado-a: [tecnologia, inovação, habilidades-digitais]
 tags: [pesquisa, dev, produtividade]
 ---
 
 # Pesquisa - Programação e Desenvolvimento
 
 ## ❓ Pergunta central
-Como a programação e o desenvolvimento estão moldando o futuro das tecnologias e da sociedade?
+Como a programação e o desenvolvimento evoluem para atender às demandas da sociedade moderna?
 
 ## 🎯 Síntese (3-5 linhas)
-A programação e o desenvolvimento são pilares fundamentais da era digital, impulsionando inovações tecnológicas e transformando setores como saúde, educação, comunicação e finanças. O crescimento de tecnologias como IA, blockchain e automação está redefinindo o papel dos desenvolvedores e ampliando os limites do que é possível. Ainda assim, desafios éticos, de acessibilidade e de segurança precisam ser enfrentados.
+Programação e desenvolvimento são pilares da transformação digital, permitindo a automação, a inovação e a criação de soluções escaláveis. A constante evolução das linguagens, frameworks e ferramentas responde às necessidades de integração, acessibilidade e eficiência. Com o avanço da IA, o papel do programador está mudando, focando mais em design, arquitetura e soluções criativas.
 
 ## 🔬 Detalhes
-- Programação é a base para a criação de softwares, aplicativos e sistemas que permeiam todos os aspectos da vida moderna, desde smartphones até veículos autônomos.
-- Linguagens de programação como Python, JavaScript e Rust têm se destacado pela versatilidade, comunidade e eficiência.
-- Desenvolvimento de software segue metodologias como Agile e DevOps, que priorizam a colaboração e entregas rápidas.
-- Inteligência artificial (IA) e aprendizado de máquina estão revolucionando áreas como saúde, transporte e segurança.
-- A adoção do desenvolvimento low-code e no-code democratiza o acesso à criação de soluções tecnológicas, permitindo que pessoas sem formação em programação também contribuam.
-- A crescente preocupação com cibersegurança está moldando práticas de desenvolvimento para incluir padrões mais robustos de proteção desde a concepção dos projetos.
+- A programação se divide em várias áreas, como desenvolvimento web, mobile, backend, frontend, ciência de dados e inteligência artificial.
+- Linguagens populares como Python, JavaScript e Rust continuam a crescer devido à sua versatilidade e suporte da comunidade.
+- Metodologias ágeis, como Scrum e Kanban, são amplamente usadas para melhorar a colaboração e a entrega rápida de software.
+- Ferramentas de desenvolvimento low-code e no-code democratizam o acesso à programação, permitindo que pessoas sem formação técnica criem soluções.
+- A inteligência artificial, como o uso de assistentes de código (ex.: Copilot, ChatGPT), está transformando a forma como os desenvolvedores escrevem, depuram e implementam códigos.
+- Segurança e privacidade são prioridades cada vez maiores no desenvolvimento de software, especialmente com a crescente preocupação em relação a dados sensíveis e ataques cibernéticos.
 
 ## 🔗 Conexões
 - [[Claude API e Anthropic SDK]]
-- [[Referência - Livro Clean Code de Robert C. Martin]]
 - [[Pesquisa - Inteligência Artificial Generativa]]
-- [[Pesquisa - Metodologias Ágeis em Desenvolvimento de Software]]
+- [[Projeto - Criar curso de programação para iniciantes]]
 
 ## 📚 Fontes
-- [[Referência - Artigo "The Future of Programming" - TechCrunch]]
-- [[Referência - Livro "The Pragmatic Programmer" - Andrew Hunt e David Thomas]]
-- [[Referência - Artigo "How Low-Code Platforms are Changing Software Development" - Forbes]]
+- [[Referência - Livro - Clean Code de Robert C. Martin]]
+- [[Referência - Artigo - O impacto do low-code no desenvolvimento de software]]
+- [[Referência - Site - Documentação oficial do Python (python.org)]]
 
 ## 🚧 Lacunas
-- Qual será o impacto das tecnologias emergentes na necessidade de aprendizado de linguagens de programação tradicionais?
-- Como abordar de maneira eficaz os desafios éticos associados ao desenvolvimento de IA e automação?
-- Quais são as melhores práticas para garantir acessibilidade digital em um mundo cada vez mais dependente de software?
+- Como as ferramentas de IA evoluirão para auxiliar desenvolvedores nos próximos 5 anos?
+- Qual o impacto do desenvolvimento low-code na profissão de programador tradicional?
+- Quais as melhores práticas de ensino para tornar a programação acessível a iniciantes?
 ```
