@@ -1,43 +1,39 @@
-```markdown
 ---
 tipo: pesquisa
 criado: 2026-05-22
 atualizado: 2026-05-22
-pergunta-central: Quais são as melhores práticas e tendências atuais em programação e desenvolvimento para aumentar a produtividade e a qualidade do software?
-relacionado-a: [metodologias-agile, produtividade-em-tecnologia, ferramentas-de-desenvolvimento]
+pergunta-central: Quais são as melhores práticas e tendências atuais em programação e desenvolvimento de software?
+relacionado-a: [tecnologia, software, educação]
 tags: [pesquisa, dev, produtividade]
 ---
 
 # Pesquisa - Programação e Desenvolvimento
 
 ## ❓ Pergunta central
-Quais são as melhores práticas e tendências atuais em programação e desenvolvimento para aumentar a produtividade e a qualidade do software?
+Quais são as melhores práticas e tendências atuais em programação e desenvolvimento de software?
 
 ## 🎯 Síntese (3-5 linhas)
-A programação e o desenvolvimento de software estão em constante evolução, com práticas modernas como DevOps, metodologias ágeis e programação funcional ganhando destaque. Ferramentas de automação e IA estão revolucionando o fluxo de trabalho, enquanto a adoção de boas práticas de engenharia de software, como testes automatizados e code reviews, continua essencial para garantir qualidade e manutenção de longo prazo.
+Programação e desenvolvimento de software estão em constante evolução, impulsionados por novas tecnologias, metodologias ágeis e a crescente adoção de inteligência artificial. As melhores práticas incluem a aplicação de princípios como Clean Code, testes automatizados e colaboração em equipe. Além disso, ferramentas modernas como CI/CD e plataformas de código aberto têm sido essenciais para aumentar a produtividade e a qualidade dos projetos.
 
 ## 🔬 Detalhes
-- **Metodologias Ágeis**: Frameworks como Scrum e Kanban ajudam equipes a gerenciar projetos de forma adaptativa, com ciclos curtos de entrega e foco no cliente.
-- **DevOps**: A integração contínua e a entrega contínua (CI/CD) são práticas fundamentais para acelerar o ciclo de desenvolvimento e dar mais confiabilidade às implantações.
-- **Programação Funcional**: Paradigma que ganha espaço por sua abordagem imutável e modular, ajudando a reduzir bugs e melhorar a legibilidade do código.
-- **Ferramentas de Automação**: Plataformas como GitHub Actions, CircleCI e Jenkins tornam os processos de integração e entrega mais ágeis e menos propensos a erros.
-- **IA no Desenvolvimento**: Ferramentas como [[Claude API e Anthropic SDK]] e Copilot estão otimizando tarefas repetitivas, sugerindo códigos e ajudando com a documentação.
-- **Boas Práticas**: Testes unitários, revisões de código e documentação clara continuam sendo pilares para a qualidade e manutenção de software.
+- A programação orientada a testes (TDD - Test-Driven Development) é uma prática amplamente adotada, garantindo maior qualidade no código e menos bugs.
+- A popularidade de frameworks web como React, Angular e Vue.js continua crescendo, especialmente no desenvolvimento front-end.
+- Linguagens como Python, JavaScript e Go são altamente demandadas devido à sua versatilidade e ampla aplicação em áreas como IA, desenvolvimento web e sistemas distribuídos.
+- Metodologias ágeis (Scrum, Kanban) são padrão na gestão de equipes de desenvolvimento, promovendo entregas incrementais e adaptabilidade.
+- Ferramentas de integração e entrega contínua (CI/CD), como Jenkins e GitHub Actions, estão otimizando os processos de deploy e testes automatizados.
+- A inteligência artificial está transformando o desenvolvimento, com ferramentas como GitHub Copilot, que aumentam a produtividade dos programadores ao sugerir trechos de código.
 
 ## 🔗 Conexões
 - [[Claude API e Anthropic SDK]]
-- [[Pesquisa - Metodologias Ágeis na prática]]
-- [[Referência - DevOps and CI/CD]]
-- [[Referência - Programação Funcional em JavaScript]]
+- [[Pesquisa - Tendências em Inteligência Artificial]]
+- [[Roteiro - Como estruturar um projeto de software eficiente]]
 
 ## 📚 Fontes
-- [[Referência - Clean Code (Robert C. Martin)]]
-- [[Referência - Accelerate (Nicole Forsgren)]]
-- [[Referência - Continuous Delivery (Jez Humble)]]
-- [[Referência - Artigo sobre o uso de IA em programação]]
+- [[Referência - Livro Clean Code de Robert C. Martin]]
+- [[Referência - Documentação oficial do GitHub Copilot]]
+- [[Referência - Artigo sobre tendências de programação em 2026]]
 
 ## 🚧 Lacunas
-- Quais são os limites e desafios éticos associados ao uso de IA na programação?
-- Como diferentes equipes podem adaptar metodologias ágeis para contextos específicos?
-- Quais linguagens de programação mais se beneficiam de práticas de desenvolvimento funcional?
-```
+- Quais são os impactos de ferramentas baseadas em IA no mercado de trabalho para programadores?
+- Como as metodologias ágeis estão sendo adaptadas para equipes remotas em escala global?
+- Quais são as principais barreiras para a adoção de práticas sustentáveis no desenvolvimento de software?

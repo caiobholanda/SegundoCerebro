@@ -3,39 +3,41 @@
 tipo: pesquisa
 criado: 2026-05-22
 atualizado: 2026-05-22
-pergunta-central: Qual é o papel do deploy e da infraestrutura cloud na entrega eficiente e escalável de aplicações modernas?
-relacionado-a: [computacao-em-nuvem, devops, kubernetes, automacao]
+pergunta-central: Quais são os principais conceitos, práticas e ferramentas para realizar deploy e gerenciar infraestrutura em Cloud?
+relacionado-a: []
 tags: [pesquisa, dev, infra]
 ---
 
 # Pesquisa - Deploy e Infraestrutura Cloud
 
 ## ❓ Pergunta central
-Qual é o papel do deploy e da infraestrutura cloud na entrega eficiente e escalável de aplicações modernas?
+Quais são os principais conceitos, práticas e ferramentas para realizar deploy e gerenciar infraestrutura em Cloud?
 
 ## 🎯 Síntese (3-5 linhas)
-A infraestrutura cloud transformou a forma como aplicações são desenvolvidas, implantadas e escaladas, permitindo maior flexibilidade, custos reduzidos e velocidade de entrega. O deploy, por sua vez, é o processo de disponibilizar aplicações para uso, sendo crítico para o sucesso de qualquer sistema. Com ferramentas como containers, orquestradores e pipelines CI/CD, é possível alcançar maior automação, resiliência e eficiência operacional.
+Deploy e infraestrutura em Cloud envolvem práticas como automação, escalabilidade e resiliência. Ferramentas como Kubernetes, Terraform e serviços gerenciados (AWS, Azure, GCP) são fundamentais. O foco está em pipelines CI/CD robustos, otimização de custos e segurança. A escolha da abordagem depende do caso de uso, seja para microsserviços, aplicações monolíticas ou serverless.
 
 ## 🔬 Detalhes
-- **Cloud como base de infraestrutura**: Provedores como AWS, Azure e Google Cloud oferecem serviços escaláveis que reduzem a necessidade de hardware local.
-- **Modelos de serviço**: IaaS, PaaS e SaaS permitem diferentes níveis de controle e responsabilidade, adaptando-se a diversas necessidades de negócios.
-- **Containers e orquestradores**: Tecnologias como Docker e Kubernetes permitem empacotar e gerenciar aplicações de forma eficiente, facilitando a portabilidade e a escalabilidade.
-- **Pipelines CI/CD**: Integração e entrega contínuas automatizam o processo de teste, build e deploy, reduzindo erros humanos e aumentando a rapidez de entrega.
-- **Observabilidade e monitoramento**: Ferramentas como Prometheus, Grafana e ELK Stack são essenciais para garantir a saúde e o desempenho de sistemas em produção.
-- **Resiliência e alta disponibilidade**: Práticas como distribuição de carga, replicação de dados e uso de zonas de disponibilidade garantem que aplicações permaneçam operacionais mesmo diante de falhas.
+- **Automação**: O uso de pipelines CI/CD (Continuous Integration/Continuous Deployment) ajuda a reduzir erros manuais e acelera o ciclo de desenvolvimento.
+- **Orquestração de contêineres**: Kubernetes é amplamente utilizado para gerenciar contêineres em produção, garantindo escalabilidade e alta disponibilidade.
+- **Infraestrutura como Código (IaC)**: Ferramentas como Terraform e CloudFormation permitem gerenciar recursos de infraestrutura de forma declarativa e reproduzível.
+- **Modelos de deployment**: Blue-Green Deployment e Canary Release são estratégias comuns para minimizar o impacto de atualizações.
+- **Serviços gerenciados**: Plataformas como AWS Elastic Beanstalk, Google App Engine e Azure App Services simplificam a gestão de infraestrutura.
+- **Monitoramento e observabilidade**: Ferramentas como Prometheus, Grafana e serviços nativos de Cloud (ex.: AWS CloudWatch) garantem visibilidade e controle.
+- **Segurança na Cloud**: Práticas como configuração de firewalls, controle de acesso granular e criptografia de dados são essenciais.
 
 ## 🔗 Conexões
-- [[Pesquisa - Computação em Nuvem]]
-- [[Pesquisa - DevOps e Integração Contínua]]
-- [[Claude API e Anthropic SDK]]
+- [[Pesquisa - Kubernetes e Orquestração de Contêineres]]
+- [[Pesquisa - Infraestrutura como Código (IaC)]]
+- [[Referência - AWS Well-Architected Framework]]
 
 ## 📚 Fontes
-- [[Referência - Livro: Kubernetes: Up and Running]]
-- [[Referência - Artigo: O que é DevOps?]]
-- [[Referência - Documentação oficial da AWS]]
+- [[Referência - Site Reliability Engineering (SRE) do Google]]
+- [[Referência - Livro Terraform Up & Running]]
+- [[Referência - AWS Well-Architected Framework]]
+- [[Referência - Artigo: What is Kubernetes? (kubernetes.io)]]
 
 ## 🚧 Lacunas
-- Quais são as melhores práticas para garantir segurança em pipelines CI/CD no contexto de infraestrutura cloud?
-- Quais os custos reais associados à migração e manutenção de sistemas na nuvem em comparação com infraestrutura on-premises?
-- Como as tendências emergentes, como serverless computing, impactam as estratégias de deploy e gestão de infraestrutura?
+- Quais são os trade-offs entre diferentes estratégias de deployment, como Blue-Green e Canary?
+- Como calcular adequadamente o custo-benefício entre soluções serverless e provisionamento de infraestrutura tradicional?
+- Quais tendências futuras devem impactar a gestão de infraestrutura em Cloud nos próximos 5 anos?
 ```
