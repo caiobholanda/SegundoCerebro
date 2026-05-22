@@ -18,22 +18,22 @@ Estudos sobre temas e ferramentas. Material **destilado por você** — não é 
 ## Pesquisas
 
 ### 2026-05-22 (Pesquisa Diária)
-- [[2026-05-22 - Claude API e Anthropic SDK]]
-- [[2026-05-22 - Claude Code — CLI e agentes]]
-- [[2026-05-22 - Economia de Tokens em LLMs]]
-- [[2026-05-22 - Deploy e Infraestrutura Cloud]]
-- [[2026-05-22 - Inteligência Artificial — avanços]]
-- [[2026-05-22 - Programação e Desenvolvimento]]
-- [[2026-05-22 - Mercado de TI no Brasil]]
+- [[Pesquisa - 2026-05-22 - Claude API e Anthropic SDK]]
+- [[Pesquisa - 2026-05-22 - Claude Code — CLI e agentes]]
+- [[Pesquisa - 2026-05-22 - Economia de Tokens em LLMs]]
+- [[Pesquisa - 2026-05-22 - Deploy e Infraestrutura Cloud]]
+- [[Pesquisa - 2026-05-22 - Inteligência Artificial — avanços]]
+- [[Pesquisa - 2026-05-22 - Programação e Desenvolvimento]]
+- [[Pesquisa - 2026-05-22 - Mercado de TI no Brasil]]
 
 ### 2026-05-21 (Pesquisa Diária)
-- [[2026-05-21 - Claude API e Anthropic SDK]]
-- [[2026-05-21 - Claude Code — CLI e agentes]]
-- [[2026-05-21 - Economia de Tokens em LLMs]]
-- [[2026-05-21 - Deploy e Infraestrutura Cloud]]
-- [[2026-05-21 - Inteligência Artificial — avanços]]
-- [[2026-05-21 - Programação e Desenvolvimento]]
-- [[2026-05-21 - Mercado de TI no Brasil]]
+- [[Pesquisa - 2026-05-21 - Claude API e Anthropic SDK]]
+- [[Pesquisa - 2026-05-21 - Claude Code — CLI e agentes]]
+- [[Pesquisa - 2026-05-21 - Economia de Tokens em LLMs]]
+- [[Pesquisa - 2026-05-21 - Deploy e Infraestrutura Cloud]]
+- [[Pesquisa - 2026-05-21 - Inteligência Artificial — avanços]]
+- [[Pesquisa - 2026-05-21 - Programação e Desenvolvimento]]
+- [[Pesquisa - 2026-05-21 - Mercado de TI no Brasil]]
 
 ### 2026-05-20 (Pesquisa Diária)
 - [[Pesquisa - 2026-05-20 - Claude API]]
