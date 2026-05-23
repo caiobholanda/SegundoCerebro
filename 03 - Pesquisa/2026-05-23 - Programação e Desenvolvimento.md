@@ -3,39 +3,41 @@
 tipo: pesquisa
 criado: 2026-05-23
 atualizado: 2026-05-23
-pergunta-central: Como a programação e o desenvolvimento podem ser otimizados para maximizar produtividade sem comprometer a qualidade do código?
-relacionado-a: []
+pergunta-central: Quais são as principais tendências e práticas emergentes em programação e desenvolvimento atualmente?
+relacionado-a: [produtividade, inovação tecnológica]
 tags: [pesquisa, dev, produtividade]
 ---
 
 # Pesquisa - Programação e Desenvolvimento
 
 ## ❓ Pergunta central
-Como a programação e o desenvolvimento podem ser otimizados para maximizar produtividade sem comprometer a qualidade do código?
+Quais são as principais tendências e práticas emergentes em programação e desenvolvimento atualmente?
 
 ## 🎯 Síntese (3-5 linhas)
-Programação é a base para criar soluções tecnológicas, enquanto desenvolvimento abrange todo o ciclo de vida de sistemas. A produtividade no desenvolvimento depende de boas práticas como metodologias ágeis, automação e revisão constante de código. Contudo, equilibrar qualidade e velocidade exige cuidado, especialmente no uso de tecnologias emergentes como IA para apoio à codificação.
+A programação e o desenvolvimento evoluem rapidamente, impulsionados por tecnologias como inteligência artificial, desenvolvimento low-code e no-code, e práticas como DevOps e programação pair. A adoção de metodologias ágeis, a crescente relevância de segurança cibernética e a busca por eficiência com ferramentas de automação são essenciais para o sucesso. A acessibilidade e a inclusão também se tornaram pilares fundamentais.
 
 ## 🔬 Detalhes
-- Programação é a escrita de instruções para que máquinas executem tarefas; já o desenvolvimento considera também planejamento, design, testes e manutenção.
-- Metodologias ágeis, como Scrum e Kanban, são amplamente usadas para melhorar a colaboração e entregar valor rapidamente ao cliente.
-- Ferramentas de controle de versão, como Git, são essenciais para gerenciar mudanças e facilitar o trabalho em equipe.
-- Automação de testes e CI/CD (Integração e Entrega Contínua) ajudam a detectar erros precocemente e a reduzir o tempo de lançamento.
-- O uso de Inteligência Artificial, como o [[Claude API e Anthropic SDK]], pode acelerar a escrita de código, mas exige supervisão humana para garantir qualidade e segurança.
-- A adoção de boas práticas, como Clean Code e revisão de pares, mantém a qualidade do código ao longo do tempo.
+- **Inteligência Artificial**: Ferramentas como GPTs e modelos generativos estão sendo amplamente usados para gerar código e automatizar tarefas repetitivas.
+- **Low-code e No-code**: Plataformas estão democratizando o acesso ao desenvolvimento, permitindo que não-programadores criem soluções funcionais.
+- **DevOps e CI/CD**: Integração e entrega contínuas são práticas cada vez mais comuns para agilizar e melhorar a qualidade do desenvolvimento.
+- **Segurança em desenvolvimento**: A crescente ameaça de ataques cibernéticos força os desenvolvedores a integrar segurança desde o início do ciclo de vida do software.
+- **Programação pair**: Duplas de programadores trabalham juntas no mesmo código em tempo real, promovendo qualidade e aprendizado mútuo.
+- **Metodologias ágeis**: Scrum e Kanban continuam a ser amplamente adotados para gerenciar projetos complexos e dinâmicos.
+- **Automação**: Ferramentas como Docker e Kubernetes ajudam na automação de deploys e na escalabilidade de aplicações.
+- **Acessibilidade e inclusão**: Práticas como design universal e desenvolvimento orientado à acessibilidade são uma prioridade crescente.
 
 ## 🔗 Conexões
 - [[Claude API e Anthropic SDK]]
-- [[Pesquisa - Metodologias ágeis]]
-- [[Pesquisa - Automação de testes e CI/CD]]
+- [[Referência - Metodologias Ágeis]]
+- [[Pesquisa - Inteligência Artificial Generativa]]
 
 ## 📚 Fontes
-- [[Referência - Clean Code de Robert C. Martin]]
-- [[Referência - Artigo sobre as melhores práticas de Git]]
-- [[Referência - Livro Scrum: A Arte de Fazer o Dobro de Trabalho na Metade do Tempo]]
+- [[Referência - Livro - Clean Code]]
+- [[Referência - Artigo - The State of DevOps Report 2026]]
+- [[Referência - Relatório - Gartner sobre tendências em desenvolvimento]]
 
 ## 🚧 Lacunas
-- Como medir e comparar a produtividade de desenvolvedores de diferentes níveis de experiência?
-- Quais são os limites éticos e práticos do uso de IA para programação?
-- Como adaptar metodologias ágeis para equipes distribuídas globalmente?
+- Como balancear a adoção de plataformas no-code com a necessidade de controle técnico mais avançado?
+- Quais são os melhores frameworks de segurança para desenvolvimento ágil e contínuo?
+- Como prever o impacto da IA generativa na substituição parcial de funções tradicionais de desenvolvimento?
 ```
