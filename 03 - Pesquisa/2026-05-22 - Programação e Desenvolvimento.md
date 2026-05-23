@@ -3,40 +3,41 @@
 tipo: pesquisa
 criado: 2026-05-22
 atualizado: 2026-05-22
-pergunta-central: Como a programação e o desenvolvimento estão moldando o futuro da tecnologia e da sociedade?
-relacionado-a: [tecnologia, inovação, software]
+pergunta-central: Como a programação e o desenvolvimento estão evoluindo para atender às demandas tecnológicas e sociais atuais?
+relacionado-a: [tecnologia, inovação, automação]
 tags: [pesquisa, dev, produtividade]
 ---
 
 # Pesquisa - Programação e Desenvolvimento
 
 ## ❓ Pergunta central
-Como a programação e o desenvolvimento estão moldando o futuro da tecnologia e da sociedade?
+Como a programação e o desenvolvimento estão evoluindo para atender às demandas tecnológicas e sociais atuais?
 
 ## 🎯 Síntese (3-5 linhas)
-A programação e o desenvolvimento impulsionam a transformação digital, permitindo a criação de soluções inovadoras que impactam diretamente a economia, a comunicação, a saúde e a educação. Ferramentas de automação e inteligência artificial estão remodelando o mercado de trabalho, enquanto o código aberto acelera a colaboração global. No entanto, questões éticas e o acesso desigual às tecnologias permanecem desafios críticos.
+A programação e o desenvolvimento estão em constante transformação, impulsionados por avanços em inteligência artificial, computação em nuvem e a crescente demanda por automação e eficiência. A ênfase em aprendizado contínuo, colaboração em código aberto e o surgimento de novas linguagens e frameworks refletem a busca por soluções mais rápidas e adaptáveis. Tecnologias emergentes, como o desenvolvimento low-code/no-code, também estão democratizando o acesso à criação de software.
 
 ## 🔬 Detalhes
-- A programação é a base para a criação de software, aplicativos e sistemas que facilitam e automatizam tarefas humanas.
-- Linguagens de programação como Python, JavaScript e Rust estão entre as mais populares, cada uma atendendo a necessidades específicas de desenvolvimento.
-- O desenvolvimento ágil e metodologias como Scrum e Kanban revolucionaram o gerenciamento de projetos, promovendo eficiência e colaboração.
-- A programação está no centro de avanços em inteligência artificial, machine learning e blockchain, tecnologias que estão redefinindo indústrias inteiras.
-- O movimento de código aberto (open source) contribuiu para um ambiente de colaboração global, permitindo a criação de softwares robustos e acessíveis.
-- Há um aumento na preocupação com a ética na programação, especialmente em relação ao uso de IA, privacidade de dados e viés algorítmico.
+- A popularização de ferramentas low-code e no-code está permitindo que usuários sem habilidades técnicas avancem no desenvolvimento de soluções digitais.
+- A integração de inteligência artificial no desenvolvimento de software, como o uso de assistentes de codificação (ex.: GitHub Copilot), está aumentando a produtividade e reduzindo o tempo necessário para resolver problemas complexos.
+- O modelo DevOps continua a ser uma tendência dominante, promovendo a integração entre desenvolvimento e operações para entregas mais ágeis e frequentes.
+- A adoção de arquiteturas baseadas em microsserviços está tornando os sistemas mais escaláveis e resilientes, especialmente em ambientes de computação em nuvem.
+- A programação funcional vem ganhando espaço em áreas como ciência de dados e aplicações críticas devido à sua abordagem determinística e maior previsibilidade.
+- A diversidade de linguagens e frameworks está crescendo, com destaque para Rust, Go e Python, que são amplamente utilizados em áreas específicas como sistemas embarcados, back-end e aprendizado de máquina.
 
 ## 🔗 Conexões
 - [[Claude API e Anthropic SDK]]
-- [[Pesquisa - Inteligência Artificial no Cotidiano]]
-- [[Pesquisa - Blockchain e Criptomoedas]]
+- [[Pesquisa - Inteligência Artificial e Aprendizado de Máquina]]
+- [[Pesquisa - Automação de Processos com IA]]
+- [[Pesquisa - Ferramentas Low-Code e No-Code]]
 
 ## 📚 Fontes
-- [[Referência - Clean Code: A Handbook of Agile Software Craftsmanship]]
-- [[Referência - The Pragmatic Programmer]]
-- [[Referência - Artigo - The Rise of AI in Software Development (2025)]]
-- [[Referência - Curso - Introdução ao Desenvolvimento com Python]]
+- [[Referência - Livro - Clean Code (Robert C. Martin)]]
+- [[Referência - Artigo - The Rise of Low-Code Platforms]]
+- [[Referência - Relatório - State of DevOps Report 2025]]
+- [[Referência - Artigo - The Role of AI in Modern Software Development]]
 
 ## 🚧 Lacunas
-- Como tornar a programação mais acessível para pessoas de diferentes contextos sociais e econômicos?
-- Quais são os impactos de longo prazo da automação e IA no mercado de trabalho para programadores?
-- Como mitigar os vieses algorítmicos de forma efetiva durante o desenvolvimento de software?
+- Como as ferramentas low-code/no-code podem impactar o papel do desenvolvedor tradicional a longo prazo?
+- Quais são os desafios éticos e de segurança no uso de inteligência artificial para desenvolvimento de software?
+- Como as novas linguagens de programação podem influenciar a evolução de arquiteturas de software em sistemas distribuídos?
 ```
