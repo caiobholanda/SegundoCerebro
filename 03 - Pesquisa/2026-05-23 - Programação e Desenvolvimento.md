@@ -3,39 +3,42 @@
 tipo: pesquisa
 criado: 2026-05-23
 atualizado: 2026-05-23
-pergunta-central: Como a programação e o desenvolvimento estão moldando o futuro da tecnologia e da sociedade?
-relacionado-a: [tecnologia, inovação, automação, inteligência-artificial]
+pergunta-central: Como as tendências e práticas emergentes em programação e desenvolvimento estão moldando o futuro da tecnologia?
+relacionado-a: [tecnologia, inovação, software]
 tags: [pesquisa, dev, produtividade]
 ---
 
 # Pesquisa - Programação e Desenvolvimento
 
 ## ❓ Pergunta central
-Como a programação e o desenvolvimento estão moldando o futuro da tecnologia e da sociedade?
+Como as tendências e práticas emergentes em programação e desenvolvimento estão moldando o futuro da tecnologia?
 
 ## 🎯 Síntese (3-5 linhas)
-A programação evoluiu para ser uma das habilidades mais importantes do século XXI, impulsionando a transformação digital em todos os setores da economia. Com a crescente adoção de inteligência artificial, automação e ferramentas de desenvolvimento no-code/low-code, o acesso à criação tecnológica está se democratizando. Essa revolução tem o potencial de resolver problemas complexos, mas também exige atenção para questões éticas e de inclusão digital.
+Programação e desenvolvimento estão evoluindo rapidamente com o avanço das tecnologias emergentes, como inteligência artificial, computação em nuvem e desenvolvimento de baixo código. A automação está transformando fluxos de trabalho e democratizando o acesso à criação de software. Além disso, o foco crescente em práticas de DevOps e metodologias ágeis está acelerando ciclos de desenvolvimento e aumentando a colaboração entre equipes multidisciplinares.
 
 ## 🔬 Detalhes
-- A programação é fundamental para o desenvolvimento de software, aplicativos e sistemas que sustentam a economia global.
-- A popularização de linguagens de programação acessíveis, como Python e JavaScript, tem democratizado o aprendizado de desenvolvimento.
-- O movimento no-code/low-code facilita a criação de aplicativos por pessoas sem habilidades avançadas de programação.
-- Inteligência artificial e aprendizado de máquina dependem fortemente de programadores para desenvolver modelos e treinar algoritmos.
-- O open source desempenha um papel crucial na colaboração global, permitindo que desenvolvedores compartilhem código e inovem coletivamente.
-- A programação também está guiando a automação de processos, potencialmente substituindo empregos tradicionais, mas criando novas oportunidades no setor tecnológico.
+- **Inteligência Artificial**: Ferramentas como [[Claude API e Anthropic SDK]] e GitHub Copilot estão automatizando tarefas de codificação e otimizando o fluxo de trabalho dos desenvolvedores.
+- **Desenvolvimento de Baixo Código/No Code**: Plataformas como Mendix e Bubble estão permitindo que não programadores criem aplicações funcionais, democratizando o acesso ao desenvolvimento de software.
+- **DevOps e Metodologias Ágeis**: Integração contínua, entrega contínua (CI/CD) e práticas ágeis estão redefinindo como equipes desenvolvem, testam e lançam software.
+- **Microserviços e Arquiteturas Baseadas em Contêineres**: Estruturas como Docker e Kubernetes estão permitindo maior escalabilidade e flexibilidade no desenvolvimento.
+- **Segurança e Desenvolvimento**: O conceito de DevSecOps está ganhando força, integrando práticas de segurança no início do ciclo de desenvolvimento.
+- **Linguagens de Programação e Frameworks**: Linguagens como Python, Rust e TypeScript estão ganhando popularidade devido à facilidade de uso, desempenho e segurança.
+- **Computação em Nuvem**: Serviços como AWS, Azure e Google Cloud facilitam o desenvolvimento e a implantação de aplicativos escaláveis globalmente.
 
 ## 🔗 Conexões
 - [[Claude API e Anthropic SDK]]
-- [[Pesquisa - Inteligência Artificial e Ética]]
-- [[Área - Desenvolvimento Profissional em Tecnologia]]
+- [[Pesquisa - Inteligência Artificial Generativa]]
+- [[Área - Desenvolvimento de Software]]
+- [[Referência - DevOps Handbook]]
 
 ## 📚 Fontes
-- [[Referência - Livro - Clean Code (Robert C. Martin)]]
-- [[Referência - Artigo - The Rise of Low-Code Platforms]]
-- [[Referência - Curso - CS50 Introdução à Ciência da Computação]]
+- [[Referência - The Pragmatic Programmer]]
+- [[Referência - Artigo sobre Low-Code Platforms]]
+- [[Referência - Site oficial do Kubernetes]]
+- [[Referência - GitHub Copilot Overview]]
 
 ## 🚧 Lacunas
-- Quais são as melhores práticas para programadores se manterem atualizados em um campo tão dinâmico?
-- Qual é o impacto de ferramentas no-code/low-code na demanda por desenvolvedores altamente especializados?
-- Quais medidas estão sendo tomadas para garantir que a programação e o desenvolvimento sejam inclusivos e acessíveis globalmente?
+- Como as práticas de desenvolvimento sustentável (Green IT) podem ser integradas aos fluxos de trabalho de desenvolvimento?
+- Quais são os desafios éticos e regulatórios emergentes no uso de inteligência artificial em programação?
+- Quais são os impactos a longo prazo da democratização do desenvolvimento com plataformas no-code?
 ```
