@@ -3,39 +3,40 @@
 tipo: pesquisa
 criado: 2026-05-23
 atualizado: 2026-05-23
-pergunta-central: Como planejar e implementar uma infraestrutura cloud eficiente para deploys escaláveis e resilientes?
-relacionado-a: [ci-cd, devops, aws, azure, gcp]
+pergunta-central: Como configurar uma infraestrutura cloud eficiente e realizar deploys escaláveis e seguros?
+relacionado-a: []
 tags: [pesquisa, dev, infra]
 ---
 
 # Pesquisa - Deploy e Infraestrutura Cloud
 
 ## ❓ Pergunta central
-Como planejar e implementar uma infraestrutura cloud eficiente para deploys escaláveis e resilientes?
+Como configurar uma infraestrutura cloud eficiente e realizar deploys escaláveis e seguros?
 
 ## 🎯 Síntese (3-5 linhas)
-Deploy e infraestrutura cloud são essenciais para escalar e manter aplicações modernas. As boas práticas incluem uso de pipelines CI/CD, automação de infraestrutura como código (IaC), e otimização de custos. A escolha entre provedores como AWS, Azure e GCP depende de requisitos específicos. Considerações sobre segurança, redundância e monitoramento são cruciais para garantir a resiliência e disponibilidade do sistema.
+Deploy e infraestrutura cloud envolvem a utilização de provedores como AWS, Azure ou GCP para hospedar aplicações e gerenciar recursos de forma escalável e eficiente. É essencial entender práticas como automação de deploy, uso de containers (ex.: Docker), orquestração (ex.: Kubernetes) e monitoramento. A segurança e a otimização de custos também são pilares fundamentais para garantir a sustentabilidade e o desempenho da aplicação na nuvem.
 
 ## 🔬 Detalhes
-- **Infraestrutura como Código (IaC)**: Ferramentas como Terraform e AWS CloudFormation permitem gerenciar infraestrutura de forma programática, versionada e repetível.
-- **Provedores de Cloud**: Amazon Web Services (AWS), Microsoft Azure e Google Cloud Platform (GCP) são os principais players, cada um com vantagens específicas para diferentes casos de uso.
-- **Pipelines CI/CD**: Integração contínua (CI) e entrega contínua (CD) automatizam testes, builds e deploys, reduzindo erros e aumentando a velocidade de entrega.
-- **Containers e Orquestração**: Docker facilita a criação de ambientes consistentes, enquanto Kubernetes gerencia clusters de containers para alta disponibilidade e escalabilidade.
-- **Práticas de Segurança**: Controle de acessos (IAM), criptografia de dados e monitoramento contínuo são fundamentais para proteger a infraestrutura na nuvem.
-- **Otimização de Custos**: Ferramentas de análise, instâncias spot e autoescalonamento ajudam a equilibrar performance e custos em ambientes cloud.
+- **Deploy contínuo (CI/CD)**: Pipelines automatizados, como GitHub Actions, Jenkins ou GitLab CI/CD, são fundamentais para garantir integrações frequentes e entregas rápidas.
+- **Containers e orquestração**: Docker facilita a criação de ambientes consistentes, enquanto Kubernetes gerencia a orquestração de múltiplos containers.
+- **Infraestrutura como Código (IaC)**: Ferramentas como Terraform ou AWS CloudFormation permitem a definição e o provisionamento de infraestrutura de forma declarativa e versionável.
+- **Gerenciamento de custos**: É crucial monitorar e gerenciar custos em ambiente cloud utilizando ferramentas nativas (ex.: AWS Cost Explorer) ou de terceiros.
+- **Segurança na cloud**: Configuração de firewalls, gerenciamento de identidades e acessos (IAM) e práticas como o uso de redes privadas virtuais (VPNs) são essenciais.
+- **Monitoramento e logging**: Ferramentas como Prometheus, Grafana e serviços nativos (ex.: AWS CloudWatch) ajudam a rastrear métricas e logs para garantir alta disponibilidade e performance.
 
 ## 🔗 Conexões
+- [[Claude API e Anthropic SDK]]
 - [[Pesquisa - Kubernetes e Orquestração de Containers]]
-- [[Pesquisa - CI/CD e Automação DevOps]]
 
 ## 📚 Fontes
-- [[Referência - Livro: Infrastructure as Code (Kief Morris)]]
-- [[Referência - Artigo: Introdução ao Kubernetes (Dev.to)]]
-- [[Referência - Documentação AWS (aws.amazon.com)]]
-- [[Referência - Livro: Site Reliability Engineering (Google)]]
+- [[Referência - Infraestrutura como Código (IaC)]]
+- [[Referência - Práticas de Segurança na Cloud]]
+- [[Referência - Docker para Iniciantes]]
+- [[Referência - Kubernetes: Guia Completo]]
+- [[Referência - Monitoramento com Prometheus e Grafana]]
 
 ## 🚧 Lacunas
-- Quais são os critérios mais relevantes para escolher entre AWS, Azure e GCP para projetos de diferentes escalas e setores?
-- Como implementar estratégias eficazes de disaster recovery em uma infraestrutura cloud?
-- Quais são as práticas emergentes na redução de latência e custo em arquiteturas serverless?
+- Como escolher entre os principais provedores de cloud (AWS, Azure, GCP) para diferentes tipos de projetos?
+- Quais as melhores práticas para implementar políticas de segurança zero trust em ambientes cloud?
+- Como otimizar o desempenho de aplicações serverless em termos de custo e latência?
 ```
