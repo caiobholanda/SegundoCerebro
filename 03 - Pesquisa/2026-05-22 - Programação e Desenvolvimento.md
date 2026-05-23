@@ -1,39 +1,43 @@
+```markdown
 ---
 tipo: pesquisa
 criado: 2026-05-22
 atualizado: 2026-05-22
-pergunta-central: Quais são as melhores práticas e tendências atuais em programação e desenvolvimento de software?
-relacionado-a: [tecnologia, software, educação]
+pergunta-central: Como a programação e o desenvolvimento estão evoluindo para atender às demandas tecnológicas e sociais atuais?
+relacionado-a: [tecnologia, inovação, automação]
 tags: [pesquisa, dev, produtividade]
 ---
 
 # Pesquisa - Programação e Desenvolvimento
 
 ## ❓ Pergunta central
-Quais são as melhores práticas e tendências atuais em programação e desenvolvimento de software?
+Como a programação e o desenvolvimento estão evoluindo para atender às demandas tecnológicas e sociais atuais?
 
 ## 🎯 Síntese (3-5 linhas)
-Programação e desenvolvimento de software estão em constante evolução, impulsionados por novas tecnologias, metodologias ágeis e a crescente adoção de inteligência artificial. As melhores práticas incluem a aplicação de princípios como Clean Code, testes automatizados e colaboração em equipe. Além disso, ferramentas modernas como CI/CD e plataformas de código aberto têm sido essenciais para aumentar a produtividade e a qualidade dos projetos.
+A programação e o desenvolvimento estão em constante transformação, impulsionados por avanços em inteligência artificial, computação em nuvem e a crescente demanda por automação e eficiência. A ênfase em aprendizado contínuo, colaboração em código aberto e o surgimento de novas linguagens e frameworks refletem a busca por soluções mais rápidas e adaptáveis. Tecnologias emergentes, como o desenvolvimento low-code/no-code, também estão democratizando o acesso à criação de software.
 
 ## 🔬 Detalhes
-- A programação orientada a testes (TDD - Test-Driven Development) é uma prática amplamente adotada, garantindo maior qualidade no código e menos bugs.
-- A popularidade de frameworks web como React, Angular e Vue.js continua crescendo, especialmente no desenvolvimento front-end.
-- Linguagens como Python, JavaScript e Go são altamente demandadas devido à sua versatilidade e ampla aplicação em áreas como IA, desenvolvimento web e sistemas distribuídos.
-- Metodologias ágeis (Scrum, Kanban) são padrão na gestão de equipes de desenvolvimento, promovendo entregas incrementais e adaptabilidade.
-- Ferramentas de integração e entrega contínua (CI/CD), como Jenkins e GitHub Actions, estão otimizando os processos de deploy e testes automatizados.
-- A inteligência artificial está transformando o desenvolvimento, com ferramentas como GitHub Copilot, que aumentam a produtividade dos programadores ao sugerir trechos de código.
+- A popularização de ferramentas low-code e no-code está permitindo que usuários sem habilidades técnicas avancem no desenvolvimento de soluções digitais.
+- A integração de inteligência artificial no desenvolvimento de software, como o uso de assistentes de codificação (ex.: GitHub Copilot), está aumentando a produtividade e reduzindo o tempo necessário para resolver problemas complexos.
+- O modelo DevOps continua a ser uma tendência dominante, promovendo a integração entre desenvolvimento e operações para entregas mais ágeis e frequentes.
+- A adoção de arquiteturas baseadas em microsserviços está tornando os sistemas mais escaláveis e resilientes, especialmente em ambientes de computação em nuvem.
+- A programação funcional vem ganhando espaço em áreas como ciência de dados e aplicações críticas devido à sua abordagem determinística e maior previsibilidade.
+- A diversidade de linguagens e frameworks está crescendo, com destaque para Rust, Go e Python, que são amplamente utilizados em áreas específicas como sistemas embarcados, back-end e aprendizado de máquina.
 
 ## 🔗 Conexões
 - [[Claude API e Anthropic SDK]]
-- [[Pesquisa - Tendências em Inteligência Artificial]]
-- [[Roteiro - Como estruturar um projeto de software eficiente]]
+- [[Pesquisa - Inteligência Artificial e Aprendizado de Máquina]]
+- [[Pesquisa - Automação de Processos com IA]]
+- [[Pesquisa - Ferramentas Low-Code e No-Code]]
 
 ## 📚 Fontes
-- [[Referência - Livro Clean Code de Robert C. Martin]]
-- [[Referência - Documentação oficial do GitHub Copilot]]
-- [[Referência - Artigo sobre tendências de programação em 2026]]
+- [[Referência - Livro - Clean Code (Robert C. Martin)]]
+- [[Referência - Artigo - The Rise of Low-Code Platforms]]
+- [[Referência - Relatório - State of DevOps Report 2025]]
+- [[Referência - Artigo - The Role of AI in Modern Software Development]]
 
 ## 🚧 Lacunas
-- Quais são os impactos de ferramentas baseadas em IA no mercado de trabalho para programadores?
-- Como as metodologias ágeis estão sendo adaptadas para equipes remotas em escala global?
-- Quais são as principais barreiras para a adoção de práticas sustentáveis no desenvolvimento de software?
+- Como as ferramentas low-code/no-code podem impactar o papel do desenvolvedor tradicional a longo prazo?
+- Quais são os desafios éticos e de segurança no uso de inteligência artificial para desenvolvimento de software?
+- Como as novas linguagens de programação podem influenciar a evolução de arquiteturas de software em sistemas distribuídos?
+```
