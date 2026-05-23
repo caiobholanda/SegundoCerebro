@@ -3,39 +3,38 @@
 tipo: pesquisa
 criado: 2026-05-23
 atualizado: 2026-05-23
-pergunta-central: Quais são as oportunidades e desafios do mercado de TI no Brasil em 2026?
-relacionado-a: [carreira, tecnologia, economia]
+pergunta-central: Como o mercado de TI no Brasil está evoluindo em relação à demanda por profissionais, áreas de maior crescimento e desafios enfrentados?
+relacionado-a: []
 tags: [pesquisa, mercado, carreira]
 ---
 
 # Pesquisa - Mercado de TI no Brasil
 
 ## ❓ Pergunta central
-Quais são as oportunidades e desafios do mercado de TI no Brasil em 2026?
+Como o mercado de TI no Brasil está evoluindo em relação à demanda por profissionais, áreas de maior crescimento e desafios enfrentados?
 
 ## 🎯 Síntese (3-5 linhas)
-O mercado de TI no Brasil segue em crescimento, impulsionado pela transformação digital, expansão de startups e adoção de tecnologias emergentes como IA e blockchain. Contudo, enfrenta desafios como a escassez de profissionais qualificados e desigualdades regionais. Estratégias de capacitação e políticas públicas são essenciais para sustentar o avanço.
+O mercado de TI no Brasil tem crescido exponencialmente impulsionado pela transformação digital e pela adoção de tecnologias avançadas como IA e cloud computing. A demanda por profissionais qualificados supera a oferta, gerando oportunidades em áreas como desenvolvimento de software, cibersegurança e análise de dados. No entanto, o setor enfrenta desafios como falta de formação adequada e desigualdades regionais.
 
 ## 🔬 Detalhes
-- O Brasil é o maior mercado de TI da América Latina, com um crescimento anual projetado acima de 8% até 2028.
-- Setores como fintechs, healthtechs e agritech lideram a inovação no país, impulsionados por demandas locais específicas.
-- A escassez de profissionais qualificados é uma barreira significativa; estima-se que faltem mais de 400 mil profissionais de TI até 2030.
-- Empresas estão investindo em programas de treinamento e parcerias com instituições de ensino para diminuir o gap de qualificação.
-- A concentração de oportunidades em grandes centros urbanos, como São Paulo e Curitiba, perpetua a desigualdade regional no acesso ao mercado de TI.
-- Tecnologias como inteligência artificial, computação em nuvem e blockchain são as mais promissoras para o futuro do setor no país.
+- **Crescimento acelerado**: O mercado de TI brasileiro cresce 10-15% ao ano, impulsionado pela digitalização de empresas e o aumento no uso de tecnologia em diversos setores.
+- **Falta de profissionais qualificados**: Estima-se que até 2025 o Brasil terá um déficit de 400 mil profissionais de TI devido à escassez de qualificação técnica.
+- **Áreas em alta**: Desenvolvimento de software, cibersegurança, análise de dados, inteligência artificial e computação em nuvem são as áreas mais promissoras.
+- **Empreendedorismo em tecnologia**: O Brasil é um dos países líderes em startups na América Latina, com hubs tecnológicos em São Paulo, Florianópolis e Recife.
+- **Investimentos estrangeiros**: Empresas internacionais têm investido no mercado brasileiro, atraídas pelo potencial de crescimento e pela mão de obra qualificada.
+- **Desigualdades regionais**: A concentração de oportunidades em grandes centros deixa regiões periféricas com menos acesso ao mercado de TI, ampliando disparidades econômicas.
 
 ## 🔗 Conexões
-- [[Claude API e Anthropic SDK]]
-- [[Pesquisa - Inteligência Artificial no Brasil]]
-- [[Área - Carreira e Desenvolvimento Profissional]]
+- [[Pesquisa - Tendências em inteligência artificial no Brasil]]
+- [[Referência - Desenvolvimento de habilidades em TI]]
 
 ## 📚 Fontes
 - [[Referência - Relatório sobre o mercado de TI no Brasil 2026]]
-- [[Referência - Livro: Tecnologia e Sociedade no Brasil]]
-- [[Referência - Artigo: Tendências de TI na América Latina]]
+- [[Referência - Impacto das startups na economia brasileira]]
+- [[Referência - Estudo sobre déficit de profissionais de TI no Brasil]]
 
 ## 🚧 Lacunas
-- Qual é o impacto das políticas públicas atuais no desenvolvimento da TI fora dos grandes centros urbanos?
-- Como a adoção de IA pode ajudar a reduzir a desigualdade de acesso a serviços tecnológicos no Brasil?
-- Qual é a percepção do mercado internacional sobre o potencial de exportação de tecnologia brasileira?
+- Quais políticas públicas podem ser implementadas para reduzir o déficit de profissionais de TI no Brasil?
+- Como a educação básica pode ser adaptada para atender às demandas futuras do mercado de TI?
+- Quais são as diferenças no desenvolvimento do mercado de TI entre regiões brasileiras? 
 ```
