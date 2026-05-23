@@ -3,38 +3,39 @@
 tipo: pesquisa
 criado: 2026-05-23
 atualizado: 2026-05-23
-pergunta-central: Quais são as principais tendências, desafios e oportunidades no mercado de TI no Brasil atualmente?
-relacionado-a: [carreira, tecnologia, economia]
+pergunta-central: Quais são as principais tendências, desafios e oportunidades no mercado de TI no Brasil em 2026?
+relacionado-a: [economia, tecnologia, carreira, mercado-de-trabalho]
 tags: [pesquisa, mercado, carreira]
 ---
 
 # Pesquisa - Mercado de TI no Brasil
 
 ## ❓ Pergunta central
-Quais são as principais tendências, desafios e oportunidades no mercado de TI no Brasil atualmente?
+Quais são as principais tendências, desafios e oportunidades no mercado de TI no Brasil em 2026?
 
 ## 🎯 Síntese (3-5 linhas)
-O mercado de TI no Brasil apresenta crescimento contínuo, impulsionado pela transformação digital em empresas de diversos setores. Existe alta demanda por profissionais qualificados, especialmente em áreas como desenvolvimento de software, segurança cibernética e inteligência artificial. No entanto, desafios como falta de mão de obra especializada e desigualdades regionais impactam o progresso do setor. As oportunidades incluem expansão de startups, aumento de investimentos estrangeiros e iniciativas de ensino técnico.
+O mercado de TI no Brasil segue em expansão, impulsionado pela transformação digital, adoção de tecnologias emergentes como inteligência artificial, e a crescente demanda por profissionais qualificados. Contudo, enfrenta desafios como a escassez de mão de obra especializada, necessidade de políticas públicas que incentivem inovação, e desigualdades regionais no acesso à tecnologia. O setor oferece oportunidades significativas para startups e para a exportação de serviços.
 
 ## 🔬 Detalhes
-- O mercado de TI brasileiro cresce acima da média global, com destaque para desenvolvimento de software e serviços em nuvem.
-- Startups de tecnologia têm atraído investimentos significativos, especialmente em fintechs, edtechs e healthtechs.
-- A demanda por profissionais especializados supera a oferta, resultando em altos salários e boas perspectivas de carreira.
-- A inteligência artificial e o aprendizado de máquina estão entre as áreas mais promissoras.
-- Desigualdades regionais afetam o setor: enquanto Sudeste concentra a maior parte das oportunidades, outras regiões ainda enfrentam desafios estruturais.
-- Cursos técnicos, bootcamps e programas de capacitação estão em alta como solução para suprir a falta de qualificação.
+- A transformação digital acelerada durante a pandemia consolidou o papel estratégico da TI em diversas indústrias.
+- A demanda por profissionais qualificados em áreas como desenvolvimento de software, ciência de dados e segurança da informação segue em alta.
+- O Brasil está entre os maiores mercados de tecnologia da América Latina, com destaque para fintechs, healthtechs e edtechs.
+- A escassez de mão de obra qualificada é um dos maiores desafios para empresas de TI, que muitas vezes recorrem à contratação internacional.
+- Incentivos governamentais e programas de capacitação são fundamentais para reduzir o déficit de profissionais no setor.
+- A exportação de serviços de TI para outros países, especialmente os de língua portuguesa, tem se mostrado uma oportunidade crescente.
 
 ## 🔗 Conexões
-- [[Pesquisa - Inteligência Artificial no Brasil]]
-- [[Área - Educação e capacitação tecnológica]]
+- [[Pesquisa - Tendências tecnológicas globais]]
+- [[Referência - Relatório anual sobre TI no Brasil]]
+- [[Área - Desenvolvimento de Software]]
 
 ## 📚 Fontes
-- [[Referência - Relatório da Associação Brasileira de Empresas de Tecnologia da Informação (ABES)]]
-- [[Referência - Artigo sobre mercado de TI no Brasil (Revista Exame)]]
-- [[Referência - Panorama de startups no Brasil (Startupbase)]]
+- [[Referência - Panorama do mercado de TI no Brasil (2026)]]
+- [[Referência - Relatório Gartner sobre tendências tecnológicas]]
+- [[Referência - Artigo sobre escassez de mão de obra em TI]]
 
 ## 🚧 Lacunas
-- Qual é o impacto de políticas públicas recentes no setor de TI brasileiro?
-- Como startups localizadas fora do eixo Sudeste podem atrair mais investimentos?
-- Quais estratégias podem ser adotadas para reduzir a escassez de mão de obra qualificada?
+- Qual o impacto das políticas públicas recentes no desenvolvimento do mercado de TI?
+- Como as desigualdades regionais afetam o crescimento da TI em estados menos desenvolvidos?
+- Quais são os melhores modelos educacionais para capacitar mais profissionais de TI no Brasil?
 ```
