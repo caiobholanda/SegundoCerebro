@@ -3,39 +3,38 @@
 tipo: pesquisa
 criado: 2026-05-23
 atualizado: 2026-05-23
-pergunta-central: Como o mercado de TI no Brasil está evoluindo e quais são as principais oportunidades e desafios para profissionais da área?
-relacionado-a: []
+pergunta-central: Quais são as principais tendências, desafios e oportunidades no mercado de TI no Brasil atualmente?
+relacionado-a: [carreira, tecnologia, economia]
 tags: [pesquisa, mercado, carreira]
 ---
 
 # Pesquisa - Mercado de TI no Brasil
 
 ## ❓ Pergunta central
-Como o mercado de TI no Brasil está evoluindo e quais são as principais oportunidades e desafios para profissionais da área?
+Quais são as principais tendências, desafios e oportunidades no mercado de TI no Brasil atualmente?
 
 ## 🎯 Síntese (3-5 linhas)
-O mercado de TI no Brasil continua em expansão, impulsionado pela transformação digital das empresas e a crescente demanda por soluções tecnológicas. Há uma alta procura por profissionais qualificados, especialmente em áreas como desenvolvimento de software, ciência de dados, cibersegurança e computação em nuvem. Porém, desafios como a falta de mão de obra especializada e as desigualdades regionais ainda são barreiras significativas para o crescimento do setor.
+O mercado de TI no Brasil apresenta crescimento contínuo, impulsionado pela transformação digital em empresas de diversos setores. Existe alta demanda por profissionais qualificados, especialmente em áreas como desenvolvimento de software, segurança cibernética e inteligência artificial. No entanto, desafios como falta de mão de obra especializada e desigualdades regionais impactam o progresso do setor. As oportunidades incluem expansão de startups, aumento de investimentos estrangeiros e iniciativas de ensino técnico.
 
 ## 🔬 Detalhes
-- O setor de TI no Brasil é um dos mais promissores, tendo registrado crescimento consistente nos últimos anos, mesmo durante períodos de crise econômica.
-- As áreas de maior demanda incluem desenvolvimento de software, análise de dados, cibersegurança, inteligência artificial e computação em nuvem.
-- Empresas brasileiras têm investido cada vez mais em transformação digital, adotando tecnologias como automação, big data e inteligência artificial.
-- Existe uma lacuna significativa entre a demanda e a oferta de profissionais qualificados, com estimativas de que milhares de vagas permanecem abertas por falta de candidatos com as competências necessárias.
-- O mercado de startups de tecnologia no Brasil também está em alta, com investimentos crescendo em setores como fintechs, edtechs e healthtechs.
-- Apesar do crescimento, o mercado enfrenta desafios como a concentração de oportunidades nas grandes capitais e a falta de políticas públicas robustas para apoiar a capacitação em tecnologia.
+- O mercado de TI brasileiro cresce acima da média global, com destaque para desenvolvimento de software e serviços em nuvem.
+- Startups de tecnologia têm atraído investimentos significativos, especialmente em fintechs, edtechs e healthtechs.
+- A demanda por profissionais especializados supera a oferta, resultando em altos salários e boas perspectivas de carreira.
+- A inteligência artificial e o aprendizado de máquina estão entre as áreas mais promissoras.
+- Desigualdades regionais afetam o setor: enquanto Sudeste concentra a maior parte das oportunidades, outras regiões ainda enfrentam desafios estruturais.
+- Cursos técnicos, bootcamps e programas de capacitação estão em alta como solução para suprir a falta de qualificação.
 
 ## 🔗 Conexões
-- [[Tendências tecnológicas no mercado de trabalho]]
-- [[Como aprender programação do zero]]
-- [[O papel da IA na transformação digital]]
+- [[Pesquisa - Inteligência Artificial no Brasil]]
+- [[Área - Educação e capacitação tecnológica]]
 
 ## 📚 Fontes
-- [[Referência - Panorama do mercado de TI no Brasil]]
-- [[Referência - Relatório de tendências em tecnologia 2026]]
-- [[Referência - Desafios do setor de TI no Brasil]]
+- [[Referência - Relatório da Associação Brasileira de Empresas de Tecnologia da Informação (ABES)]]
+- [[Referência - Artigo sobre mercado de TI no Brasil (Revista Exame)]]
+- [[Referência - Panorama de startups no Brasil (Startupbase)]]
 
 ## 🚧 Lacunas
-- Qual o impacto das iniciativas governamentais recentes no setor de TI no Brasil?
-- Como o avanço da inteligência artificial está influenciando o mercado de trabalho em TI no Brasil?
-- Quais são as estratégias mais eficazes para reduzir a lacuna de qualificação no setor de tecnologia brasileiro?
+- Qual é o impacto de políticas públicas recentes no setor de TI brasileiro?
+- Como startups localizadas fora do eixo Sudeste podem atrair mais investimentos?
+- Quais estratégias podem ser adotadas para reduzir a escassez de mão de obra qualificada?
 ```
