@@ -3,38 +3,39 @@
 tipo: pesquisa
 criado: 2026-05-23
 atualizado: 2026-05-23
-pergunta-central: Como planejar e executar um deploy eficiente utilizando infraestrutura cloud moderna?
-relacionado-a: []
+pergunta-central: Quais são as melhores práticas para realizar deploys em infraestrutura cloud moderna, garantindo escalabilidade e segurança?
+relacionado-a: [Claude API e Anthropic SDK, Docker e Kubernetes]
 tags: [pesquisa, dev, infra]
 ---
 
 # Pesquisa - Deploy e Infraestrutura Cloud
 
 ## ❓ Pergunta central
-Como planejar e executar um deploy eficiente utilizando infraestrutura cloud moderna?
+Quais são as melhores práticas para realizar deploys em infraestrutura cloud moderna, garantindo escalabilidade e segurança?
 
 ## 🎯 Síntese (3-5 linhas)
-Deploy e infraestrutura cloud são pilares fundamentais para a entrega de aplicações modernas. A combinação de práticas como CI/CD, uso de containers e orquestração via Kubernetes, além de soluções escaláveis como AWS, Azure ou GCP, permite que empresas entreguem software com agilidade, confiabilidade e escalabilidade. O monitoramento contínuo e a automação são cruciais para manter a saúde dos sistemas em ambientes dinâmicos.
+O deploy em infraestrutura cloud moderna requer automação, observabilidade e práticas de segurança robustas. Ferramentas como Docker e Kubernetes são fundamentais para orquestração de contêineres, enquanto plataformas como AWS e Azure oferecem serviços gerenciados que simplificam o processo. Além disso, CI/CD permite ciclos de desenvolvimento ágeis e minimiza riscos.
 
 ## 🔬 Detalhes
-- **Infraestrutura como Código (IaC)**: Ferramentas como Terraform e AWS CloudFormation permitem gerenciar recursos de infraestrutura com código versionável, garantindo consistência entre ambientes.
-- **Containers e Orquestração**: Docker popularizou o uso de containers, enquanto Kubernetes se tornou o padrão para gerenciar clusters com escalabilidade automática e alta disponibilidade.
-- **CI/CD**: Integração Contínua e Deploy Contínuo são práticas essenciais para entregar código rapidamente, com pipelines automatizados que incluem testes, build e deploy.
-- **Opções de Cloud Providers**: AWS, Azure e Google Cloud Platform oferecem serviços amplos, desde computação (EC2, VMs) até bancos de dados gerenciados e ferramentas de machine learning.
-- **Monitoramento e Observabilidade**: Ferramentas como Prometheus, Grafana e Datadog ajudam a manter visibilidade sobre o desempenho da aplicação e infraestrutura, identificando problemas antes que impactem os usuários.
-- **Custo e Escalabilidade**: Modelos de pagamento "pay-as-you-go" e escalabilidade elástica permitem otimizar custos e lidar com picos de demanda sem superprovisionamento.
+- **Orquestração de contêineres**: Kubernetes é o padrão de mercado para gerenciar aplicações em contêineres, permitindo escalabilidade e alta disponibilidade.
+- **Serviços gerenciados**: Plataformas como AWS Elastic Beanstalk, Google Cloud Run e Azure App Service oferecem abstração para deploys rápidos.
+- **CI/CD**: Integração e entrega contínuas (ex.: Jenkins, GitHub Actions) garantem automação e consistência nos deploys.
+- **Monitoramento e observabilidade**: Ferramentas como Prometheus e Grafana são indispensáveis para identificar problemas em tempo real.
+- **Segurança na infraestrutura cloud**: Implementação de políticas de IAM (Identity and Access Management) e uso de redes privadas virtuais (VPCs) são essenciais.
+- **Infraestrutura como código (IaC)**: Ferramentas como Terraform e AWS CloudFormation permitem a gestão de recursos em nuvem de forma declarativa.
 
 ## 🔗 Conexões
+- [[Pesquisa - Docker e Kubernetes]]
 - [[Claude API e Anthropic SDK]]
-- [[Pesquisa - Kubernetes e Orquestração de Containers]]
+- [[Referência - Terraform e AWS CloudFormation]]
 
 ## 📚 Fontes
-- [[Referência - Livro: Kubernetes Up & Running]]
 - [[Referência - AWS Well-Architected Framework]]
-- [[Referência - Artigo: Como implementar CI/CD com GitHub Actions]]
+- [[Referência - Livro - Kubernetes Up and Running]]
+- [[Referência - Guia oficial Terraform]]
 
 ## 🚧 Lacunas
-- Quais são as principais diferenças práticas entre os provedores de cloud em termos de custo e performance?
-- Como integrar segurança "shift-left" diretamente nos pipelines de CI/CD?
-- Quais são as tendências emergentes no uso de infraestrutura serverless além de funções como serviço (FaaS)?
+- Como otimizar custos em deploys contínuos em múltiplas regiões na nuvem?
+- Quais são os desafios específicos de segurança na integração de multicloud?
+- Estratégias para lidar com falhas em sistemas distribuídos durante o deploy.
 ```
