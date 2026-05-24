@@ -1,43 +1,62 @@
-```yaml
 ---
 tipo: pesquisa
 criado: 2026-05-23
 atualizado: 2026-05-23
-pergunta-central: Como a Claude API e o Anthropic SDK podem ser utilizados para integrar IA em aplicações de maneira eficiente e ética?
-relacionado-a: []
-tags: [pesquisa, ia, dev, claude]
+pergunta-central: Quais são as novidades mais recentes da Claude API e do Anthropic SDK em maio de 2026?
+relacionado-a: [Claude Code — CLI e agentes, Economia de Tokens em LLMs]
+tags: [pesquisa, ia, dev, claude, anthropic]
 ---
 
-# Pesquisa - Claude API e Anthropic SDK
+# Pesquisa - Claude API e Anthropic SDK (2026-05-23)
 
 ## ❓ Pergunta central
-Como a Claude API e o Anthropic SDK podem ser utilizados para integrar IA em aplicações de maneira eficiente e ética?
+Quais são as novidades mais recentes da Claude API e do Anthropic SDK em maio de 2026?
 
-## 🎯 Síntese (3-5 linhas)
-A Claude API e o Anthropic SDK são ferramentas poderosas para integrar inteligência artificial em aplicações. Desenvolvidas pela Anthropic, ambas priorizam a segurança, a privacidade e a ética no uso de IA. A API permite o acesso ao modelo Claude, enquanto o SDK oferece uma interface robusta para desenvolver e personalizar soluções baseadas em IA. Utilizá-las requer atenção às melhores práticas e às restrições éticas e de uso definidas pela Anthropic.
+## 🎯 Síntese
+Claude Opus 4.7 está em GA com preço mantido ($5/$25 MTok). A Anthropic expandiu a plataforma com Self-Hosted Sandboxes (beta público), CLI `ant` para a API, e nova separação de billing para uso via Agent SDK a partir de 15/jun. Managed Agents ganhou dreaming, orquestração multiagente, outcomes e webhooks.
 
 ## 🔬 Detalhes
-- A **Claude API** fornece acesso ao modelo de IA da Anthropic, especializado em gerar texto, responder perguntas e realizar tarefas baseadas em linguagem natural.
-- O **Anthropic SDK** é uma biblioteca de ferramentas que facilita a integração da Claude API em diferentes linguagens de programação e frameworks.
-- A Anthropic prioriza a segurança e a ética em IA, com medidas que mitigam o uso indevido, como limites no processamento de conteúdos sensíveis.
-- Claude é projetado para ser altamente interpretável, permitindo maior controle e previsibilidade em suas respostas.
-- A API oferece suporte a diferentes parâmetros de configuração, como temperatura e top-p, para personalizar o comportamento do modelo.
-- O SDK inclui documentação detalhada, exemplos de código e suporte para linguagens como Python, JavaScript e outras populares entre desenvolvedores.
-- Um dos focos principais da Anthropic é desenvolver sistemas de IA alinhados com valores humanos, evitando vieses prejudiciais e promovendo interações seguras.
-- A Anthropic também oferece suporte técnico e consultoria para empresas que desejam implementar suas soluções de IA com responsabilidade.
+
+### Claude Opus 4.7
+- Disponível via `claude-opus-4-7`; preço mantido: $5 input / $25 output por MTok
+- Melhoria notável em engenharia de software avançada (tarefas mais difíceis)
+
+### Self-Hosted Sandboxes (beta público)
+- Mantém arquivos sensíveis, pacotes e serviços na **sua** infraestrutura
+- Loop do agente roda na infra da Anthropic; execução de ferramentas migra para seu ambiente
+- Útil para dados sigilosos em pipelines agentic
+
+### CLI `ant`
+- Cliente de linha de comando direto para a Claude API
+- Integração nativa com Claude Code
+- Versionamento de recursos de API em arquivos YAML
+
+### Billing split — 15 de junho de 2026
+- Assinaturas Claude divididas em dois grupos: **uso próprio** (tools de primeira parte) vs **Agent SDK** (terceiros)
+- Crédito mensal Agent SDK: Pro = $20 | Max 5× = $100 | Max 20× = $200
+- OpenClaw e terceiros foram reinstaurados, mas consomem crédito Agent SDK separado
+
+### Managed Agents — novos recursos
+- Dreaming (processamento background entre conversas)
+- Orquestração multiagente com outcomes e webhooks
+- Limites de API elevados para Claude Code e Opus
+
+### Conectores MCP
+- 20+ novos conectores MCP lançados
+- 12 plug-ins de área de prática (advocacia — pesquisa, contratos, discovery, gestão de casos)
 
 ## 🔗 Conexões
-- [[IA Ética]]
-- [[Desenvolvimento com APIs de IA]]
-- [[Tendências em Modelos de Linguagem Natural]]
+- [[2026-05-23 - Claude Code — CLI e agentes]]
+- [[2026-05-23 - Economia de Tokens em LLMs]]
+- [[2026-05-22 - Claude API e Anthropic SDK]]
 
 ## 📚 Fontes
-- [[Referência - Claude API Documentation]]
-- [[Referência - Anthropic SDK Guide]]
-- [[Referência - Artigo sobre IA ética da Anthropic]]
+- [Anthropic Release Notes — Releasebot](https://releasebot.io/updates/anthropic)
+- [Claude API Docs — Release Notes](https://docs.anthropic.com/pt/release-notes/api)
+- [Anthropic Agent SDK Billing — The New Stack](https://thenewstack.io/anthropic-agent-sdk-credits/)
+- [OpenClaw reinstaurado — VentureBeat](https://venturebeat.com/technology/anthropic-reinstates-openclaw-and-third-party-agent-usage-on-claude-subscriptions-with-a-catch)
 
 ## 🚧 Lacunas
-- Quais são os principais casos de uso em diferentes indústrias que já utilizam o Claude API e o Anthropic SDK?
-- Como a Anthropic avalia e mitiga possíveis impactos éticos negativos de suas ferramentas?
-- Quais são os desafios técnicos ao escalar soluções baseadas na Claude API?
-```
+- Quais workloads específicos se beneficiam mais do Self-Hosted Sandboxes vs sandbox gerenciado?
+- Detalhes de precificação do Managed Agents dreaming ($0,08/h ainda válido?)
+- Quais os 20 novos conectores MCP disponíveis?

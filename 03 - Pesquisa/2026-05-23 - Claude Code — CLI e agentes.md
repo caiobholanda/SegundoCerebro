@@ -2,38 +2,66 @@
 tipo: pesquisa
 criado: 2026-05-23
 atualizado: 2026-05-23
-pergunta-central: Como o Claude Code utiliza CLI e agentes para otimizar fluxos de trabalho e interações com IA?
-relacionado-a: [IA, Automação, Desenvolvimento]
-tags: [pesquisa, ia, dev, claude]
+pergunta-central: Quais são as novidades mais recentes do Claude Code CLI e do sistema de agentes em maio de 2026?
+relacionado-a: [Claude API e Anthropic SDK]
+tags: [pesquisa, claude, dev, cli, agentes]
 ---
 
-# Pesquisa - Claude Code — CLI e agentes
+# Pesquisa - Claude Code — CLI e agentes (2026-05-23)
 
 ## ❓ Pergunta central
-Como o Claude Code utiliza CLI e agentes para otimizar fluxos de trabalho e interações com IA?
+Quais são as novidades mais recentes do Claude Code CLI e do sistema de agentes em maio de 2026?
 
-## 🎯 Síntese (3-5 linhas)
-O Claude Code integra uma interface de linha de comando (CLI) com agentes inteligentes para facilitar a automação e personalização de tarefas. Por meio de comandos simples, é possível interagir com agentes especializados que realizam operações complexas, desde consultas a APIs até geração de conteúdo. Sua flexibilidade permite integração com pipelines de desenvolvimento e fluxos de trabalho criativos, reduzindo esforços manuais.
+## 🎯 Síntese
+Claude Code ganhou Agent View para gerenciar múltiplas sessões em uma única view CLI, /goal para execução autônoma por resultado, e /radio como rádio lo-fi embutida. Fast mode migrou para Opus 4.7 como padrão. Novas flags permitem controle granular de sessões background, e o marketplace de plugins ganhou estimativas de custo projetado por turno.
 
 ## 🔬 Detalhes
-- Claude Code oferece uma CLI que permite interagir diretamente com agentes de IA para realizar tarefas automatizadas.
-- Os agentes são programáveis e podem ser personalizados para atender a casos de uso específicos, como análise de dados, geração de texto ou integração com APIs.
-- A CLI suporta comandos simples e intuitivos, podendo ser integrada em scripts e pipelines de automação.
-- A arquitetura do Claude Code é baseada em uma API robusta, permitindo a comunicação entre a CLI e os agentes em tempo real.
-- Os agentes utilizam modelos de linguagem avançados, como o Claude da Anthropic, para entender e executar instruções em linguagem natural.
-- Há suporte para extensões e plugins, permitindo que os desenvolvedores ampliem as capacidades dos agentes conforme suas necessidades.
+
+### Agent View (Research Preview)
+- Dashboard CLI unificado para gerenciar múltiplas sessões simultaneamente
+- Iniciar agentes, enviar para background, checar status/última resposta
+- Retornar à sessão apenas quando input humano é necessário
+
+### /goal — execução autônoma
+- Outcome-based: o agente trabalha até atingir o objetivo declarado
+- Mínima interação humana durante execução
+- Complementa Agent View ao definir o critério de sucesso
+
+### /radio — foco durante coding
+- Rádio lo-fi embutida diretamente no Claude Code
+- Projetada para manter foco durante sessões longas de desenvolvimento
+
+### Flags `claude agents`
+- `--add-dir`: adicionar diretórios acessíveis ao agente
+- `--settings`: configurações personalizadas por sessão
+- `--mcp-config`: MCP config por agente background
+- Controle granular sobre o que cada sessão background pode fazer
+
+### Plugin Marketplace — melhorias
+- **Plugin dependency enforcement**: `claude plugin disable` recusa se outro plugin ativo depende do alvo
+- **Projected context cost**: estimativa de tokens por turno e por invocação visível no browse do marketplace
+- Facilita decisão de custo antes de habilitar um plugin
+
+### Fast Mode → Opus 4.7
+- Padrão de Fast Mode migrado de Opus 4.6 para **Opus 4.7**
+- Saída mais rápida e mais capaz sem mudança de preço para o usuário
+
+### Outras melhorias
+- PowerShell support expandido no Windows (sem necessidade de Git Bash)
+- Melhorias de estabilidade em worktrees e daemon
+- Bug fixes de OAuth para múltiplos servidores MCP
 
 ## 🔗 Conexões
-- [[Claude API e Anthropic SDK]]
-- [[Automação com IA em fluxos de trabalho]]
-- [[Ferramentas para desenvolvedores de IA]]
+- [[2026-05-23 - Claude API e Anthropic SDK]]
+- [[2026-05-22 - Claude Code — CLI e agentes]]
 
 ## 📚 Fontes
-- [[Referência - Documentação oficial do Claude Code]]
-- [[Referência - Artigo sobre CLI e automação com IA]]
-- [[Referência - Estudo sobre agentes inteligentes na prática]]
+- [Claude Code Updates — Releasebot](https://releasebot.io/updates/anthropic/claude-code)
+- [Claude Code in 2026 — iodocs](https://www.iodocs.com/claude-code-in-2026-major-updates-new-features-and-expanded-access/)
+- [Agent View — Pasquale Pillitteri](https://pasqualepillitteri.it/en/news/2384/claude-code-agent-view-cli-dashboard-sessions-2026)
+- [GitHub — anthropics/claude-code CHANGELOG](https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md)
 
 ## 🚧 Lacunas
-- Como otimizar a performance de agentes personalizados no Claude Code?
-- Quais são as melhores práticas para integrar o Claude Code em pipelines de CI/CD?
-- Quais são os limites técnicos da CLI em termos de escalabilidade e complexidade das tarefas?
+- /radio: quais gêneros/estações disponíveis? Funciona offline?
+- Agent View: data prevista para GA (saiu de Research Preview)?
+- Projected context cost: é só estimativa pré-uso ou também acompanha execução em tempo real?

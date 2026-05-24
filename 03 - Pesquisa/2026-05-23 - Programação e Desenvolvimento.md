@@ -1,44 +1,75 @@
-```markdown
 ---
 tipo: pesquisa
 criado: 2026-05-23
 atualizado: 2026-05-23
-pergunta-central: Quais são as melhores práticas e ferramentas para se manter produtivo e atualizado em programação e desenvolvimento?
-relacionado-a: [tecnologia, aprendizado-contínuo, produtividade]
-tags: [pesquisa, dev, produtividade]
+pergunta-central: Quais são as linguagens de programação e tendências de desenvolvimento mais relevantes em maio de 2026?
+relacionado-a: [Inteligência Artificial — avanços, Mercado de TI no Brasil, Deploy e Infraestrutura Cloud]
+tags: [pesquisa, dev, programacao, linguagens, typescript, python, rust]
 ---
 
-# Pesquisa - Programação e Desenvolvimento
+# Pesquisa - Programação e Desenvolvimento (2026-05-23)
 
 ## ❓ Pergunta central
-Quais são as melhores práticas e ferramentas para se manter produtivo e atualizado em programação e desenvolvimento?
+Quais são as linguagens de programação e tendências de desenvolvimento mais relevantes em maio de 2026?
 
-## 🎯 Síntese (3-5 linhas)
-Programação e desenvolvimento são campos dinâmicos que exigem aprendizado contínuo e adaptação a novas tecnologias. As melhores práticas incluem organização em projetos, uso de controle de versão, metodologias ágeis e priorização de aprendizado constante. Ferramentas como IDEs modernas, gerenciadores de pacotes e plataformas de aprendizado são essenciais para otimizar o trabalho. A colaboração em comunidades técnicas também se destaca como um fator crucial.
+## 🎯 Síntese
+TypeScript é a linguagem mais usada no GitHub desde 2025, ultrapassando Python e JavaScript. Python mantém domínio em IA/ML. Rust cresce forte por segurança de memória e performance; Go lidera microserviços. 84% dos devs usam ou planejam usar ferramentas IA (Copilot, Claude Code) em 2026. WebAssembly ganha tração com Rust e MoonBit. DevSecOps e Green Software tornam-se padrão da indústria.
 
 ## 🔬 Detalhes
-- Programação é a base para criar software, enquanto o desenvolvimento envolve todo o ciclo de vida, incluindo design, implementação, teste e manutenção.
-- A escolha da linguagem de programação depende do contexto: Python para ciência de dados, JavaScript para web, e C++ para sistemas embarcados, por exemplo.
-- Versionamento com ferramentas como Git é essencial para rastrear mudanças e colaborar em equipe.
-- Metodologias ágeis, como Scrum e Kanban, ajudam a estruturar o desenvolvimento de software e a melhorar a produtividade.
-- Plataformas como GitHub, GitLab e Bitbucket são úteis tanto para hospedagem de código quanto para colaboração.
-- O aprendizado contínuo pode ser facilitado por sites como Stack Overflow, cursos online (Udemy, Coursera, Pluralsight) e leitura de documentações oficiais.
-- Ferramentas como VS Code, IntelliJ IDEA e PyCharm aumentam a produtividade com suporte a extensões, depuração e integração com sistemas de controle de versão.
-- Comunidades como Dev.to, Reddit (subreddits como r/programming), e eventos como hackathons e meetups são importantes para networking e troca de conhecimento.
+
+### Ranking de Linguagens 2026
+
+| Posição | Linguagem | Domínio Principal |
+|---|---|---|
+| 1 | **TypeScript** | Frontend, fullstack, GitHub #1 |
+| 2 | **Python** | IA/ML, Data Science, automação |
+| 3 | **JavaScript** | Frontend, Node.js legacy |
+| 4 | **Rust** | Sistemas, blockchain, WASM, segurança |
+| 5 | **Go** | Microserviços, cloud-native, APIs |
+
+- TypeScript ultrapassou Python e JS como linguagem mais usada no GitHub em 2025
+- Python: ecossistema de bibliotecas IA (PyTorch, TensorFlow, LangChain) mantém domínio em ML
+
+### Rust — crescimento acelerado
+- Segurança de memória garantida em compile time — sem garbage collector
+- Cresce em: blockchain, sistemas de baixo nível, WebAssembly
+- Linguagem "mais admirada" em pesquisas de devs por anos consecutivos
+
+### Go — microserviços
+- Simplicidade + eficiência = padrão para APIs e microserviços cloud-native
+- Concorrência nativa (goroutines) facilita aplicações distribuídas
+
+### IA nas ferramentas de desenvolvimento — padrão
+- **84%** dos devs usam ou planejam usar ferramentas IA em 2026
+- GitHub Copilot, Amazon CodeWhisperer, **Claude Code** como padrão de mercado
+- Dev de 2026 = 70% revisão/arquitetura, 30% escrita de código
+- Papel muda: de "escritor de código" para "revisor e arquiteto"
+
+### WebAssembly (WASM) — expansão
+- Rust e MoonBit compilam para WASM com performance próxima ao nativo na web
+- Permite rodar linguagens de alto desempenho no browser sem plugins
+- Cresce em: jogos web, processamento de vídeo/áudio no frontend, edge computing
+
+### Tendências Estruturais
+- **DevSecOps**: segurança integrada ao pipeline desde o início — padrão em 2026
+- **Green Software**: código eficiente para redução de consumo energético — exigência ESG emergente
+- **Low-code/No-code**: democratização — não substitui devs, mas acelera MVPs e prototipagem
+- **Agentic Ops**: IA gerando pipelines CI/CD, revisando PRs, detectando vulnerabilidades automaticamente
 
 ## 🔗 Conexões
-- [[Claude API e Anthropic SDK]]
-- [[Pesquisa - Inteligência Artificial na Programação]]
-- [[Referência - Melhores práticas em metodologias ágeis]]
+- [[2026-05-23 - Inteligência Artificial — avanços]]
+- [[2026-05-23 - Mercado de TI no Brasil]]
+- [[2026-05-23 - Deploy e Infraestrutura Cloud]]
+- [[2026-05-22 - Programação e Desenvolvimento]]
 
 ## 📚 Fontes
-- [[Referência - Clean Code: A Handbook of Agile Software Craftsmanship]]
-- [[Referência - The Pragmatic Programmer]]
-- https://stackoverflow.com
-- https://github.com
+- [Linguagens de Programação Tendências 2026 — Daves Tecnologia](https://davestecnologia.com.br/linguagens-de-programacao---tendencias-para-2026)
+- [10 Linguagens Mais Usadas 2026 — Hostinger](https://www.hostinger.com/br/tutoriais/linguagens-de-programacao-mais-usadas)
+- [Mercado de Programação 2026 — Alura](https://www.alura.com.br/artigos/mercado-de-programacao-2025)
+- [Top Programming Languages 2026 — MereHead](https://merehead.com/blog/top-programming-languages-2026/)
+- [5 Linguagens para Dominar em 2026 — Canaltech](https://canaltech.com.br/mercado/as-5-principais-linguagens-de-programacao-para-dominar-em-2026/)
 
 ## 🚧 Lacunas
-- Quais são as linguagens emergentes que terão maior importância nos próximos 5 anos?
-- Como a inteligência artificial impactará o desenvolvimento de software no futuro próximo?
-- Quais são os melhores métodos para equilibrar aprendizado de novas tecnologias e produtividade no trabalho atual?
-```
+- MoonBit: maturidade atual do ecossistema para projetos reais de produção?
+- Green Software: existem métricas/certificações padronizadas para medir eficiência energética de código?
+- Agentic CI/CD: quais pipelines (GitHub Actions, GitLab CI) já suportam agentes IA nativamente?
