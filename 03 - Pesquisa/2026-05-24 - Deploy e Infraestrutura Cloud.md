@@ -1,41 +1,39 @@
-```markdown
 ---
 tipo: pesquisa
 criado: 2026-05-24
 atualizado: 2026-05-24
-pergunta-central: Como estruturar e otimizar um processo de deploy eficiente em uma infraestrutura cloud moderna?
-relacionado-a: [DevOps, computação em nuvem, automação]
+pergunta-central: Quais são as melhores práticas para realizar deploys eficientes e gerenciar infraestrutura em ambientes cloud?
+relacionado-a: []
 tags: [pesquisa, dev, infra]
 ---
 
 # Pesquisa - Deploy e Infraestrutura Cloud
 
 ## ❓ Pergunta central
-Como estruturar e otimizar um processo de deploy eficiente em uma infraestrutura cloud moderna?
+Quais são as melhores práticas para realizar deploys eficientes e gerenciar infraestrutura em ambientes cloud?
 
 ## 🎯 Síntese (3-5 linhas)
-Deploy e infraestrutura cloud são pilares para o desenvolvimento ágil e entrega contínua de software. O uso de boas práticas como infraestruturas imutáveis, automação de pipelines e monitoramento contínuo são essenciais para garantir eficiência, escalabilidade e resiliência. Escolher a estratégia de deploy correta, como blue-green ou canary, é fundamental para mitigar riscos e melhorar a experiência do usuário.
+Deploys eficientes em ambientes cloud dependem de estratégias como automação com CI/CD, uso de containers (Docker) e orquestração (Kubernetes). É essencial adotar boas práticas de segurança, como gestão de acessos e criptografia, além de monitorar a infraestrutura com ferramentas como Prometheus e Grafana. A escolha entre soluções serverless e baseadas em VMs também depende das necessidades específicas do projeto.
 
 ## 🔬 Detalhes
-- **Infraestrutura como Código (IaC)**: Ferramentas como Terraform e AWS CloudFormation permitem gerenciar infraestrutura de forma programável, garantindo consistência e rastreabilidade.
-- **Pipelines de CI/CD**: Automação de integrações contínuas e deploys contínuos usando ferramentas como Jenkins, GitHub Actions ou GitLab CI/CD.
-- **Estratégias de Deploy**: Métodos como blue-green, canary e rolling são usados para minimizar downtime e riscos ao fazer alterações em produção.
-- **Escalabilidade e Elasticidade**: Plataformas como AWS, Google Cloud e Azure oferecem serviços como auto-scaling que ajustam recursos automaticamente com base na demanda.
-- **Segurança na Nuvem**: Práticas como gerenciamento de identidade e acesso (IAM), criptografia de dados e firewalls são cruciais.
-- **Monitoramento e Observabilidade**: Ferramentas como Prometheus, Grafana e AWS CloudWatch ajudam a identificar e resolver problemas rapidamente.
+- **CI/CD**: Integração e entrega contínuas são pilares fundamentais para automação de deploys, melhorando a consistência e reduzindo erros manuais.
+- **Containers e Orquestração**: Docker é amplamente utilizado para empacotar aplicações, enquanto Kubernetes facilita o gerenciamento de clusters em larga escala.
+- **Infraestrutura como Código (IaC)**: Ferramentas como Terraform e AWS CloudFormation permitem provisionar e gerenciar recursos cloud de forma declarativa e reprodutível.
+- **Monitoramento e Logging**: Soluções como Prometheus, Grafana e ELK Stack ajudam a monitorar desempenho e identificar problemas rapidamente.
+- **Segurança na Cloud**: Implementar práticas como autenticação multifator, controle de acessos com políticas IAM e criptografia de dados em trânsito e em repouso.
+- **Custos e Escalabilidade**: Escolher instâncias otimizadas para o workload, usar escalonamento automático (auto-scaling) e monitorar gastos com serviços como AWS Cost Explorer ou Google Cloud Billing.
 
 ## 🔗 Conexões
 - [[Claude API e Anthropic SDK]]
-- [[Referência - Princípios de DevOps]]
-- [[Referência - Introdução à computação em nuvem]]
+- [[Pesquisa - Kubernetes]]
+- [[Pesquisa - Práticas de DevOps]]
 
 ## 📚 Fontes
-- [[Referência - Site Reliability Engineering (SRE) da Google]]
-- [[Referência - Livro - Infrastructure as Code, Kief Morris]]
-- [[Referência - Artigo - Melhores práticas de segurança na AWS]]
+- [[Referência - Livro "The DevOps Handbook"]]
+- [[Referência - Artigo sobre CI/CD no AWS]]
+- [[Referência - Comparação entre Docker e Kubernetes]]
 
 ## 🚧 Lacunas
-- Como comparar o custo-benefício entre provedores de cloud em diferentes cenários de uso?
-- Quais são os desafios e soluções para deploys em arquiteturas de microsserviços na nuvem?
-- Como medir e melhorar a eficiência energética em infraestruturas cloud?
-```
+- Quais ferramentas emergentes podem substituir Kubernetes para orquestração em projetos menores?
+- Como otimizar custos em cloud sem comprometer desempenho?
+- Quais são as tendências futuras para infraestrutura como código?
