@@ -1,42 +1,42 @@
+```markdown
 ---
 tipo: pesquisa
 criado: 2026-05-24
 atualizado: 2026-05-24
-pergunta-central: Quais são os princípios fundamentais e práticas recomendadas para o aprendizado e a aplicação eficaz de programação e desenvolvimento de software?
-relacionado-a: [tecnologia, produtividade, aprendizado-contínuo]
+pergunta-central: Qual é o panorama atual das melhores práticas, ferramentas e tendências na programação e desenvolvimento?
+relacionado-a: [tecnologia, inovação, educação]
 tags: [pesquisa, dev, produtividade]
 ---
 
 # Pesquisa - Programação e Desenvolvimento
 
 ## ❓ Pergunta central
-Quais são os princípios fundamentais e práticas recomendadas para o aprendizado e a aplicação eficaz de programação e desenvolvimento de software?
+Qual é o panorama atual das melhores práticas, ferramentas e tendências na programação e desenvolvimento?
 
 ## 🎯 Síntese (3-5 linhas)
-Programação e desenvolvimento são áreas em constante evolução, exigindo aprendizado contínuo e adaptação às novas tecnologias. Entender os fundamentos de lógica, algoritmos e estruturas de dados é essencial, assim como dominar ferramentas e linguagens específicas para objetivos distintos. Práticas como versionamento de código, metodologias ágeis e design centrado no usuário são cruciais para o sucesso no desenvolvimento de software.
+O desenvolvimento de software é um campo em constante evolução, impulsionado por novas tecnologias, linguagens de programação e metodologias ágeis. Ferramentas como IA generativa, plataformas de low-code/no-code e frameworks modernos estão transformando a forma como aplicativos e sistemas são projetados. Além disso, há um foco crescente em práticas de desenvolvimento sustentável e acessível, que priorizam código limpo, segurança e inclusão.
 
 ## 🔬 Detalhes
-- Programação envolve a criação de instruções detalhadas para que um computador execute tarefas específicas.
-- Linguagens de programação variam em propósito e nível de abstração, desde baixo nível (ex.: Assembly) até alto nível (ex.: Python, JavaScript).
-- Estruturas de dados e algoritmos são a base para a resolução eficiente de problemas computacionais.
-- Metodologias ágeis, como Scrum e Kanban, melhoram a colaboração em equipe e a entrega contínua de valor ao cliente.
-- Ferramentas de controle de versão, como Git, são indispensáveis para rastrear mudanças no código e facilitar o trabalho colaborativo.
-- Testes automatizados e práticas de DevOps (como integração e entrega contínuas) garantem a qualidade e a resiliência do software.
+- A adoção de **Inteligência Artificial generativa**, como o [[Claude API e Anthropic SDK]], está acelerando o ciclo de desenvolvimento automatizando tarefas repetitivas e otimizando códigos.
+- **Low-code e no-code platforms** permitem que pessoas sem formação técnica criem soluções funcionais, democratizando o acesso ao desenvolvimento.
+- O uso de **frameworks modernos** como React, Vue.js e Django continua a crescer, simplificando o desenvolvimento web e melhorando a eficiência.
+- As metodologias ágeis, como **Scrum** e **Kanban**, são amplamente adotadas para melhorar a colaboração e a entrega iterativa de software.
+- A **segurança no código** é uma prioridade crescente, com práticas como DevSecOps integrando segurança ao ciclo de desenvolvimento.
+- **Acessibilidade digital** e design inclusivo estão se tornando requisitos fundamentais, influenciando desde a escolha de tecnologias até as práticas de desenvolvimento.
 
 ## 🔗 Conexões
 - [[Claude API e Anthropic SDK]]
 - [[Pesquisa - Inteligência Artificial Generativa]]
-- [[Projeto - Criar curso de introdução à programação]]
-- [[Referência - Clean Code (Robert C. Martin)]]
+- [[Referência - Práticas de Desenvolvimento Ágil]]
+- [[Referência - Acessibilidade no Desenvolvimento Web]]
 
 ## 📚 Fontes
-- [[Referência - Clean Code (Robert C. Martin)]]
-- [[Referência - The Pragmatic Programmer (Andy Hunt, Dave Thomas)]]
-- [[Referência - Artigo - The History of Programming Languages]]
-- [[Referência - Git Documentation]]
-- [[Referência - Agile Manifesto]]
+- [[Referência - State of Developer Ecosystem 2026]]
+- [[Referência - Relatório de Tendências em Tecnologia 2026]]
+- [[Referência - Livro Clean Code de Robert C. Martin]]
 
 ## 🚧 Lacunas
-- Quais são as linguagens de programação emergentes mais promissoras para os próximos 5 anos?
-- Como a inteligência artificial está mudando o papel dos desenvolvedores no ciclo de vida do software?
-- Quais são as implicações éticas do desenvolvimento de software em uma sociedade cada vez mais dependente da tecnologia?
+- Quais ferramentas específicas de IA generativa têm maior impacto no desenvolvimento atualmente?
+- Como medir o impacto real de práticas sustentáveis no desenvolvimento de software?
+- Quais são os desafios éticos emergentes com o uso de IA no desenvolvimento?
+```
