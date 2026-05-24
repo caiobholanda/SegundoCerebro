@@ -1,40 +1,37 @@
-```markdown
 ---
 tipo: pesquisa
 criado: 2026-05-22
-atualizado: 2026-05-22
-pergunta-central: Como o Claude Code utiliza CLI e agentes para facilitar a integração e automação de fluxos de trabalho?
-relacionado-a: []
-tags: [pesquisa, ia, dev, claude]
+atualizado: 2026-05-23
+pergunta-central: Como o Claude Code pode ser utilizado via CLI e integrado com agentes para automação e produtividade?
+relacionado-a: [Claude API e Anthropic SDK, automação, agentes-inteligentes, produtividade]
+tags: [pesquisa, ia, dev, claudecode]
 ---
 
 # Pesquisa - Claude Code — CLI e agentes
 
-## ❓ Pergunta central
-Como o Claude Code utiliza CLI e agentes para facilitar a integração e automação de fluxos de trabalho?
+## Pergunta central
+Como o Claude Code pode ser utilizado via CLI e integrado com agentes para automação e produtividade?
 
-## 🎯 Síntese (3-5 linhas)
-O Claude Code oferece uma interface de linha de comando (CLI) para interação direta com seus agentes, permitindo a automação de tarefas por meio de comandos programáveis. Essa integração amplia a usabilidade dos modelos de IA em diversos contextos, como desenvolvimento de software, análise de dados e suporte técnico. Com suporte a múltiplos frameworks e APIs, a CLI é projetada para facilitar a adoção em diferentes ecossistemas de desenvolvimento.
+## Sintese (3-5 linhas)
+O Claude Code, desenvolvido pela Anthropic, pode ser acessado e controlado via CLI para automacao de tarefas, interacoes com APIs e integracao com sistemas externos. Ele tambem pode ser combinado com agentes inteligentes para criar fluxos de trabalho mais eficientes, utilizando linguagem natural para interagir com ferramentas e servicos. A flexibilidade da CLI permite que desenvolvedores personalizem essas interacoes com base em suas necessidades especificas.
 
-## 🔬 Detalhes
-- O Claude Code CLI é projetado para desenvolvedores e equipes técnicas que precisam de uma interface direta para interagir com agentes de IA.
-- Ele suporta fluxos de trabalho complexos, permitindo a execução de tarefas programadas e respostas contextuais baseadas em aprendizado de máquina.
-- É possível configurar agentes personalizados que operam com base em regras específicas ou aprendizado adaptativo.
-- O CLI integra-se facilmente a pipelines de DevOps, ampliando a automação de deploys, testes e monitoramento de sistemas.
-- Oferece suporte nativo para linguagens de programação populares como Python, JavaScript e Bash, além de integração com APIs RESTful.
-- A segurança é uma prioridade, com suporte a autenticação por chave de API e logs detalhados para auditoria.
+## Detalhes
+- O Claude Code e uma ferramenta desenvolvida pela Anthropic, baseada em IA avancada, que permite interacoes via linguagem natural.
+- A CLI do Claude Code possibilita que desenvolvedores criem e testem comandos programaticos diretamente no terminal.
+- Alem de interagir com a CLI, o Claude Code pode ser integrado com agentes inteligentes para automacao de tarefas, como consultas a APIs, processamento de dados ou execucao de scripts.
+- Um dos principais diferenciais do Claude Code e sua abordagem voltada para seguranca e controle, permitindo minimizar riscos em automacoes.
+- Ele suporta a integracao com diversas linguagens de programacao e frameworks, facilitando o desenvolvimento de aplicacoes personalizadas.
+- Possui suporte nativo para fluxos de trabalho iterativos, onde o usuario pode revisar e ajustar saidas em tempo real, aumentando a precisao das automacoes.
 
-## 🔗 Conexões
-- [[Claude API e Anthropic SDK]]
-- [[Pesquisa - Automação com IA no Desenvolvimento de Software]]
+## Conexoes
+- [[Pesquisa - 2026-05-22 - Claude API e Anthropic SDK]]
+- [[Pesquisa - 2026-05-23 - Claude Code — CLI e agentes]]
 
-## 📚 Fontes
-- [[Referência - Documentação oficial do Claude Code CLI]]
-- [[Referência - Artigo sobre agentes de IA em automação]]
-- [[Referência - Post técnico sobre integração de IA com DevOps]]
+## Fontes
+- [[Referência - Artigo - Claude Code Hooks Subagents Skills 2026]]
+- [[Referência - Doc - Anthropic Release Notes 2026]]
 
-## 🚧 Lacunas
-- Quais são as limitações atuais do Claude Code CLI em comparação com outras ferramentas similares do mercado?
-- Quais são os casos de uso mais inovadores sendo explorados com agentes Claude em ambientes corporativos?
-- Como a segurança do Claude Code CLI se compara aos padrões da indústria e o que pode ser melhorado?
-```
+## Lacunas
+- Como otimizar fluxos de trabalho complexos utilizando o Claude Code e agentes inteligentes?
+- Quais sao as melhores praticas para garantir seguranca em automacoes realizadas via CLI?
+- Quais casos de uso do Claude Code tem maior impacto em produtividade empresarial?
