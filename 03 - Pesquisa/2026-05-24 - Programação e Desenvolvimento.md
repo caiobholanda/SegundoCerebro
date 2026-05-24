@@ -3,39 +3,42 @@
 tipo: pesquisa
 criado: 2026-05-24
 atualizado: 2026-05-24
-pergunta-central: Como a programação está evoluindo para atender às demandas de um mundo cada vez mais orientado por tecnologia e inteligência artificial?
-relacionado-a: [tecnologia, inteligência-artificial, produtividade]
+pergunta-central: Quais são as principais práticas e tendências em programação e desenvolvimento que promovem eficiência, escalabilidade e inovação?
+relacionado-a: [tecnologia, software, inovação]
 tags: [pesquisa, dev, produtividade]
 ---
 
 # Pesquisa - Programação e Desenvolvimento
 
 ## ❓ Pergunta central
-Como a programação está evoluindo para atender às demandas de um mundo cada vez mais orientado por tecnologia e inteligência artificial?
+Quais são as principais práticas e tendências em programação e desenvolvimento que promovem eficiência, escalabilidade e inovação?
 
 ## 🎯 Síntese (3-5 linhas)
-A programação está em constante evolução, sendo impulsionada pela crescente demanda por soluções mais eficientes e acessíveis. Tecnologias emergentes como inteligência artificial e computação em nuvem estão transformando tanto as ferramentas quanto os paradigmas de desenvolvimento. Além disso, há um movimento em direção à automação, desenvolvimento low-code/no-code e maior acessibilidade para novos programadores.
+Programação e desenvolvimento são pilares da tecnologia moderna, evoluindo constantemente com novas práticas e ferramentas. Métodos ágeis, desenvolvimento orientado a testes (TDD) e arquitetura de microsserviços são tendências que promovem eficiência e escalabilidade. Além disso, a integração de IA, como modelos generativos, está transformando o fluxo de trabalho dos desenvolvedores, enquanto a cultura DevOps fortalece a colaboração entre equipes.
 
 ## 🔬 Detalhes
-- A popularização de ferramentas de desenvolvimento low-code e no-code está permitindo que pessoas sem formação técnica criem aplicações funcionais.
-- Linguagens de programação modernas, como Python, Rust e Go, estão se destacando pela simplicidade, segurança e eficiência.
-- O uso de inteligência artificial em programação, como o [[Claude API e Anthropic SDK]] e o [[ChatGPT]], tem crescido, auxiliando desenvolvedores na geração de código e na automação de tarefas repetitivas.
-- O desenvolvimento de software está cada vez mais focado em metodologias ágeis e DevOps, promovendo a integração contínua e entregas frequentes.
-- A computação em nuvem e os contêineres, como Docker e Kubernetes, revolucionaram a forma como aplicações são implantadas e escaladas.
-- A comunidade open source continua sendo um pilar essencial, promovendo colaboração global e inovações rápidas no setor.
+- **Programação funcional**: Paradigma que enfatiza funções puras e imutabilidade, promovendo código mais previsível e fácil de testar.
+- **Desenvolvimento Ágil**: Metodologias como Scrum e Kanban focam em entregas incrementais e adaptabilidade, reduzindo desperdícios no processo.
+- **Microsserviços**: Arquitetura que divide sistemas em serviços independentes, facilitando a escalabilidade e a manutenção.
+- **DevOps**: Cultura que integra desenvolvimento e operações para melhorar a entrega contínua de software.
+- **Automação e CI/CD**: Ferramentas como Jenkins, GitHub Actions e CircleCI aceleram testes e deploys frequentes.
+- **Inteligência Artificial no desenvolvimento**: Ferramentas como [[Claude API e Anthropic SDK]] e o [[GitHub Copilot]] auxiliam na geração de código e automação de tarefas.
 
 ## 🔗 Conexões
 - [[Claude API e Anthropic SDK]]
-- [[Pesquisa - Inteligência Artificial Generativa]]
-- [[Referência - Livro Clean Code]]
+- [[GitHub Copilot]]
+- [[Pesquisa - Metodologias Ágeis]]
+- [[Pesquisa - DevOps e Integração Contínua]]
+- [[Pesquisa - Inteligência Artificial e Desenvolvimento de Software]]
 
 ## 📚 Fontes
-- [[Referência - Livro Clean Code]]
-- [[Referência - Artigo sobre Low-Code e No-Code]]
-- [[Referência - DevOps e Integração Contínua]]
+- [[Referência - Clean Code: A Handbook of Agile Software Craftsmanship]]
+- [[Referência - The DevOps Handbook]]
+- [[Referência - Artigo sobre Microsserviços]]
+- [[Referência - Post sobre TDD]]
 
 ## 🚧 Lacunas
-- Como a programação pode se adaptar para lidar com os desafios éticos e de segurança da inteligência artificial?
-- Qual será o impacto da computação quântica nos paradigmas de programação atuais?
-- De que forma as metodologias de ensino de programação podem evoluir para atender às demandas do mercado futuro?
+- Como a programação quântica poderá impactar o desenvolvimento de software tradicional?
+- Quais são os desafios éticos e técnicos do uso de IA na geração de código?
+- Como equilibrar inovação com segurança no desenvolvimento de software?
 ```
