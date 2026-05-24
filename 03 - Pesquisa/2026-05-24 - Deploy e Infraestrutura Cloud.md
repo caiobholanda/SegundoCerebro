@@ -3,40 +3,39 @@
 tipo: pesquisa
 criado: 2026-05-24
 atualizado: 2026-05-24
-pergunta-central: Quais são as melhores práticas para deploy e gestão de infraestrutura em ambientes de nuvem modernos?
-relacionado-a: [devops, arquitetura-cloud, automacao]
+pergunta-central: Como planejar, executar e otimizar o deploy de aplicações em ambientes de infraestrutura cloud?
+relacionado-a: [devops, cloud-computing, automacao]
 tags: [pesquisa, dev, infra]
 ---
 
 # Pesquisa - Deploy e Infraestrutura Cloud
 
 ## ❓ Pergunta central
-Quais são as melhores práticas para deploy e gestão de infraestrutura em ambientes de nuvem modernos?
+Como planejar, executar e otimizar o deploy de aplicações em ambientes de infraestrutura cloud?
 
 ## 🎯 Síntese (3-5 linhas)
-Deploy e infraestrutura cloud envolvem práticas fundamentais para garantir escalabilidade, segurança e eficiência no uso de recursos. Ferramentas de automação como Terraform e Ansible, junto a estratégias como IaC (Infrastructure as Code), são essenciais. Além disso, compreender os modelos de nuvem (IaaS, PaaS, SaaS) e integrar CI/CD para deploy contínuo é crucial.
+O deploy em infraestrutura cloud envolve a configuração de ambientes escaláveis, automatização de processos e monitoramento contínuo. É essencial entender diferentes provedores de cloud, práticas de DevOps e ferramentas como Docker, Kubernetes e CI/CD. Uma boa estratégia de deploy pode reduzir downtime, melhorar a performance e otimizar custos.
 
 ## 🔬 Detalhes
-- **Infrastructure as Code (IaC)**: Ferramentas como Terraform e AWS CloudFormation permitem gerenciar infraestrutura como código, garantindo consistência e rastreabilidade.
-- **CI/CD (Continuous Integration/Continuous Deployment)**: Pipelines automatizados aceleram a entrega de aplicações e reduzem erros de deploy manual.
-- **Serviços gerenciados vs. personalizados**: Utilizar serviços gerenciados como AWS Elastic Beanstalk ou Google App Engine pode simplificar o deploy, enquanto arquiteturas personalizadas dão maior controle.
-- **Containerização e Kubernetes**: Docker e Kubernetes são padrão para deploy de aplicações distribuídas e escaláveis.
-- **Monitoramento e observabilidade**: Ferramentas como Prometheus, Grafana e AWS CloudWatch são essenciais para garantir o desempenho e identificar problemas.
-- **Segurança na nuvem**: Políticas de acesso (IAM), criptografia de dados em trânsito e em repouso, além da configuração correta de redes privadas virtuais (VPCs), são fundamentais.
+- **Provedores populares**: AWS, Google Cloud Platform (GCP) e Microsoft Azure são os líderes de mercado, cada um com serviços robustos e específicos para diferentes casos de uso.
+- **Contêineres e orquestração**: Ferramentas como Docker e Kubernetes permitem empacotar aplicações e gerenciar clusters para escalabilidade e resiliência.
+- **CI/CD**: Integração Contínua e Entrega Contínua são práticas essenciais para automatizar o processo de build, teste e deploy, garantindo ciclos de desenvolvimento mais ágeis.
+- **Monitoramento e observabilidade**: Soluções como Prometheus, Grafana e AWS CloudWatch são cruciais para identificar problemas e otimizar recursos.
+- **Infraestrutura como Código (IaC)**: Tecnologias como Terraform e AWS CloudFormation permitem gerenciar infraestrutura de forma programática e reprodutível.
+- **Custo e otimização**: Escolha de instâncias, uso de serviços serverless e autoscaling são estratégias fundamentais para equilibrar custo e performance.
 
 ## 🔗 Conexões
-- [[Claude API e Anthropic SDK]]
-- [[Pesquisa - Práticas de DevOps e Automação]]
-- [[Referência - AWS CloudFormation]]
-- [[Pesquisa - Kubernetes e Orquestração de Containers]]
+- [[Pesquisa - DevOps e Integração Contínua]]
+- [[Referência - Kubernetes para iniciantes]]
+- [[Referência - AWS Well-Architected Framework]]
 
 ## 📚 Fontes
-- [[Referência - Livro - Infrastructure as Code (Kief Morris)]]
-- [[Referência - Artigo - Best Practices for CI/CD Pipelines]]
-- [[Referência - Curso - Deploy na AWS com Terraform e Kubernetes]]
+- [[Referência - Livro: Kubernetes Up and Running]]
+- [[Referência - Artigo: O que é CI/CD?]]
+- [[Referência - Guia de boas práticas AWS]]
 
 ## 🚧 Lacunas
-- Quais são as diferenças práticas entre serviços gerenciados e soluções personalizadas em termos de custo e eficiência?
-- Como as novas tendências de computação serverless impactam as estratégias de deploy?
-- Quais métricas específicas são mais relevantes para monitorar a saúde de uma infraestrutura cloud complexa?
+- Quais são as melhores práticas específicas para otimizar custos em provedores menos populares como DigitalOcean ou Linode?
+- Como garantir segurança avançada em ambientes multi-cloud?
+- Quais são as diferenças práticas entre arquiteturas serverless e baseadas em contêineres para diferentes tipos de aplicação?
 ```
