@@ -3,38 +3,39 @@
 tipo: pesquisa
 criado: 2026-05-24
 atualizado: 2026-05-24
-pergunta-central: Como a programação e o desenvolvimento evoluem para atender às demandas de um mundo cada vez mais digital e automatizado?
-relacionado-a: [tecnologia, inovação]
+pergunta-central: Como os avanços recentes em ferramentas e metodologias estão moldando o futuro da programação e do desenvolvimento de software?
+relacionado-a: []
 tags: [pesquisa, dev, produtividade]
 ---
 
 # Pesquisa - Programação e Desenvolvimento
 
 ## ❓ Pergunta central
-Como a programação e o desenvolvimento evoluem para atender às demandas de um mundo cada vez mais digital e automatizado?
+Como os avanços recentes em ferramentas e metodologias estão moldando o futuro da programação e do desenvolvimento de software?
 
 ## 🎯 Síntese (3-5 linhas)
-Programação e desenvolvimento são áreas em constante evolução que moldam a era digital. Hoje, há uma tendência crescente em direção à automação, inteligência artificial e integração de sistemas. O domínio dessas tecnologias é essencial para atender às demandas de um mercado globalizado, ao mesmo tempo em que surge a necessidade de equilibrar inovação com ética e sustentabilidade.
+A programação e o desenvolvimento estão em constante evolução, impulsionados por inovações como inteligência artificial, programação low-code/no-code e metodologias ágeis. Há um movimento crescente para democratizar o acesso ao desenvolvimento de software, permitindo que pessoas com pouca experiência técnica criem soluções complexas. Além disso, conceitos como DevOps e a adoção de ferramentas de automação estão acelerando os ciclos de desenvolvimento e entrega.
 
 ## 🔬 Detalhes
-- A programação está se movendo em direção à abstração, com linguagens de alto nível e ferramentas low-code/no-code facilitando o desenvolvimento.
-- Metodologias ágeis se tornaram padrão para gerenciar projetos de software, priorizando flexibilidade e adaptação às mudanças.
-- Inteligência artificial e machine learning são cada vez mais integrados ao desenvolvimento de software, permitindo soluções mais inteligentes e personalizadas.
-- DevOps e práticas de integração/entrega contínua (CI/CD) aceleram o ciclo de desenvolvimento e garantem maior qualidade.
-- A demanda por segurança cibernética cresce à medida que sistemas se tornam mais complexos e interdependentes.
-- Linguagens de programação como Python, JavaScript e Rust continuam a ser populares, mas há também um interesse crescente em ferramentas específicas para áreas como blockchain e IoT.
+- A inteligência artificial está sendo usada para gerar código, detectar bugs e otimizar processos, com ferramentas como GitHub Copilot e ChatGPT.
+- O paradigma low-code/no-code reduz barreiras para não-programadores, tornando o desenvolvimento acessível e colaborativo.
+- Metodologias ágeis, como Scrum e Kanban, continuam a ser amplamente adotadas para gerenciar projetos de forma iterativa e incremental.
+- DevOps é essencial para integrar desenvolvimento e operações, promovendo a automação e a entrega contínua.
+- Linguagens de programação estão evoluindo para oferecer maior produtividade e facilidade de uso, como Python e Rust.
+- Ferramentas de versionamento, como Git, e plataformas como GitHub e GitLab, são cruciais para o trabalho colaborativo e a gestão de código.
 
 ## 🔗 Conexões
 - [[Claude API e Anthropic SDK]]
-- [[Pesquisa - Automação e IA no mercado de trabalho]]
+- [[Pesquisa - Inteligência Artificial Generativa]]
+- [[Referência - Livro Clean Code]]
 
 ## 📚 Fontes
-- [[Referência - Clean Code: A Handbook of Agile Software Craftsmanship]]
-- [[Referência - The Pragmatic Programmer]]
-- [[Referência - Artigo sobre DevOps e CI/CD]]
+- [[Referência - Site GitHub Copilot]]
+- [[Referência - Artigo sobre No-Code na Harvard Business Review]]
+- [[Referência - Livro The Phoenix Project]]
 
 ## 🚧 Lacunas
-- Como equilibrar inovação tecnológica com práticas éticas e sustentabilidade ambiental no desenvolvimento de software?
-- De que maneira linguagens de programação emergentes, como Rust e Go, podem superar as limitações das linguagens tradicionais?
-- Quais são as implicações futuras do uso massivo de inteligência artificial no desenvolvimento de sistemas críticos?
+- Como balancear o uso de IA na programação com a necessidade de manter a compreensão humana do código gerado?
+- Quais são os limites éticos e de segurança no uso de ferramentas low-code/no-code em projetos críticos?
+- Como as novas linguagens e paradigmas de programação estão influenciando a formação educacional de novos programadores?
 ```
