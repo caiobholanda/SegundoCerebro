@@ -1,3 +1,4 @@
+```markdown
 ---
 tipo: pesquisa
 criado: 2026-05-23
