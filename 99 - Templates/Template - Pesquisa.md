@@ -4,6 +4,7 @@ criado: {{date:YYYY-MM-DD}}
 atualizado: {{date:YYYY-MM-DD}}
 pergunta-central: 
 relacionado-a: []
+related: []
 tags: [pesquisa]
 ---
 

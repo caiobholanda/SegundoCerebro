@@ -4,6 +4,24 @@ Este arquivo orienta o Claude Code (e qualquer agente) ao operar este vault. Lei
 
 ---
 
+## 0. 🎯 Contexto Ativo
+
+> **Atualize esta seção antes de cada sessão.** É a primeira coisa que o Claude lê.
+
+**Foco atual:**
+- 
+
+**Projetos em andamento:**
+- [[Projeto - Sistema Chamados]]
+
+**Perguntas abertas:**
+- 
+
+**Última sessão (resumo):**
+- Ver `_Claude/_HOT_CACHE.md` para contexto completo da última sessão.
+
+---
+
 ## 1. Estrutura de pastas
 
 ```
@@ -39,8 +57,11 @@ status: ativo | em-andamento | concluido | arquivado
 criado: YYYY-MM-DD
 atualizado: YYYY-MM-DD
 tags: [tag1, tag2]
+related: []
 ---
 ```
+
+`related:` lista wikilinks de notas diretamente relacionadas — permite navegação rápida e alimenta análise de lacunas (`/lacunas`).
 
 Campos extras por tipo:
 - **projeto**: `prazo`, `objetivo`
@@ -87,8 +108,13 @@ Antes de criar/editar `.md`, `.base` ou `.canvas`, o Claude Code DEVE consultar 
 - `processar-inbox-pesquisa` → destila pesquisas brutas em zettels e arquiva material.
 - `revisao-mensal` → revisão completa no dia 1 de cada mês.
 
+**Skills novas (upgrade 2026-05-25):**
+- `reuniao` → prepara contexto para uma reunião a partir de notas do vault.
+- `lacunas` → analisa o vault e identifica gaps de conhecimento por área/projeto.
+- `expandir` → expande rascunho/nota curta em nota completa e bem estruturada.
+
 **Slash commands** (via `.claude/commands/`):
-`/diario` `/inbox` `/pesquisa` `/destilar` `/zettel` `/conectar` `/buscar` `/moc` `/roteiro` `/semana` `/mes`
+`/diario` `/inbox` `/pesquisa` `/destilar` `/zettel` `/conectar` `/buscar` `/moc` `/roteiro` `/semana` `/mes` `/reuniao` `/lacunas` `/expandir` `/sessao`
 
 **Sub-agentes** (via `.claude/agents/`):
 - `curador` → processa Inbox autonomamente sem perguntar.
@@ -137,6 +163,14 @@ A pasta `_Claude/` é a memória viva do sistema. Claude DEVE atualizá-la sempr
 - `_Claude/_HOT_CACHE.md` é lido automaticamente no **início de cada sessão** via hook
 - Fornece contexto instantâneo sem gastar tokens com re-explicações
 - Atualizado pelo PostCompact hook — mas Claude pode e deve enriquecê-lo manualmente quando perceber algo importante
+
+### Log de Sessões (`_Claude/sessoes/`)
+
+Cada sessão relevante pode ser arquivada com `/sessao`. Formato: `_Claude/sessoes/YYYY-MM-DD-tema.md`.
+
+- Útil para revisitar raciocínios anteriores, ver como decisões evoluíram.
+- Claude deve criar este log ao final de sessões longas ou com muitas decisões.
+- Diferente do `_HOT_CACHE` (contexto quente imediato): sessões são um arquivo histórico navegável.
 
 ### Capturar para o Inbox
 

@@ -6,6 +6,7 @@ atualizado: {{date:YYYY-MM-DD}}
 prazo: 
 objetivo: 
 tags: [projeto]
+related: []
 ---
 
 # Projeto - <Título>

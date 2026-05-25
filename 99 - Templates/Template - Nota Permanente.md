@@ -3,6 +3,7 @@ tipo: permanente
 criado: {{date:YYYY-MM-DD}}
 atualizado: {{date:YYYY-MM-DD}}
 tags: [permanente]
+related: []
 ---
 
 # <Ideia em uma frase>

@@ -6,6 +6,7 @@ url:
 criado: {{date:YYYY-MM-DD}}
 atualizado: {{date:YYYY-MM-DD}}
 tags: [referencia]
+related: []
 ---
 
 # Referência - <Tipo> - <Título>
