@@ -3,41 +3,38 @@
 tipo: pesquisa
 criado: 2026-05-25
 atualizado: 2026-05-25
-pergunta-central: Quais são as principais características, desafios e oportunidades do mercado de TI no Brasil atualmente?
-relacionado-a: [carreira, tecnologia, economia]
+pergunta-central: Quais são as tendências e os desafios atuais do mercado de TI no Brasil?
+relacionado-a: []
+related: [[Projeto - Sistema Chamados]]
 tags: [pesquisa, mercado, carreira]
 ---
 
 # Pesquisa - Mercado de TI no Brasil
 
 ## ❓ Pergunta central
-Quais são as principais características, desafios e oportunidades do mercado de TI no Brasil atualmente?
+Quais são as tendências e os desafios atuais do mercado de TI no Brasil?
 
 ## 🎯 Síntese (3-5 linhas)
-O mercado de TI no Brasil apresenta um crescimento contínuo, com alta demanda por profissionais qualificados, especialmente em áreas como desenvolvimento de software, cibersegurança e dados. No entanto, enfrenta desafios como a escassez de talentos, desatualização em formação técnica e desigualdade de acesso à tecnologia. Há oportunidades significativas para inovação e investimento, especialmente em startups e no setor de serviços digitais.
+O mercado de TI no Brasil continua em expansão, impulsionado pela transformação digital e pela demanda por soluções tecnológicas. Desafios como a falta de profissionais qualificados e a competitividade internacional desafiam o crescimento do setor. Áreas como inteligência artificial, segurança da informação e desenvolvimento de software estão em alta, com startups desempenhando um papel fundamental na inovação.
 
 ## 🔬 Detalhes
-- O mercado de TI no Brasil deve crescer a uma taxa anual de 7,7% até 2028, segundo projeções de associações do setor.
-- Há um déficit anual de cerca de 24 mil profissionais qualificados para atuar em áreas de tecnologia no país.
-- As áreas mais demandadas incluem desenvolvimento de software, análise de dados, cibersegurança, inteligência artificial e computação em nuvem.
-- A pandemia de COVID-19 acelerou a digitalização de empresas brasileiras, aumentando a procura por serviços de TI.
-- Startups de tecnologia têm ganhado destaque no Brasil, com o país sendo considerado um dos principais polos de unicórnios na América Latina.
-- A desigualdade no acesso à educação em tecnologia é um desafio que limita a formação de novos talentos, especialmente em regiões menos desenvolvidas.
-- O governo brasileiro tem lançado iniciativas para fomentar a inovação no setor de TI, mas a burocracia e a falta de incentivos fiscais ainda são barreiras significativas.
-- Há um movimento crescente de empresas apostando em treinamento interno e programas de capacitação para suprir a falta de mão de obra especializada.
+- O mercado de TI brasileiro é um dos mais dinâmicos da América Latina, representando cerca de 2,2% do PIB nacional, segundo dados recentes.
+- A transformação digital acelerada pela pandemia aumentou a demanda por serviços de tecnologia, especialmente em setores como saúde, educação e comércio eletrônico.
+- Existe um déficit significativo de profissionais qualificados, com estimativas indicando uma necessidade de mais de 400 mil profissionais até 2027.
+- Inteligência artificial, machine learning e big data são áreas em crescimento exponencial, atraindo investimentos e talentos.
+- Startups de tecnologia têm um papel crucial no mercado, com o Brasil sendo o berço de vários unicórnios como Nubank e iFood.
+- O mercado brasileiro enfrenta desafios como tributação elevada, burocracia e dificuldades de acesso a capital para empresas emergentes.
 
 ## 🔗 Conexões
-- [[Tendências de tecnologia no Brasil]]
-- [[Futuro do trabalho e profissões em alta]]
-- [[Impacto da IA no mercado de trabalho]]
+- [[Claude API e Anthropic SDK]]
+- [[Pesquisa - Inteligência Artificial no Brasil]]
 
 ## 📚 Fontes
-- [[Referência - Relatório Mercado de TI no Brasil 2025]]
-- [[Referência - Panorama de Startups na América Latina]]
-- [[Referência - Impactos da Pandemia na Digitalização no Brasil]]
+- [[Referência - Panorama do Mercado de TI no Brasil 2026]]
+- [[Referência - Startups e inovação tecnológica no Brasil]]
 
 ## 🚧 Lacunas
-- Quais são as iniciativas mais eficazes para reduzir o déficit de profissionais de TI no Brasil?
-- Como a legislação brasileira pode evoluir para incentivar a inovação tecnológica?
-- Qual é o impacto das políticas de inclusão digital na formação de talentos para o mercado de TI?
+- Qual é o impacto das políticas públicas recentes no setor de TI brasileiro?
+- Como o mercado de TI no Brasil está lidando com a competitividade global?
+- Quais são as iniciativas mais promissoras para capacitação de profissionais em tecnologia no Brasil?
 ```
