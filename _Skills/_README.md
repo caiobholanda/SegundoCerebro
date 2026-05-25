@@ -1,38 +1,45 @@
 ---
 tipo: meta
 criado: 2026-04-29
+atualizado: 2026-05-25
 ---
 
 # `_Skills/` — Skills customizadas do Segundo Cérebro
 
-Cinco skills que sustentam o loop diário do vault. Cada uma tem um `SKILL.md` com `name`, `description` e instruções passo-a-passo.
+14 skills organizadas em 3 gerações. Cada uma tem um `SKILL.md` com `name`, `description` e passos.
 
-## Skills
-- [[nota-diaria/SKILL|nota-diaria]]
-- [[processar-inbox/SKILL|processar-inbox]]
-- [[pesquisa-tema/SKILL|pesquisa-tema]]
-- [[esqueleto-roteiro/SKILL|esqueleto-roteiro]]
-- [[manutencao-semanal/SKILL|manutencao-semanal]]
+## Geração 1 — Loop diário original (2026-04-29)
+- [[nota-diaria/SKILL|nota-diaria]] → cria nota do dia com pendências e projetos ativos
+- [[processar-inbox/SKILL|processar-inbox]] → classifica e move tudo do Inbox para a pasta certa
+- [[pesquisa-tema/SKILL|pesquisa-tema]] → busca na web, salva em `03 - Pesquisa/` com links cruzados
+- [[esqueleto-roteiro/SKILL|esqueleto-roteiro]] → gera roteiro em `04 - Roteiros/` a partir de pesquisas
+- [[manutencao-semanal/SKILL|manutencao-semanal]] → notas órfãs, tags inconsistentes, conexões faltando
 
-## Como o Claude Code descobre essas skills
+## Geração 2 — Zettelkasten + autonomia (upgrade 2026-05-11)
+- [[nota-permanente/SKILL|nota-permanente]] → cria zettel atômico com links bidirecionais
+- [[conectar-notas/SKILL|conectar-notas]] → detecta órfãos e aplica links em lote
+- [[buscar-vault/SKILL|buscar-vault]] → busca semântica em linguagem natural no vault inteiro
+- [[sintetizar-moc/SKILL|sintetizar-moc]] → gera ou atualiza Map of Content de um tópico
+- [[processar-inbox-pesquisa/SKILL|processar-inbox-pesquisa]] → destila pesquisas brutas em zettels
+- [[revisao-mensal/SKILL|revisao-mensal]] → revisão completa no dia 1 de cada mês
 
-O caminho convencional é `.claude/skills/`. No ambiente atual essa pasta foi bloqueada, então as skills moram em `_Skills/`. Para o Claude Code reconhecer automaticamente, faça **uma** das opções abaixo (escolha a que preferir):
+## Geração 3 — Gaps do KJ Rainey (upgrade 2026-05-25)
+- [[reuniao/SKILL|reuniao]] → prepara briefing de reunião a partir do vault
+- [[lacunas/SKILL|lacunas]] → gap analysis: perguntas abertas, notas isoladas, temas sem pesquisa
+- [[expandir/SKILL|expandir]] → expande rascunho em nota completa e conectada ao vault
 
-### Opção 1 — Symlink (recomendado, sem duplicar)
-No PowerShell, dentro do vault:
-```powershell
-New-Item -ItemType SymbolicLink -Path ".claude\skills" -Target "..\_Skills"
-```
+## Sub-agentes autônomos (`.claude/agents/`)
+- `curador` → processa Inbox sem intervenção
+- `conector` → links bidirecionais em lote
+- `historiador` → narrativa semanal/mensal a partir dos diários
 
-### Opção 2 — Copiar
-```powershell
-robocopy _Skills .claude\skills /E
-```
+## Skills oficiais Kepano (`obsidian-skills/skills/`)
+- `obsidian-markdown`, `obsidian-bases`, `json-canvas`, `obsidian-cli`, `defuddle`
 
-### Opção 3 — Apontar via CLAUDE.md (já feito)
-O `CLAUDE.md` já instrui o agente a ler skills de `_Skills/`. Funciona se você invocar a skill por nome no prompt: "use a skill `nota-diaria`".
+## Slash commands disponíveis (`.claude/commands/`)
+`/diario` `/inbox` `/pesquisa` `/destilar` `/zettel` `/conectar` `/buscar` `/moc` `/roteiro` `/semana` `/mes` `/reuniao` `/lacunas` `/expandir` `/sessao`
 
-## Adicionar uma nova skill
-1. Criar pasta `_Skills/<nome-da-skill>/`.
-2. Criar `SKILL.md` com frontmatter `name` e `description` claros.
-3. Atualizar [[CLAUDE]] mencionando-a na seção 7.
+## Como adicionar nova skill
+1. Criar `_Skills/<nome>/SKILL.md` com frontmatter `name` e `description`.
+2. Criar `.claude/commands/<nome>.md` com o comando slash.
+3. Atualizar este README e a seção 7 do `CLAUDE.md`.

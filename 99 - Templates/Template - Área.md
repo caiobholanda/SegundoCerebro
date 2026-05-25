@@ -4,6 +4,7 @@ status: ativa
 criado: {{date:YYYY-MM-DD}}
 atualizado: {{date:YYYY-MM-DD}}
 tags: [area]
+related: []
 ---
 
 # Área - <Nome>

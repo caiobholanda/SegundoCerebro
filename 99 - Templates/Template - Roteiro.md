@@ -8,6 +8,7 @@ formato: video | post | newsletter | talk
 data-publicacao: 
 duracao-estimada: 
 tags: [roteiro]
+related: []
 ---
 
 # Roteiro - {{date:YYYY-MM-DD}} - <Título>
