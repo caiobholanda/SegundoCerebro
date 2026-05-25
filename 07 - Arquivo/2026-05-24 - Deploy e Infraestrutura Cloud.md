@@ -1,39 +1,41 @@
+```markdown
 ---
 tipo: pesquisa
 criado: 2026-05-24
 atualizado: 2026-05-24
-pergunta-central: Quais são as melhores práticas para realizar deploys eficientes e gerenciar infraestrutura em ambientes cloud?
-relacionado-a: []
+pergunta-central: Quais são as melhores práticas e ferramentas para deploy e gerenciamento de infraestrutura em nuvem no cenário atual?
+relacionado-a: [infraestrutura, devops, cloud]
 tags: [pesquisa, dev, infra]
 ---
 
 # Pesquisa - Deploy e Infraestrutura Cloud
 
 ## ❓ Pergunta central
-Quais são as melhores práticas para realizar deploys eficientes e gerenciar infraestrutura em ambientes cloud?
+Quais são as melhores práticas e ferramentas para deploy e gerenciamento de infraestrutura em nuvem no cenário atual?
 
 ## 🎯 Síntese (3-5 linhas)
-Deploys eficientes em ambientes cloud dependem de estratégias como automação com CI/CD, uso de containers (Docker) e orquestração (Kubernetes). É essencial adotar boas práticas de segurança, como gestão de acessos e criptografia, além de monitorar a infraestrutura com ferramentas como Prometheus e Grafana. A escolha entre soluções serverless e baseadas em VMs também depende das necessidades específicas do projeto.
+Deploy e infraestrutura cloud são pilares essenciais para a operação de sistemas modernos. Práticas como CI/CD automatizam o processo de entrega contínua, enquanto ferramentas como Terraform e Kubernetes oferecem gerenciamento eficiente de infraestrutura como código e orquestração de contêineres. A escolha da nuvem depende de fatores como custo, escalabilidade e compliance. O futuro aponta para maior adoção de estratégias multicloud, edge computing e foco em segurança.
 
 ## 🔬 Detalhes
-- **CI/CD**: Integração e entrega contínuas são pilares fundamentais para automação de deploys, melhorando a consistência e reduzindo erros manuais.
-- **Containers e Orquestração**: Docker é amplamente utilizado para empacotar aplicações, enquanto Kubernetes facilita o gerenciamento de clusters em larga escala.
-- **Infraestrutura como Código (IaC)**: Ferramentas como Terraform e AWS CloudFormation permitem provisionar e gerenciar recursos cloud de forma declarativa e reprodutível.
-- **Monitoramento e Logging**: Soluções como Prometheus, Grafana e ELK Stack ajudam a monitorar desempenho e identificar problemas rapidamente.
-- **Segurança na Cloud**: Implementar práticas como autenticação multifator, controle de acessos com políticas IAM e criptografia de dados em trânsito e em repouso.
-- **Custos e Escalabilidade**: Escolher instâncias otimizadas para o workload, usar escalonamento automático (auto-scaling) e monitorar gastos com serviços como AWS Cost Explorer ou Google Cloud Billing.
+- **Infraestrutura como código (IaC)**: Ferramentas como [[Terraform]] e [[CloudFormation]] permitem definir, provisionar e gerenciar infraestrutura de maneira declarativa e versionada.
+- **Orquestração de contêineres**: [[Kubernetes]] domina como padrão para gerenciar cargas de trabalho em contêineres, oferecendo escalabilidade, alta disponibilidade e balanceamento de carga.
+- **CI/CD Pipelines**: Ferramentas como [[Jenkins]], [[GitLab CI/CD]] e [[GitHub Actions]] automatizam a integração e entrega contínua, reduzindo erros manuais e acelerando o tempo de entrega.
+- **Plataformas multicloud**: Empresas estão adotando estratégias multicloud para evitar dependência de um único fornecedor e aumentar a resiliência.
+- **Segurança em nuvem**: É vital implementar boas práticas como autenticação multifator (MFA), criptografia de dados em trânsito e em repouso, e monitoramento contínuo para evitar vulnerabilidades.
+- **Custo-benefício**: O uso de ferramentas como AWS Cost Explorer e Google Cloud Billing ajuda a otimizar gastos em serviços cloud, identificando oportunidades para redução de custos.
 
 ## 🔗 Conexões
 - [[Claude API e Anthropic SDK]]
-- [[Pesquisa - Kubernetes]]
-- [[Pesquisa - Práticas de DevOps]]
+- [[Projeto - Migrar infraestrutura para AWS]]
+- [[Pesquisa - Orquestração com Kubernetes]]
 
 ## 📚 Fontes
-- [[Referência - Livro "The DevOps Handbook"]]
-- [[Referência - Artigo sobre CI/CD no AWS]]
-- [[Referência - Comparação entre Docker e Kubernetes]]
+- [[Referência - Infrastructure as Code (Livro)]]
+- [[Referência - Kubernetes: Up and Running (Livro)]]
+- [[Referência - Artigo sobre estratégias multicloud]]
 
 ## 🚧 Lacunas
-- Quais ferramentas emergentes podem substituir Kubernetes para orquestração em projetos menores?
-- Como otimizar custos em cloud sem comprometer desempenho?
-- Quais são as tendências futuras para infraestrutura como código?
+- Qual é o impacto real do edge computing na redução de latência para aplicações modernas?
+- Como escolher entre diferentes provedores de nuvem (AWS, Azure, GCP) para casos de uso específicos?
+- Quais são os riscos de segurança mais recentes em ambientes multicloud e como mitigá-los?
+```
