@@ -3,40 +3,39 @@
 tipo: pesquisa
 criado: 2026-05-25
 atualizado: 2026-05-25
-pergunta-central: Quais são os principais avanços recentes em inteligência artificial e como eles estão transformando diferentes setores?
-relacionado-a: [tecnologia, inovação, aprendizado-de-maquina, automação]
+pergunta-central: Quais são os principais avanços recentes em inteligência artificial e como eles estão impactando a sociedade?
+relacionado-a: []
 tags: [pesquisa, ia]
 ---
 
 # Pesquisa - Inteligência Artificial — avanços
 
 ## ❓ Pergunta central
-Quais são os principais avanços recentes em inteligência artificial e como eles estão transformando diferentes setores?
+Quais são os principais avanços recentes em inteligência artificial e como eles estão impactando a sociedade?
 
 ## 🎯 Síntese (3-5 linhas)
-A inteligência artificial tem avançado em áreas como modelos de linguagem generativa, aprendizado por reforço, aplicações em saúde e automação industrial. Tecnologias como GPT-4 e modelos multimodais estão revolucionando a comunicação e a criatividade. Ao mesmo tempo, questões éticas e regulamentações emergem como desafios críticos que precisam ser enfrentados.
+Nos últimos anos, a inteligência artificial alcançou novos patamares com a evolução de modelos de linguagem como GPT e avanços em áreas como visão computacional, aprendizado por reforço e inteligência artificial generativa. Esses progressos estão transformando setores como saúde, educação, produção de conteúdo e transporte, mas também levantam preocupações éticas importantes, como viés algorítmico e impacto no mercado de trabalho.
 
 ## 🔬 Detalhes
-- O lançamento de modelos de linguagem como [[GPT-4]] e outras IAs generativas trouxe avanços significativos em processamento de linguagem natural, permitindo aplicações em redação, atendimento ao cliente e criação de conteúdo.
-- Modelos multimodais, como [[DALL-E]] e [[Imagen]], estão integrando texto e imagem, possibilitando criações artísticas e soluções práticas em design e comunicação.
-- No setor de saúde, IA está sendo usada para diagnósticos médicos mais precisos, desenvolvimento de medicamentos e personalização de tratamentos.
-- Avanços em aprendizado por reforço têm levado a melhorias em robótica e jogos, como demonstrado pelo desempenho da IA em jogos complexos, incluindo xadrez, Go e jogos eletrônicos.
-- A automação industrial tem se beneficiado de IAs que otimizam processos de produção, detectam falhas e aumentam a eficiência operacional.
-- Questões éticas, como viés algorítmico e uso responsável da IA, têm sido amplamente discutidas, resultando em iniciativas de regulamentação, como a proposta de lei de IA da União Europeia.
+- Modelos de linguagem como GPT-4 e GPT-5 elevaram a capacidade de geração de texto e compreensão de linguagem natural, aproximando-se de interações quase humanas.
+- A IA generativa está criando imagens, vídeos, músicas e até código, gerando novas formas de criatividade e produtividade.
+- Avanços em visão computacional estão permitindo diagnósticos médicos mais precisos e sistemas de vigilância mais eficazes.
+- Aprendizado por reforço está sendo utilizado em robótica e jogos para desenvolver sistemas autônomos mais inteligentes.
+- O uso de IA em medicina está revolucionando desde a descoberta de medicamentos até a personalização de tratamentos.
+- Questões como a transparência dos algoritmos, a explicabilidade da IA e a regulamentação do uso ético estão no centro dos debates sobre a aplicação dessas tecnologias.
 
 ## 🔗 Conexões
 - [[Claude API e Anthropic SDK]]
-- [[Pesquisa - Ética em inteligência artificial]]
-- [[Referência - OpenAI e a evolução dos modelos GPT]]
-- [[Referência - Regulamentação da IA na União Europeia]]
+- [[Pesquisa - Ética em Inteligência Artificial]]
+- [[Área - Tecnologia e Inovação]]
 
 ## 📚 Fontes
-- [[Referência - Lançamento do GPT-4]]
-- [[Referência - DALL-E e a integração de texto e imagem]]
-- [[Referência - IA em diagnósticos médicos]]
+- [[Referência - OpenAI e os modelos GPT]]
+- [[Referência - Artigo sobre IA generativa no Financial Times]]
+- [[Referência - Livro "Human Compatible" de Stuart Russell]]
 
 ## 🚧 Lacunas
-- Quais são as limitações atuais dos modelos multimodais e como podem ser superadas?
-- Como a regulamentação pode equilibrar inovação e mitigação de riscos éticos?
-- Quais são os impactos econômicos e sociais de longo prazo da automação impulsionada por IA?
+- Como equilibrar inovação em IA com regulamentações que previnam impactos sociais negativos?
+- Quais são as perspectivas para o futuro da IA em termos de superinteligência?
+- Como mitigar os riscos de viés algorítmico em sistemas de decisão baseados em IA?
 ```
