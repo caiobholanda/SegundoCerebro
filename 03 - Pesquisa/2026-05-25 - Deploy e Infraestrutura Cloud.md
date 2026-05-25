@@ -3,39 +3,39 @@
 tipo: pesquisa
 criado: 2026-05-25
 atualizado: 2026-05-25
-pergunta-central: Quais são as melhores práticas para realizar deploy e gerenciar infraestrutura em nuvem de forma eficiente e escalável?
-relacionado-a: [cloud-computing, devops, arquitetura-de-software]
+pergunta-central: Como escolher e configurar a infraestrutura ideal para deploy de aplicações em cloud?
+relacionado-a: [infraestrutura, deploy, cloud, devops]
 tags: [pesquisa, dev, infra]
 ---
 
 # Pesquisa - Deploy e Infraestrutura Cloud
 
 ## ❓ Pergunta central
-Quais são as melhores práticas para realizar deploy e gerenciar infraestrutura em nuvem de forma eficiente e escalável?
+Como escolher e configurar a infraestrutura ideal para deploy de aplicações em cloud?
 
 ## 🎯 Síntese (3-5 linhas)
-O deploy e a gestão de infraestrutura na nuvem dependem de práticas como automação, uso de containers, infraestrutura como código e monitoramento contínuo. A escolha da provedora de nuvem deve considerar performance, custo e compatibilidade. A escalabilidade horizontal e o provisionamento sob demanda são fundamentais para lidar com variações de carga de trabalho.
+Infraestrutura cloud é um componente essencial para o deploy eficiente de aplicações modernas. A escolha entre provedores como AWS, Azure e Google Cloud depende de fatores como custo, escalabilidade e integração com ferramentas DevOps. É crucial entender conceitos como containers, orquestração e pipelines de CI/CD para otimizar o desempenho e a confiabilidade das aplicações. Considerações de segurança e arquitetura de alta disponibilidade também são indispensáveis.
 
 ## 🔬 Detalhes
-- **Automação**: Ferramentas como Terraform, Ansible e AWS CloudFormation são cruciais para gerenciar infraestrutura como código (IaC), permitindo replicabilidade e versionamento.
-- **Containers**: Kubernetes e Docker são amplamente usados para facilitar o deploy e a escalabilidade de aplicações.
-- **CD/CI Pipelines**: Integração e entrega contínuas (CI/CD) agilizam o desenvolvimento, permitindo deploys automatizados e testes consistentes.
-- **Escalabilidade**: A infraestrutura em nuvem permite escalabilidade horizontal (adicionar mais máquinas) ou vertical (melhorar as máquinas existentes) de acordo com as necessidades dos sistemas.
-- **Multi-cloud e Hybrid Cloud**: Muitas empresas adotam estratégias híbridas ou multi-cloud para evitar lock-in com um único provedor e aumentar a resiliência.
-- **Monitoramento e Logs**: Ferramentas como Prometheus, Grafana e ELK Stack são essenciais para monitorar a saúde do sistema e identificar problemas rapidamente.
+- **Provedores principais**: AWS, Google Cloud Platform (GCP) e Microsoft Azure dominam o mercado, cada um com ofertas específicas e vantagens competitivas.
+- **Containers e orquestração**: Ferramentas como Docker e Kubernetes são fundamentais para criar ambientes isolados e gerenciar clusters de aplicações em escala.
+- **Pipelines de CI/CD**: A automação do deploy com ferramentas como GitHub Actions, Jenkins ou GitLab CI/CD reduz erros e acelera o time-to-market.
+- **Infraestrutura como Código (IaC)**: Ferramentas como Terraform, Pulumi ou AWS CloudFormation permitem gerenciar recursos de forma programática e reprodutível.
+- **Segurança em cloud**: Implementar práticas como gerenciamento de identidade e acesso (IAM), criptografia de dados e monitoramento contínuo minimiza riscos.
+- **Custo e escalabilidade**: Escolher entre instâncias pré-configuradas, serverless ou VMs depende de requisitos de carga, orçamento e previsibilidade do uso.
 
 ## 🔗 Conexões
 - [[Claude API e Anthropic SDK]]
-- [[Pesquisa - Kubernetes para DevOps]]
-- [[Referência - Terraform: Guia Completo]]
+- [[Pesquisa - Arquitetura Serverless]]
+- [[Projeto - Implementar Kubernetes em produção]]
 
 ## 📚 Fontes
-- [[Referência - Terraform: Guia Completo]]
-- [[Referência - Livro: Site Reliability Engineering]]
-- [[Referência - Artigo: Multi-cloud Strategies]]
+- [[Referência - Livro: Kubernetes Up & Running]]
+- [[Referência - Artigo: Guia de melhores práticas em CI/CD]]
+- [[Referência - Relatório: State of DevOps 2025]]
 
 ## 🚧 Lacunas
-- Quais são as diferenças práticas entre provedores de nuvem como AWS, Azure e Google Cloud em termos de custo e performance?
-- Como implementar segurança eficiente em ambientes multi-cloud?
-- Quais são os principais desafios na adoção de estratégias híbridas e como mitigá-los?
+- Comparação prática entre custos de provedores para workloads semelhantes.
+- Melhores práticas para migração de aplicações legadas para arquitetura cloud-native.
+- Como escolher entre serverless e containers em cenários específicos.
 ```
