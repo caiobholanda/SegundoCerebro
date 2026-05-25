@@ -141,7 +141,13 @@ Antes de criar/editar `.md`, `.base` ou `.canvas`, o Claude Code DEVE consultar 
 
 Manhã → `nota-diaria` → escrever → `pesquisa-tema` quando aparece tema novo → `processar-inbox` quando acumula → `esqueleto-roteiro` quando vai produzir → semanal: `manutencao-semanal`.
 
-## 10. Quando em dúvida
+## 10. Economia de tokens
+
+- Modelo padrão: `claude-sonnet-4-6` (em `.claude/settings.json`)
+- Rode `/compact` ao atingir ~60% do contexto; `/clear` ao trocar de tarefa
+- Skills carregam sob demanda — não adicionar conteúdo de skill direto no CLAUDE.md
+
+## 11. Quando em dúvida
 
 Pergunte. Não invente estrutura. Não crie plugin novo. Não modifique `.obsidian/` sem aviso.
 
