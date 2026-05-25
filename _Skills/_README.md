@@ -33,8 +33,9 @@ atualizado: 2026-05-25
 - `conector` → links bidirecionais em lote
 - `historiador` → narrativa semanal/mensal a partir dos diários
 
-## Skills oficiais Kepano (`obsidian-skills/skills/`)
+## Skills oficiais (`obsidian-skills/skills/`)
 - `obsidian-markdown`, `obsidian-bases`, `json-canvas`, `obsidian-cli`, `defuddle`
+- `frontend-design` → interfaces web distintivas, sem estética genérica (Anthropic oficial)
 
 ## Slash commands disponíveis (`.claude/commands/`)
 `/diario` `/inbox` `/pesquisa` `/destilar` `/zettel` `/conectar` `/buscar` `/moc` `/roteiro` `/semana` `/mes` `/reuniao` `/lacunas` `/expandir` `/sessao`

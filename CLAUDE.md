@@ -82,7 +82,7 @@ Evite tags hierárquicas profundas (`#dev/python/django`) — prefira links.
 
 Sempre que mencionar outra nota existente, usar `[[Wikilink]]`. Para textos âncora: `[[Nota|texto exibido]]`. Tags só pra metadados de filtro. URLs externas viram referências em `05 - Referências/`.
 
-## 6. Skills oficiais (Kepano) — pré-requisito
+## 6. Skills oficiais — pré-requisito
 
 Antes de criar/editar `.md`, `.base` ou `.canvas`, o Claude Code DEVE consultar a skill correspondente em `obsidian-skills/skills/`:
 - `obsidian-markdown` → wikilinks, embeds, callouts, properties.
@@ -90,6 +90,7 @@ Antes de criar/editar `.md`, `.base` ou `.canvas`, o Claude Code DEVE consultar 
 - `json-canvas` → nodes, edges, groups em `.canvas`.
 - `obsidian-cli` → operações via CLI.
 - `defuddle` → extração limpa de páginas web.
+- `frontend-design` → interfaces web distintivas, produção-grade, sem estética genérica.
 
 ## 7. Skills customizadas (em `_Skills/`)
 
