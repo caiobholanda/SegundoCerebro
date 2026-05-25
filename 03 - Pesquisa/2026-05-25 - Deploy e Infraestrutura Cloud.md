@@ -3,39 +3,39 @@
 tipo: pesquisa
 criado: 2026-05-25
 atualizado: 2026-05-25
-pergunta-central: Como escolher e configurar a infraestrutura ideal para deploy de aplicações em cloud?
-relacionado-a: [infraestrutura, deploy, cloud, devops]
+pergunta-central: Como projetar e gerenciar uma infraestrutura cloud eficiente para suportar processos de deploy contínuo?
+relacionado-a: [devops, cloud, automacao]
 tags: [pesquisa, dev, infra]
 ---
 
 # Pesquisa - Deploy e Infraestrutura Cloud
 
 ## ❓ Pergunta central
-Como escolher e configurar a infraestrutura ideal para deploy de aplicações em cloud?
+Como projetar e gerenciar uma infraestrutura cloud eficiente para suportar processos de deploy contínuo?
 
 ## 🎯 Síntese (3-5 linhas)
-Infraestrutura cloud é um componente essencial para o deploy eficiente de aplicações modernas. A escolha entre provedores como AWS, Azure e Google Cloud depende de fatores como custo, escalabilidade e integração com ferramentas DevOps. É crucial entender conceitos como containers, orquestração e pipelines de CI/CD para otimizar o desempenho e a confiabilidade das aplicações. Considerações de segurança e arquitetura de alta disponibilidade também são indispensáveis.
+Deploy e infraestrutura cloud são pilares da entrega ágil de software, permitindo escalabilidade, automação e resiliência. O uso de práticas como CI/CD, infraestrutura como código e monitoramento contínuo são essenciais para garantir eficiência e segurança. Escolher os provedores e serviços certos, como AWS, Google Cloud ou Azure, é crítico para alinhar custo, desempenho e necessidades do negócio.
 
 ## 🔬 Detalhes
-- **Provedores principais**: AWS, Google Cloud Platform (GCP) e Microsoft Azure dominam o mercado, cada um com ofertas específicas e vantagens competitivas.
-- **Containers e orquestração**: Ferramentas como Docker e Kubernetes são fundamentais para criar ambientes isolados e gerenciar clusters de aplicações em escala.
-- **Pipelines de CI/CD**: A automação do deploy com ferramentas como GitHub Actions, Jenkins ou GitLab CI/CD reduz erros e acelera o time-to-market.
-- **Infraestrutura como Código (IaC)**: Ferramentas como Terraform, Pulumi ou AWS CloudFormation permitem gerenciar recursos de forma programática e reprodutível.
-- **Segurança em cloud**: Implementar práticas como gerenciamento de identidade e acesso (IAM), criptografia de dados e monitoramento contínuo minimiza riscos.
-- **Custo e escalabilidade**: Escolher entre instâncias pré-configuradas, serverless ou VMs depende de requisitos de carga, orçamento e previsibilidade do uso.
+- **Deploy contínuo e integração contínua (CI/CD)**: Integração contínua (CI) é o processo de automatizar a integração de código de diferentes desenvolvedores em um repositório compartilhado, enquanto o deploy contínuo (CD) automatiza a entrega desse código em ambientes de produção.
+- **Infraestrutura como código (IaC)**: Ferramentas como Terraform e AWS CloudFormation permitem que infraestruturas sejam definidas de forma declarativa, tornando-as reprodutíveis, auditáveis e versionáveis.
+- **Provedores de cloud**: AWS, Google Cloud e Microsoft Azure são os players mais importantes no mercado. Cada um oferece serviços diferenciados, como Lambda Functions (AWS), Google Kubernetes Engine (GKE) e Azure DevOps.
+- **Contêineres e orquestração**: Docker e Kubernetes são fundamentais para isolar aplicativos e gerenciar sua escalabilidade na nuvem.
+- **Monitoramento e observabilidade**: Ferramentas como Prometheus, Grafana e Datadog são indispensáveis para garantir o desempenho e a saúde dos serviços em produção.
+- **Custo e escalabilidade**: A escolha da infraestrutura deve equilibrar custo e escalabilidade. Práticas como autoescalonamento e uso de instâncias spot podem ajudar a reduzir custos.
 
 ## 🔗 Conexões
-- [[Claude API e Anthropic SDK]]
-- [[Pesquisa - Arquitetura Serverless]]
-- [[Projeto - Implementar Kubernetes em produção]]
+- [[Infraestrutura como Código (IaC)]]
+- [[Automação com CI/CD]]
+- [[Gerenciamento de Contêineres com Kubernetes]]
 
 ## 📚 Fontes
 - [[Referência - Livro: Kubernetes Up & Running]]
-- [[Referência - Artigo: Guia de melhores práticas em CI/CD]]
-- [[Referência - Relatório: State of DevOps 2025]]
+- [[Referência - Guia oficial da AWS sobre CI/CD]]
+- [[Referência - Artigo sobre DevOps no Google Cloud]]
 
 ## 🚧 Lacunas
-- Comparação prática entre custos de provedores para workloads semelhantes.
-- Melhores práticas para migração de aplicações legadas para arquitetura cloud-native.
-- Como escolher entre serverless e containers em cenários específicos.
+- Quais são as melhores práticas para otimizar custos na nuvem ao escalar aplicações?
+- Como garantir a segurança completa durante o processo de deploy contínuo?
+- Quais são as tendências emergentes em automação de infraestrutura no contexto multi-cloud?
 ```
