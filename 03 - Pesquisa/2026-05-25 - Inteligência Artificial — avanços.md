@@ -3,40 +3,39 @@
 tipo: pesquisa
 criado: 2026-05-25
 atualizado: 2026-05-25
-pergunta-central: Quais foram os avanços mais significativos na área de inteligência artificial nos últimos anos e quais são os impactos esperados no futuro?
-relacionado-a: [tecnologia, machine-learning, deep-learning, ética-em-ia]
+pergunta-central: Quais são os principais avanços recentes em inteligência artificial e como eles estão impactando a sociedade?
+relacionado-a: []
 tags: [pesquisa, ia]
 ---
 
 # Pesquisa - Inteligência Artificial — avanços
 
 ## ❓ Pergunta central
-Quais foram os avanços mais significativos na área de inteligência artificial nos últimos anos e quais são os impactos esperados no futuro?
+Quais são os principais avanços recentes em inteligência artificial e como eles estão impactando a sociedade?
 
 ## 🎯 Síntese (3-5 linhas)
-Nos últimos anos, a inteligência artificial avançou significativamente em áreas como processamento de linguagem natural, visão computacional e aprendizado por reforço. Tecnologias como modelos de linguagem de grande escala (LLMs), aprendizado profundo com transformers e sistemas de IA generativa estão transformando setores como saúde, educação, entretenimento e pesquisa científica. No entanto, desafios éticos e regulatórios permanecem cruciais para garantir o uso responsável dessas tecnologias.
+Nos últimos anos, a inteligência artificial alcançou novos patamares com a evolução de modelos de linguagem como GPT e avanços em áreas como visão computacional, aprendizado por reforço e inteligência artificial generativa. Esses progressos estão transformando setores como saúde, educação, produção de conteúdo e transporte, mas também levantam preocupações éticas importantes, como viés algorítmico e impacto no mercado de trabalho.
 
 ## 🔬 Detalhes
-- Avanços nos modelos de linguagem como [[GPT-4]] e [[ChatGPT]], com capacidade de gerar texto, traduzir e responder perguntas de forma mais natural e precisa.
-- Desenvolvimento de IA generativa, como [[DALL-E]] e [[MidJourney]], que criam imagens, vídeos e música a partir de descrições textuais.
-- Progresso em [[Visão Computacional]], com aplicações em diagnóstico médico, veículos autônomos e reconhecimento facial.
-- Crescimento do uso de [[Aprendizado por Reforço]] em áreas como jogos, robótica e otimização de processos industriais.
-- Adoção de IA em saúde, com assistentes médicos baseados em inteligência artificial e diagnósticos assistidos por algoritmos.
-- Preocupações crescentes com ética, privacidade e viés algorítmico, levando a novos marcos regulatórios como a [[Lei de IA da União Europeia]].
+- Modelos de linguagem como GPT-4 e GPT-5 elevaram a capacidade de geração de texto e compreensão de linguagem natural, aproximando-se de interações quase humanas.
+- A IA generativa está criando imagens, vídeos, músicas e até código, gerando novas formas de criatividade e produtividade.
+- Avanços em visão computacional estão permitindo diagnósticos médicos mais precisos e sistemas de vigilância mais eficazes.
+- Aprendizado por reforço está sendo utilizado em robótica e jogos para desenvolver sistemas autônomos mais inteligentes.
+- O uso de IA em medicina está revolucionando desde a descoberta de medicamentos até a personalização de tratamentos.
+- Questões como a transparência dos algoritmos, a explicabilidade da IA e a regulamentação do uso ético estão no centro dos debates sobre a aplicação dessas tecnologias.
 
 ## 🔗 Conexões
 - [[Claude API e Anthropic SDK]]
-- [[Pesquisa - Ética em inteligência artificial]]
-- [[Pesquisa - O impacto da IA no mercado de trabalho]]
-- [[Referência - OpenAI]]
+- [[Pesquisa - Ética em Inteligência Artificial]]
+- [[Área - Tecnologia e Inovação]]
 
 ## 📚 Fontes
-- [[Referência - OpenAI e avanços em LLMs]]
-- [[Referência - Uso de IA em saúde]]
-- [[Referência - Ética e regulamentação em IA]]
+- [[Referência - OpenAI e os modelos GPT]]
+- [[Referência - Artigo sobre IA generativa no Financial Times]]
+- [[Referência - Livro "Human Compatible" de Stuart Russell]]
 
 ## 🚧 Lacunas
-- Quais novas aplicações de IA podem surgir com o avanço dos sistemas generativos?
-- Como prever e mitigar os impactos de longo prazo da IA na desigualdade social e no mercado de trabalho?
-- Quais frameworks éticos e regulatórios devem ser adotados globalmente?
+- Como equilibrar inovação em IA com regulamentações que previnam impactos sociais negativos?
+- Quais são as perspectivas para o futuro da IA em termos de superinteligência?
+- Como mitigar os riscos de viés algorítmico em sistemas de decisão baseados em IA?
 ```
