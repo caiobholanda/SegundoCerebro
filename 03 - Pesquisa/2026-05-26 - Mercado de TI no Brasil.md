@@ -3,7 +3,7 @@
 tipo: pesquisa
 criado: 2026-05-26
 atualizado: 2026-05-26
-pergunta-central: Quais são os principais desafios e oportunidades no mercado de TI no Brasil em 2026?
+pergunta-central: Quais são as principais tendências, desafios e oportunidades no mercado de TI no Brasil em 2026?
 relacionado-a: []
 related: []
 tags: [pesquisa, mercado, carreira]
@@ -12,30 +12,29 @@ tags: [pesquisa, mercado, carreira]
 # Pesquisa - Mercado de TI no Brasil
 
 ## ❓ Pergunta central
-Quais são os principais desafios e oportunidades no mercado de TI no Brasil em 2026?
+Quais são as principais tendências, desafios e oportunidades no mercado de TI no Brasil em 2026?
 
 ## 🎯 Síntese (3-5 linhas)
-O mercado de TI no Brasil continua em crescimento, impulsionado pela transformação digital e pela demanda por soluções tecnológicas em diversos setores. No entanto, enfrenta desafios como escassez de mão de obra qualificada e desigualdade de acesso à tecnologia entre regiões. Há oportunidades significativas em áreas como inteligência artificial, segurança cibernética e desenvolvimento de software.
+O mercado de TI no Brasil segue em expansão, impulsionado pela transformação digital e pela demanda por soluções em cloud, cibersegurança e inteligência artificial. Apesar do crescimento, o setor enfrenta desafios como a escassez de profissionais qualificados e a necessidade de maior investimento em infraestrutura tecnológica. Startups, fintechs e iniciativas de inovação corporativa têm se destacado como principais impulsionadores do setor.
 
 ## 🔬 Detalhes
-- A transformação digital nas empresas brasileiras acelerou pós-pandemia, aumentando a busca por profissionais de TI.
-- A demanda por especialistas em inteligência artificial, ciência de dados e cibersegurança está em alta.
-- A falta de mão de obra qualificada é um dos principais gargalos do setor, com empresas competindo por talentos escassos.
-- Regiões como o Sudeste concentram a maior parte das oportunidades, enquanto o Norte e o Nordeste enfrentam desafios para acompanhar o ritmo de crescimento.
-- Startups de tecnologia brasileiras têm atraído investimentos recordes, destacando setores como fintechs e healthtechs.
-- Políticas públicas voltadas para inovação e educação em tecnologia ainda são insuficientes para atender às necessidades do mercado.
+- O setor de TI no Brasil cresceu cerca de 20% em 2025, sendo um dos mais resilientes mesmo em períodos de crise econômica.
+- A demanda por profissionais especializados em áreas como inteligência artificial, desenvolvimento de software e cibersegurança continua superando a oferta.
+- Fintechs e empresas de tecnologia financeira têm liderado a inovação e atraído grandes investimentos no país.
+- O avanço da conectividade 5G está criando novas possibilidades para IoT (Internet das Coisas) em indústrias como agronegócio e saúde.
+- Empresas enfrentam desafios relacionados à retenção de talentos, com a crescente migração de profissionais para o mercado internacional.
+- Há um aumento na procura por cursos de capacitação e programas de formação em tecnologia, mas ainda existe um déficit educacional significativo.
 
 ## 🔗 Conexões
+- [[Pesquisa - Transformação Digital no Brasil]]
 - [[Projeto - Sistema Chamados]]
-- [[Pesquisa - Futuro da Educação Tecnológica]]
 
 ## 📚 Fontes
-- [[Referência - Relatório Mercado TI Brasil 2026]]
-- [[Referência - Panorama da Educação Tecnológica no Brasil]]
-- [[Referência - Tendências de Inovação na América Latina]]
+- [[Referência - Panorama do Setor de TI no Brasil 2025]]
+- [[Referência - Relatório Mercado de Trabalho em Tecnologia 2026]]
 
 ## 🚧 Lacunas
-- Qual o impacto das políticas governamentais recentes no setor de TI brasileiro?
-- Como reduzir a desigualdade regional no acesso a empregos e capacitação em TI?
-- Quais são as melhores práticas de outros países emergentes que o Brasil poderia adotar para impulsionar o mercado de TI?
+- Qual é o impacto das políticas públicas atuais no crescimento sustentável do setor de TI no Brasil?
+- Como o mercado de TI fora dos grandes centros urbanos está se desenvolvendo?
+- Quais são as implicações da migração de talentos para o exterior no médio e longo prazo?
 ```
