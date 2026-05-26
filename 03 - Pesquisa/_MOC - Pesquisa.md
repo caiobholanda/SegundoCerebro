@@ -1,7 +1,7 @@
 ---
 tipo: moc
 criado: 2026-04-29
-atualizado: 2026-05-24
+atualizado: 2026-05-26
 ---
 
 # 🔎 MOC — Pesquisa
@@ -16,6 +16,24 @@ Estudos sobre temas e ferramentas. Material **destilado por você** — não é 
 5. **Conexões** — `relacionado-a:` no frontmatter.
 
 ## Pesquisas
+
+### 2026-05-26 (Pesquisa Diária)
+- [[Pesquisa - 2026-05-26 - Claude API e Anthropic SDK]]
+- [[Pesquisa - 2026-05-26 - Claude Code — CLI e agentes]]
+- [[Pesquisa - 2026-05-26 - Economia de Tokens em LLMs]]
+- [[Pesquisa - 2026-05-26 - Deploy e Infraestrutura Cloud]]
+- [[Pesquisa - 2026-05-26 - Inteligência Artificial — avanços]]
+- [[Pesquisa - 2026-05-26 - Programação e Desenvolvimento]]
+- [[Pesquisa - 2026-05-26 - Mercado de TI no Brasil]]
+
+### 2026-05-25 (Pesquisa Diária)
+- [[Pesquisa - 2026-05-25 - Claude API e Anthropic SDK]]
+- [[Pesquisa - 2026-05-25 - Claude Code — CLI e agentes]]
+- [[Pesquisa - 2026-05-25 - Economia de Tokens em LLMs]]
+- [[Pesquisa - 2026-05-25 - Deploy e Infraestrutura Cloud]]
+- [[Pesquisa - 2026-05-25 - Inteligência Artificial — avanços]]
+- [[Pesquisa - 2026-05-25 - Programação e Desenvolvimento]]
+- [[Pesquisa - 2026-05-25 - Mercado de TI no Brasil]]
 
 ### 2026-05-24 (Pesquisa Diária)
 - [[Pesquisa - 2026-05-24 - Claude API e Anthropic SDK]]
