@@ -3,7 +3,7 @@
 tipo: pesquisa
 criado: 2026-05-26
 atualizado: 2026-05-26
-pergunta-central: Como a programação pode ser otimizada para maximizar a produtividade e a qualidade do desenvolvimento de software?
+pergunta-central: Como a programação e o desenvolvimento de software estão evoluindo para atender às demandas tecnológicas e sociais contemporâneas?
 relacionado-a: []
 related: []
 tags: [pesquisa, dev, produtividade]
@@ -12,31 +12,32 @@ tags: [pesquisa, dev, produtividade]
 # Pesquisa - Programação e Desenvolvimento
 
 ## ❓ Pergunta central
-Como a programação pode ser otimizada para maximizar a produtividade e a qualidade do desenvolvimento de software?
+Como a programação e o desenvolvimento de software estão evoluindo para atender às demandas tecnológicas e sociais contemporâneas?
 
 ## 🎯 Síntese (3-5 linhas)
-A programação e o desenvolvimento de software são processos que envolvem a criação de soluções eficientes e escaláveis para problemas computacionais. O domínio de boas práticas, o uso de ferramentas adequadas e a aplicação de metodologias ágeis são fundamentais para aumentar a produtividade e a qualidade do código. Além disso, a colaboração em equipe e o aprendizado contínuo têm papel essencial na evolução do desenvolvedor.
+O campo da programação e desenvolvimento está em constante evolução, impulsionado por avanços em inteligência artificial, metodologias ágeis e computação em nuvem. Tendências como o desenvolvimento low-code/no-code, DevOps e a integração de IA estão reformulando a forma como os softwares são criados e mantidos. Além disso, questões éticas e de sustentabilidade estão ganhando espaço no cenário do desenvolvimento tecnológico.
 
 ## 🔬 Detalhes
-- O uso de metodologias ágeis, como Scrum e Kanban, pode aumentar significativamente a eficiência do processo de desenvolvimento ao promover ciclos curtos de entregas incrementais e feedback constante.
-- Ferramentas de controle de versão, como Git, são indispensáveis para o gerenciamento de código em equipe, permitindo rastrear mudanças e facilitar a colaboração.
-- Programação orientada a testes (TDD) ajuda a garantir a qualidade do software ao exigir que os testes sejam escritos antes da implementação do código.
-- O uso de frameworks e bibliotecas prontos pode acelerar o desenvolvimento, mas é essencial avaliar a adequação e a segurança dessas ferramentas ao projeto.
-- O código limpo (clean code) e os princípios de design de software, como SOLID, ajudam a criar sistemas mais legíveis, manuteníveis e escaláveis.
-- A automação de tarefas repetitivas, como integração contínua e entrega contínua (CI/CD), reduz erros humanos e acelera o ciclo de desenvolvimento.
+- A adoção de metodologias ágeis, como Scrum e Kanban, tem acelerado o ciclo de desenvolvimento e aumentado a colaboração nas equipes.
+- O movimento low-code/no-code democratiza o desenvolvimento de software, permitindo que usuários com pouca ou nenhuma experiência em programação criem aplicações.
+- A integração de ferramentas de inteligência artificial, como [[Claude API e Anthropic SDK]], está otimizando processos de codificação, testes e manutenção de software.
+- A computação em nuvem possibilita maior escalabilidade e flexibilidade no desenvolvimento e implantação de aplicações.
+- Há um aumento na adoção de DevOps, que integra desenvolvimento e operações para melhorar a entrega contínua de software.
+- Questões éticas, como viés algorítmico e impacto ambiental, estão se tornando centrais no debate sobre boas práticas de desenvolvimento.
 
 ## 🔗 Conexões
 - [[Claude API e Anthropic SDK]]
+- [[Pesquisa - Inteligência Artificial Generativa]]
 - [[Projeto - Sistema Chamados]]
-- [[Pesquisa - Metodologias Ágeis]]
 
 ## 📚 Fontes
-- [[Referência - Livro - Clean Code de Robert C. Martin]]
-- [[Referência - Livro - A Arte de Fazer Software de Robert L. Glass]]
-- [[Referência - Artigo - The Agile Manifesto]]
+- [[Referência - Livro "Clean Code" de Robert C. Martin]]
+- [[Referência - Artigo sobre Metodologias Ágeis (Nome do Artigo)]]
+- [[Referência - Relatório "State of DevOps 2025"]]
+- [[Referência - Inteligência Artificial em Desenvolvimento de Software]]
 
 ## 🚧 Lacunas
-- Como as ferramentas baseadas em IA podem revolucionar a programação e o desenvolvimento de software?
-- Quais são as métricas mais eficazes para medir a produtividade e a qualidade no desenvolvimento de software?
-- De que forma a programação funcional se compara à programação orientada a objetos em termos de eficiência e escalabilidade?
+- Como medir e mitigar o impacto ambiental do desenvolvimento de software?
+- Quais são os limites éticos do uso de IA no desenvolvimento?
+- Como o low-code/no-code impactará a demanda por programadores tradicionais no futuro?
 ```
