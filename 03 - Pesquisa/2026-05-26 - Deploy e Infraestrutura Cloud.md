@@ -3,39 +3,39 @@
 tipo: pesquisa
 criado: 2026-05-26
 atualizado: 2026-05-26
-pergunta-central: Quais são as melhores práticas e ferramentas para deploy e gerenciamento de infraestrutura na nuvem?
+pergunta-central: Como arquitetar uma infraestrutura eficiente e escalável para aplicações em cloud ao realizar deploys automatizados?
 relacionado-a: []
 related: []
-tags: ["pesquisa", "dev", "infra"]
+tags: [pesquisa, dev, infra]
 ---
 
 # Pesquisa - Deploy e Infraestrutura Cloud
 
 ## ❓ Pergunta central
-Quais são as melhores práticas e ferramentas para deploy e gerenciamento de infraestrutura na nuvem?
+Como arquitetar uma infraestrutura eficiente e escalável para aplicações em cloud ao realizar deploys automatizados?
 
 ## 🎯 Síntese (3-5 linhas)
-O deploy e o gerenciamento de infraestrutura em ambientes de cloud computing demandam uma abordagem estratégica que envolve automação, escalabilidade e segurança. Ferramentas como Terraform, Kubernetes e AWS CloudFormation permitem controle e replicação eficientes. Práticas como CI/CD, monitoramento ativo e uso de pipelines otimizam os fluxos de trabalho e garantem maior confiabilidade no desempenho.
+A infraestrutura cloud permite que aplicações sejam escaladas dinamicamente e implantadas com eficiência por meio de pipelines de CI/CD. O design de infraestrutura deve considerar performance, custos e segurança. Ferramentas como Terraform, Kubernetes e AWS CloudFormation são amplamente utilizadas para provisionamento e gerenciamento, enquanto frameworks como Docker tornam os deploys mais consistentes e portáveis.
 
 ## 🔬 Detalhes
-- O **Terraform** é uma ferramenta de infraestrutura como código (IaC) amplamente usada para provisionar e gerenciar recursos de nuvem de maneira declarativa.
-- O **Kubernetes** facilita o gerenciamento de containers em escala, permitindo deploys rápidos e recuperação automatizada de falhas.
-- **CI/CD** (Integração Contínua/Entrega Contínua) é essencial para automatizar a entrega de código, reduzindo erros manuais e acelerando ciclos de desenvolvimento.
-- O uso de **pipelines de entrega** permite a automação completa de build, teste e deploy, aumentando a eficiência e a confiabilidade do processo.
-- A **observabilidade** (logging, métricas e rastreamento) é crucial para diagnosticar problemas e otimizar o desempenho da infraestrutura.
-- Plataformas como **AWS, Azure e Google Cloud** oferecem serviços integrados para deploy e gerenciamento de infraestrutura, como EC2, App Engine, e AKS.
+- **Deploy contínuo**: Automatizar o deploy é essencial para manter entregas rápidas e consistentes. Ferramentas como Jenkins, GitHub Actions e GitLab CI são amplamente usadas.
+- **Provisionamento de infraestrutura**: IaC (Infrastructure as Code) é a base para gerenciar ambientes cloud. Exemplos incluem Terraform, AWS CloudFormation e Pulumi.
+- **Contêineres vs. VMs**: Contêineres (ex.: Docker) são mais leves e eficientes para deploys modernos, enquanto máquinas virtuais ainda são úteis em cenários específicos.
+- **Orquestração de contêineres**: Kubernetes é a solução líder para gerenciar contêineres em escala, permitindo balanceamento de carga, escalabilidade e alta disponibilidade.
+- **Monitoramento e observabilidade**: Ferramentas como Prometheus, Grafana e Datadog são críticas para identificar gargalos e otimizar performance em tempo real.
+- **Custo e escalabilidade**: Escolher o provedor de cloud correto (AWS, Azure, GCP) e configurar autoescalonamento pode reduzir custos e garantir disponibilidade.
 
 ## 🔗 Conexões
-- [[Claude API e Anthropic SDK]]
-- [[Pesquisa - Automação de Infraestrutura DevOps]]
+- [[Infraestrutura como Código - Fundamentos]]
+- [[Projeto - Sistema Chamados]]
 
 ## 📚 Fontes
-- [[Referência - Terraform Documentation]]
-- [[Referência - Kubernetes Concepts]]
+- [[Referência - Livro Terraform Up and Running]]
+- [[Referência - Kubernetes Documentation]]
 - [[Referência - AWS Well-Architected Framework]]
 
 ## 🚧 Lacunas
-- Quais são as nuances de custo-benefício entre os principais provedores de nuvem para diferentes tipos de empresas?
-- Como integrar segurança (DevSecOps) de forma eficaz nos pipelines de deploy?
-- Quais são os futuros avanços esperados no gerenciamento de infraestrutura cloud?
+- Como equilibrar segurança e desempenho em arquiteturas serverless?
+- Quais são as práticas recomendadas para gerenciar custos em ambientes multicloud?
+- Como integrar monitoramento de ponta a ponta em pipelines de CI/CD?
 ```
