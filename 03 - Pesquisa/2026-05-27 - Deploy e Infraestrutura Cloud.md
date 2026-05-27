@@ -3,40 +3,40 @@
 tipo: pesquisa
 criado: 2026-05-27
 atualizado: 2026-05-27
-pergunta-central: Quais são as melhores práticas e ferramentas para realizar o deploy de aplicações modernas em infraestrutura cloud?
-relacionado-a: [devops, cloud-computing]
-related: [[Projeto - Sistema Chamados]]
-tags: [pesquisa, dev, infra]
+pergunta-central: Quais são as melhores práticas e ferramentas para deploy eficiente e gerenciamento de infraestrutura em nuvem?
+relacionado-a: []
+related: []
+tags: ["pesquisa", "dev", "infra"]
 ---
 
 # Pesquisa - Deploy e Infraestrutura Cloud
 
 ## ❓ Pergunta central
-Quais são as melhores práticas e ferramentas para realizar o deploy de aplicações modernas em infraestrutura cloud?
+Quais são as melhores práticas e ferramentas para deploy eficiente e gerenciamento de infraestrutura em nuvem?
 
 ## 🎯 Síntese (3-5 linhas)
-Deploy e infraestrutura cloud são pilares da entrega de software em escala. As melhores práticas incluem automação, monitoramento, uso de contêineres e orquestração com ferramentas como Kubernetes. Infraestruturas como código (IaC) e soluções multi-cloud estão moldando o setor para maior flexibilidade e resiliência. A escolha correta das ferramentas depende do tipo de aplicação e das necessidades do negócio.
+Deploy e infraestrutura cloud são fundamentais para escalar aplicações e garantir alta disponibilidade. As melhores práticas incluem automação de processos, uso de pipelines CI/CD e gerenciamento de infraestrutura como código (IaC). Ferramentas como Terraform, Kubernetes e serviços como AWS, Azure e GCP são amplamente adotados por sua flexibilidade e robustez.
 
 ## 🔬 Detalhes
-- A automação de deploy é essencial para reduzir erros manuais e acelerar entregas, utilizando ferramentas como Jenkins, GitLab CI/CD e GitHub Actions.
-- Contêineres (Docker) e orquestradores (Kubernetes) são amplamente usados para facilitar o escalonamento e a portabilidade de aplicações entre diferentes nuvens.
-- Infraestrutura como código (IaC) com ferramentas como Terraform e AWS CloudFormation torna o provisionamento de recursos mais eficiente e reprodutível.
-- O monitoramento contínuo de aplicações e infraestrutura, usando ferramentas como Prometheus, Grafana e Datadog, é crucial para identificar e resolver problemas rapidamente.
-- Estratégias multi-cloud e híbridas estão sendo adotadas para evitar a dependência de um único provedor de nuvem e melhorar a resiliência.
-- Segurança na nuvem é uma preocupação crescente, sendo que práticas como controle de acesso granular, criptografia e uso de firewalls são indispensáveis.
+- **Infraestrutura como Código (IaC)**: Ferramentas como Terraform e AWS CloudFormation permitem definir e gerenciar infraestrutura através de código versionável, promovendo consistência e reprodutibilidade.
+- **Pipelines CI/CD**: Integração e entrega contínuas (CI/CD) automatizam testes, builds e deploys, reduzindo erros manuais e acelerando ciclos de desenvolvimento.
+- **Orquestração com Kubernetes**: Kubernetes é amplamente utilizado para gerenciar containers, permitindo deploys escaláveis e altamente disponíveis.
+- **Práticas de segurança**: Implementação de políticas como least privilege, uso de credenciais gerenciadas e proteção contra ataques DDoS são cruciais no ambiente cloud.
+- **Monitoramento e observabilidade**: Ferramentas como Prometheus, Grafana e serviços nativos das clouds (ex.: AWS CloudWatch) são essenciais para acompanhar métricas, logs e detectar problemas.
+- **Custo e escalabilidade**: A escolha da cloud provider (AWS, Azure, GCP) deve considerar custo-benefício, escalabilidade e integração com o stack tecnológico existente.
 
 ## 🔗 Conexões
 - [[Projeto - Sistema Chamados]]
-- [[Referência - Kubernetes para DevOps]]
-- [[Referência - Terraform Guia Essencial]]
+- [[Referência - Terraform e AWS CloudFormation]]
+- [[Referência - Práticas CI/CD com GitHub Actions]]
 
 ## 📚 Fontes
-- [[Referência - Kubernetes para DevOps]]
-- [[Referência - Terraform Guia Essencial]]
-- [[Referência - Livro Site Reliability Engineering]]
+- [[Referência - Arquitetura na AWS]]
+- [[Referência - Guia Kubernetes para iniciantes]]
+- [[Referência - Livro - Engenharia de Software Moderna]]
 
 ## 🚧 Lacunas
-- Quais são as diferenças práticas entre os provedores de cloud mais populares (AWS, Azure, GCP) para deploy de aplicações?
-- Quais são os principais desafios enfrentados ao implementar estratégias multi-cloud em larga escala?
-- Como avaliar o custo-benefício de diferentes abordagens de infraestrutura como código?
+- Quais são as diferenças práticas entre usar Kubernetes de forma nativa vs. gerenciado (ex.: EKS, GKE)?
+- Como implementar estratégias de rollback eficazes em pipelines CI/CD?
+- Qual é o impacto ambiental do uso de infraestrutura cloud em larga escala e como mitigá-lo?
 ```
