@@ -1,8 +1,9 @@
+```markdown
 ---
 tipo: pesquisa
 criado: 2026-05-26
 atualizado: 2026-05-26
-pergunta-central: Quais são os avanços mais significativos em inteligência artificial nos últimos anos e como eles impactam diferentes setores?
+pergunta-central: Quais foram os avanços mais significativos em Inteligência Artificial nos últimos anos e quais impactos eles podem ter na sociedade?
 relacionado-a: []
 related: [[Claude API e Anthropic SDK]]
 tags: [pesquisa, ia]
@@ -11,31 +12,31 @@ tags: [pesquisa, ia]
 # Pesquisa - Inteligência Artificial — avanços
 
 ## ❓ Pergunta central
-Quais são os avanços mais significativos em inteligência artificial nos últimos anos e como eles impactam diferentes setores?
+Quais foram os avanços mais significativos em Inteligência Artificial nos últimos anos e quais impactos eles podem ter na sociedade?
 
 ## 🎯 Síntese (3-5 linhas)
-Nos últimos anos, a Inteligência Artificial (IA) avançou significativamente em áreas como modelos de linguagem de grande escala, aprendizado por reforço, IA generativa e aplicações em saúde, transporte e energia. Esses avanços estão transformando setores inteiros, aumentando a eficiência, automatizando processos complexos e levantando questões éticas e regulatórias fundamentais.
+Nos últimos anos, a Inteligência Artificial avançou em áreas como aprendizado profundo, modelos generativos e inteligência artificial geral. Tecnologias como GPT e sistemas multimodais redefiniram interações humanas com máquinas. No entanto, esses avanços também levantam questões éticas e desafios regulatórios sobre uso responsável e impacto na força de trabalho.
 
 ## 🔬 Detalhes
-- Modelos de linguagem como GPT-4 e Claude representam saltos significativos em capacidade de processamento e geração de linguagem natural.
-- O aprendizado por reforço profundo tem sido fundamental para conquistas em jogos e na robótica, como demonstrado pelo AlphaGo e outros sistemas.
-- Avanços na IA generativa permitem criar imagens, vídeos, músicas e textos que imitam a criatividade humana, o que impacta a arte, o design e o entretenimento.
-- Na área de saúde, IAs estão sendo usadas para diagnósticos mais rápidos e precisos, como na detecção de câncer e análise de genomas.
-- O setor de transporte está sendo revolucionado por veículos autônomos e sistemas de tráfego inteligentes que utilizam IA para otimizar rotas e reduzir acidentes.
-- A IA também está sendo aplicada em energia, otimizando redes elétricas e promovendo a eficiência no uso de recursos.
+- Modelos generativos, como GPT-4, avançaram em capacidade de compreensão e produção de linguagem natural, ampliando sua aplicação em educação, saúde e negócios.
+- Progresso em inteligência artificial geral (AGI) está em andamento, com empresas como OpenAI e Anthropic explorando formas de criar sistemas mais generalistas e autônomos.
+- IA multimodal, que combina texto, imagem, áudio e vídeo, está emergindo como uma área promissora, com aplicações em diagnóstico médico, criatividade e automação.
+- Uso de IA em medicina, como no desenvolvimento de diagnósticos automatizados e análise de imagens médicas, contribui para maior precisão e eficiência.
+- Avanços em ética de IA estão promovendo frameworks mais robustos para garantir transparência, privacidade e mitigação de vieses.
+- IA está transformando a automação no mercado de trabalho, potencialmente substituindo tarefas repetitivas e redefinindo a qualificação profissional necessária.
 
 ## 🔗 Conexões
 - [[Claude API e Anthropic SDK]]
-- [[Pesquisa - Ética na IA]]
-- [[Referência - OpenAI GPT-4]]
-- [[Referência - Veículos autônomos e IA]]
+- [[Pesquisa - Ética em Inteligência Artificial]]
+- [[Referência - OpenAI e GPT-4]]
 
 ## 📚 Fontes
-- [[Referência - OpenAI GPT-4]]
-- [[Referência - Diagnóstico por IA na saúde]]
-- [[Referência - IA generativa e criatividade]]
+- [[Referência - GPT-4 e avanços em IA]]
+- [[Referência - Ética da IA por Anthropic]]
+- [[Referência - IA multimodal no diagnóstico médico]]
 
 ## 🚧 Lacunas
-- Como regulamentar o uso de IA sem frear a inovação?
-- Quais são os limites éticos e técnicos para a aplicação de IA em segurança e defesa?
-- Como garantir que os avanços em IA sejam acessíveis a países em desenvolvimento?
+- Como prever e mitigar impactos econômicos do avanço da IA na força de trabalho global?
+- Quais são os limites técnicos para o desenvolvimento de AGI no curto prazo?
+- Como garantir que os avanços em IA sejam acessíveis e beneficiem populações vulneráveis?
+```
