@@ -3,7 +3,7 @@
 tipo: pesquisa
 criado: 2026-05-28
 atualizado: 2026-05-28
-pergunta-central: Quais são as tendências, desafios e oportunidades no mercado de TI no Brasil em 2026?
+pergunta-central: Quais são as tendências e desafios do mercado de TI no Brasil atualmente?
 relacionado-a: []
 related: []
 tags: [pesquisa, mercado, carreira]
@@ -12,30 +12,30 @@ tags: [pesquisa, mercado, carreira]
 # Pesquisa - Mercado de TI no Brasil
 
 ## ❓ Pergunta central
-Quais são as tendências, desafios e oportunidades no mercado de TI no Brasil em 2026?
+Quais são as tendências e desafios do mercado de TI no Brasil atualmente?
 
 ## 🎯 Síntese (3-5 linhas)
-O mercado de TI no Brasil continua em crescimento, impulsionado pela transformação digital, pela adoção de tecnologias emergentes como IA e computação em nuvem, e pela alta demanda por profissionais qualificados. No entanto, há desafios significativos, como a escassez de talentos e a necessidade de maior investimento em educação e infraestrutura tecnológica. O setor segue sendo um dos mais promissores para a economia brasileira.
+O mercado de TI no Brasil está em crescimento, impulsionado pela transformação digital e pela adoção de novas tecnologias, como Inteligência Artificial e Cloud Computing. No entanto, enfrenta desafios significativos, como a falta de profissionais qualificados e disparidades regionais. As áreas de cibersegurança, desenvolvimento de software e análise de dados têm alta demanda.
 
 ## 🔬 Detalhes
-- O setor de TI no Brasil cresceu significativamente nos últimos anos, representando cerca de 7% do PIB nacional.
-- Há uma alta demanda por profissionais em áreas como desenvolvimento de software, cibersegurança, ciência de dados e inteligência artificial.
-- A transformação digital, acelerada pela pandemia, impulsionou a adoção de tecnologias como computação em nuvem e automação.
-- Apesar do crescimento, o Brasil enfrenta uma escassez de profissionais qualificados, com um déficit estimado de 500 mil vagas na área até 2025.
-- Startups brasileiras de tecnologia, especialmente fintechs, continuam atraindo investimentos significativos, consolidando o país como um hub de inovação na América Latina.
-- Desafios incluem a falta de infraestrutura tecnológica em regiões menos desenvolvidas e a necessidade de políticas públicas que incentivem a inovação e a formação de talentos.
+- A transformação digital está acelerando no Brasil, principalmente após a pandemia de COVID-19.
+- Há uma demanda crescente por profissionais qualificados em áreas como desenvolvimento de software, cibersegurança e análise de dados.
+- A falta de mão de obra qualificada é um dos maiores desafios; estima-se que até 2026 faltem mais de 300 mil profissionais de TI no país.
+- As disparidades regionais são marcantes: o Sudeste concentra a maior parte das oportunidades, enquanto outras regiões enfrentam dificuldades com infraestrutura e formação.
+- Startups e empresas de tecnologia estão liderando a inovação, especialmente em fintechs, edtechs e healthtechs.
+- Políticas públicas e incentivos fiscais para tecnologia ainda são insuficientes para atrair investimentos e fomentar o setor.
 
 ## 🔗 Conexões
-- [[Projeto - Sistema Chamados]]
-- [[Pesquisa - Inteligência Artificial no Brasil]]
+- [[Claude API e Anthropic SDK]]
+- [[Pesquisa - Inteligência Artificial no mercado brasileiro]]
+- [[Área - Desenvolvimento de Software]]
 
 ## 📚 Fontes
-- [[Referência - Panorama do Mercado de TI no Brasil]]
-- [[Referência - Relatório de Transformação Digital 2026]]
-- [[Referência - Estatísticas da ABES (Associação Brasileira de Empresas de Software)]]
+- [[Referência - Relatório da ABES sobre o mercado de TI]]
+- [[Referência - Panorama da transformação digital no Brasil]]
 
 ## 🚧 Lacunas
-- Quais iniciativas têm sido mais eficazes para reduzir o déficit de talentos em TI no Brasil?
-- Como as pequenas e médias empresas podem acessar tecnologias avançadas de forma mais acessível?
-- Qual é o impacto das políticas públicas recentes no desenvolvimento do mercado de TI no país?
+- Quais iniciativas governamentais podem mitigar a falta de mão de obra qualificada?
+- Como as startups de tecnologia podem expandir suas operações para além do Sudeste?
+- Quais são as previsões para o impacto da IA no mercado de trabalho brasileiro nos próximos cinco anos?
 ```
