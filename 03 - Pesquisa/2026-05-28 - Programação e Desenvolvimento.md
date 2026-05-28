@@ -1,41 +1,42 @@
+```markdown
 ---
 tipo: pesquisa
 criado: 2026-05-28
 atualizado: 2026-05-28
-pergunta-central: Como a programação e o desenvolvimento de software podem ser otimizados para aumentar a produtividade e a qualidade do código?
+pergunta-central: Quais são os principais paradigmas, práticas e ferramentas que impulsionam a evolução da programação e do desenvolvimento de software atualmente?
 relacionado-a: []
-related: []
-tags: ["pesquisa", "dev", "produtividade"]
+related: [[Claude API e Anthropic SDK]]
+tags: [pesquisa, dev, produtividade]
 ---
 
 # Pesquisa - Programação e Desenvolvimento
 
 ## ❓ Pergunta central
-Como a programação e o desenvolvimento de software podem ser otimizados para aumentar a produtividade e a qualidade do código?
+Quais são os principais paradigmas, práticas e ferramentas que impulsionam a evolução da programação e do desenvolvimento de software atualmente?
 
 ## 🎯 Síntese (3-5 linhas)
-A programação e o desenvolvimento são impulsionados por práticas como metodologias ágeis, automação de processos e ferramentas colaborativas. Tecnologias emergentes, como IA, estão transformando o setor, enquanto princípios como Clean Code e DevOps continuam essenciais para a eficiência e escalabilidade. O maior desafio é equilibrar velocidade e qualidade sem comprometer a sustentabilidade do código.
+Programação e desenvolvimento de software evoluíram para atender à crescente complexidade das demandas tecnológicas e da sociedade. Hoje, práticas como DevOps, programação funcional, e metodologias ágeis dominam o campo, enquanto ferramentas como containers, frameworks de IA e plataformas de código aberto tornam o desenvolvimento mais ágil e colaborativo. A automação de tarefas e o uso de inteligência artificial também estão transformando a maneira como os desenvolvedores trabalham.
 
 ## 🔬 Detalhes
-- **Metodologias ágeis** (Scrum, Kanban) promovem entregas curtas e iterativas, permitindo adaptação rápida às mudanças.
-- **Automação** com CI/CD pipelines reduz o tempo de entrega e minimiza erros humanos em processos repetitivos.
-- **Código limpo** (Clean Code) foca em simplicidade, legibilidade e manutenção, reduzindo a dívida técnica.
-- **Ferramentas colaborativas** como GitHub e Jira facilitam a comunicação e rastreamento de tarefas em equipes distribuídas.
-- **Linguagens modernas** como Python, Rust e Go oferecem paradigmas e bibliotecas que aceleram o desenvolvimento e aumentam a segurança.
-- **Inteligência Artificial** está sendo integrada em IDEs (ex: GitHub Copilot) para sugerir códigos, corrigir erros e até mesmo gerar trechos completos.
-- **Testes automatizados** (unitários, integração) são cruciais para garantir estabilidade e evitar regressões.
-- **Práticas de DevOps** integram desenvolvimento e operações, promovendo um ciclo de vida contínuo e eficiente.
+- **Paradigmas de Programação**: O paradigma funcional está em alta devido à sua capacidade de lidar com problemas de concorrência e big data. Ao mesmo tempo, a orientação a objetos continua amplamente utilizada em sistemas corporativos.
+- **Metodologias Ágeis**: O desenvolvimento ágil, com práticas como Scrum e Kanban, permite maior flexibilidade e colaboração em equipes, adaptando-se melhor a mudanças de requisitos.
+- **DevOps e Integração Contínua**: A integração contínua e o DevOps têm acelerado o ciclo de desenvolvimento e entrega, incentivando a automação de pipelines de desenvolvimento e a colaboração entre desenvolvimento e operações.
+- **Inteligência Artificial no Desenvolvimento**: Ferramentas baseadas em IA, como o [[Claude API e Anthropic SDK]] e o GitHub Copilot, estão ajudando desenvolvedores a escrever código mais rapidamente e com maior precisão.
+- **Frameworks e Bibliotecas Modernas**: Frameworks como React, Angular e Django permanecem populares, enquanto novas bibliotecas para machine learning e data science, como PyTorch e TensorFlow, continuam a emergir.
+- **Plataformas de Código Aberto**: O GitHub e o GitLab são pilares da comunidade de desenvolvimento moderno, permitindo colaboração global e compartilhamento de conhecimento.
 
 ## 🔗 Conexões
 - [[Claude API e Anthropic SDK]]
-- [[Projeto - Sistema Chamados]]
+- [[Pesquisa - Metodologias Ágeis]]
+- [[Pesquisa - Automação no Desenvolvimento de Software]]
 
 ## 📚 Fontes
-- [[Referência - Clean Code por Robert C. Martin]]
-- [[Referência - Livro DevOps Handbook]]
-- [[Referência - Artigo sobre GitHub Copilot]]
+- [[Referência - Clean Code]]
+- [[Referência - DevOps Handbook]]
+- [[Referência - Site oficial do GitHub]]
 
 ## 🚧 Lacunas
-- Qual é o impacto de práticas ágeis em equipes pequenas versus grandes?
-- Como medir efetivamente a produtividade em equipes de desenvolvimento?
-- Quais são os riscos éticos do uso crescente de IA no desenvolvimento de software?
+- Quais são as principais barreiras para adoção de práticas ágeis e DevOps em equipes tradicionais?
+- Como a IA pode afetar a empregabilidade e o papel dos desenvolvedores nos próximos anos?
+- Quais são as diferenças culturais e regionais na adoção de paradigmas e ferramentas de desenvolvimento?
+```
