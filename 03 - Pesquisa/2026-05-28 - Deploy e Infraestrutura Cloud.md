@@ -3,40 +3,39 @@
 tipo: pesquisa
 criado: 2026-05-28
 atualizado: 2026-05-28
-pergunta-central: Quais são as melhores práticas e ferramentas para realizar deploy escalável e eficiente em infraestrutura cloud?
+pergunta-central: Quais são as melhores práticas para realizar deploy e gerenciar infraestrutura em ambientes de cloud?
 relacionado-a: []
-related: []
+related: [[Projeto - Sistema Chamados]]
 tags: [pesquisa, dev, infra]
 ---
 
 # Pesquisa - Deploy e Infraestrutura Cloud
 
 ## ❓ Pergunta central
-Quais são as melhores práticas e ferramentas para realizar deploy escalável e eficiente em infraestrutura cloud?
+Quais são as melhores práticas para realizar deploy e gerenciar infraestrutura em ambientes de cloud?
 
 ## 🎯 Síntese (3-5 linhas)
-Deploy e infraestrutura cloud são fundamentais para garantir que aplicações modernas sejam escaláveis, resilientes e fáceis de atualizar. As melhores práticas incluem automação, uso de contêineres, pipelines CI/CD, monitoramento constante e estratégias como blue-green deployment e canary releases. Ferramentas como Terraform, Kubernetes, Docker e AWS amplificam a eficiência e a flexibilidade.
+O deploy e a infraestrutura cloud permitem agilidade, escalabilidade e eficiência no desenvolvimento e operação de sistemas. Ferramentas como containers, orquestração via Kubernetes e automação com CI/CD são essenciais. A escolha da cloud (AWS, Azure, GCP, etc.) e práticas como monitoramento contínuo e segurança em múltiplas camadas são fatores críticos de sucesso.
 
 ## 🔬 Detalhes
-- **Automação**: O uso de ferramentas de infraestrutura como código (IaC), como Terraform ou AWS CloudFormation, garante consistência e facilita a replicação de ambientes.
-- **Contêineres e Orquestração**: Docker e Kubernetes são amplamente utilizados para empacotar e gerenciar aplicações, permitindo escalabilidade e portabilidade entre provedores de cloud.
-- **Pipelines CI/CD**: Ferramentas como GitHub Actions, GitLab CI/CD e Jenkins possibilitam automação do ciclo completo de integração, teste e deploy.
-- **Estratégias de Deploy**: Métodos como blue-green deployment, canary releases e rolling updates minimizam o impacto de atualizações em ambientes de produção.
-- **Monitoramento e Observabilidade**: Soluções como Prometheus, Grafana, Datadog e AWS CloudWatch são essenciais para rastrear a saúde do sistema e responder rapidamente a falhas.
-- **Custos e Escalabilidade**: O uso de arquiteturas serverless (ex.: AWS Lambda) e serviços gerenciados permite maior controle de custos e escalabilidade sob demanda.
+- **Containers e Imagens**: Docker é a tecnologia padrão para criar e gerenciar containers. Ele permite empacotar aplicações com todas as dependências, garantindo portabilidade.
+- **Orquestração**: Kubernetes é amplamente usado para gerenciar clusters de containers, oferecendo escalonamento automático, balanceamento de carga e recuperação de falhas.
+- **Automação com CI/CD**: Integração contínua (CI) e entrega contínua (CD) são práticas essenciais para agilizar o ciclo de desenvolvimento, garantindo deploys frequentes e consistentes.
+- **Infraestrutura como Código (IaC)**: Ferramentas como Terraform, AWS CloudFormation e Ansible são usadas para definir e gerenciar infraestrutura de forma programática.
+- **Monitoramento e Observabilidade**: Ferramentas como Prometheus, Grafana e New Relic ajudam a monitorar desempenho, identificar gargalos e corrigir problemas rapidamente.
+- **Segurança em Cloud**: Implementar controles de acesso rigorosos, criptografia de dados em trânsito e em repouso, e práticas como zero trust são fundamentais para proteger a infraestrutura.
 
 ## 🔗 Conexões
+- [[Claude API e Anthropic SDK]]
 - [[Projeto - Sistema Chamados]]
-- [[Referência - Kubernetes em Produção]]
-- [[Referência - Terraform para DevOps]]
 
 ## 📚 Fontes
-- [[Referência - Livro: Site Reliability Engineering]]
-- [[Referência - AWS Well-Architected Framework]]
-- [[Referência - Artigo: Melhores práticas em CI/CD no DevOps]]
+- [[Referência - Docker e Kubernetes]]
+- [[Referência - Terraform Documentation]]
+- [[Referência - AWS CloudFormation]]
 
 ## 🚧 Lacunas
-- Quais são os desafios específicos no deploy de aplicações de machine learning em cloud?
-- Como integrar práticas de segurança automatizadas dentro dos pipelines CI/CD?
-- Quais são os critérios mais eficazes para escolher um provedor de cloud com base em necessidades específicas?
+- Como otimizar custos em diferentes provedores de cloud (ex.: AWS vs GCP vs Azure)?
+- Quais são os desafios específicos de migração de infraestrutura legada para a cloud?
+- Como implementar um sistema de monitoramento preditivo que antecipe problemas antes que afetem os usuários?
 ```
