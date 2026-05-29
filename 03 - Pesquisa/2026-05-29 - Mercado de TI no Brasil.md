@@ -3,7 +3,7 @@
 tipo: pesquisa
 criado: 2026-05-29
 atualizado: 2026-05-29
-pergunta-central: Qual é o panorama atual do mercado de TI no Brasil e suas perspectivas futuras?
+pergunta-central: Quais são as características, desafios e oportunidades do mercado de TI no Brasil atualmente?
 relacionado-a: []
 related: []
 tags: [pesquisa, mercado, carreira]
@@ -12,29 +12,29 @@ tags: [pesquisa, mercado, carreira]
 # Pesquisa - Mercado de TI no Brasil
 
 ## ❓ Pergunta central
-Qual é o panorama atual do mercado de TI no Brasil e suas perspectivas futuras?
+Quais são as características, desafios e oportunidades do mercado de TI no Brasil atualmente?
 
 ## 🎯 Síntese (3-5 linhas)
-O mercado de TI no Brasil está em constante crescimento, impulsionado pela transformação digital e pela demanda por profissionais qualificados. Apesar disso, o setor enfrenta desafios como a escassez de talentos e a alta competitividade global. As áreas de maior destaque incluem desenvolvimento de software, segurança cibernética e inteligência artificial, com perspectivas otimistas para os próximos anos.
+O mercado de TI no Brasil é caracterizado por um crescimento acelerado, impulsionado pela transformação digital em empresas de todos os setores. Apesar do aumento na demanda por profissionais qualificados, há um déficit significativo de mão de obra especializada. O setor oferece salários acima da média nacional e oportunidades remotas, mas enfrenta desafios como a alta carga tributária e a carência em formação técnica e educacional.
 
 ## 🔬 Detalhes
-- A TI no Brasil representa cerca de 7% do PIB nacional, com um crescimento anual médio de 5% nos últimos anos.
-- Existe uma escassez de mão de obra qualificada, com uma previsão de até 420 mil vagas não preenchidas até 2027.
-- As áreas mais demandadas incluem desenvolvimento de software, análise de dados, segurança cibernética e computação em nuvem.
-- Startups de tecnologia têm desempenhado um papel crucial na inovação, especialmente em setores como fintechs e edtechs.
-- Há um aumento na adoção de tecnologia em pequenas e médias empresas, impulsionado pela busca por eficiência e competitividade.
-- Políticas públicas e incentivos fiscais têm estimulado investimentos no setor, mas ainda há desafios relacionados à infraestrutura e à educação tecnológica.
+- O Brasil é o maior mercado de TI da América Latina, representando cerca de 40% do setor na região.
+- Há uma carência estimada de 500 mil profissionais de TI no Brasil até 2030, devido à alta demanda e ao descompasso na formação de talentos.
+- A pandemia acelerou a digitalização de empresas e aumentou a procura por serviços de tecnologia, especialmente em áreas como segurança cibernética, cloud computing e inteligência artificial.
+- O setor de TI oferece remunerações acima da média nacional, com cargos como desenvolvedores de software, analistas de dados e especialistas em cibersegurança sendo os mais procurados.
+- A possibilidade de trabalho remoto ampliou as oportunidades para profissionais brasileiros atuarem em empresas internacionais, aumentando a competitividade do mercado de trabalho local.
+- Barreiras como a alta carga tributária, burocracia e deficiências na infraestrutura de internet em regiões afastadas ainda limitam o pleno desenvolvimento do setor no país.
 
 ## 🔗 Conexões
+- [[Claude API e Anthropic SDK]]
 - [[Projeto - Sistema Chamados]]
-- [[Pesquisa - Inteligência Artificial no Brasil]]
 
 ## 📚 Fontes
-- [[Referência - Relatório Mercado TI Brasil 2025]]
-- [[Referência - Artigo sobre escassez de talentos em TI no Brasil]]
+- [[Referência - Relatório sobre o mercado de TI no Brasil]]
+- [[Referência - Estudo sobre déficit de profissionais de TI]]
 
 ## 🚧 Lacunas
-- Qual o impacto de políticas públicas recentes, como a Lei das Startups, no setor de TI brasileiro?
-- Como o mercado de TI no Brasil se compara ao de outros países emergentes?
-- Quais são as tendências específicas para inteligência artificial e segurança cibernética no Brasil?
+- Qual é o impacto das políticas públicas recentes no desenvolvimento do setor de TI no Brasil?
+- Como a educação e a formação técnica podem ser ajustadas para reduzir o déficit de profissionais no mercado?
+- Quais são os principais segmentos de TI no Brasil que apresentam maior potencial de crescimento nos próximos anos?
 ```
