@@ -1,40 +1,44 @@
+```markdown
 ---
 tipo: pesquisa
 criado: 2026-05-29
 atualizado: 2026-05-29
-pergunta-central: Como a programação e o desenvolvimento de software estão moldando o futuro da tecnologia e da sociedade?
+pergunta-central: Como a programação e o desenvolvimento têm evoluído para atender às demandas modernas de tecnologia e produtividade?
 relacionado-a: []
-related: []
+related: [[Claude API e Anthropic SDK]]
 tags: [pesquisa, dev, produtividade]
 ---
 
 # Pesquisa - Programação e Desenvolvimento
 
 ## ❓ Pergunta central
-Como a programação e o desenvolvimento de software estão moldando o futuro da tecnologia e da sociedade?
+Como a programação e o desenvolvimento têm evoluído para atender às demandas modernas de tecnologia e produtividade?
 
 ## 🎯 Síntese (3-5 linhas)
-A programação é a base da transformação digital, impulsionando avanços em inteligência artificial, automação e conectividade global. O desenvolvimento de software está redefinindo a forma como interagimos com o mundo, desde o trabalho remoto até a personalização de experiências digitais. Com a evolução de ferramentas e linguagens, a barreira de entrada para programação está diminuindo, mas a complexidade dos sistemas continua a crescer.
+A programação e o desenvolvimento têm sido profundamente influenciados pela automação, inteligência artificial e pelas metodologias ágeis. Ferramentas como linguagens de alto nível, frameworks de código aberto e plataformas low-code estão simplificando o processo. Além disso, o DevOps e as práticas de CI/CD estão acelerando o ciclo de desenvolvimento e entrega de software, enquanto a interoperabilidade entre sistemas se torna cada vez mais essencial.
 
 ## 🔬 Detalhes
-- A programação é a linguagem que permite aos humanos interagirem e controlarem máquinas, sendo essencial para a criação de soluções tecnológicas.
-- Linguagens de programação modernas, como Python, JavaScript e Rust, são projetadas para aumentar a produtividade dos desenvolvedores.
-- Desenvolvimento ágil e metodologias como Scrum e Kanban estão transformando a forma como equipes de software trabalham, priorizando a entrega contínua de valor.
-- Ferramentas de low-code e no-code estão democratizando o acesso ao desenvolvimento de software, permitindo que não programadores criem aplicações.
-- A inteligência artificial está sendo cada vez mais integrada ao desenvolvimento de software, desde assistentes de codificação como o GitHub Copilot até frameworks de aprendizado de máquina.
-- Questões éticas, como vieses em algoritmos e impacto ambiental de grandes sistemas, estão se tornando pontos centrais no campo do desenvolvimento.
+- O paradigma de programação está se expandindo para incluir linguagens mais simples e acessíveis, como Python e JavaScript, enquanto linguagens como Rust ganham popularidade por sua segurança e desempenho.
+- Ferramentas de desenvolvimento low-code e no-code estão permitindo que usuários sem experiência técnica criem aplicações funcionais.
+- A integração de inteligência artificial, como assistentes de código (ex.: GitHub Copilot), está aumentando a produtividade dos desenvolvedores ao acelerar tarefas repetitivas e sugerir implementações.
+- Metodologias ágeis e frameworks como Scrum e Kanban continuam a dominar a gestão de projetos de software, promovendo entregas rápidas e iterativas.
+- A cultura DevOps e práticas de CI/CD (integração e entrega contínuas) estão reduzindo o tempo entre o desenvolvimento e a entrega de software, permitindo iterações mais frequentes e melhorias contínuas.
+- O desenvolvimento baseado em APIs e microserviços está promovendo interoperabilidade, escalabilidade e maior modularidade nos sistemas.
 
 ## 🔗 Conexões
 - [[Claude API e Anthropic SDK]]
-- [[Pesquisa - Inteligência Artificial e Ética]]
-- [[Área - Produtividade no Desenvolvimento de Software]]
+- [[Pesquisa - DevOps e CI/CD]]
+- [[Pesquisa - Futuro das linguagens de programação]]
+- [[Pesquisa - Inteligência Artificial Generativa em Desenvolvimento de Software]]
 
 ## 📚 Fontes
-- [[Referência - Clean Code (Robert C. Martin)]]
-- [[Referência - The Pragmatic Programmer (Andy Hunt e Dave Thomas)]]
-- [[Referência - Artigos sobre Metodologias Ágeis]]
+- [[Referência - The Pragmatic Programmer]]
+- [[Referência - Clean Code]]
+- [[Referência - DevOps Handbook]]
+- [[Referência - Artigo sobre No-Code e Low-Code]]
 
 ## 🚧 Lacunas
-- Como lidar com a crescente complexidade dos sistemas de software sem comprometer a usabilidade e a segurança?
-- Quais serão os impactos a longo prazo do uso de inteligência artificial no processo de desenvolvimento?
-- Como podemos abordar a sustentabilidade ambiental no desenvolvimento de software e infraestrutura tecnológica?
+- Quais são as limitações atuais das ferramentas de low-code e no-code para o desenvolvimento de software mais complexo?
+- Como as práticas de DevOps podem ser adaptadas para empresas que ainda utilizam metodologias tradicionais?
+- Quais serão os impactos de longo prazo da inteligência artificial no mercado de trabalho para desenvolvedores de software?
+```
