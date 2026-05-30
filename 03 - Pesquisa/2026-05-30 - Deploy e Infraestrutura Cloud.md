@@ -1,43 +1,40 @@
-```markdown
 ---
 tipo: pesquisa
 criado: 2026-05-30
 atualizado: 2026-05-30
-pergunta-central: Como arquitetar e gerenciar uma infraestrutura em nuvem eficiente e resiliente para aplicações modernas?
+pergunta-central: Quais são as melhores práticas e ferramentas para realizar deploys eficientes em infraestrutura cloud moderna?
 relacionado-a: []
-related: [[Projeto - Sistema Chamados]]
-tags: [pesquisa, dev, infra]
+related: []
+tags: ["pesquisa", "dev", "infra"]
 ---
 
 # Pesquisa - Deploy e Infraestrutura Cloud
 
 ## ❓ Pergunta central
-Como arquitetar e gerenciar uma infraestrutura em nuvem eficiente e resiliente para aplicações modernas?
+Quais são as melhores práticas e ferramentas para realizar deploys eficientes em infraestrutura cloud moderna?
 
 ## 🎯 Síntese (3-5 linhas)
-Deploy e infraestrutura cloud permitem a entrega ágil, escalável e confiável de aplicações modernas, utilizando provedores como AWS, Azure e GCP. O foco está em automação, monitoramento e práticas de DevOps. Soluções como contêineres (Docker), orquestração (Kubernetes) e infraestrutura como código (Terraform) são essenciais para simplificar a gestão e aumentar a resiliência.
+Deploys em infraestrutura cloud exigem automação, escalabilidade e segurança. Ferramentas como Terraform e Kubernetes são fundamentais para gerenciar infraestrutura como código e orquestração de contêineres. A observabilidade e o monitoramento contínuo são elementos críticos para garantir a confiabilidade. Adotar práticas CI/CD e estratégias como blue-green deployment ou canary releases minimizam riscos e maximizam a eficiência.
 
 ## 🔬 Detalhes
-- **Provedores principais**: Amazon Web Services (AWS), Microsoft Azure, Google Cloud Platform (GCP) e outros players como DigitalOcean e Oracle Cloud oferecem plataformas robustas para deploy e hospedagem.
-- **Infraestrutura como Código (IaC)**: Ferramentas como Terraform e AWS CloudFormation permitem gerenciar recursos em nuvem de maneira declarativa, facilitando versionamento e consistência.
-- **Contêineres e orquestração**: Docker e Kubernetes lideram a modernização de deploys, permitindo empacotar aplicações com dependências e gerenciar clusters de forma eficiente.
-- **CICD (Integração e Entrega Contínuas)**: Pipelines automatizados (Jenkins, GitHub Actions, GitLab CI) são fundamentais para implantar mudanças rapidamente e com menor risco.
-- **Escalabilidade e resiliência**: Serviços como balanceadores de carga, auto scaling, e redes de entrega de conteúdo (CDNs) garantem alta disponibilidade e desempenho.
-- **Observabilidade**: Ferramentas como Prometheus, Grafana e AWS CloudWatch monitoram recursos, coletam métricas e disparam alertas para uma melhor gestão da infraestrutura.
+- **Infraestrutura como Código (IaC)**: Ferramentas como Terraform, CloudFormation e Pulumi permitem gerenciar recursos de infraestrutura de forma declarativa, garantindo consistência e versionamento.
+- **Orquestração de Contêineres**: Kubernetes é o padrão de mercado para gerenciar clusters de contêineres, possibilitando escalabilidade e alta disponibilidade.
+- **Práticas CI/CD**: Integração contínua e entrega contínua são essenciais para pipelines automatizados, utilizando ferramentas como Jenkins, GitLab CI/CD, e GitHub Actions.
+- **Estratégias de Deploy**: Técnicas como blue-green deployment, canary releases e rolling updates minimizam downtime e riscos de falha.
+- **Monitoramento e Observabilidade**: Soluções como Prometheus, Grafana e Datadog ajudam a acompanhar métricas, logs e rastreamento distribuído.
+- **Segurança em Deploys Cloud**: Implementar práticas como gestão de segredos (ex.: HashiCorp Vault), autenticação forte e políticas de acesso baseadas em privilégios mínimos são cruciais.
 
 ## 🔗 Conexões
+- [[Pesquisa - Arquitetura de Microservices]]
 - [[Projeto - Sistema Chamados]]
-- [[Pesquisa - DevOps e Integração Contínua]]
-- [[Referência - Kubernetes para iniciantes]]
-- [[Referência - Terraform na prática]]
+- [[Referência - Kubernetes e Orquestração]]
 
 ## 📚 Fontes
-- [[Referência - AWS Well-Architected Framework]]
-- [[Referência - Livro Site Reliability Engineering]]
-- [[Referência - Docker para desenvolvedores]]
+- [[Referência - Terraform Documentation]]
+- [[Referência - Kubernetes Fundamentals]]
+- [[Referência - CI/CD Best Practices]]
 
 ## 🚧 Lacunas
-- Quais são as melhores práticas para implementar segurança em pipelines de CICD?
-- Como calcular o custo-benefício entre provedores de nuvem para cenários específicos?
-- Quais são as tendências mais promissoras em automação de infraestrutura cloud?
-```
+- Como otimizar custos ao escalar deploys em diferentes provedores cloud?
+- Quais são as diferenças práticas entre os principais provedores (AWS, Azure, GCP) no suporte a estratégias de deploy?
+- Como incorporar inteligência artificial para prever e evitar falhas em deploys?
