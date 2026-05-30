@@ -3,42 +3,40 @@
 tipo: pesquisa
 criado: 2026-05-30
 atualizado: 2026-05-30
-pergunta-central: Quais são as melhores práticas para realizar deploys escaláveis e gerenciar infraestrutura na nuvem?
-relacionado-a: []
-related: [[Claude API e Anthropic SDK]]
+pergunta-central: Como estruturar e otimizar o processo de deploy e gerenciar infraestrutura em ambientes de Cloud Computing?
+relacionado-a: [devops, cloud-computing, automacao]
+related: [[Projeto - Sistema Chamados]], [[Pesquisa - Docker e Kubernetes]], [[Pesquisa - Arquitetura de Microserviços]]
 tags: [pesquisa, dev, infra]
 ---
 
 # Pesquisa - Deploy e Infraestrutura Cloud
 
 ## ❓ Pergunta central
-Quais são as melhores práticas para realizar deploys escaláveis e gerenciar infraestrutura na nuvem?
+Como estruturar e otimizar o processo de deploy e gerenciar infraestrutura em ambientes de Cloud Computing?
 
 ## 🎯 Síntese (3-5 linhas)
-Deploy e infraestrutura cloud são fundamentais para garantir a escalabilidade, segurança e eficiência de aplicações modernas. Práticas como automação, monitoramento contínuo, uso de containers e arquiteturas serverless estão entre as mais recomendadas. A escolha do provedor de nuvem e a configuração de redes e permissões também desempenham papel crítico.
+Deploy e infraestrutura em cloud computing envolvem a automação e orquestração de recursos para garantir escalabilidade, disponibilidade e eficiência. Ferramentas como Kubernetes, Terraform e CI/CD pipelines são essenciais para gerenciar aplicações e infraestrutura como código. A escolha de provedores e práticas de segurança também desempenha um papel crucial para a confiabilidade e custo-benefício.
 
 ## 🔬 Detalhes
-- **Automação com CI/CD**: Ferramentas como GitHub Actions, Jenkins e GitLab CI ajudam a automatizar deploys e garantem consistência.
-- **Uso de Containers**: Docker e Kubernetes facilitam a portabilidade e escalabilidade de aplicações.
-- **Serverless Computing**: Serviços como AWS Lambda e Google Cloud Functions eliminam o gerenciamento de servidores e reduzem custos.
-- **Monitoramento e Logging**: Implementar soluções como Datadog, Prometheus e ELK Stack é essencial para identificar problemas em tempo real.
-- **Segurança na Nuvem**: Configuração de IAM (Identity and Access Management), segurança de APIs e criptografia de dados são fundamentais.
-- **Escolha de provedor**: AWS, GCP e Azure oferecem diferentes vantagens. Avaliar custo, compatibilidade e suporte é crucial.
-- **Infraestrutura como código (IaC)**: Ferramentas como Terraform e AWS CloudFormation permitem gerenciar infraestrutura de forma programática.
-- **Redes e conectividade**: Configurações como VPCs e segurança de rede são essenciais para evitar brechas e garantir desempenho.
+- **Automação com CI/CD:** O uso de pipelines de integração e entrega contínua (CI/CD) reduz erros humanos e acelera o tempo de entrega de novas funcionalidades.
+- **Orquestração com Kubernetes:** Kubernetes é amplamente utilizado para gerenciar containers em ambientes de produção, permitindo escalabilidade e alta disponibilidade.
+- **Infraestrutura como Código (IaC):** Ferramentas como Terraform e AWS CloudFormation permitem a definição e gerenciamento de infraestrutura em formato de código, promovendo reprodutibilidade e controle de versão.
+- **Monitoramento e Observabilidade:** Plataformas como Prometheus, Grafana e Datadog são fundamentais para monitorar métricas, detectar falhas e manter o desempenho da aplicação.
+- **Segurança na Cloud:** Estratégias como controle de acesso baseado em funções (RBAC), criptografia de dados e monitoramento de intrusões são indispensáveis.
+- **Custo e escolha do provedor:** AWS, Google Cloud e Azure são os principais players. A escolha depende de fatores como custo, serviços oferecidos, localização dos datacenters e suporte técnico.
 
 ## 🔗 Conexões
-- [[Claude API e Anthropic SDK]]
-- [[Pesquisa - Kubernetes e Orquestração de Containers]]
-- [[Referência - AWS Lambda e Computação Serverless]]
+- [[Projeto - Sistema Chamados]]
+- [[Pesquisa - Docker e Kubernetes]]
+- [[Pesquisa - Arquitetura de Microserviços]]
 
 ## 📚 Fontes
-- [[Referência - Livro - Kubernetes: Up & Running]]
-- [[Referência - Artigo - Melhorando Deploys com CI/CD]]
-- [[Referência - AWS - Documentação Oficial]]
+- [[Referência - Kubernetes Documentation]]
+- [[Referência - Terraform by HashiCorp]]
+- [[Referência - Livro - Site Reliability Engineering (SRE)]]
 
 ## 🚧 Lacunas
-- Exemplos práticos de deploys híbridos (nuvem + on-premises).
-- Comparação detalhada de custos entre os principais provedores de nuvem.
-- Estratégias para otimização de redes em infraestrutura cloud.
+- Como medir e otimizar o custo da infraestrutura em diferentes provedores de cloud?
+- Quais são as melhores práticas para implementação de segurança zero trust em ambientes de cloud?
+- Comparação prática do desempenho entre os provedores AWS, GCP e Azure para diferentes tipos de workload.
 ```
