@@ -3,45 +3,41 @@
 tipo: pesquisa
 criado: 2026-05-30
 atualizado: 2026-05-30
-pergunta-central: Quais são as melhores práticas para realizar deploys em ambientes de infraestrutura cloud modernos?
+pergunta-central: Como arquitetar e gerenciar uma infraestrutura em nuvem eficiente e resiliente para aplicações modernas?
 relacionado-a: []
-related: []
+related: [[Projeto - Sistema Chamados]]
 tags: [pesquisa, dev, infra]
 ---
 
 # Pesquisa - Deploy e Infraestrutura Cloud
 
 ## ❓ Pergunta central
-Quais são as melhores práticas para realizar deploys em ambientes de infraestrutura cloud modernos?
+Como arquitetar e gerenciar uma infraestrutura em nuvem eficiente e resiliente para aplicações modernas?
 
 ## 🎯 Síntese (3-5 linhas)
-Deploys em ambientes de infraestrutura cloud exigem práticas que garantam escalabilidade, segurança e automação. Ferramentas como Kubernetes e Terraform desempenham papéis cruciais na gestão de contêineres e infraestrutura como código. A integração contínua e entrega contínua (CI/CD) é essencial para fluxos de trabalho ágeis e confiáveis. A resiliência e a recuperação de desastres também são pilares fundamentais em qualquer arquitetura cloud.
+Deploy e infraestrutura cloud permitem a entrega ágil, escalável e confiável de aplicações modernas, utilizando provedores como AWS, Azure e GCP. O foco está em automação, monitoramento e práticas de DevOps. Soluções como contêineres (Docker), orquestração (Kubernetes) e infraestrutura como código (Terraform) são essenciais para simplificar a gestão e aumentar a resiliência.
 
 ## 🔬 Detalhes
-- Deploys em cloud devem ser projetados para alta disponibilidade e escalabilidade, utilizando serviços como balanceadores de carga e auto-scaling.
-- Contêineres (via Docker) e orquestradores (como Kubernetes) são amplamente usados para gerenciar aplicações de forma eficiente.
-- Infraestrutura como Código (IaC) com ferramentas como Terraform, AWS CloudFormation ou Pulumi torna a infraestrutura reprodutível e rastreável.
-- Adoção de CI/CD permite que novas versões de software sejam testadas, validadas e implantadas automaticamente.
-- Estratégias de deploy como Blue-Green, Canary e Rolling Deployments ajudam a minimizar o impacto de falhas em atualizações.
-- Monitoramento e observabilidade (com ferramentas como Prometheus, Grafana ou Datadog) são essenciais para garantir o desempenho e a segurança da infraestrutura.
-- A segurança deve ser incorporada desde o início, com práticas como controle de acesso baseado em funções (RBAC), uso de segredos gerenciados e criptografia de dados.
-- Recuperação de desastres (Disaster Recovery) e estratégias de backup são fundamentais para mitigar falhas catastróficas.
+- **Provedores principais**: Amazon Web Services (AWS), Microsoft Azure, Google Cloud Platform (GCP) e outros players como DigitalOcean e Oracle Cloud oferecem plataformas robustas para deploy e hospedagem.
+- **Infraestrutura como Código (IaC)**: Ferramentas como Terraform e AWS CloudFormation permitem gerenciar recursos em nuvem de maneira declarativa, facilitando versionamento e consistência.
+- **Contêineres e orquestração**: Docker e Kubernetes lideram a modernização de deploys, permitindo empacotar aplicações com dependências e gerenciar clusters de forma eficiente.
+- **CICD (Integração e Entrega Contínuas)**: Pipelines automatizados (Jenkins, GitHub Actions, GitLab CI) são fundamentais para implantar mudanças rapidamente e com menor risco.
+- **Escalabilidade e resiliência**: Serviços como balanceadores de carga, auto scaling, e redes de entrega de conteúdo (CDNs) garantem alta disponibilidade e desempenho.
+- **Observabilidade**: Ferramentas como Prometheus, Grafana e AWS CloudWatch monitoram recursos, coletam métricas e disparam alertas para uma melhor gestão da infraestrutura.
 
 ## 🔗 Conexões
-- [[Claude API e Anthropic SDK]]
-- [[Pesquisa - Contêinerização e Orquestração com Kubernetes]]
-- [[Pesquisa - Infraestrutura como Código (IaC)]]
-- [[Pesquisa - Práticas de CI/CD para DevOps]]
+- [[Projeto - Sistema Chamados]]
+- [[Pesquisa - DevOps e Integração Contínua]]
+- [[Referência - Kubernetes para iniciantes]]
+- [[Referência - Terraform na prática]]
 
 ## 📚 Fontes
-- [[Referência - Google Cloud Deployment Guide]]
-- [[Referência - Kubernetes Documentation]]
-- [[Referência - Livro Infrastructure as Code (Kief Morris)]]
 - [[Referência - AWS Well-Architected Framework]]
-- [[Referência - Site Reliability Engineering (Google SRE)]]
+- [[Referência - Livro Site Reliability Engineering]]
+- [[Referência - Docker para desenvolvedores]]
 
 ## 🚧 Lacunas
-- Quais são as diferenças práticas entre as principais ferramentas de IaC (Terraform, CloudFormation, Pulumi)?
-- Como otimizar custos em infraestrutura cloud durante processos de deploy?
-- Quais são as métricas mais importantes para monitorar durante e após um deploy em cloud?
+- Quais são as melhores práticas para implementar segurança em pipelines de CICD?
+- Como calcular o custo-benefício entre provedores de nuvem para cenários específicos?
+- Quais são as tendências mais promissoras em automação de infraestrutura cloud?
 ```

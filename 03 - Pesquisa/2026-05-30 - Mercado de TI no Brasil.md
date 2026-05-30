@@ -15,28 +15,26 @@ tags: [pesquisa, mercado, carreira]
 Quais são as principais tendências, desafios e oportunidades no mercado de TI no Brasil em 2026?
 
 ## 🎯 Síntese (3-5 linhas)
-O mercado de TI no Brasil continua em expansão, impulsionado pela transformação digital e pela crescente demanda por soluções tecnológicas em diversos setores. Áreas como inteligência artificial, segurança cibernética e computação em nuvem estão em alta. Porém, o déficit de profissionais qualificados permanece sendo um desafio significativo, abrindo oportunidades para iniciativas de formação técnica e requalificação.
+O mercado de TI no Brasil em 2026 é impulsionado pela transformação digital e pela expansão do uso de inteligência artificial e automação. Há alta demanda por profissionais qualificados, mas o déficit de mão de obra especializada permanece um desafio. As startups e empresas de tecnologia continuam a crescer, especialmente em cidades como São Paulo e Florianópolis, enquanto a capacitação em tecnologia se torna cada vez mais estratégica para a competitividade no setor.
 
 ## 🔬 Detalhes
-- O setor de TI no Brasil cresce a uma taxa média de 8% ao ano, superando o crescimento de outros setores da economia.
-- Entre as áreas mais demandadas estão desenvolvimento de software, ciência de dados, segurança cibernética, inteligência artificial e cloud computing.
-- A transformação digital está impulsionando a adoção de novas tecnologias em empresas de todos os portes, especialmente em e-commerce, fintechs e agronegócio.
-- O déficit de profissionais qualificados em TI no Brasil é estimado em mais de 500 mil vagas até o final de 2026, segundo associações do setor.
-- Startups brasileiras de tecnologia estão atraindo investimentos significativos, especialmente em áreas como fintech, healthtech e edtech.
-- Existe uma crescente demanda por programas de capacitação e requalificação para atender às necessidades do mercado, com destaque para bootcamps e cursos online.
+- O setor de TI no Brasil continua a crescer significativamente, com destaque para áreas como inteligência artificial, big data, cibersegurança e desenvolvimento de software.
+- Há um déficit estimado de mais de 400 mil profissionais qualificados em TI no Brasil, criando uma lacuna entre a demanda do mercado e a oferta de mão de obra especializada.
+- Startups de tecnologia brasileiras, como fintechs e healthtechs, são grandes impulsionadoras do setor, atraindo investimentos nacionais e internacionais.
+- A transformação digital em empresas de setores tradicionais, como varejo, saúde e educação, tem criado novas oportunidades para profissionais de TI.
+- Programas de capacitação, como bootcamps e parcerias entre empresas e universidades, estão em alta, buscando formar profissionais rapidamente para atender à demanda.
+- O trabalho remoto se consolidou como tendência no setor de TI, permitindo que profissionais brasileiros atuem para empresas globais, ampliando as possibilidades de carreira.
 
 ## 🔗 Conexões
-- [[Pesquisa - Tendências em Inteligência Artificial]]
-- [[Pesquisa - Segurança Cibernética no Brasil]]
+- [[Pesquisa - Futuro do trabalho remoto em TI]]
 - [[Projeto - Sistema Chamados]]
 
 ## 📚 Fontes
-- [[Referência - Panorama do Mercado de TI no Brasil 2026]]
-- [[Referência - Relatório sobre Transformação Digital no Brasil]]
-- [[Referência - Déficit de Profissionais de TI no Brasil]]
+- [[Referência - Relatório Mercado TI Brasil 2026]]
+- [[Referência - Artigo sobre Déficit de Mão de Obra em TI]]
 
 ## 🚧 Lacunas
-- Como o mercado de TI no Brasil está se adaptando às mudanças regulatórias, como a LGPD?
-- Quais são as melhores práticas para empresas brasileiras atraírem e reterem talentos na área de TI?
-- Qual o impacto da automação e da inteligência artificial na criação e eliminação de empregos no setor de TI?
+- Qual o impacto do trabalho remoto na retenção de talentos em empresas brasileiras de TI?
+- Como as políticas públicas podem ajudar a reduzir o déficit de profissionais em TI?
+- Quais são as áreas específicas de TI mais promissoras para novos entrantes no mercado?
 ```
