@@ -3,39 +3,41 @@
 tipo: pesquisa
 criado: 2026-05-30
 atualizado: 2026-05-30
-pergunta-central: Como os avanços em programação e desenvolvimento estão moldando a tecnologia e o mercado de trabalho?
+pergunta-central: Como a prática de programação e desenvolvimento evolui frente às tendências tecnológicas e quais as melhores práticas para se manter atualizado?
 relacionado-a: []
-related: [[Claude API e Anthropic SDK]], [[Pesquisa - Inteligência Artificial no Desenvolvimento de Software]]
+related: []
 tags: [pesquisa, dev, produtividade]
 ---
 
 # Pesquisa - Programação e Desenvolvimento
 
 ## ❓ Pergunta central
-Como os avanços em programação e desenvolvimento estão moldando a tecnologia e o mercado de trabalho?
+Como a prática de programação e desenvolvimento evolui frente às tendências tecnológicas e quais as melhores práticas para se manter atualizado?
 
 ## 🎯 Síntese (3-5 linhas)
-Programação e desenvolvimento são pilares da inovação tecnológica, impulsionados por tendências como inteligência artificial, automação e metodologias ágeis. O mercado exige cada vez mais habilidades em linguagens modernas, frameworks eficientes e práticas de trabalho colaborativo. Com a evolução da tecnologia, programadores também precisam se adaptar à automação de tarefas rotineiras e ao surgimento de novas ferramentas de desenvolvimento.
+A programação e desenvolvimento estão em constante evolução, impulsionados por avanços tecnológicos e mudanças nas demandas do mercado. A adoção de metodologias ágeis, práticas como DevOps e o uso crescente de inteligência artificial estão moldando o futuro da área. Para se manter relevante, é essencial adotar uma mentalidade de aprendizado contínuo, entender fundamentos sólidos e explorar novas ferramentas e linguagens de programação.
 
 ## 🔬 Detalhes
-- A programação está cada vez mais acessível, com ferramentas de low-code e no-code permitindo que não-programadores desenvolvam soluções.
-- Linguagens como Python, JavaScript e Rust continuam a ser tendências devido à sua versatilidade e suporte a múltiplos paradigmas.
-- Metodologias ágeis e práticas como DevOps têm transformado o fluxo de trabalho, promovendo colaboração interdisciplinar e ciclos de entrega mais rápidos.
-- Inteligência artificial está sendo incorporada no desenvolvimento por meio de ferramentas que automatizam tarefas, como geração de código e testes.
-- A demanda por desenvolvedores com habilidades em machine learning, blockchain e desenvolvimento para dispositivos IoT tem crescido significativamente.
-- A transição para a nuvem e o surgimento de arquiteturas serverless estão redefinindo a forma como serviços e aplicações são desenvolvidos e escalados.
+- A programação é essencialmente a arte de criar instruções para que computadores executem tarefas específicas.
+- As linguagens de programação mais populares em 2026 incluem Python, JavaScript, Rust e Go, cada uma com suas forças em diferentes contextos.
+- Metodologias ágeis, como Scrum e Kanban, são amplamente utilizadas por equipes de desenvolvimento para aumentar a eficiência e a colaboração.
+- DevOps é uma abordagem integrada que une desenvolvimento e operações, promovendo automação e integração contínua (CI/CD).
+- A inteligência artificial e o aprendizado de máquina estão impactando diretamente as práticas de desenvolvimento, com ferramentas como o GitHub Copilot e os LLMs (Modelos de Linguagem Grande).
+- A escolha de tecnologias e frameworks deve ser guiada pelas necessidades do projeto, equilibrando inovação com estabilidade e suporte.
 
 ## 🔗 Conexões
 - [[Claude API e Anthropic SDK]]
-- [[Pesquisa - Inteligência Artificial no Desenvolvimento de Software]]
+- [[Pesquisa - Inteligência Artificial Generativa]]
+- [[Projeto - Sistema Chamados]]
 
 ## 📚 Fontes
-- [[Referência - Clean Code de Robert C. Martin]]
-- [[Referência - Site oficial do Python]]
-- [[Referência - Livro Accelerate, Nicole Forsgren]]
+- [[Referência - Clean Code (Robert C. Martin)]]
+- [[Referência - The Pragmatic Programmer (Andrew Hunt e David Thomas)]]
+- [[Referência - Site oficial do Python (https://www.python.org)]]
+- [[Referência - Artigo: O Estado do DevOps 2026]]
 
 ## 🚧 Lacunas
-- Quais são os limites éticos no uso de IA para automação de desenvolvimento?
-- Como as novas tecnologias podem impactar o desenvolvimento de software em países emergentes?
-- Quais são as melhores práticas para integrar metodologias ágeis com equipes distribuídas globalmente?
+- Como o avanço da computação quântica pode influenciar as práticas de programação e desenvolvimento?
+- Quais são as principais barreiras para a adoção ampla de práticas como DevSecOps?
+- Quais habilidades de programação serão mais demandadas até 2030?
 ```
