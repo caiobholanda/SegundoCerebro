@@ -1,40 +1,42 @@
+```markdown
 ---
 tipo: pesquisa
 criado: 2026-05-31
 atualizado: 2026-05-31
-pergunta-central: Como a programação e o desenvolvimento de software podem transformar a produtividade e a inovação nas diversas indústrias?
+pergunta-central: Quais são os princípios essenciais e as tendências mais recentes em programação e desenvolvimento?
 relacionado-a: []
-related: [[Pesquisa - Inteligência Artificial no Desenvolvimento de Software]], [[Referência - Melhores Práticas em Desenvolvimento Ágil]]
+related: [[Claude API e Anthropic SDK]]
 tags: [pesquisa, dev, produtividade]
 ---
 
 # Pesquisa - Programação e Desenvolvimento
 
 ## ❓ Pergunta central
-Como a programação e o desenvolvimento de software podem transformar a produtividade e a inovação nas diversas indústrias?
+Quais são os princípios essenciais e as tendências mais recentes em programação e desenvolvimento?
 
 ## 🎯 Síntese (3-5 linhas)
-A programação e o desenvolvimento de software são pilares da era digital, permitindo a automação de processos, a criação de soluções personalizadas e a transformação digital de indústrias. A adoção de metodologias ágeis e o uso de tecnologias como inteligência artificial, computação em nuvem e desenvolvimento low-code têm acelerado a entrega de valor. No entanto, ainda existem desafios relacionados à escalabilidade, segurança e ética no desenvolvimento.
+Programação e desenvolvimento são áreas centrais para criar soluções tecnológicas. Os princípios fundamentais incluem boas práticas de codificação, design orientado a testes e uso de padrões de arquitetura. Recentemente, a adoção de IA generativa, metodologias ágeis e desenvolvimento orientado a eventos tem transformado a maneira como sistemas são projetados e implementados.
 
 ## 🔬 Detalhes
-- A programação está no núcleo da transformação digital, permitindo o desenvolvimento de soluções sob medida para problemas complexos.
-- O modelo ágil prioriza entregas rápidas e iterativas, promovendo maior alinhamento com os objetivos do negócio.
-- Frameworks e bibliotecas modernas, como React, TensorFlow e Flask, aceleram o desenvolvimento, abstraindo complexidades técnicas.
-- Ferramentas de desenvolvimento low-code e no-code democratizam o acesso à programação, permitindo que não-programadores criem soluções tecnológicas.
-- A inteligência artificial e o aprendizado de máquina estão sendo incorporados em ferramentas de desenvolvimento, automatizando testes, depuração e até mesmo a geração de código.
-- Desafios como segurança de software, manutenção de sistemas legados e sustentabilidade no desenvolvimento ainda precisam de atenção significativa.
+- **Boas práticas de codificação**: incluem clareza, modularidade e documentação eficiente para garantir que o código seja legível e reutilizável.
+- **Design orientado a testes (TDD)**: foca na criação de testes antes do desenvolvimento do código, promovendo maior confiabilidade e menor incidência de bugs.
+- **Principais linguagens em alta**: Python, JavaScript, Go e Rust continuam sendo líderes por sua versatilidade e performance.
+- **Tendências emergentes**: o uso de inteligência artificial generativa para acelerar o desenvolvimento de código e otimizar processos.
+- **Metodologias ágeis**: frameworks como Scrum e Kanban permanecem relevantes para equipes que buscam flexibilidade e entrega contínua.
+- **Desenvolvimento orientado a eventos**: vem ganhando espaço em sistemas distribuídos, aumentando a escalabilidade e a eficiência em aplicativos modernos.
 
 ## 🔗 Conexões
 - [[Claude API e Anthropic SDK]]
-- [[Referência - Melhores Práticas em Desenvolvimento Ágil]]
-- [[Pesquisa - Futuro da Automação com IA]]
+- [[Projeto - Sistema Chamados]]
+- [[Referência - Metodologias Ágeis]]
 
 ## 📚 Fontes
-- [[Referência - Clean Code (Robert C. Martin)]]
-- [[Referência - The Mythical Man-Month (Frederick P. Brooks)]]
-- [[Referência - Artigos sobre Desenvolvimento Low-Code]]
+- [[Referência - Livro Clean Code]]
+- [[Referência - Artigo sobre IA generativa em programação]]
+- [[Referência - Documentação sobre Rust]]
 
 ## 🚧 Lacunas
-- Como mitigar os riscos éticos associados ao uso de inteligência artificial no desenvolvimento de software?
-- Quais são os impactos a longo prazo da popularização do desenvolvimento low-code e no-code no mercado de trabalho?
-- Quais práticas emergentes podem melhorar a sustentabilidade ambiental no desenvolvimento de software?
+- Como as ferramentas de IA generativa podem ser integradas de forma eficiente em fluxos de trabalho ágeis?
+- Quais são os impactos éticos e sociais do uso de IA no desenvolvimento de software?
+- Quais são os melhores padrões para escalabilidade em desenvolvimento orientado a eventos?
+```
