@@ -15,8 +15,10 @@ Esforços com **começo, meio e fim**. Quando concluído → mover para `07 - Ar
 - `arquivado` — já em `07 - Arquivo/`
 
 ## Projetos ativos
-- [[Projeto - Setup Segundo Cérebro]]
 - [[Projeto - Sistema Chamados]]
+
+## Projetos arquivados
+- [[07 - Arquivo/Projetos/2026-05/Projeto - Setup Segundo Cérebro|Projeto - Setup Segundo Cérebro]] (concluído 2026-04-29)
 
 ## Como criar
 Usar `99 - Templates/Template - Projeto.md`.

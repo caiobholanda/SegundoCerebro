@@ -15,6 +15,9 @@ Notas diárias `YYYY-MM-DD.md`. Geradas pela skill `nota-diaria` ou pelo plugin 
 4. Aprendizados
 5. Capturas → migrar para Inbox/Pesquisa/Referências
 
+## Revisões mensais
+- [[06 - Diário/Revisao - 2026-05|Revisão — Maio 2026]]
+
 ## Diários recentes
 - [[06 - Diário/2026-05-31|2026-05-31 — domingo]]
 - [[06 - Diário/2026-05-30|2026-05-30 — sábado]]
