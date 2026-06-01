@@ -3,42 +3,39 @@
 tipo: pesquisa
 criado: 2026-05-31
 atualizado: 2026-05-31
-pergunta-central: Quais são as tendências, desafios e oportunidades do mercado de TI no Brasil em 2026?
+pergunta-central: Quais são as tendências, desafios e oportunidades do mercado de TI no Brasil atualmente?
 relacionado-a: []
-related: [[Projeto - Sistema Chamados]]
+related: []
 tags: [pesquisa, mercado, carreira]
 ---
 
 # Pesquisa - Mercado de TI no Brasil
 
 ## ❓ Pergunta central
-Quais são as tendências, desafios e oportunidades do mercado de TI no Brasil em 2026?
+Quais são as tendências, desafios e oportunidades do mercado de TI no Brasil atualmente?
 
 ## 🎯 Síntese (3-5 linhas)
-O mercado de TI no Brasil segue em expansão, impulsionado por demandas por transformação digital, inteligência artificial e cibersegurança. O país enfrenta desafios como a escassez de mão de obra qualificada e a necessidade de políticas públicas que fomentem inovação. As oportunidades concentram-se em áreas como fintechs, healthtechs, e-commerce e sustentabilidade tecnológica.
+O mercado de TI no Brasil continua em crescimento, impulsionado pela digitalização acelerada e pela adoção de tecnologias como inteligência artificial e computação em nuvem. No entanto, o país enfrenta desafios como a escassez de mão de obra qualificada e a necessidade de políticas públicas mais robustas para fomentar inovação. Áreas como cibersegurança, desenvolvimento de software e análise de dados apresentam grande demanda.
 
 ## 🔬 Detalhes
-- O setor de TI no Brasil crescerá cerca de 8% em 2026, conforme projeções do IDC, com destaque para serviços de nuvem e data analytics.
-- A escassez de profissionais qualificados continua sendo um gargalo; estima-se um déficit de 530 mil vagas até 2027.
-- As fintechs lideram como segmento de maior crescimento, devido ao aumento da bancarização e digitalização financeira.
-- Healthtechs e soluções de tecnologia para saúde ganham força com a demanda por telemedicina e gestão de dados de pacientes.
-- A adoção de inteligência artificial e machine learning é acelerada por empresas buscando automação e insights estratégicos.
-- Sustentabilidade e TI verde emergem como preocupações importantes, com empresas investindo em soluções para reduzir emissões de carbono.
-- Cidades inteligentes e IoT estão transformando setores como transporte, segurança pública e energia no Brasil.
-- Políticas públicas e incentivos fiscais estão sendo discutidos para atrair mais investimentos estrangeiros no setor de tecnologia.
+- A digitalização de empresas e a transformação digital aumentaram a demanda por profissionais de TI no Brasil, especialmente após a pandemia de COVID-19.
+- Segundo a Brasscom, o setor de TI no Brasil deve criar mais de 400 mil novas vagas até 2027, mas atualmente enfrenta um déficit anual de cerca de 24 mil profissionais qualificados.
+- O mercado valoriza habilidades em linguagens de programação como Python, JavaScript e Java, além de conhecimentos em cibersegurança e computação em nuvem.
+- Startups e empresas de tecnologia têm sido os principais motores de inovação, com cidades como São Paulo e Florianópolis se destacando como polos tecnológicos.
+- Há uma busca crescente por diversidade e inclusão no setor, mas ainda há desafios para aumentar a representatividade de mulheres e pessoas negras em cargos técnicos e de liderança.
+- Iniciativas de educação, como bootcamps e parcerias entre empresas e instituições de ensino, têm buscado suprir a demanda por treinamento rápido e prático em TI.
 
 ## 🔗 Conexões
-- [[Claude API e Anthropic SDK]]
+- [[Pesquisa - Cibersegurança no Brasil]]
 - [[Projeto - Sistema Chamados]]
-- [[Referência - Transformação digital no Brasil]]
 
 ## 📚 Fontes
-- [[Referência - IDC Brasil - Projeções para TI em 2026]]
-- [[Referência - Panorama das Fintechs no Brasil]]
-- [[Referência - Tendências em inteligência artificial e machine learning]]
+- [[Referência - Brasscom Relatório Anual 2025]]
+- [[Referência - Artigo sobre mercado de TI no Brasil - Exame]]
+- [[Referência - Relatório de tendências em TI - Gartner]]
 
 ## 🚧 Lacunas
-- Como políticas públicas podem mitigar o déficit de profissionais qualificados na área de TI no Brasil?
-- Quais são os impactos da adoção de TI verde em empresas brasileiras?
-- Quais regiões do Brasil estão mais preparadas para se tornarem polos de tecnologia?
+- Quais são as políticas públicas mais efetivas para fomentar a formação de profissionais em TI no Brasil?
+- Como o mercado de TI brasileiro está se posicionando frente às tendências globais de inteligência artificial e automação?
+- Quais são os impactos regionais do crescimento do setor de TI em áreas fora dos grandes centros urbanos?
 ```
