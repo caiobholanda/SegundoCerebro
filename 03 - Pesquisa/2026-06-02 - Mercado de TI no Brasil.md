@@ -3,40 +3,39 @@
 tipo: pesquisa
 criado: 2026-06-02
 atualizado: 2026-06-02
-pergunta-central: Quais são as tendências, desafios e oportunidades do mercado de TI no Brasil em 2026?
+pergunta-central: Quais são as tendências e desafios do mercado de TI no Brasil em 2026?
 relacionado-a: []
-related: [[Projeto - Sistema Chamados]]
+related: []
 tags: [pesquisa, mercado, carreira]
 ---
 
 # Pesquisa - Mercado de TI no Brasil
 
 ## ❓ Pergunta central
-Quais são as tendências, desafios e oportunidades do mercado de TI no Brasil em 2026?
+Quais são as tendências e desafios do mercado de TI no Brasil em 2026?
 
 ## 🎯 Síntese (3-5 linhas)
-O mercado de TI no Brasil continua em expansão, impulsionado pela transformação digital, cloud computing e inteligência artificial. Apesar da alta demanda por profissionais qualificados, há desafios relacionados à capacitação técnica e desigualdades regionais. Startups e empresas de tecnologia estão liderando a inovação, sobretudo nos setores financeiros, de saúde e de agronegócio.
+O mercado de TI no Brasil segue em expansão, impulsionado pela transformação digital e pela adoção de tecnologias emergentes como IA e computação em nuvem. No entanto, enfrenta desafios como a escassez de profissionais qualificados e disparidades regionais em infraestrutura e acesso à tecnologia. A demanda por especialistas em cibersegurança, desenvolvimento de software e ciência de dados continua alta.
 
 ## 🔬 Detalhes
-- A transformação digital acelerada pós-pandemia aumentou a demanda por soluções em TI, especialmente em automação e análise de dados.
-- Profissionais especializados em áreas como DevOps, segurança cibernética e machine learning estão entre os mais requisitados.
-- O Brasil é um dos líderes em consumo de tecnologia na América Latina, mas enfrenta dificuldades com infraestrutura e acesso à internet em regiões menos desenvolvidas.
-- O setor de fintechs e healthtechs tem sido destaque, com startups atraindo investimentos significativos.
-- Programas de capacitação e bootcamps têm surgido como alternativas ao ensino tradicional para suprir a demanda por profissionais qualificados.
-- A regulamentação do trabalho remoto impulsionou contratações internacionais, permitindo que brasileiros atuem em empresas estrangeiras sem sair do país.
+- O setor de TI representa cerca de 7% do PIB brasileiro, com perspectivas de crescimento contínuo até 2030.
+- A transformação digital nas empresas brasileiras foi acelerada pela pandemia de COVID-19 e continua sendo um motor de investimentos.
+- Profissionais em áreas como cibersegurança, ciência de dados e inteligência artificial estão entre os mais demandados.
+- Existe um déficit de mais de 400 mil profissionais de TI no Brasil, representando um grande desafio para o setor.
+- As regiões Sudeste e Sul concentram a maior parte das vagas, enquanto o Norte e Nordeste apresentam menor acesso a oportunidades no setor.
+- O governo federal e estadual tem investido em programas de capacitação tecnológica e incentivo a startups para reduzir a desigualdade regional.
+- Startups e empresas de tecnologia estão liderando o crescimento econômico e atraindo investidores, especialmente nos setores de fintechs, healthtechs e agritechs.
 
 ## 🔗 Conexões
+- [[Pesquisa - Inteligência Artificial no Brasil]]
 - [[Projeto - Sistema Chamados]]
-- [[Pesquisa - Tendências em Inteligência Artificial]]
-- [[Referência - Transformação Digital no Brasil]]
 
 ## 📚 Fontes
-- [[Referência - Mercado de TI na América Latina]]
-- [[Referência - Relatório sobre startups brasileiras 2026]]
-- [[Referência - Panorama de capacitação em tecnologia no Brasil]]
+- [[Referência - Relatório Mercado TI Brasil 2026]]
+- [[Referência - Transformação Digital no Brasil Pós-Pandemia]]
 
 ## 🚧 Lacunas
-- Como o mercado de TI brasileiro está se adaptando às novas regulamentações de IA?
-- Quais são as iniciativas governamentais mais promissoras para melhorar a infraestrutura de TI no Brasil?
-- Qual é o impacto da globalização no mercado de trabalho tecnológico brasileiro?
+- Qual é o impacto exato das políticas públicas de incentivo à tecnologia nas regiões Norte e Nordeste?
+- Como as universidades brasileiras estão adaptando seus currículos para atender à demanda do mercado de TI?
+- Qual o impacto da automação e da IA na geração de empregos no setor de TI?
 ```
