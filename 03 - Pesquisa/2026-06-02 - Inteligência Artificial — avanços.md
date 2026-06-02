@@ -1,41 +1,38 @@
-```markdown
 ---
 tipo: pesquisa
 criado: 2026-06-02
 atualizado: 2026-06-02
-pergunta-central: Quais são os avanços mais significativos em Inteligência Artificial que estão moldando o futuro das tecnologias e da sociedade?
+pergunta-central: Quais foram os avanços mais significativos em Inteligência Artificial nos últimos anos e suas implicações para o futuro?
 relacionado-a: []
-related: [[Claude API e Anthropic SDK]], [[Pesquisa - Ética na Inteligência Artificial]]
-tags: [pesquisa, ia]
+related: [[Claude API e Anthropic SDK]], [[Pesquisa - Ética na IA]]
+tags: ["pesquisa", "ia"]
 ---
 
 # Pesquisa - Inteligência Artificial — avanços
 
 ## ❓ Pergunta central
-Quais são os avanços mais significativos em Inteligência Artificial que estão moldando o futuro das tecnologias e da sociedade?
+Quais foram os avanços mais significativos em Inteligência Artificial nos últimos anos e suas implicações para o futuro?
 
 ## 🎯 Síntese (3-5 linhas)
-Os avanços em Inteligência Artificial têm transformado diversos setores, como saúde, educação, transporte e entretenimento, com destaque para modelos de linguagem generativa, sistemas de aprendizado autônomo e ferramentas de IA explicável. Embora promissoras, essas tecnologias trazem desafios éticos e socioeconômicos que precisam ser enfrentados para garantir um futuro equilibrado.
+Nos últimos anos, a IA avançou em áreas como modelos de linguagem de grande escala, aprendizado por reforço, IA generativa e integração em dispositivos do cotidiano. Tecnologias como redes neurais profundas e sistemas multimodais estão transformando setores como saúde, educação e segurança. Esses avanços trazem oportunidades e desafios éticos, exigindo regulamentações e debates para garantir um uso responsável.
 
 ## 🔬 Detalhes
-- Modelos de linguagem generativa, como GPT e Claude, alcançaram níveis de desempenho comparáveis a humanos em tarefas complexas, incluindo escrita criativa e programação.
-- Aprendizado por reforço tem permitido a criação de sistemas autônomos mais sofisticados, como robôs que aprendem tarefas sem intervenção humana direta.
-- IA explicável (Explainable AI) está avançando para tornar os sistemas mais transparentes e compreensíveis para usuários e reguladores.
-- Aplicações em saúde, como diagnósticos assistidos por IA, estão reduzindo erros médicos e acelerando o desenvolvimento de tratamentos personalizados.
-- Sistemas de transporte autônomo, como carros e drones, estão se aproximando da viabilidade comercial, prometendo transformar mobilidade urbana.
-- IA generativa está revolucionando o setor criativo, com ferramentas que produzem arte, música e design de forma colaborativa com humanos.
+- Modelos de linguagem como o [[ChatGPT]] e [[Claude API e Anthropic SDK]] demonstraram capacidade de compreender e gerar textos com alta qualidade, expandindo aplicações em atendimento ao cliente, tradução automática e criação de conteúdo.
+- IA generativa, incluindo imagens, vídeos e códigos, está revolucionando o design e a criatividade, com ferramentas como [[DALL-E]] e [[MidJourney]].
+- Sistemas multimodais que combinam texto, imagem e som estão permitindo interações mais naturais e sofisticadas em dispositivos e aplicativos.
+- Avanços em aprendizado por reforço levaram ao desenvolvimento de sistemas que superam humanos em jogos complexos e otimizam processos industriais.
+- A medicina está sendo transformada por IA, desde diagnósticos assistidos por imagem até a descoberta de novos medicamentos.
+- Implicações éticas, como o impacto no mercado de trabalho, viés nos algoritmos e uso militar da IA, estão incentivando a criação de regulamentações e boas práticas de desenvolvimento.
 
 ## 🔗 Conexões
 - [[Claude API e Anthropic SDK]]
-- [[Pesquisa - Ética na Inteligência Artificial]]
+- [[Pesquisa - Ética na IA]]
 
 ## 📚 Fontes
-- [[Referência - Livro: Human Compatible, Stuart Russell]]
-- [[Referência - Artigo: The State of AI 2026 Report]]
-- [[Referência - Paper: Generative Pre-trained Transformers and Their Applications]]
+- [[Referência - OpenAI e GPT]]
+- [[Referência - Impacto da IA na Medicina]]
 
 ## 🚧 Lacunas
-- Como mitigar os impactos da automação em empregos e na economia global?
-- Quais são as melhores práticas para garantir a ética e a transparência nos avanços em IA?
-- Quais desafios técnicos precisam ser superados para viabilizar sistemas de transporte completamente autônomos em larga escala?
-```
+- Como prever e mitigar os impactos da IA no mercado de trabalho global?
+- Quais estratégias podem ser implementadas para reduzir o viés algorítmico em sistemas de IA?
+- Como garantir que os avanços em IA sejam acessíveis e benéficos para todos os países, independentemente de seu nível de desenvolvimento?
