@@ -3,40 +3,40 @@
 tipo: pesquisa
 criado: 2026-06-02
 atualizado: 2026-06-02
-pergunta-central: Quais são os principais paradigmas, ferramentas e práticas que moldam a programação e o desenvolvimento de software atualmente?
+pergunta-central: Como a programação e o desenvolvimento de software podem ser otimizados para aumentar produtividade e qualidade?
 relacionado-a: []
-related: []
+related: [[Claude API e Anthropic SDK]]
 tags: [pesquisa, dev, produtividade]
 ---
 
 # Pesquisa - Programação e Desenvolvimento
 
 ## ❓ Pergunta central
-Quais são os principais paradigmas, ferramentas e práticas que moldam a programação e o desenvolvimento de software atualmente?
+Como a programação e o desenvolvimento de software podem ser otimizados para aumentar produtividade e qualidade?
 
 ## 🎯 Síntese (3-5 linhas)
-A programação e o desenvolvimento de software são áreas em constante evolução, impulsionadas pela adoção de novos paradigmas, linguagens e frameworks. O foco atual está em práticas ágeis, desenvolvimento baseado em testes, automação de processos e integração de inteligência artificial. Além disso, a colaboração em equipes remotas e o uso de plataformas de versionamento como Git são pilares fundamentais no cenário moderno.
+Programação e desenvolvimento de software são atividades complexas que exigem habilidades técnicas, criatividade e colaboração. Adotar metodologias ágeis, ferramentas modernas e práticas como DevOps tem se mostrado eficaz para aumentar a produtividade e a qualidade dos produtos. A automação e o uso de IA estão transformando a forma como os desenvolvedores trabalham, permitindo maior foco em tarefas de alto valor.
 
 ## 🔬 Detalhes
-- **Paradigmas populares**: Programação orientada a objetos (POO), funcional, reativa e baseada em eventos.
-- **Linguagens em destaque**: Python, JavaScript, Rust, Go e TypeScript, cada uma com seus casos de uso específicos.
-- **Inteligência artificial**: Ferramentas como GitHub Copilot e ChatGPT estão transformando a maneira como os desenvolvedores escrevem e depuram código.
-- **Práticas ágeis**: Scrum, Kanban e DevOps continuam sendo amplamente adotados para melhorar a produtividade e a colaboração em equipes.
-- **Automação**: Ferramentas como Jenkins, Docker e Kubernetes são essenciais para pipelines de CI/CD (Integração Contínua/Entrega Contínua).
-- **Desenvolvimento front-end e back-end**: Frameworks como React, Angular, Vue.js, Django, Flask e Node.js continuam dominando esses campos.
-- **Cultura de código aberto**: Crescente uso e contribuição para projetos open-source, promovendo inovação e colaboração global.
+- Metodologias ágeis, como Scrum e Kanban, promovem iterações rápidas e colaboração contínua.
+- DevOps une desenvolvimento e operações para acelerar a entrega de software com integração contínua e entrega contínua (CI/CD).
+- Linguagens de programação modernas, como Python e Rust, oferecem maior produtividade e segurança.
+- Ferramentas de controle de versão, como Git, são indispensáveis para trabalho colaborativo e gerenciamento de código.
+- Testes automatizados e práticas como TDD (Test-Driven Development) melhoram a qualidade e reduzem bugs.
+- A IA está sendo usada para sugerir código, detectar erros e até mesmo escrever trechos de software, como com ferramentas baseadas em GPT.
 
 ## 🔗 Conexões
 - [[Claude API e Anthropic SDK]]
 - [[Projeto - Sistema Chamados]]
 
 ## 📚 Fontes
-- [[Referência - Introdução à Programação Orientada a Objetos]]
-- [[Referência - Guia Completo de DevOps]] 
-- [[Referência - Docker e Kubernetes na Prática]]
+- [[Referência - Clean Code por Robert C. Martin]]
+- [[Referência - Site oficial do Scrum Guide]]
+- [[Referência - DevOps Handbook]]
+- [[Referência - Artigo sobre IA em programação - Medium]]
 
 ## 🚧 Lacunas
-- Quais são as limitações ou desafios éticos no uso de IA para desenvolvimento de software?
-- Quais são os impactos do desenvolvimento de software no meio ambiente e como mitigar esses efeitos?
-- Quais novas linguagens ou paradigmas emergentes podem definir o futuro da programação?
+- Como medir o impacto real da adoção de IA no ciclo de desenvolvimento de software?
+- Quais são as melhores práticas para integrar ferramentas de IA com metodologias ágeis?
+- Quais indústrias estão mais avançadas na adoção de programação assistida por IA e por quê?
 ```
