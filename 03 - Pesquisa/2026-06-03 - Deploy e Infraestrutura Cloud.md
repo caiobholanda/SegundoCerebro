@@ -3,7 +3,7 @@
 tipo: pesquisa
 criado: 2026-06-03
 atualizado: 2026-06-03
-pergunta-central: Quais são as melhores práticas e ferramentas para realizar deploys eficientes e gerenciar infraestrutura na nuvem de forma escalável e segura?
+pergunta-central: Como planejar e executar um deployment eficiente utilizando infraestrutura cloud moderna?
 relacionado-a: []
 related: []
 tags: [pesquisa, dev, infra]
@@ -12,30 +12,30 @@ tags: [pesquisa, dev, infra]
 # Pesquisa - Deploy e Infraestrutura Cloud
 
 ## ❓ Pergunta central
-Quais são as melhores práticas e ferramentas para realizar deploys eficientes e gerenciar infraestrutura na nuvem de forma escalável e segura?
+Como planejar e executar um deployment eficiente utilizando infraestrutura cloud moderna?
 
 ## 🎯 Síntese (3-5 linhas)
-Deploy e gestão de infraestrutura cloud demandam ferramentas que automatizem processos e garantam escalabilidade, como Terraform e Kubernetes. Práticas como CI/CD, monitoramento contínuo e segurança na configuração são essenciais. Escolher provedores cloud alinhados às necessidades do projeto e manter a documentação atualizada também é crucial.
+Deploy em infraestrutura cloud envolve a automação de processos para garantir escalabilidade, confiabilidade e rapidez na entrega de software. Ferramentas como CI/CD e serviços como AWS, Azure e GCP são essenciais nesse contexto. Práticas como monitoramento contínuo, uso de contêineres e orquestração com Kubernetes são indispensáveis para uma operação eficiente e resiliente.
 
 ## 🔬 Detalhes
-- **Automação de Deploy**: Ferramentas como GitHub Actions, GitLab CI/CD e Jenkins são amplamente utilizadas para orquestrar pipelines de integração e entrega contínuas.
-- **IaC (Infrastructure as Code)**: Ferramentas como Terraform e AWS CloudFormation permitem gerenciar e provisionar infraestrutura através de código, garantindo reprodutibilidade.
-- **Orquestração de Contêineres**: Kubernetes é o padrão de mercado para gerenciar contêineres em escala, com suporte para balanceamento de carga, orquestração e self-healing.
-- **Escalabilidade**: Uso de serviços como AWS Auto Scaling, Google Cloud Autoscaler ou Azure Scale Sets para ajustar automaticamente os recursos com base na demanda.
-- **Monitoramento e Logs**: Ferramentas como Prometheus, Grafana e ELK Stack (ElasticSearch, Logstash, Kibana) são essenciais para observabilidade e troubleshooting.
-- **Segurança Cloud**: Práticas como controle de acesso baseado em IAM (Identity and Access Management), criptografia de dados em trânsito e em repouso, e auditorias regulares de segurança.
+- **Definição de Deploy Cloud:** Processo de colocar aplicações ou serviços no ambiente de produção utilizando plataformas de computação em nuvem.
+- **Infraestrutura como Código (IaC):** Ferramentas como Terraform e AWS CloudFormation permitem gerenciar infraestrutura de forma declarativa e reprodutível.
+- **CI/CD:** Integração Contínua e Entrega Contínua são práticas fundamentais para automação de builds, testes e deploys.
+- **Contêineres e Kubernetes:** Docker simplifica a criação de contêineres, enquanto Kubernetes gerencia a orquestração de múltiplos contêineres em ambientes escaláveis.
+- **Monitoramento e Logging:** Ferramentas como Prometheus, Grafana e ELK Stack são essenciais para rastrear métricas e logs em tempo real.
+- **Segurança:** Práticas como gerenciamento de identidades (IAM), políticas de rede e criptografia de dados são indispensáveis para proteger aplicações na nuvem.
 
 ## 🔗 Conexões
 - [[Claude API e Anthropic SDK]]
-- [[Projeto - Sistema Chamados]]
+- [[Pesquisa - Automação com Terraform]]
 
 ## 📚 Fontes
-- [[Referência - Livro Terraform Up & Running]]
-- [[Referência - Documentação oficial do Kubernetes]]
-- [[Referência - Guia de melhores práticas AWS]]
+- [[Referência - AWS Well-Architected Framework]]
+- [[Referência - Livro - Kubernetes Up & Running]]
+- [[Referência - Artigo - CI/CD Best Practices]]
 
 ## 🚧 Lacunas
-- Quais são as diferenças práticas entre os principais provedores cloud (AWS, Azure, GCP) no contexto de deploy e infraestrutura?
-- Como otimizar custos de infraestrutura em projetos de médio e longo prazo?
-- Quais tendências emergentes estão moldando o futuro da infraestrutura cloud?
+- Quais são os critérios ideais para escolher entre diferentes provedores de nuvem (AWS, Azure, GCP)?
+- Como otimizar custos em deploys contínuos em nuvem sem comprometer a qualidade do serviço?
+- Quais as melhores práticas para migração de infraestrutura tradicional para cloud?
 ```

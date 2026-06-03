@@ -1,9 +1,8 @@
-```markdown
 ---
 tipo: pesquisa
 criado: 2026-06-03
 atualizado: 2026-06-03
-pergunta-central: Quais foram os avanços mais significativos em inteligência artificial nos últimos anos e como eles estão moldando o futuro?
+pergunta-central: Quais foram os principais avanços recentes em inteligência artificial e como eles estão impactando a sociedade?
 relacionado-a: []
 related: []
 tags: [pesquisa, ia]
@@ -12,31 +11,30 @@ tags: [pesquisa, ia]
 # Pesquisa - Inteligência Artificial — avanços
 
 ## ❓ Pergunta central
-Quais foram os avanços mais significativos em inteligência artificial nos últimos anos e como eles estão moldando o futuro?
+Quais foram os principais avanços recentes em inteligência artificial e como eles estão impactando a sociedade?
 
 ## 🎯 Síntese (3-5 linhas)
-Nos últimos anos, a Inteligência Artificial (IA) avançou significativamente em áreas como modelos de linguagem, aprendizado por reforço e visão computacional. Tecnologias como modelos de grande linguagem (LLMs) e inteligência artificial generativa transformaram setores como saúde, educação e entretenimento. O impacto ético e social desses avanços também se tornou um tópico central de discussão.
+Os avanços recentes em inteligência artificial incluem modelos de linguagem de grande escala como o GPT-4, o desenvolvimento de sistemas de IA generativa para diversas aplicações criativas e industriais, e avanços em aprendizado de máquina que permitem maior precisão em diagnósticos médicos. Esses progressos estão transformando setores econômicos, redefinindo o trabalho humano e levantando questões éticas sobre privacidade, viés algorítmico e governança.
 
 ## 🔬 Detalhes
-- Modelos de grande linguagem (LLMs), como o GPT-4 e GPT-5, demonstraram capacidades impressionantes de compreensão e geração de texto.
-- A IA generativa, como no caso do DALL-E e Stable Diffusion, trouxe avanços significativos na criação de imagens, áudio e até mesmo vídeos realistas.
-- O aprendizado por reforço foi utilizado em aplicações complexas, como controle de robôs, sistemas autônomos e jogos de estratégia.
-- A integração da IA em diagnósticos médicos revolucionou a detecção precoce de doenças, aumentando as taxas de sucesso de tratamentos.
-- Desenvolvimentos em visão computacional permitiram avanços em reconhecimento facial, análise de vídeo em tempo real e sistemas de segurança.
-- Questões éticas, como viés algorítmico e impacto no mercado de trabalho, ganharam destaque nas discussões sobre a regulamentação da IA.
+- Lançamento de modelos de linguagem grandes (LLMs) como o GPT-4, com capacidades avançadas de geração de texto, entendimento de contexto e processamento de linguagens naturais.
+- Avanços na IA generativa, como a criação de imagens, vídeos e músicas por ferramentas como MidJourney e DALL·E.
+- Aplicação de IA em diagnósticos médicos, permitindo detecção precoce de doenças como câncer e outras condições complexas.
+- Desenvolvimento de sistemas de IA em veículos autônomos, com progressos na navegação e na resposta a situações de trânsito.
+- Crescimento das aplicações de IA em otimização de processos industriais e análise de grandes volumes de dados em tempo real.
+- Discussões sobre ética e governança da IA, com destaque para o impacto em privacidade, segurança e potenciais desigualdades geradas pela automação em larga escala.
 
 ## 🔗 Conexões
 - [[Claude API e Anthropic SDK]]
 - [[Pesquisa - Ética em Inteligência Artificial]]
-- [[Projeto - Sistema Chamados]]
+- [[Pesquisa - Automação e mercado de trabalho]]
 
 ## 📚 Fontes
-- [[Referência - GPT-4 e o impacto da IA generativa]]
-- [[Referência - Uso de IA na saúde]]
-- [[Referência - Ética em modelos de linguagem]]
+- [[Referência - OpenAI e o impacto do GPT-4]]
+- [[Referência - Aplicações médicas da IA]]
+- [[Referência - Ética em IA - Artigo do MIT Technology Review]]
 
 ## 🚧 Lacunas
-- Quais são os limites atuais da inteligência artificial e como superá-los?
-- Como a regulamentação pode acompanhar a velocidade dos avanços tecnológicos em IA?
-- Quais são os impactos de longo prazo da IA generativa na criatividade humana?
-```
+- Qual é o estado atual da regulamentação global sobre inteligência artificial? 
+- Como os avanços em IA podem ser usados para mitigar desigualdades no acesso a tecnologias?
+- Quais são as limitações técnicas mais significativas enfrentadas pelos sistemas de IA de última geração?
