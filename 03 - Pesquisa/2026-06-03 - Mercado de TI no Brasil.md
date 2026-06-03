@@ -3,8 +3,8 @@
 tipo: pesquisa
 criado: 2026-06-03
 atualizado: 2026-06-03
-pergunta-central: Quais são as tendências, desafios e oportunidades do mercado de TI no Brasil em 2026?
-relacionado-a: []
+pergunta-central: Quais são as principais tendências, desafios e oportunidades no mercado de TI no Brasil em 2026?
+relacionado-a: [carreira-em-ti, futuro-do-trabalho]
 related: []
 tags: [pesquisa, mercado, carreira]
 ---
@@ -12,32 +12,31 @@ tags: [pesquisa, mercado, carreira]
 # Pesquisa - Mercado de TI no Brasil
 
 ## ❓ Pergunta central
-Quais são as tendências, desafios e oportunidades do mercado de TI no Brasil em 2026?
+Quais são as principais tendências, desafios e oportunidades no mercado de TI no Brasil em 2026?
 
 ## 🎯 Síntese (3-5 linhas)
-O mercado de TI no Brasil está em expansão, impulsionado pela transformação digital acelerada e pela adoção de tecnologias emergentes como IA e blockchain. Contudo, enfrenta desafios como a escassez de profissionais qualificados e a desigualdade de acesso à tecnologia. O setor oferece oportunidades em áreas como cibersegurança, análise de dados e desenvolvimento de software, sendo fundamental para a retomada econômica do país.
+O mercado de TI no Brasil continua em expansão, impulsionado pela transformação digital e o avanço de tecnologias emergentes como inteligência artificial, computação em nuvem e cibersegurança. Contudo, o país enfrenta desafios relacionados à escassez de mão de obra qualificada e à desigualdade no acesso à infraestrutura tecnológica. Investimentos em educação e parcerias entre setor público e privado se mostram essenciais para sustentar o crescimento do setor.
 
 ## 🔬 Detalhes
-- O mercado de TI no Brasil cresceu significativamente nos últimos anos, com previsão de continuar em ascensão devido à digitalização de negócios.
-- A escassez de profissionais qualificados é um dos principais desafios do setor, com uma demanda crescente por especialistas em áreas como desenvolvimento de software, cibersegurança e ciência de dados.
-- Pequenas e médias empresas (PMEs) têm investido mais em tecnologia para melhorar a eficiência e a competitividade no mercado.
-- O setor público também está investindo em transformação digital, especialmente em iniciativas de governo digital e serviços online.
-- Tecnologias emergentes como inteligência artificial, blockchain e IoT estão ganhando popularidade, com aplicações em setores como saúde, agronegócio e finanças.
-- Há uma crescente preocupação com a cibersegurança, impulsionada pelo aumento de ataques cibernéticos e pela necessidade de proteção de dados sensíveis.
-- A pandemia de COVID-19 acelerou a adoção de trabalho remoto e de ferramentas digitais, mudanças que continuam influenciando o mercado de TI em 2026.
+- **Taxa de crescimento**: O mercado de TI no Brasil cresce acima da média global, com setores como fintechs, e-commerce e saúde digital liderando a expansão.
+- **Demanda por profissionais**: Há um déficit de profissionais qualificados, especialmente em áreas como desenvolvimento de software, cibersegurança, e ciência de dados.
+- **Startups e inovação**: O Brasil é o maior ecossistema de startups da América Latina, com hubs de inovação em cidades como São Paulo, Florianópolis e Belo Horizonte.
+- **Transformação digital**: Empresas de pequeno e médio porte estão adotando cada vez mais soluções digitais para otimizar operações e competir no mercado.
+- **Investimentos em infraestrutura**: A expansão do 5G está criando novas oportunidades para negócios baseados em IoT (Internet das Coisas) e automação.
+- **Regulação e desafios**: Apesar do avanço, questões como burocracia, altos impostos e a necessidade de modernização de leis trabalhistas ainda são entraves.
 
 ## 🔗 Conexões
-- [[Pesquisa - Inteligência Artificial no Brasil]]
-- [[Pesquisa - Cibersegurança no Brasil]]
-- [[Área - Educação e Capacitação Profissional em TI]]
+- [[Pesquisa - Futuro do trabalho e automação]]
+- [[Projeto - Como criar um portfólio em tecnologia]]
+- [[Referência - Revolução tecnológica no Brasil]]
 
 ## 📚 Fontes
-- [[Referência - Relatório Anual da ABES 2026]]
-- [[Referência - Panorama do mercado de tecnologia no Brasil]]
-- [[Referência - Impacto da transformação digital na economia brasileira]]
+- [[Referência - Mercado de TI no Brasil 2026 - Relatório Gartner]]
+- [[Referência - Panorama do Ecossistema de Startups no Brasil - 2026]]
+- [[Referência - Impactos do 5G na economia brasileira]]
 
 ## 🚧 Lacunas
-- Qual é a eficácia das políticas públicas para formar novos profissionais de TI no Brasil?
-- Como a desigualdade no acesso à tecnologia está afetando o crescimento do setor?
-- Quais são as principais barreiras para a adoção de tecnologias emergentes pelas PMEs no Brasil?
+- Qual é o impacto real do 5G na criação de novos empregos em TI no Brasil?
+- Quais políticas públicas estão sendo desenvolvidas para reduzir a escassez de profissionais qualificados em TI?
+- Como a adoção de inteligência artificial está impactando empresas tradicionais no Brasil?
 ```
