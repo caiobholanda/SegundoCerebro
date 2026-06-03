@@ -1,9 +1,8 @@
-```markdown
 ---
 tipo: pesquisa
 criado: 2026-06-03
 atualizado: 2026-06-03
-pergunta-central: Quais são as melhores práticas e ferramentas para programadores melhorarem sua eficiência no desenvolvimento de software?
+pergunta-central: Quais são as práticas, linguagens e tendências mais relevantes em programação e desenvolvimento atualmente?
 relacionado-a: []
 related: []
 tags: [pesquisa, dev, produtividade]
@@ -12,31 +11,30 @@ tags: [pesquisa, dev, produtividade]
 # Pesquisa - Programação e Desenvolvimento
 
 ## ❓ Pergunta central
-Quais são as melhores práticas e ferramentas para programadores melhorarem sua eficiência no desenvolvimento de software?
+Quais são as práticas, linguagens e tendências mais relevantes em programação e desenvolvimento atualmente?
 
 ## 🎯 Síntese (3-5 linhas)
-Programação e desenvolvimento de software são atividades que combinam lógica, criatividade e colaboração. A adoção de boas práticas como versionamento de código, uso de metodologias ágeis e ferramentas de automação são cruciais para aumentar a produtividade. Além disso, a escolha de linguagens e frameworks adequados e a manutenção de um código limpo são fundamentais para o sucesso dos projetos.
+A programação e o desenvolvimento continuam evoluindo rapidamente em resposta às demandas da transformação digital, da automação e da inteligência artificial. Linguagens como Python, JavaScript e Rust estão em alta, enquanto metodologias como DevOps e Agile dominam o mercado. Além disso, as ferramentas de desenvolvimento assistido por IA, como o GitHub Copilot, estão revolucionando a produtividade.
 
 ## 🔬 Detalhes
-- **Boas práticas** incluem a utilização de controle de versão (ex.: Git) para rastrear mudanças no código e facilitar colaborações.
-- **Metodologias ágeis** como Scrum e Kanban permitem gerenciar projetos de forma iterativa, entregando valor contínuo ao cliente.
-- **Ferramentas de automação** como CI/CD (ex.: Jenkins, GitHub Actions) otimizam o processo de integração e entrega de software.
-- **Clean Code** é uma abordagem que preza pela legibilidade e manutenibilidade do código, reduzindo dívidas técnicas.
-- **Linguagens e frameworks** devem ser escolhidos com base nos requisitos do projeto; por exemplo, Python para ciência de dados e JavaScript para aplicações web.
-- **Comunidade e aprendizado contínuo** são essenciais, com plataformas como GitHub, Stack Overflow e cursos online para se manter atualizado.
+- Python mantém sua popularidade devido à versatilidade, simplicidade e vasto ecossistema de bibliotecas para ciência de dados, automação e IA.
+- JavaScript segue como a base do desenvolvimento web, com frameworks como React e Next.js liderando o mercado.
+- Rust está ganhando força por sua ênfase em segurança e desempenho, sendo amplamente utilizado em sistemas de baixa latência e projetos de blockchain.
+- O movimento DevOps prioriza a integração contínua e a entrega contínua (CI/CD), agilizando o ciclo de desenvolvimento.
+- Ferramentas de IA, como o GitHub Copilot, estão transformando a maneira como os desenvolvedores escrevem e revisam código, aumentando a eficiência.
+- A segurança no desenvolvimento tem se tornado uma prioridade, com práticas como DevSecOps e o uso de ferramentas de análise de vulnerabilidades.
 
 ## 🔗 Conexões
 - [[Claude API e Anthropic SDK]]
-- [[Pesquisa - Melhores práticas em produtividade no trabalho]]
-- [[Referência - Clean Code (Robert C. Martin)]]
+- [[Pesquisa - Inteligência Artificial Generativa]]
+- [[Pesquisa - Automação de Processos]]
 
 ## 📚 Fontes
-- [[Referência - Clean Code (Robert C. Martin)]]
-- [[Referência - Site oficial do Git]]
-- [[Referência - Artigo sobre Scrum e Kanban (Agile Alliance)]]
+- [[Referência - Python para Todos]]
+- [[Referência - The Pragmatic Programmer]]
+- [[Referência - State of JS 2026]]
 
 ## 🚧 Lacunas
-- Quais são as tendências emergentes em linguagens e frameworks para 2026?
-- Como as ferramentas de IA podem impactar a produtividade no desenvolvimento de software?
-- Quais são os maiores desafios na adoção de metodologias ágeis em equipes remotas?
-```
+- Quais são os desafios éticos e legais do uso de IA em desenvolvimento de software?
+- Como a programação quântica pode impactar o futuro do desenvolvimento?
+- Quais são as melhores práticas para integrar segurança em todas as fases de desenvolvimento?
