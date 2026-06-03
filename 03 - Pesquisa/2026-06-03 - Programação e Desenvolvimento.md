@@ -1,43 +1,39 @@
-```markdown
 ---
 tipo: pesquisa
 criado: 2026-06-03
 atualizado: 2026-06-03
-pergunta-central: Como a programação e o desenvolvimento estão moldando o futuro da tecnologia e das interações humanas?
+pergunta-central: Como a programação e o desenvolvimento estão moldando o futuro da tecnologia e da sociedade?
 relacionado-a: []
-related: []
+related: [[Claude API e Anthropic SDK]], [[Pesquisa - Inteligência Artificial]]
 tags: [pesquisa, dev, produtividade]
 ---
 
 # Pesquisa - Programação e Desenvolvimento
 
 ## ❓ Pergunta central
-Como a programação e o desenvolvimento estão moldando o futuro da tecnologia e das interações humanas?
+Como a programação e o desenvolvimento estão moldando o futuro da tecnologia e da sociedade?
 
 ## 🎯 Síntese (3-5 linhas)
-A programação e o desenvolvimento de software são motores fundamentais da era digital, habilitando inovações que transformam tanto a economia quanto a sociedade. Com a ascensão da inteligência artificial, automação e metodologias ágeis, o desenvolvimento está se tornando mais acessível e colaborativo. No entanto, questões éticas e desafios relacionados à segurança e à privacidade emergem como áreas críticas a serem tratadas.
+A programação e o desenvolvimento de software são pilares da transformação digital, impulsionando inovações em IA, automação e conectividade global. Ferramentas modernas e metodologias como Agile e DevOps aceleram a entrega de soluções enquanto promovem colaboração. No entanto, desafios como segurança, ética e sustentabilidade continuam a acompanhar o crescimento dessa área.
 
 ## 🔬 Detalhes
-- Programação é o processo de escrever, testar, depurar e manter o código fonte de programas de computador, utilizando linguagens como Python, JavaScript, Java, C++ e outras.
-- Desenvolvimento de software envolve a aplicação de práticas e metodologias para criar, implementar e manter sistemas computacionais.
-- Metodologias ágeis, como Scrum e Kanban, revolucionaram o setor ao priorizar entregas iterativas e feedback contínuo.
-- A evolução da inteligência artificial e do aprendizado de máquina está mudando o paradigma de como o software é desenvolvido, com ferramentas que automatizam desde testes até a geração de código.
-- A democratização do acesso ao aprendizado de programação, através de plataformas como Coursera, Codecademy e FreeCodeCamp, está formando uma nova geração de desenvolvedores.
-- Desafios contemporâneos incluem a necessidade de maior foco em segurança cibernética, ética no desenvolvimento e a luta contra o viés algorítmico em sistemas automatizados.
+- Programação é o processo de criação de software, utilizando linguagens como Python, JavaScript, C++, entre outras, para resolver problemas ou construir aplicações.
+- O desenvolvimento de software é uma disciplina abrangente que inclui design, codificação, testes, deploy e manutenção de sistemas.
+- Ferramentas de controle de versão, como Git, são cruciais para a colaboração em equipe e rastreamento de alterações no código.
+- Metodologias ágeis, como Scrum, têm transformado a forma como equipes de desenvolvimento entregam produtos, com foco em ciclos curtos e feedback constante.
+- Tecnologias emergentes como inteligência artificial e aprendizado de máquina dependem fortemente de avanços em programação para se tornarem mais eficazes.
+- A ética no desenvolvimento de software é um tema crescente, com discussões sobre privacidade de dados, viés algorítmico e o impacto social da automação.
 
 ## 🔗 Conexões
 - [[Claude API e Anthropic SDK]]
-- [[Pesquisa - Ética na Inteligência Artificial]]
-- [[Área - Desenvolvimento de Software]]
-- [[Projeto - Sistema Chamados]]
+- [[Pesquisa - Inteligência Artificial]]
 
 ## 📚 Fontes
-- [[Referência - Livro Clean Code (Robert C. Martin)]]
-- [[Referência - Artigo sobre Metodologias Ágeis]]
-- [[Referência - Relatório sobre o impacto da IA no mercado de trabalho]]
+- [[Referência - Clean Code (Robert C. Martin)]]
+- [[Referência - The Pragmatic Programmer (Andy Hunt, Dave Thomas)]]
+- [[Referência - MIT OpenCourseWare - Computer Science]]
 
 ## 🚧 Lacunas
-- Como a programação pode ser mais inclusiva e acessível para grupos sub-representados?
-- Quais são os principais avanços esperados em linguagens de programação nos próximos 5 anos?
-- Como equilibrar a inovação em desenvolvimento com as questões éticas e de segurança?
-```
+- De que forma a programação pode evoluir para se tornar mais acessível a pessoas sem formação técnica?
+- Como equilibrar inovação tecnológica com preocupações éticas no desenvolvimento de software?
+- Quais são as melhores práticas emergentes para desenvolver software sustentável e com baixo impacto ambiental?
