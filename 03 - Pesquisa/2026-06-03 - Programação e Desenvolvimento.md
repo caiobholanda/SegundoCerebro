@@ -1,40 +1,43 @@
+```markdown
 ---
 tipo: pesquisa
 criado: 2026-06-03
 atualizado: 2026-06-03
-pergunta-central: Quais são as práticas, linguagens e tendências mais relevantes em programação e desenvolvimento atualmente?
+pergunta-central: Como a programação e o desenvolvimento de software estão evoluindo em resposta às demandas modernas de tecnologia e produtividade?
 relacionado-a: []
-related: []
+related: [[Claude API e Anthropic SDK]], [[Pesquisa - Inteligência Artificial Generativa]]
 tags: [pesquisa, dev, produtividade]
 ---
 
 # Pesquisa - Programação e Desenvolvimento
 
 ## ❓ Pergunta central
-Quais são as práticas, linguagens e tendências mais relevantes em programação e desenvolvimento atualmente?
+Como a programação e o desenvolvimento de software estão evoluindo em resposta às demandas modernas de tecnologia e produtividade?
 
 ## 🎯 Síntese (3-5 linhas)
-A programação e o desenvolvimento continuam evoluindo rapidamente em resposta às demandas da transformação digital, da automação e da inteligência artificial. Linguagens como Python, JavaScript e Rust estão em alta, enquanto metodologias como DevOps e Agile dominam o mercado. Além disso, as ferramentas de desenvolvimento assistido por IA, como o GitHub Copilot, estão revolucionando a produtividade.
+Programação e desenvolvimento estão cada vez mais conectados à automação, inteligência artificial e metodologias ágeis. O foco está em criar soluções mais rápidas, escaláveis e colaborativas, enquanto novas ferramentas e linguagens surgem para facilitar o trabalho. A integração entre equipes de desenvolvimento e operações (DevOps) e o uso crescente de IA estão transformando a maneira como software é projetado, implementado e mantido.
 
 ## 🔬 Detalhes
-- Python mantém sua popularidade devido à versatilidade, simplicidade e vasto ecossistema de bibliotecas para ciência de dados, automação e IA.
-- JavaScript segue como a base do desenvolvimento web, com frameworks como React e Next.js liderando o mercado.
-- Rust está ganhando força por sua ênfase em segurança e desempenho, sendo amplamente utilizado em sistemas de baixa latência e projetos de blockchain.
-- O movimento DevOps prioriza a integração contínua e a entrega contínua (CI/CD), agilizando o ciclo de desenvolvimento.
-- Ferramentas de IA, como o GitHub Copilot, estão transformando a maneira como os desenvolvedores escrevem e revisam código, aumentando a eficiência.
-- A segurança no desenvolvimento tem se tornado uma prioridade, com práticas como DevSecOps e o uso de ferramentas de análise de vulnerabilidades.
+- **Metodologias Ágeis**: Frameworks como Scrum e Kanban permitem maior flexibilidade e adaptação em ciclos de desenvolvimento de software.
+- **DevOps**: Integração de desenvolvimento e operações para acelerar entregas, melhorar a qualidade e facilitar manutenção.
+- **Ferramentas de automação**: Plataformas como GitHub Actions e Jenkins são fundamentais para pipelines de integração e entrega contínuas.
+- **Inteligência Artificial**: Ferramentas como [[Claude API e Anthropic SDK]] e Copilot otimizam tarefas de codificação e ampliam as capacidades dos desenvolvedores.
+- **Programação Funcional**: Linguagens como Haskell e Scala estão ganhando atenção por sua eficiência e segurança em aplicações complexas.
+- **Frameworks e Bibliotecas**: A popularidade de frameworks como React, Django e TensorFlow demonstra o foco em reutilização e aceleração do desenvolvimento.
+- **Desenvolvimento Full-Stack**: A demanda por profissionais que dominam tanto o front-end quanto o back-end continua a crescer.
+- **Segurança no Desenvolvimento**: Práticas como DevSecOps integram segurança diretamente nos processos de desenvolvimento.
 
 ## 🔗 Conexões
 - [[Claude API e Anthropic SDK]]
-- [[Pesquisa - Inteligência Artificial Generativa]]
-- [[Pesquisa - Automação de Processos]]
+- [[Projeto - Sistema Chamados]]
 
 ## 📚 Fontes
-- [[Referência - Python para Todos]]
-- [[Referência - The Pragmatic Programmer]]
-- [[Referência - State of JS 2026]]
+- [[Referência - Metodologias Ágeis]]
+- [[Referência - DevOps na prática]]
+- [[Referência - Inteligência Artificial na Programação]]
 
 ## 🚧 Lacunas
-- Quais são os desafios éticos e legais do uso de IA em desenvolvimento de software?
-- Como a programação quântica pode impactar o futuro do desenvolvimento?
-- Quais são as melhores práticas para integrar segurança em todas as fases de desenvolvimento?
+- Como prever a próxima grande evolução nas linguagens de programação?
+- Quais são os riscos éticos e práticos do uso excessivo de IA no desenvolvimento de software?
+- Qual a melhor forma de capacitar desenvolvedores para trabalhar em equipes multidisciplinares?
+```
