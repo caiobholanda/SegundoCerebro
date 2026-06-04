@@ -3,38 +3,40 @@
 tipo: pesquisa
 criado: 2026-06-04
 atualizado: 2026-06-04
-pergunta-central: Quais são os principais paradigmas e práticas que moldam a programação moderna e como otimizá-los para produtividade?
+pergunta-central: Como a programação e o desenvolvimento impactam a inovação tecnológica e a resolução de problemas globais?
 relacionado-a: []
-related: []
+related: [[Projeto - Sistema Chamados]]
 tags: [pesquisa, dev, produtividade]
 ---
 
 # Pesquisa - Programação e Desenvolvimento
 
 ## ❓ Pergunta central
-Quais são os principais paradigmas e práticas que moldam a programação moderna e como otimizá-los para produtividade?
+Como a programação e o desenvolvimento impactam a inovação tecnológica e a resolução de problemas globais?
 
 ## 🎯 Síntese (3-5 linhas)
-Programação e desenvolvimento são disciplinas em constante evolução, impulsionadas por paradigmas como orientação a objetos, programação funcional e desenvolvimento ágil. A integração de ferramentas de automação, boas práticas de versionamento e colaboração eficiente são essenciais para aumentar a produtividade. No entanto, compreender os trade-offs entre paradigmas e adaptar-se às demandas do projeto são habilidades cruciais.
+Programação e desenvolvimento são pilares da transformação digital, permitindo a automação de tarefas, a criação de soluções escaláveis e a expansão do acesso à informação. Eles moldam indústrias, impulsionam a inovação e oferecem ferramentas para enfrentar desafios globais, como mudanças climáticas, saúde e educação. Com o avanço da inteligência artificial, o desenvolvimento está alcançando novos patamares, mas também traz questões éticas e de sustentabilidade.
 
 ## 🔬 Detalhes
-- **Paradigmas dominantes**: A orientação a objetos (OO) e a programação funcional continuam a ser amplamente adotadas, cada uma com vantagens específicas dependendo do contexto do projeto.
-- **Metodologias ágeis**: Práticas como Scrum e Kanban são amplamente utilizadas para melhorar a organização e a entrega contínua de software.
-- **Automação no pipeline de desenvolvimento**: Ferramentas como CI/CD (Integração Contínua e Entrega Contínua) otimizam o fluxo de trabalho ao reduzir o tempo entre desenvolvimento, teste e implantação.
-- **Versionamento de código**: O uso de sistemas como Git se tornou um padrão para colaboração em equipe e gerenciamento de mudanças no código.
-- **DevOps e Infraestrutura como Código (IaC)**: A integração entre desenvolvimento e operações tem melhorado a eficiência e a confiabilidade do software.
-- **Tendências emergentes**: Linguagens modernas como Rust e Go, bem como o uso de IA no desenvolvimento de software, estão transformando práticas tradicionais de programação.
+- Programação é o processo de criação de software utilizando linguagens como Python, JavaScript e C++. Ela possibilita a resolução de problemas complexos por meio de algoritmos.
+- Desenvolvimento de software abrange desde a concepção até a implementação e manutenção de sistemas, sendo essencial para organizações se adaptarem às mudanças do mercado.
+- Tecnologias emergentes, como inteligência artificial e aprendizado de máquina, estão redefinindo os limites do que é possível na programação.
+- A adoção de metodologias ágeis no desenvolvimento tornou os processos mais colaborativos e iterativos, com foco na entrega contínua de valor.
+- O código aberto desempenha um papel crucial na democratização do desenvolvimento, permitindo que comunidades globais colaborem e inovem juntas.
+- Questões de segurança, privacidade e ética se tornaram centrais, especialmente com o aumento da complexidade dos sistemas e da coleta de dados em larga escala.
 
 ## 🔗 Conexões
 - [[Claude API e Anthropic SDK]]
 - [[Projeto - Sistema Chamados]]
+- [[Pesquisa - Ética em Inteligência Artificial]]
 
 ## 📚 Fontes
-- [[Referência - Clean Code (Robert C. Martin)]]
-- [[Referência - Accelerate (Gene Kim, Jez Humble, Nicole Forsgren)]]
+- [[Referência - Clean Code]]
+- [[Referência - The Pragmatic Programmer]]
+- [[Referência - Artigo sobre Metodologias Ágeis]]
 
 ## 🚧 Lacunas
-- Como medir de forma objetiva o impacto de diferentes paradigmas de programação na produtividade da equipe?
-- Quais são as melhores práticas para integrar inteligência artificial no ciclo de desenvolvimento de software?
-- Como linguagens emergentes podem resolver limitações de paradigmas tradicionais?
+- Como novas linguagens de programação podem influenciar o futuro do desenvolvimento?
+- Quais são os impactos ambientais do desenvolvimento de software e como mitigá-los?
+- Como abordar os desafios éticos no uso de algoritmos avançados em setores sensíveis como saúde e segurança pública?
 ```
