@@ -15,28 +15,27 @@ tags: [pesquisa, mercado, carreira]
 Quais são as principais tendências, desafios e oportunidades no mercado de TI no Brasil em 2026?
 
 ## 🎯 Síntese (3-5 linhas)
-O mercado de TI no Brasil se destaca como um dos setores mais promissores, com alta demanda por profissionais qualificados e crescimento impulsionado pela transformação digital. As áreas de destaque incluem inteligência artificial, segurança cibernética e computação em nuvem. Apesar disso, a escassez de talentos e a necessidade de políticas públicas que fomentem a capacitação e inovação ainda são desafios significativos.
+O mercado de TI no Brasil continua em crescimento acelerado, impulsionado pela transformação digital em diversos setores. Há alta demanda por profissionais qualificados, especialmente em áreas como segurança cibernética, inteligência artificial e desenvolvimento de software. No entanto, o mercado enfrenta desafios como a escassez de mão de obra especializada, disparidade regional e a necessidade de maior inclusão e diversidade.
 
 ## 🔬 Detalhes
-- O Brasil é o maior mercado de TI da América Latina, representando cerca de 40% do setor na região.
-- A transformação digital acelerada pela pandemia de COVID-19 impulsionou investimentos em tecnologias como inteligência artificial, big data e computação em nuvem.
-- A demanda por profissionais de TI segue alta, com posições como desenvolvedores, engenheiros de software e especialistas em cibersegurança entre as mais requisitadas.
-- Apesar do crescimento, há um déficit significativo de profissionais qualificados, estimado em mais de 400 mil vagas abertas até 2026.
-- Startups de tecnologia estão em expansão no Brasil, com destaque para fintechs, healthtechs e agrotechs, setores que têm atraído altos investimentos.
-- Políticas públicas, como incentivos fiscais para tecnologia e programas de capacitação, são essenciais para preencher lacunas de habilidades e atrair investidores internacionais.
+- O setor de TI brasileiro cresceu cerca de 20% ao ano nos últimos 5 anos, refletindo a digitalização de empresas e serviços públicos.
+- Profissionais especializados em áreas como ciência de dados, inteligência artificial e cibersegurança estão em alta demanda, com salários acima da média nacional.
+- Startups e ecossistemas de inovação têm se consolidado, especialmente em polos como São Paulo, Florianópolis e Recife.
+- Há uma lacuna significativa de profissionais capacitados: estima-se que o Brasil precise formar cerca de 420 mil profissionais de TI até 2026 para suprir a demanda.
+- A diversidade continua sendo um desafio no setor, com baixa representatividade de mulheres, negros e outros grupos sub-representados.
+- A implementação da Lei Geral de Proteção de Dados (LGPD) tem impulsionado a busca por especialistas em governança de dados e compliance.
 
 ## 🔗 Conexões
-- [[Projeto - Sistema Chamados]]
 - [[Pesquisa - Inteligência Artificial no Brasil]]
-- [[Pesquisa - Segurança Cibernética em 2026]]
+- [[Referência - LGPD no Mercado de Trabalho]]
 
 ## 📚 Fontes
-- [[Referência - Relatório Mercado de TI Brasil 2026]]
-- [[Referência - Panorama Startups Brasil 2026]]
-- [[Referência - Escassez de Talentos em TI no Brasil]]
+- [[Referência - Panorama do Mercado de TI no Brasil (2025)]]
+- [[Referência - Relatório Anual da ABES (Associação Brasileira das Empresas de Software)]]
+- [[Referência - Tendências de Carreira em Tecnologia 2026]]
 
 ## 🚧 Lacunas
-- Qual é o impacto específico da inteligência artificial no mercado de trabalho brasileiro?
-- Como as políticas públicas estão acompanhando o crescimento do setor de TI no Brasil?
-- Quais são as melhores práticas de capacitação para preencher o déficit de profissionais em TI?
+- Qual é a eficácia das iniciativas governamentais e privadas para capacitação e formação de novos profissionais no setor de TI?
+- Qual o impacto da automação e da IA no mercado de trabalho de TI no Brasil nos próximos anos?
+- Como a descentralização e o trabalho remoto podem impactar a desigualdade regional no setor?
 ```
