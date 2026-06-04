@@ -1,9 +1,8 @@
-```markdown
 ---
 tipo: pesquisa
 criado: 2026-06-04
 atualizado: 2026-06-04
-pergunta-central: Como os fundamentos e práticas de programação e desenvolvimento podem ser aplicados para construir soluções modernas e eficientes?
+pergunta-central: Como a programação e o desenvolvimento estão evoluindo para atender às demandas tecnológicas e sociais atuais?
 relacionado-a: []
 related: []
 tags: [pesquisa, dev, produtividade]
@@ -12,31 +11,32 @@ tags: [pesquisa, dev, produtividade]
 # Pesquisa - Programação e Desenvolvimento
 
 ## ❓ Pergunta central
-Como os fundamentos e práticas de programação e desenvolvimento podem ser aplicados para construir soluções modernas e eficientes?
+Como a programação e o desenvolvimento estão evoluindo para atender às demandas tecnológicas e sociais atuais?
 
 ## 🎯 Síntese (3-5 linhas)
-Programação e desenvolvimento são disciplinas fundamentais para criar soluções tecnológicas que atendam às necessidades modernas. Compreender os princípios de algoritmos, estrutura de dados e boas práticas de codificação é crucial para resolver problemas de forma eficiente. Além disso, o uso de metodologias ágeis e ferramentas colaborativas acelera o desenvolvimento de software e garante maior qualidade nos resultados.
+A programação e o desenvolvimento estão em constante evolução para responder às demandas por maior eficiência, acessibilidade e automação. Tendências como low-code/no-code, inteligência artificial e metodologias ágeis estão moldando o futuro do setor. Além disso, a crescente preocupação com ética e sustentabilidade tecnológica está influenciando as práticas de desenvolvimento.
 
 ## 🔬 Detalhes
-- A programação é a base para criar software, aplicativos e sistemas, utilizando linguagens como Python, JavaScript, Java, entre outras.
-- Estruturas de dados e algoritmos são componentes essenciais para resolver problemas computacionais de maneira eficiente.
-- Práticas como a revisão de código e testes automatizados garantem a qualidade e a sustentabilidade do software.
-- Metodologias ágeis, como Scrum e Kanban, promovem iteração rápida e entregas incrementais, adaptando-se às mudanças no escopo do projeto.
-- O uso de ferramentas como GitHub e GitLab facilita a colaboração entre desenvolvedores e a gestão de código-fonte de forma eficiente.
-- Novas tendências, como inteligência artificial, desenvolvimento nativo em nuvem e DevOps, estão transformando a forma como o software é projetado e entregue.
+- A popularidade de plataformas low-code e no-code está permitindo que profissionais com pouco ou nenhum conhecimento técnico criem soluções de software, democratizando o acesso à tecnologia.
+- Frameworks e linguagens de programação continuam a evoluir, com um foco crescente em desempenho, simplicidade e interoperabilidade.
+- A integração de inteligência artificial no desenvolvimento de software está automatizando tarefas repetitivas e aumentando a produtividade.
+- Metodologias ágeis, como Scrum e Kanban, têm sido amplamente adotadas para melhorar a colaboração e a eficiência das equipes de desenvolvimento.
+- Questões de ética, como viés em algoritmos e privacidade de dados, estão se tornando cada vez mais centrais no debate sobre desenvolvimento de software.
+- A sustentabilidade no desenvolvimento de software está ganhando força, com práticas voltadas para reduzir o consumo de energia e o impacto ambiental das tecnologias.
 
 ## 🔗 Conexões
 - [[Claude API e Anthropic SDK]]
-- [[Referência - Automação de Processos com Python]]
-- [[Pesquisa - Metodologias Ágeis]]
+- [[Pesquisa - Ética em Inteligência Artificial]]
 
 ## 📚 Fontes
 - [[Referência - Clean Code (Robert C. Martin)]]
-- [[Referência - Estruturas de Dados e Algoritmos com Python]]
-- [[Referência - Guia Completo de DevOps]]
+- [[Referência - Design Patterns (Erich Gamma et al.)]]
+- [[Referência - Agile Manifesto]]
+- [[Referência - Artigo sobre Low-Code/No-Code (TechCrunch)]]
+- [[Referência - Ética em IA (Stanford HAI)]]
+- [[Referência - Relatório da Accenture sobre Sustentabilidade Digital]]
 
 ## 🚧 Lacunas
-- Quais práticas específicas de programação são mais eficazes para projetos de inteligência artificial?
-- Como as novas linguagens e frameworks estão impactando o aprendizado de programação para iniciantes?
-- Qual é o impacto a longo prazo da adoção de práticas DevOps na eficiência do desenvolvimento de software?
-```
+- Como as práticas de desenvolvimento podem evoluir para atender à crescente demanda por sustentabilidade em tecnologia?
+- Quais são os limites éticos e legais para o uso de IA na automação de tarefas de programação?
+- Quais habilidades técnicas continuarão sendo indispensáveis em um cenário dominado por low-code/no-code?
