@@ -3,40 +3,38 @@
 tipo: pesquisa
 criado: 2026-06-04
 atualizado: 2026-06-04
-pergunta-central: Quais são as práticas, ferramentas e linguagens mais relevantes para o desenvolvimento moderno de software?
+pergunta-central: Quais são os principais paradigmas e práticas que moldam a programação moderna e como otimizá-los para produtividade?
 relacionado-a: []
-related: [[Claude API e Anthropic SDK]]
+related: []
 tags: [pesquisa, dev, produtividade]
 ---
 
 # Pesquisa - Programação e Desenvolvimento
 
 ## ❓ Pergunta central
-Quais são as práticas, ferramentas e linguagens mais relevantes para o desenvolvimento moderno de software?
+Quais são os principais paradigmas e práticas que moldam a programação moderna e como otimizá-los para produtividade?
 
 ## 🎯 Síntese (3-5 linhas)
-Programação e desenvolvimento evoluíram rapidamente, com práticas como DevOps, metodologias ágeis e desenvolvimento orientado a testes (TDD) se tornando padrão. Linguagens como Python, JavaScript e Rust estão em alta, impulsionadas por comunidades ativas e aplicações em áreas como IA, web e sistemas embarcados. Ferramentas como Git, Docker e CI/CD pipelines são essenciais para equipes modernas.
+Programação e desenvolvimento são disciplinas em constante evolução, impulsionadas por paradigmas como orientação a objetos, programação funcional e desenvolvimento ágil. A integração de ferramentas de automação, boas práticas de versionamento e colaboração eficiente são essenciais para aumentar a produtividade. No entanto, compreender os trade-offs entre paradigmas e adaptar-se às demandas do projeto são habilidades cruciais.
 
 ## 🔬 Detalhes
-- **DevOps e automação**: A integração de desenvolvimento e operações (DevOps) é crucial para ciclos ágeis e entregas contínuas de software.
-- **Linguagens emergentes**: Python é dominante em aprendizado de máquina e ciência de dados, enquanto Rust cresce em popularidade por sua segurança e desempenho.
-- **Frameworks e bibliotecas**: Ferramentas como React e Django aceleram o desenvolvimento de aplicações web robustas.
-- **Metodologias ágeis**: Scrum e Kanban são amplamente adotados para gerenciar equipes de desenvolvimento e garantir entregas incrementais.
-- **Testes automatizados**: O TDD e a cobertura de testes são práticas fundamentais para garantir a qualidade do código.
-- **Ferramentas de versionamento e CI/CD**: Git, Jenkins, GitHub Actions e Docker são pilares para o gerenciamento eficiente e entrega de software.
+- **Paradigmas dominantes**: A orientação a objetos (OO) e a programação funcional continuam a ser amplamente adotadas, cada uma com vantagens específicas dependendo do contexto do projeto.
+- **Metodologias ágeis**: Práticas como Scrum e Kanban são amplamente utilizadas para melhorar a organização e a entrega contínua de software.
+- **Automação no pipeline de desenvolvimento**: Ferramentas como CI/CD (Integração Contínua e Entrega Contínua) otimizam o fluxo de trabalho ao reduzir o tempo entre desenvolvimento, teste e implantação.
+- **Versionamento de código**: O uso de sistemas como Git se tornou um padrão para colaboração em equipe e gerenciamento de mudanças no código.
+- **DevOps e Infraestrutura como Código (IaC)**: A integração entre desenvolvimento e operações tem melhorado a eficiência e a confiabilidade do software.
+- **Tendências emergentes**: Linguagens modernas como Rust e Go, bem como o uso de IA no desenvolvimento de software, estão transformando práticas tradicionais de programação.
 
 ## 🔗 Conexões
 - [[Claude API e Anthropic SDK]]
 - [[Projeto - Sistema Chamados]]
-- [[Referência - Livro Clean Architecture]]
 
 ## 📚 Fontes
-- [[Referência - Livro Clean Code]]
-- [[Referência - Artigo sobre DevOps]]
-- [[Referência - Documentação oficial do Docker]]
+- [[Referência - Clean Code (Robert C. Martin)]]
+- [[Referência - Accelerate (Gene Kim, Jez Humble, Nicole Forsgren)]]
 
 ## 🚧 Lacunas
-- Qual será o impacto das novas ferramentas de IA na forma como desenvolvemos software?
-- Como as linguagens de programação emergentes podem influenciar a arquitetura de software no futuro?
-- Quais são os principais desafios para pequenas empresas implementarem práticas de DevOps?
+- Como medir de forma objetiva o impacto de diferentes paradigmas de programação na produtividade da equipe?
+- Quais são as melhores práticas para integrar inteligência artificial no ciclo de desenvolvimento de software?
+- Como linguagens emergentes podem resolver limitações de paradigmas tradicionais?
 ```
