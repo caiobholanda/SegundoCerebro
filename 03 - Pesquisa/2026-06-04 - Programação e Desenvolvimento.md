@@ -3,40 +3,39 @@
 tipo: pesquisa
 criado: 2026-06-04
 atualizado: 2026-06-04
-pergunta-central: Como a programação e o desenvolvimento impactam a inovação tecnológica e a resolução de problemas globais?
+pergunta-central: Como a programação está evoluindo para atender às demandas modernas de desenvolvimento ágil e sustentável?
 relacionado-a: []
-related: [[Projeto - Sistema Chamados]]
+related: [[Claude API e Anthropic SDK]]
 tags: [pesquisa, dev, produtividade]
 ---
 
 # Pesquisa - Programação e Desenvolvimento
 
 ## ❓ Pergunta central
-Como a programação e o desenvolvimento impactam a inovação tecnológica e a resolução de problemas globais?
+Como a programação está evoluindo para atender às demandas modernas de desenvolvimento ágil e sustentável?
 
 ## 🎯 Síntese (3-5 linhas)
-Programação e desenvolvimento são pilares da transformação digital, permitindo a automação de tarefas, a criação de soluções escaláveis e a expansão do acesso à informação. Eles moldam indústrias, impulsionam a inovação e oferecem ferramentas para enfrentar desafios globais, como mudanças climáticas, saúde e educação. Com o avanço da inteligência artificial, o desenvolvimento está alcançando novos patamares, mas também traz questões éticas e de sustentabilidade.
+Programação e desenvolvimento têm evoluído para incluir paradigmas mais eficientes, como metodologias ágeis, ferramentas low-code e práticas de DevOps. Além disso, há uma crescente preocupação com sustentabilidade no código, incluindo eficiência energética e impacto ambiental. A inteligência artificial também está sendo integrada como suporte ao desenvolvimento, acelerando processos e reduzindo erros.
 
 ## 🔬 Detalhes
-- Programação é o processo de criação de software utilizando linguagens como Python, JavaScript e C++. Ela possibilita a resolução de problemas complexos por meio de algoritmos.
-- Desenvolvimento de software abrange desde a concepção até a implementação e manutenção de sistemas, sendo essencial para organizações se adaptarem às mudanças do mercado.
-- Tecnologias emergentes, como inteligência artificial e aprendizado de máquina, estão redefinindo os limites do que é possível na programação.
-- A adoção de metodologias ágeis no desenvolvimento tornou os processos mais colaborativos e iterativos, com foco na entrega contínua de valor.
-- O código aberto desempenha um papel crucial na democratização do desenvolvimento, permitindo que comunidades globais colaborem e inovem juntas.
-- Questões de segurança, privacidade e ética se tornaram centrais, especialmente com o aumento da complexidade dos sistemas e da coleta de dados em larga escala.
+- **Metodologias ágeis** (Scrum, Kanban) permitem ciclos de desenvolvimento rápidos e flexíveis, adaptando-se às mudanças nos requisitos.
+- **Ferramentas low-code/no-code** democratizam o desenvolvimento, permitindo que usuários sem experiência técnica criem soluções funcionais.
+- **DevOps** integra desenvolvimento e operações para entregar software mais rapidamente, com maior qualidade e menor custo.
+- **Programação sustentável** está ganhando espaço com práticas voltadas para eficiência energética e menor impacto ambiental no uso de sistemas.
+- **Inteligência artificial no desenvolvimento**: ferramentas como ChatGPT e Copilot oferecem suporte a desenvolvedores ao gerar código, identificar bugs e melhorar a produtividade.
+- **Linguagens emergentes** como Rust e Kotlin são projetadas para maior segurança, desempenho e conveniência, adaptando-se às demandas modernas.
 
 ## 🔗 Conexões
 - [[Claude API e Anthropic SDK]]
 - [[Projeto - Sistema Chamados]]
-- [[Pesquisa - Ética em Inteligência Artificial]]
 
 ## 📚 Fontes
-- [[Referência - Clean Code]]
-- [[Referência - The Pragmatic Programmer]]
-- [[Referência - Artigo sobre Metodologias Ágeis]]
+- [[Referência - Metodologias Ágeis]]
+- [[Referência - DevOps e Automação]]
+- [[Referência - Sustentabilidade no Desenvolvimento de Software]]
 
 ## 🚧 Lacunas
-- Como novas linguagens de programação podem influenciar o futuro do desenvolvimento?
-- Quais são os impactos ambientais do desenvolvimento de software e como mitigá-los?
-- Como abordar os desafios éticos no uso de algoritmos avançados em setores sensíveis como saúde e segurança pública?
+- Quais são as métricas mais eficazes para medir sustentabilidade em código e sistemas de software?
+- Como as ferramentas de IA podem impactar negativamente o desenvolvimento (ex.: vieses ou dependência excessiva)?
+- Qual é o futuro das linguagens de programação tradicionais frente aos paradigmas low-code e no-code?
 ```
