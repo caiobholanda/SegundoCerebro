@@ -3,42 +3,39 @@
 tipo: pesquisa
 criado: 2026-06-04
 atualizado: 2026-06-04
-pergunta-central: Quais são as melhores práticas e ferramentas modernas para otimizar o processo de programação e desenvolvimento de software?
+pergunta-central: Como a programação e o desenvolvimento de software podem evoluir para atender às demandas crescentes de eficiência e inovação no futuro?
 relacionado-a: []
 related: []
-tags: [pesquisa, dev, produtividade]
+tags: ["pesquisa", "dev", "produtividade"]
 ---
 
 # Pesquisa - Programação e Desenvolvimento
 
 ## ❓ Pergunta central
-Quais são as melhores práticas e ferramentas modernas para otimizar o processo de programação e desenvolvimento de software?
+Como a programação e o desenvolvimento de software podem evoluir para atender às demandas crescentes de eficiência e inovação no futuro?
 
 ## 🎯 Síntese (3-5 linhas)
-Programação e desenvolvimento de software evoluíram para incluir práticas como desenvolvimento ágil, uso de Inteligência Artificial e automação de processos. Ferramentas como IDEs avançadas, sistemas de controle de versão e plataformas de colaboração remota têm se tornado indispensáveis. A adoção de princípios como DevOps e a integração contínua também são fundamentais para melhorar a eficiência e qualidade dos projetos.
+A programação e o desenvolvimento de software são pilares da era digital, impulsionando inovação em praticamente todos os setores. O futuro aponta para maior automação, integração de inteligência artificial no processo de desenvolvimento e o uso crescente de metodologias ágeis e DevOps. É crucial equilibrar eficiência técnica com responsabilidade ética e sustentabilidade.
 
 ## 🔬 Detalhes
-- A programação moderna prioriza metodologias ágeis, como Scrum e Kanban, para maior flexibilidade e resposta rápida às mudanças.
-- Ferramentas de controle de versão, como [[Git]], são essenciais para colaboração e gerenciamento de código em equipe.
-- IDEs avançadas, como [[Visual Studio Code]] e [[IntelliJ IDEA]], oferecem suporte à extensão, depuração e integração de ferramentas.
-- Práticas de DevOps, incluindo integração contínua (CI) e entrega contínua (CD), reduzem o tempo entre o desenvolvimento e a implementação de software.
-- A automação de tarefas repetitivas com ferramentas como [[Jenkins]] e [[GitHub Actions]] melhora a produtividade e reduz erros humanos.
-- A aplicação de Inteligência Artificial e aprendizado de máquina em programação, como através do [[Claude API e Anthropic SDK]], está transformando a forma como os desenvolvedores escrevem e testam código.
+- A programação está cada vez mais automatizada, com ferramentas como GitHub Copilot e ChatGPT redefinindo o papel dos desenvolvedores.
+- Metodologias ágeis, como Scrum e Kanban, continuam sendo amplamente usadas para gerenciar projetos de software de forma iterativa e colaborativa.
+- Frameworks e linguagens de alto nível, como Python e JavaScript, dominam o mercado, enquanto Rust e Go ganham espaço por sua eficiência e segurança.
+- DevOps e práticas de CI/CD (Integração Contínua/Entrega Contínua) são essenciais para acelerar ciclos de desenvolvimento e implementar rapidamente mudanças em produção.
+- A ética no desenvolvimento de software está em destaque, especialmente em relação a questões como viés algorítmico, privacidade de dados e impacto ambiental.
+- O conceito de “low-code” e “no-code” está democratizando o desenvolvimento, permitindo que pessoas sem formação técnica criem soluções funcionais.
 
 ## 🔗 Conexões
 - [[Claude API e Anthropic SDK]]
-- [[Referência - Scrum e Kanban]]
-- [[Referência - DevOps e CI/CD]]
+- [[Projeto - Sistema Chamados]]
 
 ## 📚 Fontes
-- [[Referência - Git]]
-- [[Referência - Visual Studio Code]]
-- [[Referência - IntelliJ IDEA]]
-- [[Referência - Jenkins]]
-- [[Referência - GitHub Actions]]
+- [[Referência - Clean Code (Robert C. Martin)]]
+- [[Referência - DevOps Handbook]]
+- [[Referência - State of Developer Ecosystem 2025]]
 
 ## 🚧 Lacunas
-- Como a ética na IA pode impactar o futuro do desenvolvimento de software?
-- Quais são as melhores práticas para gerenciar equipes de programação em ambientes remotos?
-- Qual é o impacto das novas linguagens de programação emergentes na eficiência do desenvolvimento de software?
+- Qual será o impacto de tecnologias de IA generativa no desemprego ou na transformação do trabalho de programadores?
+- Como os desenvolvedores podem equilibrar a pressão por entregas rápidas com a necessidade de criar sistemas sustentáveis e éticos?
+- Quais serão os próximos grandes avanços em linguagens de programação e frameworks nos próximos 5 anos?
 ```
