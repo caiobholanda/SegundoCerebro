@@ -1,43 +1,76 @@
-```markdown
 ---
 tipo: pesquisa
+status: em-andamento
 criado: 2026-06-04
 atualizado: 2026-06-04
-pergunta-central: Qual é o processo ideal para realizar deploys em ambientes de infraestrutura cloud, garantindo escalabilidade e segurança?
-relacionado-a: []
-related: [[Claude API e Anthropic SDK]]
-tags: [pesquisa, dev, infra]
+tags: [pesquisa, deploy, infra, cloud, automatico]
+related: ["[[2026-06-03 - Deploy e Infraestrutura Cloud]]"]
+pergunta-central: "Qual é o estado do ecossistema de deploy cloud em junho 2026?"
+relacionado-a: [deploy, infraestrutura, cloud]
 ---
 
-# Pesquisa - Deploy e Infraestrutura Cloud
+# Deploy e Infraestrutura Cloud — 2026-06-04
 
-## ❓ Pergunta central
-Qual é o processo ideal para realizar deploys em ambientes de infraestrutura cloud, garantindo escalabilidade e segurança?
+## Destaque principal
 
-## 🎯 Síntese (3-5 linhas)
-Deploy em ambientes cloud exige uma abordagem estruturada para otimizar recursos, garantir alta disponibilidade e mitigar riscos. As melhores práticas incluem o uso de ferramentas DevOps para automação, arquitetura baseada em microsserviços e monitoramento em tempo real. A segurança deve ser integrada ao ciclo de vida do desenvolvimento, e testes contínuos são essenciais para prevenir falhas.
+**Comparativo definitivo publicado** (mai/2026): dev implantou o mesmo app em Vercel, Railway e Fly.io — análise de custo e performance consolidada, confirma padrão 3 camadas como padrão de 2026.
 
-## 🔬 Detalhes
-- **DevOps e automação**: Ferramentas como Terraform e Ansible simplificam a gestão de infraestrutura como código, garantindo consistência entre ambientes.
-- **Microsserviços**: Arquiteturas com microsserviços permitem deploys isolados, facilitando escalabilidade e minimizando impactos de falhas.
-- **CI/CD**: Pipelines de integração e entrega contínuas (ex.: GitHub Actions, Jenkins) suportam deploys confiáveis e rápidos.
-- **Containerização**: Docker garante que aplicações rodem de forma consistente em qualquer ambiente, enquanto Kubernetes facilita a orquestração de contêineres em escala.
-- **Segurança no deploy**: Práticas como o uso de IAM (Identity and Access Management), criptografia em trânsito e em repouso, além de análises de vulnerabilidade contínuas, são essenciais.
-- **Monitoramento e logging**: Soluções como Prometheus e Grafana ajudam a identificar problemas em tempo real, enquanto logs centralizados (ex.: ELK Stack) facilitam auditorias.
-- **Multi-cloud e arquiteturas híbridas**: Estratégias multi-cloud aumentam redundância e evitam dependência de um único provedor.
+## Comparativo das plataformas (junho 2026)
 
-## 🔗 Conexões
-- [[Claude API e Anthropic SDK]]
-- [[Projeto - Sistema Chamados]]
-- [[Referência - Kubernetes e Docker]]
+### Vercel
+- **Ideal para**: 80% dos apps Next.js, sites estáticos, serverless functions
+- **Preço**: Pro $20/user/mês; Netlify Pro como alternativa a $19/user + 100GB
+- **Destaque**: CDN global, edge functions, deploy em segundos
+- **Limitação**: 4 aumentos de preço desde 2024; cobra por bandwidth além do limite
 
-## 📚 Fontes
-- [[Referência - Terraform e Ansible]]
-- [[Referência - CI/CD e GitHub Actions]]
-- [[Referência - Segurança em Cloud Computing]]
+### Railway
+- **Ideal para**: startups, indie hackers, MVPs, side projects
+- **Preço**: Hobby $5/mês; Pro ~$20/mês; 500h free
+- **Destaque**: dashboard best-in-class, deploy <2min sem Dockerfile, billing por segundo
+- **DB**: múltiplas engines (Postgres, MySQL, Redis, MongoDB)
+- **Infra própria**: data centers próprios (50% mais barato que AWS), 2M devs ativos
 
-## 🚧 Lacunas
-- Qual é o impacto real de arquiteturas multi-cloud na performance de aplicações críticas?
-- Como otimizar custos em deploys avançados sem comprometer a segurança e escalabilidade?
-- Quais ferramentas emergentes podem substituir ou complementar Kubernetes e Docker no futuro?
+### Fly.io
+- **Ideal para**: apps globais em produção, workloads com GPU
+- **Preço**: ~$10-20/mês para apps típicas
+- **Destaque**: 35+ regiões, GPU A100/L40S, Kubernetes, scale-to-zero
+- **DB**: Postgres mais barato ($33,90 vs $92,50 Railway para specs comparáveis)
+- **Limitação**: UX mais complexa que Railway; cobra inter-region networking (desde fev/2026)
+
+### Cloudflare Pages
+- **Free**: bandwidth ilimitado — destaque competitivo
+- **Ideal para**: sites estáticos e workers edge
+
+## Padrão 3 camadas (2026)
+
 ```
+CDN/Edge (Vercel/Cloudflare)
+    ↓
+PaaS Backend (Railway ou Fly.io)
+    ↓
+Managed DB (Neon, PlanetScale, Supabase)
+```
+
+## Alternativas emergindo (2026)
+
+- **DigitalOcean App Platform**: alternativa Fly.io para apps simples
+- **Northflank**: melhor para equipes que precisam de BYOC (Bring Your Own Cloud)
+- **Render**: middle ground Railway vs Fly.io
+
+## O que mudou desde 2026-06-03
+
+- Comparativo Vercel vs Railway vs Fly.io publicado com dados reais de custo/performance
+- Cloudflare Pages reforçado como opção free ilimitada
+- Railway Hobby confirmado em $5/mês (não $7 como citado anteriormente)
+
+## Links relacionados
+
+- [[2026-06-03 - Deploy e Infraestrutura Cloud]]
+- [[2026-06-04 - Programação e Desenvolvimento]]
+
+## Fontes
+
+- [Fly.io vs Railway 2026 — The Software Scout](https://thesoftwarescout.com/fly-io-vs-railway-2026-which-developer-platform-should-you-deploy-on/)
+- [Mesmo app em Vercel, Railway e Fly.io — Medium](https://navanathjadhav.medium.com/i-deployed-the-same-app-to-vercel-railway-and-fly-io-cost-performance-compared-607dedd46ae6)
+- [Deploy Full Stack 2026 — Nucamp](https://www.nucamp.co/blog/deploying-full-stack-apps-in-2026-vercel-netlify-railway-and-cloud-options)
+- [10 Fly.io Alternatives 2026 — DigitalOcean](https://www.digitalocean.com/resources/articles/flyio-alternative)

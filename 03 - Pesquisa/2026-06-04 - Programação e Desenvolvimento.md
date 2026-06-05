@@ -1,43 +1,76 @@
-```markdown
 ---
 tipo: pesquisa
+status: em-andamento
 criado: 2026-06-04
 atualizado: 2026-06-04
-pergunta-central: Quais são os princípios fundamentais e as melhores práticas para se destacar em programação e desenvolvimento hoje?
-relacionado-a: []
-related: [[Claude API e Anthropic SDK]]
-tags: [pesquisa, dev, produtividade]
+tags: [pesquisa, dev, programacao, typescript, python, rust, automatico]
+related: ["[[2026-06-03 - Programação e Desenvolvimento]]"]
+pergunta-central: "Quais são as principais tendências de programação e desenvolvimento em junho 2026?"
+relacionado-a: [programacao, linguagens, tendencias]
 ---
 
-# Pesquisa - Programação e Desenvolvimento
+# Programação e Desenvolvimento — 2026-06-04
 
-## ❓ Pergunta central
-Quais são os princípios fundamentais e as melhores práticas para se destacar em programação e desenvolvimento hoje?
+## Destaque principal
 
-## 🎯 Síntese (3-5 linhas)
-Programação e desenvolvimento são áreas dinâmicas que envolvem pensamento lógico, criatividade e adaptação contínua às tecnologias emergentes. Práticas como design modular, uso de frameworks modernos, e foco em legibilidade do código são essenciais. Além disso, habilidades interpessoais e colaboração em equipe são cada vez mais importantes para projetos bem-sucedidos.
+**Rust: 8º ano consecutivo como linguagem mais admirada** (Stack Overflow Survey 2026) — vagas cresceram 35% YoY. Python mantém domínio absoluto em IA/ML com 57,9% de uso entre devs.
 
-## 🔬 Detalhes
-- **Princípios da programação limpa**: Escreva código legível, modular e testável, seguindo práticas como as descritas no livro "Clean Code" de Robert C. Martin.
-- **Importância das linguagens populares**: Domine pelo menos uma linguagem amplamente usada, como Python, JavaScript ou Java, para garantir empregabilidade.
-- **Frameworks e bibliotecas**: Familiaridade com frameworks como React, Django ou Spring pode acelerar desenvolvimento e facilitar manutenção.
-- **Automatização e DevOps**: Ferramentas como Docker, Kubernetes e pipelines CI/CD são fundamentais para fluxo de trabalho ágil e entrega contínua.
-- **Segurança de código**: Práticas como validação de entrada e uso de bibliotecas seguras são indispensáveis para evitar vulnerabilidades.
-- **Aprendizado contínuo**: Acompanhe tendências como Inteligência Artificial, desenvolvimento Web3 e linguagens emergentes como Rust para se manter relevante.
+## Ranking de linguagens (2026)
 
-## 🔗 Conexões
-- [[Claude API e Anthropic SDK]]
-- [[Referência - Clean Code por Robert C. Martin]]
-- [[Pesquisa - Web3 e Impacto na Programação]]
+| Linguagem | Uso (devs) | Ranking |
+|-----------|-----------|---------|
+| Python | 57,9% | #1 TIOBE, #1 IA/ML |
+| TypeScript | 43,6% | #1 GitHub contribuidores |
+| Java | 29,4% | Enterprise estável |
+| Go | 16,4% | Cloud-native, microserviços |
+| Rust | 14,8% | Sistemas, WASM, 8× mais admirada |
 
-## 📚 Fontes
-- [[Referência - Clean Code por Robert C. Martin]]
-- [[Referência - Artigo sobre DevOps no DZone]]
-- [[Referência - Documentação oficial do React]]
-- [[Referência - Livro Design Patterns: Elements of Reusable Object-Oriented Software]]
+## Python
+- #1 TIOBE (~21-26% índice)
+- Dominância em IA/ML é irreversível no curto prazo
+- 57,9% dos devs usam Python (Stack Overflow 2026)
 
-## 🚧 Lacunas
-- Como as metodologias de desenvolvimento ágil estão se adaptando às novas demandas do mercado de IA?
-- Quais são as melhores práticas para integrar segurança diretamente na fase de desenvolvimento de software?
-- Como se preparar para a ascensão de linguagens menos convencionais, como Rust e Julia, no mercado mainstream?
-```
+## TypeScript
+- #1 GitHub por contribuidores (desde ago/2025, +66% YoY)
+- **>80% dos novos projetos JavaScript usam TypeScript** em 2026
+- Tipagem forte como padrão — não mais diferencial
+- Todos os frameworks modernos adotam TS por padrão
+
+## Rust
+- **8º ano mais admirada** (Stack Overflow Survey)
+- +35% vagas YoY
+- Crescimento em: WASM, infraestrutura de sistemas, segurança
+- Go cresce como rival em cloud-native
+
+## Tendências do papel do dev (2026)
+
+- **AI-Native Development**: 84%+ devs usam IA no workflow diário
+- **Dev = 70% revisor/arquiteto**: geração de código delegada à IA; dev valida e decide
+- **GitHub Copilot como baseline**: não é diferencial — quem não usa perde produtividade
+- **DevSecOps**: de diferencial a pré-requisito obrigatório
+- **Green Software**: código eficiente para reduzir consumo de energia — regulatório emergindo
+
+## Stack dominante em 2026
+
+- **Frontend**: TypeScript + React + Next.js
+- **Backend Python**: FastAPI ou Django
+- **Backend Node**: TypeScript + Express/Fastify/Hono
+- **Sistemas/Infra**: Rust ou Go
+- **IA/ML**: Python + PyTorch/JAX
+
+## O que mudou desde 2026-06-03
+
+- Stack Overflow Survey 2026 dados atualizados: Rust 8× consecutivo (não 6× como citado em maio)
+- Uso de Go revisado para 16,4% (atualização de benchmark)
+
+## Links relacionados
+
+- [[2026-06-03 - Programação e Desenvolvimento]]
+- [[2026-06-04 - Mercado de TI no Brasil]]
+
+## Fontes
+
+- [Top 20 linguagens 2026 — Nextage](https://nextage.com.br/blog/en/top-20-programming-languages/)
+- [Linguagens mais populares 2026 — Innowise](https://innowise.com/blog/top-proprogramming-languages/)
+- [Rust e Go crescem em infraestrutura — Merehead](https://merehead.com/blog/top-programming-languages-2026/)
+- [5 Linguagens para aprender em 2026 — DIO](https://www.dio.me/articles/as-5-principais-linguagens-de-programacao-que-valem-a-pena-aprender-em-2026-3eeba171c963)

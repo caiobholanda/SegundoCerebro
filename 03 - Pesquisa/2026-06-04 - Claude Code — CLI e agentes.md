@@ -1,40 +1,63 @@
-```markdown
 ---
 tipo: pesquisa
+status: em-andamento
 criado: 2026-06-04
 atualizado: 2026-06-04
-pergunta-central: Como o Claude Code pode ser integrado via CLI e agentes para automação e produtividade?
-relacionado-a: []
-related: [[Claude API e Anthropic SDK]]
-tags: [pesquisa, ia, dev, claude]
+tags: [pesquisa, claude, cli, agentes, automatico]
+related: ["[[2026-06-03 - Claude Code — CLI e agentes]]"]
+pergunta-central: "Quais são as principais novidades no Claude Code CLI e agentes em 04/06/2026?"
+relacionado-a: [claude-code, cli]
 ---
 
-# Pesquisa - Claude Code — CLI e agentes
+# Claude Code — CLI e agentes — 2026-06-04
 
-## ❓ Pergunta central
-Como o Claude Code pode ser integrado via CLI e agentes para automação e produtividade?
+## Destaque principal
 
-## 🎯 Síntese (3-5 linhas)
-Claude Code, desenvolvido pela Anthropic, permite automação por meio de interfaces CLI e agentes integrados. Seu modelo de linguagem natural pode ser usado para executar comandos, interagir com scripts e facilitar fluxos de trabalho complexos. A integração requer APIs customizadas e pode ser ampliada com ferramentas SDK, criando um ecossistema robusto para desenvolvedores.
+**Microsoft cancelou licenças corporativas do Claude Code** e está empurrando engenheiros internos para o **Copilot CLI** — sinaliza tensão crescente entre Microsoft (parceira OpenAI) e Anthropic.
 
-## 🔬 Detalhes
-- Claude Code é uma aplicação prática do modelo Claude para automação de tarefas e resolução de problemas computacionais.
-- A integração via CLI permite que desenvolvedores invoquem funções diretamente do terminal, utilizando prompts de linguagem natural.
-- Agentes podem ser configurados para operar em sistemas específicos, como Linux, Windows ou macOS, com capacidade de executar scripts automatizados.
-- A API Anthropic fornece métodos para interagir com o Claude Code, incluindo configuração de parâmetros e envio de inputs contextuais.
-- É possível criar extensões customizadas para Claude Code usando o Anthropic SDK, o que amplia sua funcionalidade em projetos específicos.
-- Principais usos incluem geração de código, análise de logs, automação de tarefas repetitivas e suporte técnico interativo.
+**Anthropic publicou post sobre autonomia**: "Enabling Claude Code to work more autonomously" — documenta a filosofia de design por trás das permissões adaptativas.
 
-## 🔗 Conexões
-- [[Claude API e Anthropic SDK]]
-- [[Projeto - Sistema Chamados]]
+## Novidades (semana de 03–04/06)
 
-## 📚 Fontes
-- [[Referência - Introdução ao Anthropic SDK]]
-- [[Referência - Documentação Claude Code]]
+### Métricas e observabilidade
+- `OTEL_RESOURCE_ATTRIBUTES` agora incluídos como labels em métricas → fatia uso por team/repo
+- `claude agents` rows: mostram `done/total` antes do detalhe; peek exibe item com maior runtime
 
-## 🚧 Lacunas
-- Quais são as limitações práticas do Claude Code em ambientes com altas exigências de segurança?
-- Como o desempenho do Claude Code se compara a outros modelos de linguagem em tarefas específicas de CLI?
-- Quais estratégias são mais eficazes para treinar agentes Claude em domínios especializados?
-```
+### Melhorias de agentes
+- `claude agents --json`: campo `waitingFor` mostra por que sessão está bloqueada (ex.: permission prompt)
+- Autocomplete no dispatch input sugere native slash commands + bundled skills (não apenas project skills)
+
+### Correção de comportamento
+- **Parallel tool calls**: Bash com falha não cancela mais outras chamadas na mesma bateria — cada ferramenta retorna resultado independente
+- Clicar slash command no autocomplete agora **preenche** o prompt; Enter para executar (antes executava direto)
+
+### Plugin / marketplace
+- `skipLfs` adicionado como opção em marketplace sources (pula Git LFS durante clone/update)
+
+### Fixes CJK e Windows
+- Correções para input IME chinês/japonês/coreano
+- Fix links em terminal Windows
+- Melhorias performance em voice mode com caracteres especiais
+
+## Contexto competitivo
+
+- Microsoft cancela licenças Claude Code → push para Copilot CLI internamente
+- Anthropic reage com post de filosofia de autonomia (posicionamento de produto)
+
+## O que mudou desde 2026-06-03
+
+- Microsoft cancel confirmado (novo evento)
+- Post oficial sobre autonomia publicado
+- Fixes CJK + Windows em update recente
+
+## Links relacionados
+
+- [[2026-06-03 - Claude Code — CLI e agentes]]
+- [[2026-06-04 - Claude API e Anthropic SDK]]
+
+## Fontes
+
+- [Claude Code Updates June 2026 — Releasebot](https://releasebot.io/updates/anthropic/claude-code)
+- [Microsoft Cancels Claude Code Licenses — OpenTools](https://opentools.ai/news/microsoft-cancels-claude-code-licenses-copilot-cli)
+- [Enabling Claude Code to work more autonomously — Anthropic](https://www.anthropic.com/news/enabling-claude-code-to-work-more-autonomously)
+- [Claude Code Changelog](https://code.claude.com/docs/en/changelog)
