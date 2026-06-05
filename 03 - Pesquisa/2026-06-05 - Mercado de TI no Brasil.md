@@ -3,7 +3,7 @@
 tipo: pesquisa
 criado: 2026-06-05
 atualizado: 2026-06-05
-pergunta-central: Quais são as tendências e desafios do mercado de TI no Brasil em 2026?
+pergunta-central: Quais são as principais tendências, desafios e oportunidades no mercado de TI no Brasil?
 relacionado-a: []
 related: []
 tags: [pesquisa, mercado, carreira]
@@ -12,30 +12,30 @@ tags: [pesquisa, mercado, carreira]
 # Pesquisa - Mercado de TI no Brasil
 
 ## ❓ Pergunta central
-Quais são as tendências e desafios do mercado de TI no Brasil em 2026?
+Quais são as principais tendências, desafios e oportunidades no mercado de TI no Brasil?
 
 ## 🎯 Síntese (3-5 linhas)
-O mercado de TI no Brasil segue em expansão, impulsionado pela crescente demanda por soluções digitais e transformação digital em diversos setores. No entanto, enfrenta desafios como falta de mão de obra qualificada, desigualdade regional, e adaptação às rápidas mudanças tecnológicas. Áreas como inteligência artificial, segurança cibernética e desenvolvimento de software continuam a liderar em oportunidades de carreira.
+O mercado de TI no Brasil está em constante crescimento, impulsionado pela transformação digital, aumento na demanda por soluções de tecnologia e pela expansão do e-commerce. Apesar disso, enfrenta desafios como a escassez de profissionais qualificados e desigualdades regionais. As áreas de segurança da informação, inteligência artificial e desenvolvimento de software despontam como setores estratégicos.
 
 ## 🔬 Detalhes
-- O Brasil é o maior mercado de TI da América Latina, representando cerca de 45% do total da região.
-- A demanda por especialistas em áreas como inteligência artificial, ciência de dados e segurança cibernética cresceu exponencialmente nos últimos anos.
-- Apesar do crescimento, há uma lacuna significativa de profissionais qualificados, com estimativas indicando um déficit de mais de 500 mil vagas em TI até 2026.
-- As startups de tecnologia têm desempenhado um papel crucial no mercado, especialmente em setores como fintechs e healthtechs.
-- Desigualdade regional continua sendo um desafio, com maior concentração de oportunidades em estados como São Paulo e Rio de Janeiro.
-- Tendências emergentes incluem o uso de IA generativa em processos empresariais, computação em nuvem híbrida e maior foco em ESG nas soluções tecnológicas.
+- O mercado de TI no Brasil deve crescer cerca de 10% ao ano até 2030, segundo previsões da IDC.
+- A demanda por profissionais de TI ultrapassa a oferta, com déficit estimado de 300 mil vagas não preenchidas até 2026.
+- As cidades de São Paulo, Rio de Janeiro e Curitiba concentram a maior parte das oportunidades, mas há esforços para descentralizar o setor.
+- Startups de tecnologia têm papel relevante no crescimento do mercado, especialmente nas áreas de fintechs e healthtechs.
+- A adoção de inteligência artificial e machine learning tem acelerado em diversos setores, como varejo, saúde e agronegócio.
+- O Brasil enfrenta desafios regulatórios e de infraestrutura digital que impactam o avanço do setor.
 
 ## 🔗 Conexões
-- [[Claude API e Anthropic SDK]]
+- [[Pesquisa - Inteligência Artificial no Brasil]]
 - [[Projeto - Sistema Chamados]]
 
 ## 📚 Fontes
-- [[Referência - Panorama do mercado de TI 2026]]
-- [[Referência - Relatório IDC América Latina 2026]]
-- [[Referência - Pesquisa sobre profissionais de TI no Brasil]]
+- [[Referência - IDC: Mercado de TI no Brasil]]
+- [[Referência - Panorama das Startups Brasileiras]]
+- [[Referência - Relatório: Tendências em Transformação Digital 2026]]
 
 ## 🚧 Lacunas
-- Impacto do crescimento das tecnologias emergentes como IA generativa na empregabilidade de profissionais de TI no Brasil.
-- Estratégias para mitigar a desigualdade regional no acesso a oportunidades em TI.
-- Como o foco em ESG está moldando o mercado e as soluções de tecnologia no Brasil.
+- Quais políticas públicas podem ser implementadas para reduzir a escassez de profissionais qualificados em TI no Brasil?
+- Qual é o impacto da desigualdade regional no acesso a oportunidades no setor de TI?
+- Como o mercado de TI brasileiro está se posicionando em relação às regulamentações de IA e proteção de dados?
 ```
