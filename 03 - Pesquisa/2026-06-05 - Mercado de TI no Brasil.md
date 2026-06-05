@@ -3,7 +3,7 @@
 tipo: pesquisa
 criado: 2026-06-05
 atualizado: 2026-06-05
-pergunta-central: Quais são as principais tendências, oportunidades e desafios do mercado de TI no Brasil em 2026?
+pergunta-central: Quais são as tendências e desafios do mercado de TI no Brasil em 2026?
 relacionado-a: []
 related: []
 tags: [pesquisa, mercado, carreira]
@@ -12,31 +12,30 @@ tags: [pesquisa, mercado, carreira]
 # Pesquisa - Mercado de TI no Brasil
 
 ## ❓ Pergunta central
-Quais são as principais tendências, oportunidades e desafios do mercado de TI no Brasil em 2026?
+Quais são as tendências e desafios do mercado de TI no Brasil em 2026?
 
 ## 🎯 Síntese (3-5 linhas)
-O mercado de TI no Brasil continua em crescimento acelerado, impulsionado pela transformação digital e pela expansão de tecnologias como inteligência artificial, big data e computação em nuvem. No entanto, enfrenta desafios como a escassez de profissionais qualificados e a necessidade de maior investimento em infraestrutura e inovação. Empresas buscam cada vez mais por especialistas em cibersegurança, desenvolvedores e profissionais de ciência de dados. 
+O mercado de TI no Brasil segue em expansão, impulsionado pela crescente demanda por soluções digitais e transformação digital em diversos setores. No entanto, enfrenta desafios como falta de mão de obra qualificada, desigualdade regional, e adaptação às rápidas mudanças tecnológicas. Áreas como inteligência artificial, segurança cibernética e desenvolvimento de software continuam a liderar em oportunidades de carreira.
 
 ## 🔬 Detalhes
-- A TI é um dos setores mais promissores da economia brasileira, com uma projeção de crescimento acima da média global até 2027.
-- A demanda por profissionais de TI no Brasil supera a oferta, criando um déficit de mão de obra qualificada. Estima-se que faltarão cerca de 500 mil profissionais até 2030.
-- Áreas como cibersegurança, inteligência artificial, ciência de dados e desenvolvimento de software estão entre as mais aquecidas.
-- O trabalho remoto ganhou força com a pandemia e segue como uma tendência no setor, ampliando o acesso a oportunidades internacionais para profissionais brasileiros.
-- As startups e o ecossistema de inovação no Brasil têm contribuído significativamente para a expansão do mercado de TI, especialmente em cidades como São Paulo, Florianópolis e Recife.
-- Apesar do crescimento, o setor enfrenta desafios como burocracia, altos custos tributários e a carência de políticas públicas de incentivo à inovação.
+- O Brasil é o maior mercado de TI da América Latina, representando cerca de 45% do total da região.
+- A demanda por especialistas em áreas como inteligência artificial, ciência de dados e segurança cibernética cresceu exponencialmente nos últimos anos.
+- Apesar do crescimento, há uma lacuna significativa de profissionais qualificados, com estimativas indicando um déficit de mais de 500 mil vagas em TI até 2026.
+- As startups de tecnologia têm desempenhado um papel crucial no mercado, especialmente em setores como fintechs e healthtechs.
+- Desigualdade regional continua sendo um desafio, com maior concentração de oportunidades em estados como São Paulo e Rio de Janeiro.
+- Tendências emergentes incluem o uso de IA generativa em processos empresariais, computação em nuvem híbrida e maior foco em ESG nas soluções tecnológicas.
 
 ## 🔗 Conexões
+- [[Claude API e Anthropic SDK]]
 - [[Projeto - Sistema Chamados]]
-- [[Pesquisa - Tendências em Inteligência Artificial]]
-- [[Referência - Startups de TI no Brasil]]
 
 ## 📚 Fontes
-- [[Referência - Panorama do Mercado de TI 2026]]
-- [[Referência - Relatório de Empregabilidade em TI 2026]]
-- [[Referência - Transformação Digital no Brasil]]
+- [[Referência - Panorama do mercado de TI 2026]]
+- [[Referência - Relatório IDC América Latina 2026]]
+- [[Referência - Pesquisa sobre profissionais de TI no Brasil]]
 
 ## 🚧 Lacunas
-- Qual o impacto das políticas públicas recentes no desenvolvimento do setor de TI?
-- Como as empresas brasileiras estão se adaptando à crescente demanda por cibersegurança?
-- Quais são os melhores caminhos para capacitar profissionais e reduzir o déficit de mão de obra em TI?
+- Impacto do crescimento das tecnologias emergentes como IA generativa na empregabilidade de profissionais de TI no Brasil.
+- Estratégias para mitigar a desigualdade regional no acesso a oportunidades em TI.
+- Como o foco em ESG está moldando o mercado e as soluções de tecnologia no Brasil.
 ```
