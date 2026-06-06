@@ -3,7 +3,7 @@
 tipo: pesquisa
 criado: 2026-06-06
 atualizado: 2026-06-06
-pergunta-central: Como a programação e o desenvolvimento de software estão evoluindo com os avanços em inteligência artificial e metodologias ágeis?
+pergunta-central: Quais são as práticas e ferramentas essenciais para programação e desenvolvimento eficiente em 2026?
 relacionado-a: []
 related: [[Claude API e Anthropic SDK]]
 tags: [pesquisa, dev, produtividade]
@@ -12,31 +12,31 @@ tags: [pesquisa, dev, produtividade]
 # Pesquisa - Programação e Desenvolvimento
 
 ## ❓ Pergunta central
-Como a programação e o desenvolvimento de software estão evoluindo com os avanços em inteligência artificial e metodologias ágeis?
+Quais são as práticas e ferramentas essenciais para programação e desenvolvimento eficiente em 2026?
 
 ## 🎯 Síntese (3-5 linhas)
-A programação e o desenvolvimento de software estão passando por uma revolução, impulsionados por avanços em inteligência artificial e metodologias ágeis. Ferramentas baseadas em IA estão acelerando o desenvolvimento e otimizando processos, enquanto práticas ágeis promovem maior colaboração e adaptabilidade nas equipes. No entanto, a necessidade de habilidades humanas, como resolução criativa de problemas e design de software, permanece essencial.
+Programação e desenvolvimento evoluíram rapidamente com o advento da inteligência artificial e novas tecnologias. Ferramentas como IA generativa, métodos ágeis aprimorados e frameworks modernos são essenciais para maximizar a produtividade. Além disso, a integração de práticas DevOps e foco em acessibilidade e sustentabilidade estão moldando o futuro do desenvolvimento.
 
 ## 🔬 Detalhes
-- A inteligência artificial está sendo amplamente adotada no desenvolvimento de software, com ferramentas como GitHub Copilot e ChatGPT ajudando na geração e revisão de código.
-- Metodologias ágeis, como Scrum e Kanban, continuam a ser amplamente usadas para promover entregas rápidas e colaborativas, aumentando a eficiência das equipes.
-- A programação está se expandindo para áreas como machine learning, IoT (Internet das Coisas) e desenvolvimento de aplicativos móveis, levando a uma maior demanda por especialização.
-- O low-code/no-code está democratizando o acesso ao desenvolvimento, permitindo que pessoas sem formação técnica criem aplicativos básicos.
-- Princípios de design centrado no usuário (UX/UI) estão cada vez mais integrados ao desenvolvimento, garantindo que os produtos atendam às necessidades reais dos usuários.
-- A segurança cibernética tornou-se uma prioridade central no desenvolvimento, com práticas como DevSecOps sendo incorporadas para proteger sistemas desde a concepção.
+- **Inteligência Artificial no Desenvolvimento**: Plataformas como [[Claude API e Anthropic SDK]] estão acelerando a criação de código e resolução de problemas complexos.
+- **Frameworks Modernos**: Ferramentas como [[React]], [[Vue.js]] e [[Django]] continuam sendo pilares para desenvolvimento web rápido e eficiente.
+- **Programação Funcional**: Linguagens como [[Haskell]] e [[Scala]] ganham mais espaço por sua abordagem robusta e escalável.
+- **Integração e Entrega Contínuas (CI/CD)**: Práticas de [[DevOps]] são essenciais para reduzir o tempo de desenvolvimento e aumentar a qualidade do software.
+- **Sustentabilidade em TI**: Foco crescente em práticas de desenvolvimento que minimizem impacto ambiental, como programação otimizada para consumo energético.
+- **Acessibilidade Digital**: Padrões como WCAG 2.2 são cada vez mais integrados ao ciclo de desenvolvimento.
 
 ## 🔗 Conexões
 - [[Claude API e Anthropic SDK]]
-- [[Pesquisa - Inteligência Artificial Generativa]]
-- [[Área - Desenvolvimento de Software]]
+- [[Projeto - Sistema Chamados]]
+- [[Referência - DevOps]]
 
 ## 📚 Fontes
-- [[Referência - Livro Clean Code (Robert C. Martin)]]
-- [[Referência - Artigo sobre GitHub Copilot (link)]]
-- [[Referência - Livro Agile Estimating and Planning (Mike Cohn)]]
+- [[Referência - Clean Code]]
+- [[Referência - Site oficial do React]]
+- [[Referência - WCAG 2.2]]
 
 ## 🚧 Lacunas
-- Quais são os limites e riscos éticos do uso de inteligência artificial na programação?
-- Como o low-code/no-code pode impactar a profissão de desenvolvedor no longo prazo?
-- Quais habilidades humanas serão mais valorizadas no futuro do desenvolvimento de software?
+- Quais são os desafios éticos no uso de IA para geração de código?
+- Como medir o impacto ambiental de um software durante o desenvolvimento?
+- Quais são as melhores práticas para integrar acessibilidade desde o início de um projeto?
 ```
