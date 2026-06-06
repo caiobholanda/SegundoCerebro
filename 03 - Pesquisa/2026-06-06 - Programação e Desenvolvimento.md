@@ -3,39 +3,40 @@
 tipo: pesquisa
 criado: 2026-06-06
 atualizado: 2026-06-06
-pergunta-central: Como otimizar o processo de desenvolvimento de software para aumentar a produtividade e a qualidade do código?
+pergunta-central: Como a programação e o desenvolvimento de software estão evoluindo com os avanços em inteligência artificial e metodologias ágeis?
 relacionado-a: []
-related: []
-tags: ["pesquisa", "dev", "produtividade"]
+related: [[Claude API e Anthropic SDK]]
+tags: [pesquisa, dev, produtividade]
 ---
 
 # Pesquisa - Programação e Desenvolvimento
 
 ## ❓ Pergunta central
-Como otimizar o processo de desenvolvimento de software para aumentar a produtividade e a qualidade do código?
+Como a programação e o desenvolvimento de software estão evoluindo com os avanços em inteligência artificial e metodologias ágeis?
 
 ## 🎯 Síntese (3-5 linhas)
-Programação e desenvolvimento são disciplinas que envolvem a criação de software funcional e eficiente. Otimizar esses processos requer o uso de boas práticas, ferramentas adequadas e a adoção de metodologias ágeis. A automação de tarefas repetitivas, a busca por aprendizado contínuo e o foco na colaboração dentro das equipes também têm se mostrado essenciais para melhorar a produtividade e a qualidade do código.
+A programação e o desenvolvimento de software estão passando por uma revolução, impulsionados por avanços em inteligência artificial e metodologias ágeis. Ferramentas baseadas em IA estão acelerando o desenvolvimento e otimizando processos, enquanto práticas ágeis promovem maior colaboração e adaptabilidade nas equipes. No entanto, a necessidade de habilidades humanas, como resolução criativa de problemas e design de software, permanece essencial.
 
 ## 🔬 Detalhes
-- A adoção de metodologias ágeis, como Scrum e Kanban, tem demonstrado ser eficaz para melhorar a comunicação e a entrega contínua no desenvolvimento de software.
-- O uso de sistemas de controle de versão, como Git, é indispensável para gerenciar mudanças no código e facilitar a colaboração entre desenvolvedores.
-- Práticas como Test-Driven Development (TDD) e Continuous Integration/Continuous Deployment (CI/CD) ajudam a garantir a qualidade do código e agilizam o ciclo de desenvolvimento.
-- Linguagens de programação modernas como Python, JavaScript e Rust têm ganhado destaque por sua versatilidade, desempenho e comunidades ativas.
-- Ferramentas de automação, como Docker e Kubernetes, simplificam o gerenciamento de aplicações em ambientes de desenvolvimento e produção.
-- O aprendizado contínuo, por meio de cursos, comunidades online e literatura técnica, é fundamental para acompanhar as rápidas mudanças no cenário tecnológico.
+- A inteligência artificial está sendo amplamente adotada no desenvolvimento de software, com ferramentas como GitHub Copilot e ChatGPT ajudando na geração e revisão de código.
+- Metodologias ágeis, como Scrum e Kanban, continuam a ser amplamente usadas para promover entregas rápidas e colaborativas, aumentando a eficiência das equipes.
+- A programação está se expandindo para áreas como machine learning, IoT (Internet das Coisas) e desenvolvimento de aplicativos móveis, levando a uma maior demanda por especialização.
+- O low-code/no-code está democratizando o acesso ao desenvolvimento, permitindo que pessoas sem formação técnica criem aplicativos básicos.
+- Princípios de design centrado no usuário (UX/UI) estão cada vez mais integrados ao desenvolvimento, garantindo que os produtos atendam às necessidades reais dos usuários.
+- A segurança cibernética tornou-se uma prioridade central no desenvolvimento, com práticas como DevSecOps sendo incorporadas para proteger sistemas desde a concepção.
 
 ## 🔗 Conexões
 - [[Claude API e Anthropic SDK]]
-- [[Projeto - Sistema Chamados]]
+- [[Pesquisa - Inteligência Artificial Generativa]]
+- [[Área - Desenvolvimento de Software]]
 
 ## 📚 Fontes
-- [[Referência - Livro - Clean Code (Robert C. Martin)]]
-- [[Referência - Agile Manifesto]]
-- [[Referência - Stack Overflow Developer Survey 2026]]
+- [[Referência - Livro Clean Code (Robert C. Martin)]]
+- [[Referência - Artigo sobre GitHub Copilot (link)]]
+- [[Referência - Livro Agile Estimating and Planning (Mike Cohn)]]
 
 ## 🚧 Lacunas
-- Como medir e comparar a eficácia de diferentes práticas ágeis em equipes de tamanhos variados?
-- Quais são as tendências emergentes em linguagens de programação e como elas podem impactar o futuro do desenvolvimento?
-- Como equilibrar a necessidade de aprendizado contínuo com a pressão por entregas rápidas no ambiente de trabalho?
+- Quais são os limites e riscos éticos do uso de inteligência artificial na programação?
+- Como o low-code/no-code pode impactar a profissão de desenvolvedor no longo prazo?
+- Quais habilidades humanas serão mais valorizadas no futuro do desenvolvimento de software?
 ```
