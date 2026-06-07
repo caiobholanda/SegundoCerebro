@@ -3,8 +3,8 @@
 tipo: pesquisa
 criado: 2026-06-07
 atualizado: 2026-06-07
-pergunta-central: Como estruturar um pipeline eficiente de deploy em ambientes de infraestrutura cloud?
-relacionado-a: []
+pergunta-central: Como projetar e implementar uma infraestrutura cloud eficiente e os processos de deploy mais adequados para diferentes tipos de aplicações?
+relacionado-a: [infraestrutura, devops, cloud-computing]
 related: [[Projeto - Sistema Chamados]]
 tags: [pesquisa, dev, infra]
 ---
@@ -12,30 +12,36 @@ tags: [pesquisa, dev, infra]
 # Pesquisa - Deploy e Infraestrutura Cloud
 
 ## ❓ Pergunta central
-Como estruturar um pipeline eficiente de deploy em ambientes de infraestrutura cloud?
+Como projetar e implementar uma infraestrutura cloud eficiente e os processos de deploy mais adequados para diferentes tipos de aplicações?
 
 ## 🎯 Síntese (3-5 linhas)
-O deploy e a infraestrutura cloud são fundamentais para a entrega de software moderna, permitindo escalabilidade, resiliência e automação. As melhores práticas incluem o uso de pipelines CI/CD, infraestrutura como código (IaC) e monitoramento contínuo. A escolha de ferramentas e provedores deve levar em conta requisitos como custo, segurança e flexibilidade. A coordenação entre times de desenvolvimento e operações (DevOps) é central para o sucesso.
+A infraestrutura cloud permite escalabilidade, flexibilidade e redução de custos em aplicações modernas. Para uma implementação eficiente, é fundamental entender os diferentes modelos de serviço (IaaS, PaaS, SaaS) e opções de deployment (CI/CD, containers, serverless). A escolha da solução ideal depende das necessidades específicas do projeto, como carga, segurança e tempo de entrega.
 
 ## 🔬 Detalhes
-- A infraestrutura cloud permite escalar recursos sob demanda, reduzindo custos e aumentando a eficiência.
-- O uso de CI/CD (Continuous Integration/Continuous Deployment) automatiza o processo de deploy, garantindo entregas rápidas e consistentes.
-- Infraestrutura como Código (IaC), com ferramentas como Terraform e AWS CloudFormation, facilita a gestão, replicação e versionamento de ambientes.
-- Provedores como AWS, Azure, e Google Cloud oferecem soluções integradas para deploy e monitoramento, mas a escolha deve considerar custos, suporte e compatibilidade.
-- Estratégias de deploy como Blue-Green e Canary Deployments minimizam downtime e riscos em atualizações de produção.
-- A observabilidade e o monitoramento contínuo são essenciais para identificar problemas rapidamente e melhorar a confiabilidade.
+- **Modelos de serviço cloud**:
+  - *IaaS (Infrastructure as a Service)*: Oferece recursos básicos como servidores, redes e armazenamento.
+  - *PaaS (Platform as a Service)*: Fornece uma plataforma para desenvolvimento e deploy de aplicações, abstraindo a infraestrutura.
+  - *SaaS (Software as a Service)*: Fornece aplicativos completos hospedados na nuvem, prontos para uso.
+- **Opções de Deploy**:
+  - *Continuous Integration/Continuous Deployment (CI/CD)* para automação e entrega contínua de software.
+  - *Containers (Docker, Kubernetes)* para portabilidade e gerenciamento eficiente de aplicações.
+  - *Serverless Computing (AWS Lambda, Azure Functions)* para escalabilidade automática e redução de custos com infraestrutura.
+- **Infraestrutura como Código (IaC)**: Ferramentas como Terraform e AWS CloudFormation permitem gerenciar infraestrutura de forma programática e reprodutível.
+- **Monitoramento e observabilidade**: Utilizar ferramentas como Prometheus e Grafana para monitorar a performance e identificar problemas rapidamente.
+- **Segurança na cloud**: Implementar boas práticas como autenticação forte, criptografia de dados em trânsito e em repouso e controle de acesso baseado em funções (RBAC).
+- **Custo e planejamento**: Estimar e monitorar custos na nuvem é essencial para evitar despesas inesperadas. Usar ferramentas como AWS Cost Explorer e Google Cloud Billing.
 
 ## 🔗 Conexões
 - [[Claude API e Anthropic SDK]]
 - [[Projeto - Sistema Chamados]]
 
 ## 📚 Fontes
-- [[Referência - The DevOps Handbook]]
-- [[Referência - Terraform Documentation]]
-- [[Referência - AWS Well-Architected Framework]]
+- [[Referência - Livro - Cloud Native Infrastructure]]
+- [[Referência - Artigo - Best Practices for CI/CD in AWS]]
+- [[Referência - Documentação - Kubernetes]]
 
 ## 🚧 Lacunas
-- Quais são os principais desafios na adoção de práticas de DevOps em empresas tradicionais?
-- Como otimizar custos de infraestrutura em provedores cloud sem comprometer a performance?
-- Quais são os melhores indicadores de sucesso para pipelines CI/CD em diferentes cenários de negócio?
+- Como escolher entre diferentes provedores de cloud (AWS, Azure, GCP) para casos de uso específicos?
+- Quais são os futuros avanços esperados em tecnologias de serverless computing?
+- Quais métricas são mais críticas para monitorar em diferentes tipos de infraestrutura cloud?
 ```
