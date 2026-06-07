@@ -3,7 +3,7 @@
 tipo: pesquisa
 criado: 2026-06-07
 atualizado: 2026-06-07
-pergunta-central: Quais são as tendências e desafios do mercado de TI no Brasil em 2026?
+pergunta-central: Quais são as principais tendências, desafios e oportunidades no mercado de TI no Brasil atualmente?
 relacionado-a: []
 related: []
 tags: [pesquisa, mercado, carreira]
@@ -12,29 +12,29 @@ tags: [pesquisa, mercado, carreira]
 # Pesquisa - Mercado de TI no Brasil
 
 ## ❓ Pergunta central
-Quais são as tendências e desafios do mercado de TI no Brasil em 2026?
+Quais são as principais tendências, desafios e oportunidades no mercado de TI no Brasil atualmente?
 
 ## 🎯 Síntese (3-5 linhas)
-O mercado de TI no Brasil continua em expansão, impulsionado pela transformação digital e pela demanda crescente por soluções tecnológicas. Há um déficit de profissionais qualificados, o que gera oportunidades significativas para quem possui competências técnicas específicas. No entanto, desafios como a adaptação às novas tecnologias, desigualdades regionais e a concorrência global continuam a ser barreiras para o desenvolvimento pleno do setor.
+O mercado de TI no Brasil está em expansão, impulsionado pela transformação digital acelerada, aumento da demanda por soluções de tecnologia e escassez de profissionais qualificados. Áreas como desenvolvimento de software, cibersegurança e inteligência artificial são destaques. No entanto, desafios como a disparidade de formação e a retenção de talentos ainda persistem.
 
 ## 🔬 Detalhes
-- O mercado de TI no Brasil deve crescer cerca de 10% em 2026, com destaque para áreas como inteligência artificial, computação em nuvem e cibersegurança.
-- O déficit de profissionais de TI no Brasil ultrapassa 400 mil vagas, principalmente em áreas como desenvolvimento de software, análise de dados e segurança da informação.
-- Startups brasileiras de tecnologia estão ganhando relevância global, com nichos promissores em fintechs e healthtechs.
-- O trabalho remoto continua sendo uma tendência forte no setor, atraindo talentos de diferentes regiões do país e do mundo.
-- A desigualdade regional ainda é um desafio, com maior concentração de oportunidades nas regiões Sul e Sudeste.
-- A demanda por treinamentos e certificações específicas, como AWS, Azure e metodologias ágeis, cresce exponencialmente.
+- A transformação digital nas empresas brasileiras foi acelerada pela pandemia, aumentando a demanda por soluções de TI.
+- A área de desenvolvimento de software continua sendo a mais promissora, especialmente em linguagens como Python, JavaScript e Java.
+- Cibersegurança tem se tornado uma prioridade devido ao aumento de ataques cibernéticos e à necessidade de proteção de dados.
+- Inteligência artificial e machine learning estão ganhando destaque em setores como saúde, varejo e agronegócio.
+- A escassez de profissionais qualificados em TI é um dos principais desafios, com uma lacuna significativa entre demanda e oferta.
+- O modelo de trabalho remoto tornou o mercado brasileiro mais competitivo globalmente, pois profissionais agora concorrem com vagas internacionais.
 
 ## 🔗 Conexões
-- [[Pesquisa - Inteligência Artificial no Brasil]]
-- [[Pesquisa - Computação em Nuvem no Brasil]]
+- [[Pesquisas sobre profissões do futuro]]
+- [[Projeto - Sistema Chamados]]
 
 ## 📚 Fontes
-- [[Referência - Relatório Anual de TI no Brasil 2026]]
-- [[Referência - Associação Brasileira das Empresas de Tecnologia da Informação]]
+- [[Referência - Relatório ABES sobre mercado de TI 2026]]
+- [[Referência - Panorama da TI no Brasil 2025]]
 
 ## 🚧 Lacunas
-- Quais são as principais estratégias para reduzir o déficit de profissionais de TI no Brasil?
-- Como o mercado de TI pode crescer em regiões menos desenvolvidas economicamente?
-- Quais políticas públicas estão sendo implementadas para incentivar o setor de tecnologia no Brasil?
+- Qual é a real capacidade das instituições de ensino brasileiras em atender à demanda crescente por profissionais de TI?
+- Como a legislação e políticas públicas estão impactando o crescimento do setor de TI no Brasil?
+- Quais são os impactos a longo prazo de uma força de trabalho remota no mercado de TI nacional?
 ```
