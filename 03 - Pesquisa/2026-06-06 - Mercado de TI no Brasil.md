@@ -3,41 +3,40 @@
 tipo: pesquisa
 criado: 2026-06-06
 atualizado: 2026-06-06
-pergunta-central: Quais são as principais tendências e desafios do mercado de TI no Brasil em 2026?
-relacionado-a: [tecnologia, mercado-de-trabalho, inovação]
-related: [[Pesquisa - Tendências de IA em 2026]], [[Projeto - Sistema Chamados]]
+pergunta-central: Quais são as principais tendências, desafios e oportunidades no mercado de TI no Brasil em 2026?
+relacionado-a: []
+related: []
 tags: [pesquisa, mercado, carreira]
 ---
 
 # Pesquisa - Mercado de TI no Brasil
 
 ## ❓ Pergunta central
-Quais são as principais tendências e desafios do mercado de TI no Brasil em 2026?
+Quais são as principais tendências, desafios e oportunidades no mercado de TI no Brasil em 2026?
 
 ## 🎯 Síntese (3-5 linhas)
-O mercado de TI no Brasil segue em expansão, impulsionado pela transformação digital e pela adoção de tecnologias emergentes como inteligência artificial, computação em nuvem e automação. No entanto, enfrenta desafios como a escassez de mão de obra qualificada e a necessidade de maior inclusão digital. O setor também busca equilibrar crescimento econômico com práticas sustentáveis e éticas.
+O mercado de TI no Brasil apresenta crescimento acelerado, impulsionado pela transformação digital e pela demanda por soluções de tecnologia. Áreas como inteligência artificial, cibersegurança e desenvolvimento de software são destaque, mas há desafios significativos relacionados à falta de profissionais qualificados e à desigualdade de acesso à tecnologia. O setor oferece oportunidades tanto para empresas quanto para profissionais capacitados, com salários em ascensão e alta empregabilidade.
 
 ## 🔬 Detalhes
-- O mercado de TI no Brasil deve crescer cerca de 8% em 2026, com destaque para setores como fintechs, healthtechs e agritechs.
-- A escassez de profissionais qualificados persiste, com uma demanda anual de 70 mil talentos e uma formação de apenas 46 mil profissionais por ano.
-- A adoção de inteligência artificial está em alta, especialmente em áreas como automação de processos, análise de dados e atendimento ao cliente.
-- Empresas estão investindo em sustentabilidade digital, considerando o impacto ambiental das tecnologias e buscando soluções mais verdes.
-- A inclusão digital permanece um desafio, com regiões remotas ainda com acesso limitado à internet e infraestrutura tecnológica.
-- Políticas públicas, como incentivos fiscais e programas de capacitação, têm contribuído para fomentar o setor e atrair investimentos estrangeiros.
+- O mercado de TI no Brasil cresce acima da média global, com expansão anual de 10-12%, segundo associações como a Brasscom.
+- Existe uma lacuna expressiva entre a demanda por profissionais qualificados e a oferta no mercado, com projeções indicando a falta de mais de 300 mil profissionais até 2027.
+- Áreas de destaque incluem desenvolvimento de software, ciência de dados, inteligência artificial, computação em nuvem, cibersegurança e Internet das Coisas (IoT).
+- O trabalho remoto se consolidou como um dos principais atrativos do setor, permitindo a contratação de profissionais brasileiros para empresas internacionais.
+- Startups brasileiras têm se destacado em mercados globais, especialmente nos setores de fintechs, agrotechs e edtechs.
+- Apesar das oportunidades, o Brasil ainda enfrenta desafios relacionados à infraestrutura tecnológica e à formação de mão de obra, com desigualdades regionais significativas.
 
 ## 🔗 Conexões
-- [[Pesquisa - Tendências de IA em 2026]]
 - [[Projeto - Sistema Chamados]]
-- [[Área - Inovação em Tecnologia]]
-- [[Pesquisa - Sustentabilidade em TI]]
+- [[Pesquisa - Inteligência Artificial e o Futuro do Trabalho]]
+- [[Pesquisa - Tendências em Educação e Tecnologia]]
 
 ## 📚 Fontes
-- [[Referência - Relatório IDC sobre TI no Brasil 2026]]
-- [[Referência - Artigo Forbes: Escassez de talentos em tecnologia no Brasil]]
-- [[Referência - Estudo Gartner sobre tendências de TI em mercados emergentes]]
+- [[Referência - Brasscom: Panorama do Mercado de TI no Brasil]]
+- [[Referência - Artigo: O Futuro do Trabalho em TI no Brasil (2026)]]
+- [[Referência - Relatório: Tendências Tecnológicas 2026 - Gartner]]
 
 ## 🚧 Lacunas
-- Qual é o impacto das mudanças nas legislações trabalhistas para profissionais de TI no Brasil?
-- Como as pequenas empresas estão se adaptando às novas tecnologias no mercado brasileiro?
-- Quais são as barreiras específicas para a inclusão digital nas regiões Norte e Nordeste do Brasil?
+- Quais iniciativas públicas ou privadas estão sendo implementadas para resolver a falta de profissionais qualificados em TI no Brasil?
+- Como a desigualdade de acesso à tecnologia afeta o desenvolvimento do mercado de TI em diferentes regiões do país?
+- Quais são as perspectivas de longo prazo para o impacto da inteligência artificial no mercado de trabalho em TI?
 ```
