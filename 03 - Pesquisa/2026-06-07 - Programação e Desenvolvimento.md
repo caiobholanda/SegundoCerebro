@@ -3,40 +3,39 @@
 tipo: pesquisa
 criado: 2026-06-07
 atualizado: 2026-06-07
-pergunta-central: Como a programação e o desenvolvimento moldam o futuro das tecnologias e da sociedade?
+pergunta-central: Quais são as principais tendências e boas práticas em programação e desenvolvimento de software em 2026?
 relacionado-a: []
-related: [[Claude API e Anthropic SDK]]
+related: []
 tags: [pesquisa, dev, produtividade]
 ---
 
 # Pesquisa - Programação e Desenvolvimento
 
 ## ❓ Pergunta central
-Como a programação e o desenvolvimento moldam o futuro das tecnologias e da sociedade?
+Quais são as principais tendências e boas práticas em programação e desenvolvimento de software em 2026?
 
 ## 🎯 Síntese (3-5 linhas)
-A programação e o desenvolvimento são pilares da transformação digital, permitindo automação, inovação e o avanço de tecnologias emergentes como IA e blockchain. Hoje, o domínio de linguagens de programação e práticas de desenvolvimento é essencial em quase todos os setores. Além disso, há um movimento crescente para tornar a programação mais acessível, democratizando a tecnologia e permitindo maior inclusão.
+O desenvolvimento de software em 2026 é marcado por uma forte adoção de inteligência artificial, práticas de DevSecOps e crescente uso de linguagens de programação polivalentes. A ênfase na experiência do desenvolvedor (DX) e no design orientado ao usuário está moldando como os softwares são criados. Além disso, a colaboração em tempo real, a automação de tarefas repetitivas e o foco em sustentabilidade digital estão transformando a indústria.
 
 ## 🔬 Detalhes
-- A programação é o processo de criar instruções para que computadores executem tarefas específicas. Isso inclui desde aplicações simples até sistemas complexos como softwares de IA.
-- Linguagens de programação mais populares hoje incluem Python, JavaScript, Java, C#, e Go — cada uma com casos de uso e características específicas.
-- O desenvolvimento ágil e o DevOps são metodologias e práticas que têm revolucionado a forma como softwares são projetados, desenvolvidos e entregues.
-- A programação de baixo código e sem código está democratizando o acesso ao desenvolvimento de software, permitindo que pessoas sem formação técnica criem soluções digitais.
-- O avanço da inteligência artificial e do aprendizado de máquina está redefinindo o papel dos programadores, com foco crescente em treinar modelos e criar algoritmos otimizados.
-- Ética e responsabilidade no desenvolvimento de software estão se tornando temas centrais, especialmente em áreas como IA, privacidade de dados e impacto social.
+- A inteligência artificial está sendo amplamente integrada em ferramentas de desenvolvimento, com assistentes de código como [[Claude API e Anthropic SDK]] e GitHub Copilot.
+- DevSecOps se consolidou como uma prática essencial, integrando segurança diretamente no ciclo de desenvolvimento desde o início.
+- Linguagens como Rust e Python continuam a crescer em popularidade devido à sua eficiência e flexibilidade.
+- A experiência do desenvolvedor (DX) é uma prioridade, com plataformas e ferramentas projetadas para melhorar a produtividade e reduzir a carga cognitiva.
+- O design orientado ao usuário (UCD - User-Centered Design) é central no desenvolvimento de softwares, com foco em acessibilidade e usabilidade.
+- A sustentabilidade digital ganha relevância, com práticas que minimizam o impacto ambiental do desenvolvimento e da execução de softwares.
 
 ## 🔗 Conexões
 - [[Claude API e Anthropic SDK]]
-- [[Pesquisa - Inteligência Artificial e Sociedade]]
-- [[Pesquisa - Metodologias Ágeis em Desenvolvimento]]
+- [[Projeto - Sistema Chamados]]
 
 ## 📚 Fontes
-- [[Referência - Clean Code]]
-- [[Referência - The Pragmatic Programmer]]
-- [[Referência - Artigos sobre DevOps na ThoughtWorks]]
+- [[Referência - State of DevOps Report 2026]]
+- [[Referência - Relatório Anual GitHub 2026]]
+- [[Referência - Livro - Clean Code]]
 
 ## 🚧 Lacunas
-- Quais são as melhores práticas emergentes para lidar com questões éticas no desenvolvimento de software?
-- Como a inteligência artificial pode transformar o próprio processo de programação no futuro próximo?
-- Quais são os impactos sociais e econômicos da democratização do desenvolvimento via ferramentas de baixo código?
+- Quais são os principais desafios éticos no uso de IA para desenvolvimento de software?
+- Como medir o impacto ambiental do desenvolvimento e execução de softwares?
+- Quais ferramentas emergentes podem liderar o mercado de desenvolvimento colaborativo em tempo real?
 ```
