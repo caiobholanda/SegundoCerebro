@@ -3,40 +3,40 @@
 tipo: pesquisa
 criado: 2026-06-08
 atualizado: 2026-06-08
-pergunta-central: Quais são as principais tendências, desafios e oportunidades no mercado de TI no Brasil?
+pergunta-central: Quais são as tendências, desafios e oportunidades do mercado de TI no Brasil em 2026?
 relacionado-a: []
-related: [[Pesquisa - Tecnologia no Brasil]], [[Área - Desenvolvimento de Software]], [[Projeto - Sistema Chamados]]
+related: [[Claude API e Anthropic SDK]]
 tags: [pesquisa, mercado, carreira]
 ---
 
 # Pesquisa - Mercado de TI no Brasil
 
 ## ❓ Pergunta central
-Quais são as principais tendências, desafios e oportunidades no mercado de TI no Brasil?
+Quais são as tendências, desafios e oportunidades do mercado de TI no Brasil em 2026?
 
 ## 🎯 Síntese (3-5 linhas)
-O mercado de TI no Brasil está em constante crescimento, impulsionado pela transformação digital e a alta demanda por profissionais qualificados. Áreas como desenvolvimento de software, segurança cibernética e inteligência artificial se destacam. No entanto, o setor enfrenta desafios como a escassez de mão de obra qualificada e a dependência de importação de tecnologia. Empresas têm investido em capacitação e parcerias para superar esses obstáculos.
+O mercado de TI no Brasil continua em expansão, impulsionado pela transformação digital, adoção de tecnologias emergentes e demanda crescente por profissionais qualificados. Apesar disso, o setor enfrenta desafios como a escassez de talentos, burocracias e infraestrutura tecnológica limitada em algumas regiões. Áreas como inteligência artificial, segurança da informação e computação em nuvem estão entre as mais promissoras.
 
 ## 🔬 Detalhes
-- O setor de TI no Brasil cresceu consideravelmente nos últimos anos, representando cerca de 7% do PIB nacional em 2025.
-- A pandemia de COVID-19 acelerou a transformação digital, aumentando a demanda por soluções tecnológicas e profissionais da área.
-- Desenvolvimento de software, segurança cibernética, computação em nuvem e inteligência artificial estão entre os segmentos mais promissores.
-- A carência de profissionais qualificados é um dos maiores desafios, com um déficit estimado em mais de 400 mil vagas não preenchidas até 2026.
-- O mercado brasileiro ainda depende em grande parte de tecnologias importadas, o que pode limitar a competitividade global.
-- Políticas públicas, como o programa Brasil Mais Digital, buscam fomentar a capacitação e a inclusão digital para mitigar os desafios do setor.
+- O Brasil é o maior mercado de TI da América Latina, representando cerca de 40% do volume de negócios na região.
+- A transformação digital está impulsionando investimentos em inteligência artificial, big data e automação de processos.
+- A demanda por profissionais qualificados em TI cresce a cada ano; no entanto, há um déficit significativo de mão de obra especializada.
+- Startups e empresas de tecnologia têm sido protagonistas na geração de inovação e emprego no setor.
+- O setor enfrenta desafios regulatórios e burocráticos, que podem dificultar a inovação e o empreendedorismo.
+- Áreas como segurança da informação, computação em nuvem e desenvolvimento de software são as mais procuradas por empresas em 2026.
 
 ## 🔗 Conexões
-- [[Pesquisa - Tecnologia no Brasil]]
-- [[Área - Desenvolvimento de Software]]
-- [[Projeto - Sistema Chamados]]
+- [[Claude API e Anthropic SDK]]
+- [[Pesquisa - Uso de IA para automação no Brasil]]
+- [[Área - Carreira em Tecnologia]]
 
 ## 📚 Fontes
-- [[Referência - Panorama do Mercado de TI no Brasil (2025)]]
-- [[Referência - Relatório Setorial de TI - ABES]]
-- [[Referência - Impactos da Transformação Digital no Brasil]]
+- [[Referência - Relatório Mercado TI Brasil 2025]]
+- [[Referência - Panorama Startups Brasil]]
+- [[Referência - Tendências de Tecnologia 2026]]
 
 ## 🚧 Lacunas
-- Quais são os principais fatores que contribuem para a escassez de mão de obra qualificada no Brasil?
-- Como o mercado brasileiro pode reduzir sua dependência de tecnologias importadas?
-- Qual é o impacto da inteligência artificial no mercado de TI brasileiro nos próximos 5 anos?
+- Quais são as principais iniciativas do governo brasileiro para incentivar o setor de TI em 2026?
+- Como a escassez de profissionais está afetando as pequenas empresas de tecnologia no Brasil?
+- Qual é o impacto cultural e social da transformação digital nas regiões menos desenvolvidas do país?
 ```
