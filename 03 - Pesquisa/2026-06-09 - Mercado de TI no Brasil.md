@@ -3,39 +3,39 @@
 tipo: pesquisa
 criado: 2026-06-09
 atualizado: 2026-06-09
-pergunta-central: Quais são as principais tendências, desafios e oportunidades no mercado de TI no Brasil atualmente?
+pergunta-central: Quais são as principais tendências e desafios do mercado de TI no Brasil em 2026?
 relacionado-a: []
-related: [[Pesquisa - Tendências de IA em 2026]], [[Projeto - Sistema Chamados]]
+related: []
 tags: [pesquisa, mercado, carreira]
 ---
 
 # Pesquisa - Mercado de TI no Brasil
 
 ## ❓ Pergunta central
-Quais são as principais tendências, desafios e oportunidades no mercado de TI no Brasil atualmente?
+Quais são as principais tendências e desafios do mercado de TI no Brasil em 2026?
 
 ## 🎯 Síntese (3-5 linhas)
-O mercado de TI no Brasil tem crescido rapidamente, impulsionado pela digitalização de negócios, adoção de tecnologias emergentes e demanda por profissionais qualificados. No entanto, enfrenta desafios como a escassez de mão de obra especializada e a necessidade de investimentos em infraestrutura. Áreas como inteligência artificial, cloud computing e segurança cibernética despontam como oportunidades estratégicas.
+O mercado de TI no Brasil continua em expansão, impulsionado pela transformação digital e pela crescente demanda por profissionais qualificados. As áreas de inteligência artificial, segurança cibernética e desenvolvimento de software lideram o crescimento, mas o país ainda enfrenta desafios como a escassez de talentos, desigualdades regionais e adaptação às rápidas mudanças tecnológicas.
 
 ## 🔬 Detalhes
-- O Brasil é o maior mercado de TI da América Latina, representando cerca de 40% do setor na região.
-- A digitalização pós-pandemia acelerou investimentos em tecnologia, especialmente em setores como varejo, saúde e educação.
-- Há uma crescente demanda por profissionais especializados em áreas como desenvolvimento de software, análise de dados e segurança cibernética.
-- A escassez de mão de obra qualificada é um desafio significativo, com empresas disputando talentos e investindo em programas de capacitação.
-- Tecnologias emergentes como inteligência artificial, blockchain e IoT estão ganhando espaço em projetos corporativos e startups.
-- Pequenas e médias empresas estão adotando soluções de TI, como ERP e CRM, mas enfrentam dificuldades com custos e implementação.
+- O mercado de TI no Brasil movimentou mais de R$ 200 bilhões em 2025, com previsão de crescimento contínuo em 2026.
+- A área de segurança cibernética cresce exponencialmente devido ao aumento de ataques e à necessidade de proteção de dados.
+- Inteligência artificial e aprendizado de máquina são setores em alta, com demanda crescente em empresas de todos os portes.
+- Escassez de talentos qualificados é um desafio significativo; estima-se que mais de 500 mil vagas em TI não foram preenchidas em 2025.
+- Desigualdades regionais persistem, com concentração de oportunidades em grandes centros urbanos como São Paulo e Curitiba.
+- Programas de capacitação e bootcamps têm se tornado estratégias importantes para suprir a demanda por profissionais no setor.
 
 ## 🔗 Conexões
 - [[Claude API e Anthropic SDK]]
-- [[Pesquisa - Tendências de IA em 2026]]
+- [[Projeto - Sistema Chamados]]
 
 ## 📚 Fontes
-- [[Referência - Panorama do mercado de TI no Brasil em 2026]]
-- [[Referência - Relatório Gartner sobre TI na América Latina]]
-- [[Referência - Investimento em tecnologia no Brasil pós-pandemia]]
+- [[Referência - Relatório Anual do Mercado de TI no Brasil 2025]]
+- [[Referência - Livro: A Revolução Digital no Brasil]]
+- [[Referência - Pesquisa sobre Escassez de Talentos em TI]]
 
 ## 🚧 Lacunas
-- Como a política pública pode ajudar a mitigar a escassez de mão de obra no setor de TI no Brasil?
-- Quais são os impactos da regulamentação de tecnologias emergentes no mercado brasileiro?
-- Como startups brasileiras de TI estão se destacando no cenário global?
+- Como as políticas públicas podem ajudar a reduzir as desigualdades regionais no acesso a empregos de TI?
+- Quais são as principais barreiras enfrentadas por pequenas empresas brasileiras para adotar tecnologias emergentes?
+- Quais serão as novas áreas de crescimento no mercado de TI brasileiro até 2030?
 ```
