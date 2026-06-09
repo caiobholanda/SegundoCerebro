@@ -3,43 +3,39 @@
 tipo: pesquisa
 criado: 2026-06-09
 atualizado: 2026-06-09
-pergunta-central: Como estruturar um processo eficiente de deploy e gerenciar infraestrutura na nuvem?
-relacionado-a: [devops, aws, gcp, azure]
-related: [[Projeto - Sistema Chamados]]
-tags: [pesquisa, dev, infra]
+pergunta-central: Como estruturar um deploy eficiente e escalável utilizando infraestrutura cloud?
+relacionado-a: []
+related: []
+tags: ["pesquisa", "dev", "infra"]
 ---
 
 # Pesquisa - Deploy e Infraestrutura Cloud
 
 ## ❓ Pergunta central
-Como estruturar um processo eficiente de deploy e gerenciar infraestrutura na nuvem?
+Como estruturar um deploy eficiente e escalável utilizando infraestrutura cloud?
 
 ## 🎯 Síntese (3-5 linhas)
-Deploy e infraestrutura cloud são fundamentais para escalar aplicações modernas. O processo de deploy automatizado, combinado com práticas de DevOps, e o uso de provedores como AWS, GCP ou Azure, permite maior agilidade, confiabilidade e segurança. A escolha de ferramentas e abordagens como CI/CD, containers e infraestrutura como código (IaC) são cruciais para o sucesso.
+Deploy e infraestrutura cloud permitem maior flexibilidade, escalabilidade e resiliência para aplicações modernas. O uso de ferramentas como Docker, Kubernetes, e serviços de provedores como AWS, GCP e Azure simplifica a implementação e o gerenciamento de aplicações em produção. Boas práticas incluem automação, monitoramento contínuo e adoção de estratégias como CI/CD e infraestrutura como código (IaC). 
 
 ## 🔬 Detalhes
-- **Deploy** refere-se ao processo de disponibilizar uma aplicação em produção, garantindo que ela funcione adequadamente no ambiente final.
-- **Infraestrutura cloud** utiliza serviços de provedores como AWS, GCP, Azure, entre outros, para hospedar, gerenciar e escalar aplicações e dados.
-- **Containers** (como Docker) permitem empacotar aplicações e dependências em um ambiente isolado, facilitando a portabilidade e replicação.
-- **Orquestração de containers** (como Kubernetes) ajuda a gerenciar múltiplos containers, escalá-los automaticamente e garantir a alta disponibilidade.
-- **CI/CD** (Continuous Integration/Continuous Deployment) é uma prática essencial para automatizar testes e deploys, reduzindo erros e tempo de entrega.
-- **Infraestrutura como Código (IaC)**, com ferramentas como Terraform ou AWS CloudFormation, permite gerenciar recursos de forma programática, garantindo consistência e facilidade de manutenção.
-- **Monitoramento e logs** são indispensáveis para garantir a saúde e o desempenho da aplicação e infraestrutura, com ferramentas como Prometheus, Grafana e ELK Stack.
-- **Custo e escalabilidade** são fatores-chave ao projetar a infraestrutura cloud, exigindo planejamento adequado para otimizar gastos e suportar picos de tráfego.
+- **Conceito de deploy**: Processo de disponibilizar uma aplicação para uso em um ambiente de produção, podendo incluir etapas como build, teste, entrega e lançamento.
+- **Infraestrutura como Código (IaC)**: Utilização de ferramentas como Terraform e AWS CloudFormation para gerenciar infraestrutura de forma declarativa, garantindo consistência e automação.
+- **Containers e Orquestração**: Ferramentas como Docker e Kubernetes são amplamente usadas para empacotar, distribuir e gerenciar aplicações em escala.
+- **Provedores de Cloud**: AWS, Google Cloud Platform (GCP) e Microsoft Azure oferecem serviços diversificados, como computação, armazenamento, banco de dados e redes.
+- **CI/CD**: Integração e entrega contínuas são fundamentais para reduzir o tempo de lançamento e aumentar a confiabilidade do código. Ferramentas populares incluem Jenkins, GitHub Actions e CircleCI.
+- **Monitoramento e Observabilidade**: Soluções como Prometheus, Grafana, e serviços nativos dos provedores de cloud (ex.: AWS CloudWatch) ajudam a identificar problemas e garantir a estabilidade das aplicações.
 
 ## 🔗 Conexões
+- [[Claude API e Anthropic SDK]]
 - [[Projeto - Sistema Chamados]]
-- [[Referência - Docker e Kubernetes]]
-- [[Referência - Terraform para iniciantes]]
-- [[Referência - Fundamentos AWS]]
 
 ## 📚 Fontes
-- [[Referência - Livro "Site Reliability Engineering"]]
-- [[Referência - Artigo sobre CI/CD no Medium]]
-- [[Referência - Documentação oficial da AWS]]
+- [[Referência - Livro Infrastructure as Code (Kief Morris)]]
+- [[Referência - AWS Well-Architected Framework]]
+- [[Referência - Kubernetes Documentation]]
 
 ## 🚧 Lacunas
-- Quais são os critérios mais eficazes para escolher entre provedores de cloud (AWS, GCP, Azure)?
-- Quais são as práticas recomendadas para gerenciar custos em ambientes híbridos (on-premises e cloud)?
-- Como garantir segurança em pipelines de CI/CD e na infraestrutura como código?
+- Quais são as melhores práticas para otimizar custos em infraestrutura cloud?
+- Como escolher entre diferentes provedores de cloud para necessidades específicas?
+- Quais são os desafios mais comuns ao implementar Kubernetes em produção?
 ```
