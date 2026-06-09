@@ -3,7 +3,7 @@
 tipo: pesquisa
 criado: 2026-06-09
 atualizado: 2026-06-09
-pergunta-central: Qual o impacto das práticas modernas de programação no desenvolvimento de software eficiente e sustentável?
+pergunta-central: Qual é o estado atual das melhores práticas e ferramentas em Programação e Desenvolvimento?
 relacionado-a: []
 related: []
 tags: [pesquisa, dev, produtividade]
@@ -12,30 +12,31 @@ tags: [pesquisa, dev, produtividade]
 # Pesquisa - Programação e Desenvolvimento
 
 ## ❓ Pergunta central
-Qual o impacto das práticas modernas de programação no desenvolvimento de software eficiente e sustentável?
+Qual é o estado atual das melhores práticas e ferramentas em Programação e Desenvolvimento?
 
 ## 🎯 Síntese (3-5 linhas)
-Práticas modernas de programação, como o uso de metodologias ágeis, DevOps e linguagens de alto nível, têm transformado o desenvolvimento de software em um processo mais iterativo e colaborativo. A crescente ênfase em código limpo, testes automatizados e integração contínua melhora a produtividade e reduz erros, enquanto frameworks e bibliotecas otimizadas permitem maior foco na resolução de problemas reais. No entanto, a complexidade crescente de sistemas e a sustentabilidade a longo prazo ainda são desafios significativos.
+Programação e desenvolvimento continuam sendo pilares do avanço tecnológico, com práticas ágeis e ferramentas modernas moldando a eficiência das equipes. O uso de metodologias como DevOps, integração contínua e desenvolvimento colaborativo com Git são fundamentais. Além disso, a programação está se diversificando com o avanço da inteligência artificial, frameworks low-code/no-code e a popularização de linguagens como Python, JavaScript e Rust.
 
 ## 🔬 Detalhes
-- Metodologias ágeis, como Scrum e Kanban, permitem ciclos de desenvolvimento mais curtos e adaptáveis, aumentando a colaboração entre equipes.
-- DevOps integra desenvolvimento e operações, promovendo automação e entrega contínua para reduzir o tempo de deploy e aumentar a qualidade.
-- Linguagens como Python e Rust destacam-se por sua facilidade de uso e performance, respectivamente, equilibrando produtividade e eficiência.
-- A prática de escrever código limpo e reutilizável reduz a dívida técnica e facilita a manutenção de longo prazo.
-- Ferramentas de testes automatizados (ex.: Jest, Selenium) e integração contínua (ex.: Jenkins, GitHub Actions) minimizam erros ao longo do ciclo de vida do software.
-- O crescente uso de inteligência artificial, como modelos generativos de código (ex.: Copilot), está acelerando o desenvolvimento, mas exige atenção ética e técnica.
+- **Metodologias ágeis**: Scrum, Kanban e Extreme Programming (XP) são amplamente utilizadas para acelerar o ciclo de desenvolvimento.
+- **DevOps**: Integração de desenvolvimento e operações, com foco em automação e entrega contínua (CI/CD).
+- **Linguagens de programação**: Python lidera em ciência de dados e IA, enquanto JavaScript domina o front-end e frameworks como React e Vue.js.
+- **Low-code/No-code**: Ferramentas como Bubble e Webflow permitem prototipagem e desenvolvimento rápido para não programadores.
+- **Segurança no desenvolvimento**: Práticas de DevSecOps e ferramentas como Snyk e OWASP ZAP ajudam a proteger aplicações.
+- **Colaboração e versionamento**: Plataformas como GitHub e GitLab são essenciais para equipes distribuídas e projetos open-source.
 
 ## 🔗 Conexões
 - [[Claude API e Anthropic SDK]]
-- [[Projeto - Sistema Chamados]]
+- [[Pesquisa - DevOps e cultura ágil]]
+- [[Referência - Clean Code (Robert C. Martin)]]
 
 ## 📚 Fontes
-- [[Referência - Clean Code (Robert C. Martin)]]
-- [[Referência - The Phoenix Project (Gene Kim)]]
-- [[Referência - DevOps Handbook (Gene Kim, Patrick Debois, John Willis, Jez Humble)]]
+- [[Referência - Clean Architecture (Robert C. Martin)]]
+- [[Referência - The DevOps Handbook (Gene Kim, Patrick Debois)]]
+- [[Referência - JavaScript: The Good Parts (Douglas Crockford)]]
 
 ## 🚧 Lacunas
-- Como medir efetivamente a sustentabilidade do desenvolvimento de software no longo prazo?
-- Quais serão os impactos a longo prazo do uso de IA generativa no processo de desenvolvimento?
-- Como equilibrar inovação tecnológica com a manutenção de sistemas legados em grandes empresas?
+- Quais são as tendências emergentes em linguagens de programação para 2026 e além?
+- Como as ferramentas low-code/no-code podem impactar o papel tradicional dos desenvolvedores?
+- Qual é o impacto do avanço da IA no trabalho cotidiano dos programadores?
 ```
