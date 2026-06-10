@@ -3,39 +3,42 @@
 tipo: pesquisa
 criado: 2026-06-10
 atualizado: 2026-06-10
-pergunta-central: Quais são as melhores práticas para realizar deploys em infraestrutura cloud de forma segura, eficiente e escalável?
+pergunta-central: Quais são as melhores práticas e ferramentas para realizar deploy eficiente e gerenciar infraestrutura cloud de forma escalável?
 relacionado-a: []
-related: [[Projeto - Sistema Chamados]]
+related: []
 tags: [pesquisa, dev, infra]
 ---
 
 # Pesquisa - Deploy e Infraestrutura Cloud
 
 ## ❓ Pergunta central
-Quais são as melhores práticas para realizar deploys em infraestrutura cloud de forma segura, eficiente e escalável?
+Quais são as melhores práticas e ferramentas para realizar deploy eficiente e gerenciar infraestrutura cloud de forma escalável?
 
 ## 🎯 Síntese (3-5 linhas)
-O deploy em infraestrutura cloud requer estratégias que garantam automação, escalabilidade e segurança. Utilizar pipelines CI/CD, configurar corretamente os serviços gerenciados e adotar boas práticas de segurança, como controle de acesso e monitoramento contínuo, são elementos essenciais. Além disso, a escolha da plataforma cloud e o entendimento de suas funcionalidades específicas impactam diretamente nos resultados.
+A implementação de deploys eficientes e a gestão de infraestrutura na nuvem exigem o uso de ferramentas modernas como Terraform, Kubernetes e Docker, além de práticas como CI/CD e monitoramento contínuo. Automação, escalabilidade e segurança são pilares essenciais. A integração de pipelines ágeis e a adoção de arquiteturas como microserviços otimizam a performance e reduzem custos operacionais.
 
 ## 🔬 Detalhes
-- A automação com pipelines CI/CD (Continuous Integration/Continuous Deployment) reduz erros manuais e acelera o tempo de entrega de novas versões de software.
-- O uso de infraestrutura como código (IaC) com ferramentas como Terraform e AWS CloudFormation permite gerenciar recursos na nuvem de forma declarativa, garantindo rastreabilidade e consistência.
-- A escolha entre diferentes abordagens de deploy (rolling updates, blue/green deployments, canary releases) deve considerar o impacto na experiência do usuário e a criticidade da aplicação.
-- Monitoramento contínuo (com ferramentas como Prometheus, Grafana ou New Relic) é essencial para garantir a saúde da aplicação após o deploy.
-- A configuração de estratégias de escalabilidade automática (auto-scaling) ajuda a lidar com flutuações no tráfego sem intervenção manual.
-- Boas práticas de segurança incluem o uso de IAM (Identity and Access Management), criptografia de dados em trânsito e em repouso, e a implementação de políticas de rede seguras.
+- O **Deploy** é o processo de disponibilizar uma aplicação ou serviço em um ambiente de produção ou teste, garantindo que esteja funcional e acessível.
+- Ferramentas como **Docker** e **Kubernetes** são amplamente utilizadas para criar, gerenciar e orquestrar contêineres, proporcionando portabilidade e escalabilidade.
+- O uso do **Terraform** permite a **Infraestrutura como Código (IaC)**, simplificando a criação e gerenciamento de recursos de infraestrutura na nuvem.
+- **Continuous Integration/Continuous Deployment (CI/CD)** automatiza o pipeline de desenvolvimento, reduzindo erros manuais e acelerando entregas.
+- Monitoramento contínuo com ferramentas como **Prometheus**, **Grafana** e **Datadog** é essencial para identificar falhas e otimizar a performance.
+- Arquiteturas de **microserviços** permitem que aplicações sejam divididas em serviços menores e independentes, facilitando atualizações e escalabilidade.
+- A escolha do provedor de nuvem (AWS, Azure, GCP, etc.) deve considerar custo, disponibilidade de serviços e compatibilidade com necessidades específicas.
+- Aspectos de segurança, como gerenciamento de identidade e acesso (IAM), criptografia em trânsito e em repouso, e backups automáticos, são cruciais em ambientes cloud.
 
 ## 🔗 Conexões
 - [[Claude API e Anthropic SDK]]
-- [[Pesquisa - Kubernetes e Orquestração de Containers]]
+- [[Pesquisa - Práticas DevOps]]
+- [[Projeto - Sistema Chamados]]
 
 ## 📚 Fontes
-- [[Referência - Site Reliability Engineering (SRE) do Google]]
-- [[Referência - Terraform: Guia oficial]]
-- [[Referência - AWS Well-Architected Framework]]
+- [[Referência - Terraform Documentation]]
+- [[Referência - Docker e Kubernetes]]
+- [[Referência - CI/CD com GitHub Actions]]
 
 ## 🚧 Lacunas
-- Quais métricas específicas devem ser priorizadas no monitoramento de aplicações em diferentes plataformas cloud?
-- Quais são os principais desafios para implementar pipelines CI/CD em equipes com pouca experiência?
-- Como otimizar custos em estratégias de auto-scaling enquanto se mantém o desempenho ideal?
+- Quais são os critérios para escolher o provedor de cloud mais adequado para diferentes tipos de projetos?
+- Como otimizar custos em serviços de infraestrutura cloud sem comprometer a performance?
+- Quais são as tendências emergentes em automação e orquestração de deploys na nuvem?
 ```
