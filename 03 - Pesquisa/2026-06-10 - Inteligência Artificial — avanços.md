@@ -1,39 +1,42 @@
+```markdown
 ---
 tipo: pesquisa
 criado: 2026-06-10
 atualizado: 2026-06-10
-pergunta-central: Quais são os avanços mais significativos em inteligência artificial e como eles estão moldando o futuro?
+pergunta-central: Quais são os avanços mais significativos em Inteligência Artificial na última década e quais impactos eles geraram?
 relacionado-a: []
-related: [[Claude API e Anthropic SDK]], [[Pesquisa - Ética na IA]]
+related: [[Claude API e Anthropic SDK]]
 tags: [pesquisa, ia]
 ---
 
 # Pesquisa - Inteligência Artificial — avanços
 
 ## ❓ Pergunta central
-Quais são os avanços mais significativos em inteligência artificial e como eles estão moldando o futuro?
+Quais são os avanços mais significativos em Inteligência Artificial na última década e quais impactos eles geraram?
 
 ## 🎯 Síntese (3-5 linhas)
-A inteligência artificial tem avançado rapidamente, com destaque para modelos de linguagem generativa, como GPT e Claude, e sua aplicação em diversas áreas, como saúde, educação e indústria. Técnicas de aprendizado profundo e redes neurais têm permitido avanços em reconhecimento de imagem, voz e na automação de processos complexos. No entanto, questões éticas e desafios relacionados à regulamentação permanecem em destaque.
+Os avanços em Inteligência Artificial nos últimos anos incluem melhorias em modelos de linguagem, como GPT e Claude, aplicabilidade em saúde, automação industrial e criatividade. O aprendizado profundo e o uso de redes neurais transformaram setores inteiros. A IA está cada vez mais integrada a decisões empresariais e diárias, com desafios éticos e regulatórios em evidência.
 
 ## 🔬 Detalhes
-- Modelos de linguagem como GPT e Claude estão revolucionando a interação humano-máquina, permitindo conversas mais naturais e aplicações como assistência virtual, criação de conteúdo e suporte técnico.
-- O aprendizado profundo (deep learning) continua a ser a base para avanços em visão computacional, tradução automática e síntese de voz.
-- A IA está sendo aplicada na medicina, auxiliando no diagnóstico de doenças, na análise de imagens médicas e no desenvolvimento de novos medicamentos.
-- Sistemas autônomos, como veículos autônomos e drones, têm se beneficiado de IA para tomada de decisão em tempo real.
-- Modelos de IA estão sendo usados para otimizar processos industriais, como manutenção preditiva e gerenciamento de cadeias de suprimentos.
-- Discussões sobre ética e regulamentação de IA têm se intensificado, com foco em transparência, viés algorítmico e impacto no mercado de trabalho.
+- Modelos de linguagem como GPT-4 e Claude redefiniram a interação humano-máquina, sendo capazes de gerar conteúdo, programar e responder questões complexas.
+- Avanços em visão computacional permitiram diagnósticos médicos mais precisos, como detecção precoce de doenças por imagens.
+- IA generativa está impulsionando a criatividade em design, arte e escrita, com ferramentas que automatizam e amplificam processos criativos.
+- Veículos autônomos estão se tornando mais viáveis, com algoritmos de IA aprimorando segurança e eficiência.
+- Aprendizado por reforço tem sido usado em robótica, permitindo sistemas que aprendem com experiência.
+- Questões éticas sobre viés algorítmico, privacidade e impacto no emprego estão moldando regulações futuras.
 
 ## 🔗 Conexões
 - [[Claude API e Anthropic SDK]]
-- [[Pesquisa - Ética na IA]]
+- [[Referência - História da IA]]
+- [[Área - Ética em tecnologia]]
 
 ## 📚 Fontes
-- [[Referência - OpenAI e o impacto da IA generativa]]
-- [[Referência - Aplicações de IA na saúde]]
-- [[Referência - Ética e regulamentação de IA]]
+- [[Referência - GPT-4 e aplicações]]
+- [[Referência - IA na saúde]]
+- [[Referência - Ética em IA]]
 
 ## 🚧 Lacunas
-- Como garantir a transparência e a explicabilidade dos modelos de IA mais avançados?
-- Quais são os impactos de longo prazo da automação por IA no mercado de trabalho global?
-- Como diferentes países estão abordando a regulamentação do uso e desenvolvimento de IA?
+- Como podemos mitigar vieses em IA de maneira eficaz sem comprometer desempenho?
+- Quais são os limites atuais das redes neurais e como superá-los?
+- Como avanços futuros podem impactar setores ainda não explorados, como educação básica?
+```

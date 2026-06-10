@@ -2,37 +2,37 @@
 tipo: pesquisa
 criado: 2026-06-10
 atualizado: 2026-06-10
-pergunta-central: Qual é o panorama atual do mercado de TI no Brasil e suas projeções para o futuro?
+pergunta-central: Quais são as principais tendências, desafios e oportunidades no mercado de TI no Brasil atualmente?
 relacionado-a: []
 related: []
-tags: ["pesquisa", "mercado", "carreira"]
+tags: [pesquisa, mercado, carreira]
 ---
 
 # Pesquisa - Mercado de TI no Brasil
 
 ## ❓ Pergunta central
-Qual é o panorama atual do mercado de TI no Brasil e suas projeções para o futuro?
+Quais são as principais tendências, desafios e oportunidades no mercado de TI no Brasil atualmente?
 
 ## 🎯 Síntese (3-5 linhas)
-O mercado de TI no Brasil está em expansão, impulsionado pela transformação digital e pela demanda crescente por serviços de tecnologia. Há escassez de mão de obra qualificada, o que torna a área atrativa para profissionais em busca de boas oportunidades. Apesar disso, desafios como desigualdade regional e gaps educacionais ainda limitam o potencial do setor.
+O mercado de TI no Brasil está em crescimento contínuo, impulsionado pela transformação digital e pela demanda por soluções tecnológicas em diversos setores. Apesar disso, enfrenta desafios como escassez de talentos qualificados e burocracia nas contratações. Áreas como segurança cibernética, inteligência artificial e cloud computing apresentam oportunidades promissoras.
 
 ## 🔬 Detalhes
-- O mercado de TI brasileiro cresceu consistentemente nos últimos anos, com destaque para áreas como computação em nuvem, segurança cibernética e inteligência artificial.
-- Empresas de diversos setores estão investindo em transformação digital, aumentando a demanda por desenvolvedores, analistas de dados e engenheiros de software.
-- Há uma lacuna significativa entre a oferta e a demanda de profissionais qualificados, com estimativas indicando que milhares de vagas permanecem abertas por falta de candidatos.
-- As cidades de São Paulo, Belo Horizonte e Florianópolis são alguns dos principais polos de tecnologia no Brasil, concentrando startups e grandes empresas.
-- Programas de capacitação intensiva, como bootcamps, têm ganhado força para suprir a demanda por profissionais em curto prazo.
-- Desafios incluem a desigualdade de acesso à tecnologia e educação em regiões mais afastadas dos grandes centros urbanos, o que limita a formação de novos talentos.
+- O Brasil é o maior mercado de TI da América Latina, representando cerca de 40% do total regional.
+- A transformação digital em empresas de diversos setores, como saúde, finanças e varejo, está acelerando a demanda por profissionais de TI.
+- Há uma escassez de profissionais qualificados, especialmente em áreas como desenvolvimento de software, inteligência artificial e análise de dados.
+- Segurança cibernética tornou-se uma prioridade devido ao aumento de ataques e vazamentos de dados na região.
+- Startups e empresas de tecnologia estão liderando a inovação, mas enfrentam barreiras regulatórias e tributárias.
+- Cloud computing e serviços de infraestrutura digital estão em alta, com grande adesão por pequenas e médias empresas.
 
 ## 🔗 Conexões
-- [[Projeto - Sistema Chamados]]
-- [[Pesquisa - Educação tecnológica no Brasil]]
+- [[Claude API e Anthropic SDK]]
+- [[Pesquisa - Inteligência Artificial no Brasil]]
 
 ## 📚 Fontes
-- [[Referência - Panorama do mercado de TI no Brasil (2025)]]
-- [[Referência - Relatório sobre transformação digital (2025)]]
+- [[Referência - Panorama do mercado de TI no Brasil 2026]]
+- [[Referência - Relatório Gartner sobre tendências tecnológicas]]
 
 ## 🚧 Lacunas
-- Quais políticas públicas podem ser implementadas para reduzir a desigualdade regional no setor de TI?
-- Como o Brasil pode se posicionar como líder global em áreas emergentes como inteligência artificial?
-- Qual o impacto de iniciativas privadas, como bootcamps, na redução do gap de mão de obra qualificada?
+- Quais políticas públicas estão sendo implementadas para mitigar a escassez de talentos no setor de TI?
+- Como o mercado de TI no Brasil se compara com outros países emergentes em termos de inovação e competitividade?
+- Quais são os impactos da nova legislação de proteção de dados (LGPD) na operação das empresas de TI?
