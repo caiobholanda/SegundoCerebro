@@ -2,38 +2,40 @@
 tipo: pesquisa
 criado: 2026-06-10
 atualizado: 2026-06-10
-pergunta-central: Como as melhores práticas de programação podem acelerar o desenvolvimento de software de alta qualidade?
+pergunta-central: Quais são as tendências e melhores práticas atuais em programação e desenvolvimento de software?
 relacionado-a: []
-related: [[Claude API e Anthropic SDK]]
+related: []
 tags: [pesquisa, dev, produtividade]
 ---
 
 # Pesquisa - Programação e Desenvolvimento
 
 ## ❓ Pergunta central
-Como as melhores práticas de programação podem acelerar o desenvolvimento de software de alta qualidade?
+Quais são as tendências e melhores práticas atuais em programação e desenvolvimento de software?
 
 ## 🎯 Síntese (3-5 linhas)
-Programação e desenvolvimento são fundamentais para criar soluções tecnológicas que atendam a necessidades humanas e organizacionais. Adotar as melhores práticas, como metodologias ágeis, controle de versão e princípios de design limpo, melhora a produtividade e a qualidade do software. Além disso, a crescente importância da colaboração entre equipes e o uso de ferramentas modernas estão transformando a forma como o software é desenvolvido.
+A programação e o desenvolvimento de software têm evoluído rapidamente com a introdução de novas tecnologias, práticas ágeis e ferramentas de automação. Métodos como DevOps, programação funcional e desenvolvimento baseado em testes têm se tornado padrão. Além disso, linguagens como Python, JavaScript e Rust continuam a dominar, enquanto frameworks como React, Django e Next.js lideram o mercado. A integração de IA no desenvolvimento está transformando a forma como os softwares são criados, otimizando processos e reduzindo erros.
 
 ## 🔬 Detalhes
-- **Metodologias ágeis** (como Scrum e Kanban) promovem ciclos de desenvolvimento iterativos, entrega contínua e adaptação às mudanças.
-- **Princípios de design limpo** (Clean Code) enfatizam legibilidade, simplicidade e manutenção do código.
-- **Controle de versão** com ferramentas como Git permite colaboração eficiente entre equipes e rastreamento de alterações no código.
-- **Automação de testes** reduz bugs e aumenta a confiança no código, facilitando a entrega contínua.
-- **DevOps** integra desenvolvimento e operações, acelerando o ciclo de vida do software e melhorando a confiabilidade.
-- **Inteligência artificial** está sendo integrada ao desenvolvimento, com assistentes de código como GitHub Copilot e Claude API para aumentar a produtividade dos programadores.
+- **DevOps e CI/CD**: A integração contínua e entrega contínua (CI/CD) são práticas fundamentais para entregar software rapidamente com maior qualidade e menos erros.
+- **Programação funcional**: Conceitos como imutabilidade, funções puras e composição estão ganhando destaque, influenciando até linguagens imperativas.
+- **Linguagens emergentes**: Linguagens como Rust e Go estão sendo amplamente adotadas devido à sua eficiência e segurança.
+- **Frameworks populares**: React, Angular e Vue.js dominam o mercado de front-end, enquanto Django, Flask e FastAPI são populares no back-end.
+- **IA no desenvolvimento**: Ferramentas como GitHub Copilot e ChatGPT estão sendo usadas para acelerar a codificação e otimizar processos.
+- **Metodologias ágeis**: Scrum, Kanban e SAFe continuam sendo amplamente utilizados para gerenciar equipes e projetos de software.
+- **Segurança no desenvolvimento**: O conceito de DevSecOps reforça a integração de práticas de segurança desde o início do ciclo de desenvolvimento.
 
 ## 🔗 Conexões
 - [[Claude API e Anthropic SDK]]
+- [[Pesquisa - DevOps e Metodologias Ágeis]]
 - [[Projeto - Sistema Chamados]]
 
 ## 📚 Fontes
-- [[Referência - Clean Code de Robert C. Martin]]
-- [[Referência - The Phoenix Project de Gene Kim]]
-- [[Referência - DevOps Handbook de Patrick Debois]]
+- [[Referência - Clean Code por Robert C. Martin]]
+- [[Referência - The Pragmatic Programmer]]
+- [[Referência - Artigo sobre DevOps da Atlassian]]
 
 ## 🚧 Lacunas
-- Qual é o impacto real da adoção de IA no desenvolvimento de software em termos de produtividade e qualidade?
-- Como as metodologias ágeis podem ser adaptadas para equipes distribuídas globalmente?
-- Que novas práticas podem surgir com a evolução do desenvolvimento de software em ambientes de IA?
+- Como as aplicações de IA podem ser ampliadas para suportar todo o ciclo de vida do desenvolvimento de software?
+- Quais são as melhores práticas para integrar segurança em projetos usando metodologias ágeis?
+- Como as linguagens emergentes como Rust e Go estão transformando o mercado em comparação com linguagens mais tradicionais como Java e C++?
