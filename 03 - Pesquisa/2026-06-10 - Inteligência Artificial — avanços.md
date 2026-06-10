@@ -3,40 +3,40 @@
 tipo: pesquisa
 criado: 2026-06-10
 atualizado: 2026-06-10
-pergunta-central: Quais são os avanços mais significativos em Inteligência Artificial na última década e quais impactos eles geraram?
+pergunta-central: Quais são os principais avanços recentes em Inteligência Artificial e como estão moldando diferentes áreas da sociedade?
 relacionado-a: []
-related: [[Claude API e Anthropic SDK]]
+related: [[Claude API e Anthropic SDK]], [[Pesquisa - Ética na IA]]
 tags: [pesquisa, ia]
 ---
 
 # Pesquisa - Inteligência Artificial — avanços
 
 ## ❓ Pergunta central
-Quais são os avanços mais significativos em Inteligência Artificial na última década e quais impactos eles geraram?
+Quais são os principais avanços recentes em Inteligência Artificial e como estão moldando diferentes áreas da sociedade?
 
 ## 🎯 Síntese (3-5 linhas)
-Os avanços em Inteligência Artificial nos últimos anos incluem melhorias em modelos de linguagem, como GPT e Claude, aplicabilidade em saúde, automação industrial e criatividade. O aprendizado profundo e o uso de redes neurais transformaram setores inteiros. A IA está cada vez mais integrada a decisões empresariais e diárias, com desafios éticos e regulatórios em evidência.
+Os avanços em IA estão transformando setores como saúde, educação, transporte e entretenimento, com modelos generativos, como os LLMs (Large Language Models), liderando essa revolução. Além disso, novas técnicas de aprendizado por reforço e aplicações em robótica estão ampliando o impacto da IA. No entanto, questões éticas e de regulamentação continuam sendo desafios fundamentais.
 
 ## 🔬 Detalhes
-- Modelos de linguagem como GPT-4 e Claude redefiniram a interação humano-máquina, sendo capazes de gerar conteúdo, programar e responder questões complexas.
-- Avanços em visão computacional permitiram diagnósticos médicos mais precisos, como detecção precoce de doenças por imagens.
-- IA generativa está impulsionando a criatividade em design, arte e escrita, com ferramentas que automatizam e amplificam processos criativos.
-- Veículos autônomos estão se tornando mais viáveis, com algoritmos de IA aprimorando segurança e eficiência.
-- Aprendizado por reforço tem sido usado em robótica, permitindo sistemas que aprendem com experiência.
-- Questões éticas sobre viés algorítmico, privacidade e impacto no emprego estão moldando regulações futuras.
+- Modelos de linguagem como GPT e Claude estão redefinindo a interação humano-computador, facilitando tarefas complexas e criativas.
+- Técnicas de aprendizado por reforço profundo têm permitido avanços significativos na robótica, como controle de movimento e tomada de decisão autônoma.
+- Aplicações em saúde incluem diagnósticos assistidos por IA, desenvolvimento de medicamentos e análise preditiva de doenças.
+- IA generativa está sendo usada na criação de arte, música, e design, gerando debates sobre originalidade e direitos autorais.
+- Veículos autônomos estão se tornando mais seguros graças ao uso de sistemas de visão computacional e aprendizado de máquina.
+- Plataformas educacionais estão utilizando IA para personalizar o ensino, adaptando-se ao ritmo e estilo de aprendizado de cada estudante.
 
 ## 🔗 Conexões
 - [[Claude API e Anthropic SDK]]
-- [[Referência - História da IA]]
-- [[Área - Ética em tecnologia]]
+- [[Pesquisa - Ética na IA]]
+- [[Área - Tecnologia e Inovação]]
 
 ## 📚 Fontes
-- [[Referência - GPT-4 e aplicações]]
-- [[Referência - IA na saúde]]
-- [[Referência - Ética em IA]]
+- [[Referência - OpenAI GPT-4 e suas aplicações]]
+- [[Referência - DeepMind e aprendizado por reforço]]
+- [[Referência - Impactos da IA na saúde]]
 
 ## 🚧 Lacunas
-- Como podemos mitigar vieses em IA de maneira eficaz sem comprometer desempenho?
-- Quais são os limites atuais das redes neurais e como superá-los?
-- Como avanços futuros podem impactar setores ainda não explorados, como educação básica?
+- Como a IA pode ser regulada de forma eficaz sem limitar sua inovação?
+- Quais são os impactos ecológicos da expansão da infraestrutura de IA?
+- Como garantir a diversidade e a inclusão nos dados usados para treinar modelos de IA?
 ```

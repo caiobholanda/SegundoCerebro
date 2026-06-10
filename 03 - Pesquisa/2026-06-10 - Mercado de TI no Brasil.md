@@ -1,38 +1,40 @@
+```markdown
 ---
 tipo: pesquisa
 criado: 2026-06-10
 atualizado: 2026-06-10
-pergunta-central: Quais são as principais tendências, desafios e oportunidades no mercado de TI no Brasil atualmente?
+pergunta-central: Quais são os principais desafios e oportunidades para o mercado de TI no Brasil atualmente?
 relacionado-a: []
-related: []
+related: [[Projeto - Sistema Chamados]]
 tags: [pesquisa, mercado, carreira]
 ---
 
 # Pesquisa - Mercado de TI no Brasil
 
 ## ❓ Pergunta central
-Quais são as principais tendências, desafios e oportunidades no mercado de TI no Brasil atualmente?
+Quais são os principais desafios e oportunidades para o mercado de TI no Brasil atualmente?
 
 ## 🎯 Síntese (3-5 linhas)
-O mercado de TI no Brasil está em crescimento contínuo, impulsionado pela transformação digital e pela demanda por soluções tecnológicas em diversos setores. Apesar disso, enfrenta desafios como escassez de talentos qualificados e burocracia nas contratações. Áreas como segurança cibernética, inteligência artificial e cloud computing apresentam oportunidades promissoras.
+O mercado de TI no Brasil cresce rapidamente impulsionado pela transformação digital, mas enfrenta desafios como escassez de profissionais qualificados e desigualdades regionais. Áreas como cloud computing, cibersegurança e inteligência artificial lideram as demandas. Empresas buscam parcerias globais e estratégias educacionais para atender ao aumento na demanda por inovação tecnológica.
 
 ## 🔬 Detalhes
-- O Brasil é o maior mercado de TI da América Latina, representando cerca de 40% do total regional.
-- A transformação digital em empresas de diversos setores, como saúde, finanças e varejo, está acelerando a demanda por profissionais de TI.
-- Há uma escassez de profissionais qualificados, especialmente em áreas como desenvolvimento de software, inteligência artificial e análise de dados.
-- Segurança cibernética tornou-se uma prioridade devido ao aumento de ataques e vazamentos de dados na região.
-- Startups e empresas de tecnologia estão liderando a inovação, mas enfrentam barreiras regulatórias e tributárias.
-- Cloud computing e serviços de infraestrutura digital estão em alta, com grande adesão por pequenas e médias empresas.
+- O mercado de TI no Brasil deve crescer a uma taxa anual composta (CAGR) de aproximadamente 10% até 2030, segundo projeções recentes.
+- A pandemia acelerou a adoção de soluções digitais, aumentando a demanda por profissionais especializados em áreas como desenvolvimento de software, análise de dados e cibersegurança.
+- Há uma escassez significativa de profissionais qualificados, com estimativas de mais de 400 mil vagas abertas na área até 2025.
+- Regiões como Sudeste e Sul concentram a maior parte das empresas e oportunidades, enquanto outras regiões enfrentam desafios de infraestrutura tecnológica.
+- O Brasil tem uma posição estratégica para serviços de outsourcing, com empresas internacionais buscando talentos locais devido ao custo-benefício e qualidade técnica.
+- Investimentos em capacitação, bootcamps e parcerias entre empresas e universidades têm sido estratégias para mitigar a falta de mão de obra especializada.
 
 ## 🔗 Conexões
 - [[Claude API e Anthropic SDK]]
-- [[Pesquisa - Inteligência Artificial no Brasil]]
+- [[Projeto - Sistema Chamados]]
 
 ## 📚 Fontes
-- [[Referência - Panorama do mercado de TI no Brasil 2026]]
-- [[Referência - Relatório Gartner sobre tendências tecnológicas]]
+- [[Referência - Relatório Mercado de TI no Brasil 2026]]
+- [[Referência - Pesquisa IBGE sobre TI e inovação]]
 
 ## 🚧 Lacunas
-- Quais políticas públicas estão sendo implementadas para mitigar a escassez de talentos no setor de TI?
-- Como o mercado de TI no Brasil se compara com outros países emergentes em termos de inovação e competitividade?
-- Quais são os impactos da nova legislação de proteção de dados (LGPD) na operação das empresas de TI?
+- Qual é o impacto da legislação brasileira, como a LGPD, no mercado de TI e na demanda por cibersegurança?
+- Como as desigualdades regionais podem ser reduzidas para democratizar o acesso ao mercado de TI no Brasil?
+- Quais são as tendências emergentes que podem alterar a dinâmica do mercado, como o avanço das tecnologias quânticas?
+```
