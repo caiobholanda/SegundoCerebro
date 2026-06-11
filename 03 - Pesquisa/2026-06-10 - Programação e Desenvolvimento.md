@@ -1,41 +1,42 @@
+```markdown
 ---
 tipo: pesquisa
 criado: 2026-06-10
 atualizado: 2026-06-10
-pergunta-central: Quais são as tendências e melhores práticas atuais em programação e desenvolvimento de software?
+pergunta-central: Como a programação e o desenvolvimento de software evoluíram para atender às demandas tecnológicas modernas?
 relacionado-a: []
 related: []
-tags: [pesquisa, dev, produtividade]
+tags: ["pesquisa", "dev", "produtividade"]
 ---
 
 # Pesquisa - Programação e Desenvolvimento
 
 ## ❓ Pergunta central
-Quais são as tendências e melhores práticas atuais em programação e desenvolvimento de software?
+Como a programação e o desenvolvimento de software evoluíram para atender às demandas tecnológicas modernas?
 
 ## 🎯 Síntese (3-5 linhas)
-A programação e o desenvolvimento de software têm evoluído rapidamente com a introdução de novas tecnologias, práticas ágeis e ferramentas de automação. Métodos como DevOps, programação funcional e desenvolvimento baseado em testes têm se tornado padrão. Além disso, linguagens como Python, JavaScript e Rust continuam a dominar, enquanto frameworks como React, Django e Next.js lideram o mercado. A integração de IA no desenvolvimento está transformando a forma como os softwares são criados, otimizando processos e reduzindo erros.
+A programação passou de linguagens de baixo nível para frameworks de alto nível que priorizam produtividade e colaboração. O desenvolvimento ágil e contínuo, aliado à automação (CI/CD), tem permitido entregas mais rápidas e confiáveis. Além disso, práticas como DevOps e o uso crescente de IA para suporte ao código estão moldando a forma como software é projetado e implementado.
 
 ## 🔬 Detalhes
-- **DevOps e CI/CD**: A integração contínua e entrega contínua (CI/CD) são práticas fundamentais para entregar software rapidamente com maior qualidade e menos erros.
-- **Programação funcional**: Conceitos como imutabilidade, funções puras e composição estão ganhando destaque, influenciando até linguagens imperativas.
-- **Linguagens emergentes**: Linguagens como Rust e Go estão sendo amplamente adotadas devido à sua eficiência e segurança.
-- **Frameworks populares**: React, Angular e Vue.js dominam o mercado de front-end, enquanto Django, Flask e FastAPI são populares no back-end.
-- **IA no desenvolvimento**: Ferramentas como GitHub Copilot e ChatGPT estão sendo usadas para acelerar a codificação e otimizar processos.
-- **Metodologias ágeis**: Scrum, Kanban e SAFe continuam sendo amplamente utilizados para gerenciar equipes e projetos de software.
-- **Segurança no desenvolvimento**: O conceito de DevSecOps reforça a integração de práticas de segurança desde o início do ciclo de desenvolvimento.
+- A evolução das linguagens de programação trouxe maior abstração e facilidade de uso, com linguagens como Python e JavaScript ganhando destaque na última década.
+- Metodologias ágeis, como Scrum e Kanban, tornaram-se padrões para equipes de desenvolvimento, promovendo ciclos curtos de entrega e feedback contínuo.
+- Integração Contínua e Entrega Contínua (CI/CD) são práticas essenciais para garantir qualidade e agilidade no desenvolvimento e implantação de software.
+- O movimento DevOps uniu desenvolvimento e operações, promovendo colaboração para melhorar a eficiência e reduzir falhas em ambiente de produção.
+- Ferramentas de IA, como copilotos de código (ex.: GitHub Copilot e ChatGPT), estão transformando a forma como desenvolvedores escrevem e testam código.
+- A crescente importância da segurança e privacidade no desenvolvimento levou à adoção de práticas como DevSecOps e auditorias de código mais rigorosas.
 
 ## 🔗 Conexões
 - [[Claude API e Anthropic SDK]]
-- [[Pesquisa - DevOps e Metodologias Ágeis]]
 - [[Projeto - Sistema Chamados]]
+- [[Pesquisa - Inteligência Artificial Generativa no Desenvolvimento de Software]]
 
 ## 📚 Fontes
 - [[Referência - Clean Code por Robert C. Martin]]
-- [[Referência - The Pragmatic Programmer]]
-- [[Referência - Artigo sobre DevOps da Atlassian]]
+- [[Referência - The Phoenix Project por Gene Kim]]
+- [[Referência - Site Oficial do GitHub Copilot]]
 
 ## 🚧 Lacunas
-- Como as aplicações de IA podem ser ampliadas para suportar todo o ciclo de vida do desenvolvimento de software?
-- Quais são as melhores práticas para integrar segurança em projetos usando metodologias ágeis?
-- Como as linguagens emergentes como Rust e Go estão transformando o mercado em comparação com linguagens mais tradicionais como Java e C++?
+- Como a programação funcional pode ajudar a lidar com os desafios de sistemas distribuídos?
+- Quais são as implicações éticas do uso de IA para geração automática de código?
+- Como o desenvolvimento de software está se adaptando às crescentes demandas por sustentabilidade e eficiência energética?
+```
