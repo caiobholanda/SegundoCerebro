@@ -1,45 +1,41 @@
-```markdown
 ---
 tipo: pesquisa
 criado: 2026-06-11
 atualizado: 2026-06-11
-pergunta-central: Quais são as práticas e ferramentas mais eficazes para impulsionar produtividade e qualidade no desenvolvimento de software?
+pergunta-central: Quais são as melhores práticas, ferramentas e tendências atuais em programação e desenvolvimento de software?
 relacionado-a: []
-related: [[Claude API e Anthropic SDK]]
+related: [[Claude API e Anthropic SDK]], [[Pesquisa - Inteligência Artificial Generativa]], [[Projeto - Sistema Chamados]]
 tags: [pesquisa, dev, produtividade]
 ---
 
 # Pesquisa - Programação e Desenvolvimento
 
 ## ❓ Pergunta central
-Quais são as práticas e ferramentas mais eficazes para impulsionar produtividade e qualidade no desenvolvimento de software?
+Quais são as melhores práticas, ferramentas e tendências atuais em programação e desenvolvimento de software?
 
 ## 🎯 Síntese (3-5 linhas)
-O desenvolvimento de software combina criatividade e metodologia. Práticas como programação em par, revisões de código e metodologias ágeis, junto a ferramentas como sistemas de controle de versão e automação de testes, são essenciais para qualidade e eficiência. A adaptação às linguagens mais modernas e o uso de IA para suporte e geração de código estão moldando o futuro do setor.
+O campo de programação e desenvolvimento está em constante evolução, impulsionado por tecnologias emergentes como Inteligência Artificial, DevOps e metodologias ágeis. Entre as melhores práticas, destacam-se o design centrado no usuário, o uso de testes automatizados, e a integração de sistemas CI/CD. Além disso, frameworks modernos e linguagens populares como Python, JavaScript e Rust estão moldando o mercado.
 
 ## 🔬 Detalhes
-- **Metodologias ágeis**: Frameworks como Scrum e Kanban promovem ciclos curtos de desenvolvimento, entregas incrementais e adaptação contínua.
-- **Programação em par**: Duas pessoas escrevem código juntas, reduzindo erros e promovendo trocas de conhecimento.
-- **Revisões de código**: A revisão por pares garante qualidade e padronização, além de disseminar boas práticas.
-- **Controle de versão**: Ferramentas como Git permitem rastreamento, colaboração e gerenciamento eficiente de mudanças no código.
-- **Automação de testes**: Testes unitários e de integração automatizados aumentam a confiabilidade e reduzem custos de manutenção.
-- **Inteligência artificial no desenvolvimento**: Ferramentas como [[Claude API e Anthropic SDK]] e GitHub Copilot otimizam geração de código, detecção de bugs e análise de performance.
-- **DevOps**: Integração e entrega contínuas (CI/CD) aceleram a distribuição de software ao mesmo tempo que mantêm qualidade.
-- **Documentação de código**: Documentar bem é crucial para manutenção e onboarding de novos desenvolvedores.
-- **Comunidade e aprendizado contínuo**: Participação em comunidades online e acesso a cursos atualizados fortalecem as habilidades.
+- A adoção de metodologias ágeis, como Scrum e Kanban, facilita a entrega contínua e incremental de software, promovendo maior colaboração entre equipes.
+- A automação de testes (testes unitários, de integração e de aceitação) é essencial para garantir a qualidade do código e reduzir retrabalho.
+- Ferramentas de CI/CD (Continuous Integration/Continuous Deployment) como Jenkins, GitHub Actions e GitLab CI/CD são amplamente usadas para agilizar o ciclo de entrega.
+- Linguagens de programação como Python dominam áreas como Data Science e Machine Learning, enquanto Rust ganha destaque por sua segurança de memória e desempenho.
+- Frameworks populares como React, Vue.js e Angular continuam sendo essenciais para o desenvolvimento front-end, com uma crescente ênfase em SPAs (Single Page Applications).
+- A computação em nuvem, com serviços de provedores como AWS, Azure e Google Cloud, tornou-se indispensável para soluções escaláveis e resilientes.
 
 ## 🔗 Conexões
 - [[Claude API e Anthropic SDK]]
-- [[Pesquisa - Inteligência Artificial aplicada ao desenvolvimento de software]]
+- [[Pesquisa - Inteligência Artificial Generativa]]
+- [[Projeto - Sistema Chamados]]
 
 ## 📚 Fontes
 - [[Referência - The Pragmatic Programmer]]
 - [[Referência - Clean Code]]
 - [[Referência - DevOps Handbook]]
-- [[Referência - GitHub Copilot Documentation]]
+- [[Referência - Documentação oficial do React]]
 
 ## 🚧 Lacunas
-- Como a IA pode influenciar a ética no desenvolvimento de software?
-- Quais são os desafios para implementar práticas ágeis em equipes grandes ou distribuídas?
-- Quais novas linguagens de programação estão emergindo como líderes na indústria?
-```
+- Como as práticas de desenvolvimento podem ser adaptadas para equipes que trabalham exclusivamente de forma remota?
+- Quais são os desafios éticos e de segurança mais críticos no uso de IA para desenvolvimento de software?
+- Como as novas linguagens, como Zig e Carbon, podem impactar o futuro da programação?
