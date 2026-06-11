@@ -2,7 +2,7 @@
 tipo: projeto
 status: ativo
 criado: 2026-05-08
-atualizado: 2026-05-12
+atualizado: 2026-06-11
 prazo: open-ended
 objetivo: Manter e evoluir o sistema interno de suporte TI do Hotel Gran Marquise
 tags: [projeto, dev, node, sqlite]
@@ -20,13 +20,13 @@ Open-ended (sistema interno de uso contínuo)
 
 ## 📍 Status atual
 
-Sistema em produção em https://web-production-83b4ae.up.railway.app. Todas as funcionalidades core estão estáveis: chamados, estoque com rastreio de setor de origem, alertas de prazo em 3 janelas (10min/1h/24h), push notifications no desktop e no app mobile PWA. Deploy automático via Railway + GitHub Actions.
+Sistema em produção em https://sistema-chamados-granmarquise.fly.dev. Todas as funcionalidades core estão estáveis: chamados, estoque com rastreio de setor de origem, alertas de prazo em 3 janelas (10min/1h/24h), push notifications no desktop e no app mobile PWA. Deploy automático via Fly.io + GitHub Actions.
 
 Sessão 2026-05-11/12 adicionou: notificações push no app mobile (iOS PWA), histórico de chamados por usuário, filtro por ID no painel, badges de #ID em todos os portais, reconexão automática de subscriptions e fix do bug de chat compartilhado entre chamados.
 
 ## ✅ Próximos passos
 
-- [ ] Avaliar migração do banco SQLite para Postgres (Railway oferece nativamente)
+- [ ] Avaliar migração do banco SQLite para Postgres
 - [ ] Adicionar filtro por status no histórico de chamados do usuário
 - [ ] Notificação push para o usuário comum quando chamado for atualizado
 - [ ] Dashboard de métricas: tempo médio de resolução por técnico/setor
@@ -40,7 +40,7 @@ Sessão 2026-05-11/12 adicionou: notificações push no app mobile (iOS PWA), hi
 ## 📚 Referências
 
 - Repositório: https://github.com/caiobholanda/sistema-chamados
-- Produção: https://web-production-83b4ae.up.railway.app
+- Produção: https://sistema-chamados-granmarquise.fly.dev
 - Contexto técnico detalhado: `_Claude/projetos/sistema-chamados/_CONTEXTO.md`
 - Decisões técnicas: `_Claude/projetos/sistema-chamados/_DECISOES.md`
 
