@@ -3,40 +3,38 @@
 tipo: pesquisa
 criado: 2026-06-11
 atualizado: 2026-06-11
-pergunta-central: Quais são as principais tendências, desafios e oportunidades no mercado de TI no Brasil?
+pergunta-central: Qual é o panorama atual do mercado de TI no Brasil e suas principais oportunidades e desafios?
 relacionado-a: []
-related: []
+related: [[Pesquisa - Profissões do futuro]]
 tags: [pesquisa, mercado, carreira]
 ---
 
 # Pesquisa - Mercado de TI no Brasil
 
 ## ❓ Pergunta central
-Quais são as principais tendências, desafios e oportunidades no mercado de TI no Brasil?
+Qual é o panorama atual do mercado de TI no Brasil e suas principais oportunidades e desafios?
 
 ## 🎯 Síntese (3-5 linhas)
-O mercado de TI no Brasil é um dos setores que mais crescem, impulsionado pela transformação digital em empresas de todos os portes. As áreas de destaque incluem inteligência artificial, segurança cibernética, e-commerce e desenvolvimento de software. Apesar da alta demanda, há grande escassez de profissionais qualificados, o que representa uma oportunidade para formação e qualificação. A falta de infraestrutura tecnológica e desigualdade regional ainda são desafios.
+O mercado de TI no Brasil é um dos setores que mais crescem, impulsionado pela digitalização e pela demanda por soluções tecnológicas. Apesar disso, enfrenta desafios como a falta de profissionais qualificados e gaps em infraestrutura. As áreas de maior destaque incluem desenvolvimento de software, cibersegurança e inteligência artificial.
 
 ## 🔬 Detalhes
-- O setor de TI no Brasil deve crescer cerca de 8,2% ao ano, segundo dados da Associação Brasileira das Empresas de Tecnologia da Informação e Comunicação (Brasscom).
-- Há uma demanda crescente por especialistas em áreas como inteligência artificial, análise de dados, segurança cibernética e desenvolvimento de software.
-- O home office e trabalho remoto ampliaram as possibilidades de contratação internacional para profissionais brasileiros, aumentando a competitividade.
-- Empresas brasileiras enfrentam desafios de infraestrutura tecnológica, especialmente em regiões fora dos grandes centros urbanos.
-- Existe uma lacuna significativa de mão de obra qualificada, com estimativas de que o Brasil precisará formar cerca de 420 mil profissionais de TI até 2026.
-- Iniciativas de capacitação e inclusão, como cursos gratuitos e programas de diversidade, têm sido implementadas por empresas e governos para reduzir o déficit de profissionais.
+- O mercado de TI no Brasil cresceu cerca de 10% ao ano nos últimos anos, acima da média global.
+- A carência de profissionais qualificados é um dos maiores desafios, com estimativa de 420 mil vagas abertas até 2026.
+- Setores como comércio eletrônico, fintechs e saúde digital têm impulsionado a demanda por soluções tecnológicas.
+- O investimento em cibersegurança está em alta, devido ao aumento de ataques cibernéticos.
+- A inteligência artificial e o aprendizado de máquina são áreas em rápido crescimento, com aplicações em diversos setores.
+- Políticas governamentais e incentivos fiscais ainda são insuficientes para suportar a expansão do setor.
 
 ## 🔗 Conexões
+- [[Pesquisa - Profissões do futuro]]
 - [[Projeto - Sistema Chamados]]
-- [[Pesquisa - Inteligência Artificial no Brasil]]
-- [[Referência - Transformação Digital nas Empresas Brasileiras]]
 
 ## 📚 Fontes
-- [[Referência - Brasscom: Mercado de TI no Brasil]]
-- [[Referência - Relatório Anual do Setor de TI 2025]]
-- [[Referência - Tendências Globais em Tecnologia 2026]]
+- [[Referência - Panorama do mercado de TI no Brasil 2026]]
+- [[Referência - Relatório Anual de TI ABES]]
 
 ## 🚧 Lacunas
-- Qual é o impacto da falta de profissionais qualificados no crescimento do setor de TI no Brasil?
-- Como as políticas públicas brasileiras podem melhorar a infraestrutura tecnológica em áreas remotas?
-- Quais são as melhores práticas adotadas por empresas brasileiras para atrair e reter talentos de TI?
+- Qual é o impacto das políticas públicas brasileiras no desenvolvimento do setor de TI?
+- Como startups e pequenas empresas estão enfrentando os desafios de infraestrutura e qualificação de mão de obra?
+- Quais são as tendências emergentes para os próximos 5 anos no mercado de TI no Brasil?
 ```
