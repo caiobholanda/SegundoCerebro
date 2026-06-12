@@ -1,9 +1,8 @@
-```markdown
 ---
 tipo: pesquisa
 criado: 2026-06-12
 atualizado: 2026-06-12
-pergunta-central: Como a programação e o desenvolvimento moldam o futuro da tecnologia e da sociedade?
+pergunta-central: Como a programação moderna está evoluindo para atender às demandas de produtividade e inovação tecnológica?
 relacionado-a: []
 related: []
 tags: [pesquisa, dev, produtividade]
@@ -12,31 +11,30 @@ tags: [pesquisa, dev, produtividade]
 # Pesquisa - Programação e Desenvolvimento
 
 ## ❓ Pergunta central
-Como a programação e o desenvolvimento moldam o futuro da tecnologia e da sociedade?
+Como a programação moderna está evoluindo para atender às demandas de produtividade e inovação tecnológica?
 
 ## 🎯 Síntese (3-5 linhas)
-A programação e o desenvolvimento são pilares fundamentais para a evolução tecnológica, impactando desde a automação de processos até a criação de soluções inovadoras para problemas globais. Eles integram múltiplas disciplinas, como inteligência artificial, ciência de dados e design de software, enquanto moldam a maneira como trabalhamos, nos comunicamos e resolvemos desafios do dia a dia. A constante evolução das linguagens e ferramentas exige aprendizado contínuo, tornando essa área um campo dinâmico e desafiador.
+A programação tem se tornado cada vez mais acessível e colaborativa, com o surgimento de linguagens de alto nível, ferramentas de desenvolvimento low-code/no-code e plataformas baseadas em IA que automatizam tarefas repetitivas. Além disso, práticas ágeis e a cultura DevOps têm acelerado o ciclo de desenvolvimento, mas a complexidade crescente das tecnologias exige uma aprendizagem contínua por parte dos desenvolvedores.
 
 ## 🔬 Detalhes
-- Programação é o processo de escrever e organizar código para instruir computadores a realizar tarefas específicas.
-- Linguagens de programação são divididas em níveis: baixo nível (próximas à linguagem de máquina) e alto nível (mais próximas da linguagem humana, como Python, Java, C#).
-- Desenvolvimento de software engloba desde a concepção até a entrega e manutenção de sistemas e aplicativos.
-- Metodologias ágeis, como Scrum e Kanban, são amplamente utilizadas para gerenciar projetos de desenvolvimento, focando em entregas iterativas e colaboração.
-- A demanda por desenvolvedores continua a crescer, especialmente em áreas como inteligência artificial, desenvolvimento web, ciência de dados e segurança cibernética.
-- Ferramentas como editores de código (VS Code, JetBrains), sistemas de controle de versão (Git) e plataformas de CI/CD (Jenkins, GitHub Actions) são essenciais para a produtividade dos desenvolvedores.
+- O crescimento de linguagens como Python e JavaScript reflete a busca por simplicidade e versatilidade no desenvolvimento.
+- Ferramentas de inteligência artificial, como o [[Claude API e Anthropic SDK]], estão sendo utilizadas para gerar código e otimizar processos de desenvolvimento.
+- Paradigmas como programação funcional e reativa estão ganhando espaço em setores que exigem sistemas escaláveis e resilientes.
+- Práticas como [[DevOps]] e CI/CD (Integração e Entrega Contínuas) têm reduzido o tempo entre concepção e entrega de software.
+- Frameworks e bibliotecas open-source continuam democratizando o acesso a tecnologias avançadas, como machine learning e blockchain.
+- Plataformas low-code e no-code estão permitindo que não programadores criem aplicativos simples, reduzindo a barreira de entrada no desenvolvimento.
 
 ## 🔗 Conexões
 - [[Claude API e Anthropic SDK]]
-- [[Pesquisa - Inteligência Artificial e Machine Learning]]
-- [[Referência - Guia sobre Metodologias Ágeis]]
+- [[DevOps]]
+- [[Pesquisa - Inteligência Artificial e Automação]]
 
 ## 📚 Fontes
-- [[Referência - Clean Code por Robert C. Martin]]
-- [[Referência - The Pragmatic Programmer por Andrew Hunt e David Thomas]]
-- [[Referência - Documentação oficial do Python]]
+- [[Referência - Clean Code (Robert C. Martin)]]
+- [[Referência - Site oficial do GitHub Copilot]]
+- [[Referência - Artigo sobre tendências em programação (TechCrunch)]]
 
 ## 🚧 Lacunas
-- Como a programação pode contribuir para a solução de crises globais, como mudanças climáticas e desigualdade social?
-- Quais serão as linguagens e paradigmas dominantes no futuro da programação?
-- Como a automação e a inteligência artificial impactarão o mercado de trabalho para desenvolvedores?
-```
+- Qual o impacto de plataformas low-code/no-code na empregabilidade de desenvolvedores tradicionais?
+- Como novas linguagens de programação podem impactar a eficiência e a segurança do software?
+- Quais são os limites éticos da automação no desenvolvimento de software?
