@@ -3,39 +3,40 @@
 tipo: pesquisa
 criado: 2026-06-12
 atualizado: 2026-06-12
-pergunta-central: Como a programação e o desenvolvimento estão evoluindo para atender às demandas de tecnologias emergentes e metodologias ágeis?
+pergunta-central: Como a programação e o desenvolvimento moldam o futuro da tecnologia e da sociedade?
 relacionado-a: []
-related: [[Claude API e Anthropic SDK]], [[Pesquisa - Inteligência Artificial Generativa]]
+related: []
 tags: [pesquisa, dev, produtividade]
 ---
 
 # Pesquisa - Programação e Desenvolvimento
 
 ## ❓ Pergunta central
-Como a programação e o desenvolvimento estão evoluindo para atender às demandas de tecnologias emergentes e metodologias ágeis?
+Como a programação e o desenvolvimento moldam o futuro da tecnologia e da sociedade?
 
 ## 🎯 Síntese (3-5 linhas)
-Programação e desenvolvimento estão em constante evolução para acompanhar o avanço das tecnologias emergentes como inteligência artificial, computação em nuvem e blockchain. A integração de metodologias ágeis e práticas DevOps são essenciais para acelerar ciclos de entrega, enquanto linguagens e frameworks modernos como Rust e TypeScript ganham destaque pela eficiência e robustez. A adoção de práticas de programação orientadas a segurança e integração contínua também é cada vez mais crucial.
+A programação e o desenvolvimento são pilares fundamentais para a evolução tecnológica, impactando desde a automação de processos até a criação de soluções inovadoras para problemas globais. Eles integram múltiplas disciplinas, como inteligência artificial, ciência de dados e design de software, enquanto moldam a maneira como trabalhamos, nos comunicamos e resolvemos desafios do dia a dia. A constante evolução das linguagens e ferramentas exige aprendizado contínuo, tornando essa área um campo dinâmico e desafiador.
 
 ## 🔬 Detalhes
-- Linguagens como Python e JavaScript continuam populares por sua flexibilidade, enquanto Rust e Go ganham espaço por desempenho e segurança.
-- O desenvolvimento ágil e o DevOps se consolidaram como práticas essenciais para entregar software mais rapidamente e com maior qualidade.
-- O uso de ferramentas de automação, como Jenkins e GitHub Actions, simplifica os processos de integração e entrega contínua (CI/CD).
-- A programação orientada a IA e machine learning requer bibliotecas especializadas, como TensorFlow, PyTorch e scikit-learn.
-- O desenvolvimento mobile tem sido impactado por frameworks como Flutter e React Native, que facilitam a criação de aplicativos multiplataforma.
-- A segurança na programação, com práticas como programação defensiva e análise estática de código, é prioritária devido ao aumento de ameaças cibernéticas.
+- Programação é o processo de escrever e organizar código para instruir computadores a realizar tarefas específicas.
+- Linguagens de programação são divididas em níveis: baixo nível (próximas à linguagem de máquina) e alto nível (mais próximas da linguagem humana, como Python, Java, C#).
+- Desenvolvimento de software engloba desde a concepção até a entrega e manutenção de sistemas e aplicativos.
+- Metodologias ágeis, como Scrum e Kanban, são amplamente utilizadas para gerenciar projetos de desenvolvimento, focando em entregas iterativas e colaboração.
+- A demanda por desenvolvedores continua a crescer, especialmente em áreas como inteligência artificial, desenvolvimento web, ciência de dados e segurança cibernética.
+- Ferramentas como editores de código (VS Code, JetBrains), sistemas de controle de versão (Git) e plataformas de CI/CD (Jenkins, GitHub Actions) são essenciais para a produtividade dos desenvolvedores.
 
 ## 🔗 Conexões
 - [[Claude API e Anthropic SDK]]
-- [[Pesquisa - Inteligência Artificial Generativa]]
+- [[Pesquisa - Inteligência Artificial e Machine Learning]]
+- [[Referência - Guia sobre Metodologias Ágeis]]
 
 ## 📚 Fontes
-- [[Referência - Livro Clean Code de Robert C. Martin]]
-- [[Referência - Artigo sobre DevOps no site da Atlassian]]
-- [[Referência - Documentação oficial do Rust]]
+- [[Referência - Clean Code por Robert C. Martin]]
+- [[Referência - The Pragmatic Programmer por Andrew Hunt e David Thomas]]
+- [[Referência - Documentação oficial do Python]]
 
 ## 🚧 Lacunas
-- Como linguagens emergentes como Julia estão sendo adotadas em nichos específicos como análise numérica e ciência de dados?
-- Qual é o impacto a longo prazo da integração de IA generativa como copiloto de programação no desenvolvimento de software?
-- De que maneira a ética na programação está influenciando decisões no design de algoritmos e sistemas críticos?
+- Como a programação pode contribuir para a solução de crises globais, como mudanças climáticas e desigualdade social?
+- Quais serão as linguagens e paradigmas dominantes no futuro da programação?
+- Como a automação e a inteligência artificial impactarão o mercado de trabalho para desenvolvedores?
 ```
