@@ -3,42 +3,39 @@
 tipo: pesquisa
 criado: 2026-06-12
 atualizado: 2026-06-12
-pergunta-central: Quais são as tendências, desafios e oportunidades atuais do mercado de TI no Brasil?
+pergunta-central: Quais são as principais tendências, desafios e oportunidades no mercado de TI no Brasil em 2026?
 relacionado-a: []
-related: [[Claude API e Anthropic SDK]]
+related: []
 tags: [pesquisa, mercado, carreira]
 ---
 
 # Pesquisa - Mercado de TI no Brasil
 
 ## ❓ Pergunta central
-Quais são as tendências, desafios e oportunidades atuais do mercado de TI no Brasil?
+Quais são as principais tendências, desafios e oportunidades no mercado de TI no Brasil em 2026?
 
 ## 🎯 Síntese (3-5 linhas)
-O mercado de TI no Brasil está em constante expansão, impulsionado pela transformação digital e pela adoção de novas tecnologias como inteligência artificial e computação em nuvem. Apesar da alta demanda por profissionais qualificados, o setor enfrenta desafios como a falta de mão de obra especializada e o impacto de políticas econômicas instáveis. Oportunidades incluem áreas como fintechs, e-commerce e cibersegurança.
+O mercado de TI no Brasil em 2026 segue em expansão, impulsionado pela transformação digital e pela crescente demanda por soluções tecnológicas. Áreas como inteligência artificial, segurança cibernética e computação em nuvem estão em alta, enquanto a escassez de profissionais qualificados permanece um grande desafio. Investimentos em educação e iniciativas de inclusão digital são essenciais para sustentar o crescimento do setor.
 
 ## 🔬 Detalhes
-- O Brasil é o maior mercado de TI da América Latina, representando cerca de 40% do total da região.
-- A transformação digital acelerada por conta da pandemia aumentou a demanda por serviços de tecnologia, especialmente em setores como saúde, educação e varejo.
-- Inteligência Artificial e Machine Learning são áreas em alta, com crescimento na busca por profissionais especializados.
-- O déficit de profissionais qualificados em TI no Brasil é significativo, com empresas enfrentando dificuldades para preencher vagas técnicas.
-- Fintechs e startups de tecnologia estão impulsionando a inovação no mercado, especialmente em áreas como pagamentos digitais e blockchain.
-- Cibersegurança é uma prioridade crescente devido ao aumento de ataques cibernéticos e à necessidade de proteger dados sensíveis.
-- Políticas econômicas e tributárias locais podem impactar o crescimento do setor, exigindo adaptação por parte das empresas.
-- A busca por diversidade e inclusão no setor está em ascensão, com iniciativas para aumentar a representatividade de grupos sub-representados.
+- O mercado de tecnologia no Brasil cresce consistentemente acima da média global, com especial destaque para startups de fintechs e healthtechs.
+- A demanda por profissionais capacitados em áreas como desenvolvimento de software, ciência de dados e segurança da informação supera a oferta, criando um déficit de mão de obra qualificada.
+- A transformação digital está acelerando em setores como agronegócio, saúde e educação, com adoção crescente de tecnologias como IoT e inteligência artificial.
+- A Lei Geral de Proteção de Dados (LGPD) impulsionou a busca por especialistas em compliance e proteção de dados.
+- Muitos profissionais brasileiros de TI estão migrando para o exterior ou optando por trabalhar remotamente para empresas internacionais, devido a salários mais atrativos.
+- Iniciativas públicas e privadas para capacitação digital, como bootcamps e parcerias com instituições de ensino, estão em expansão, mas ainda não atendem à demanda do mercado.
 
 ## 🔗 Conexões
-- [[Claude API e Anthropic SDK]]
 - [[Projeto - Sistema Chamados]]
-- [[Referência - Transformação digital no Brasil]]
+- [[Pesquisa - Tendências em Inteligência Artificial]]
 
 ## 📚 Fontes
-- [[Referência - Relatório Mercado TI América Latina 2026]]
-- [[Referência - Panorama Fintechs Brasil 2026]]
-- [[Referência - Tendências em Cibersegurança 2026]]
+- [[Referência - Panorama do Setor de Tecnologia no Brasil 2026]]
+- [[Referência - Impacto da LGPD no Mercado de Trabalho]]
+- [[Referência - Relatório Anual de Startups Brasileiras]]
 
 ## 🚧 Lacunas
-- Qual é o impacto de políticas públicas recentes na capacitação e formação de profissionais de TI no Brasil?
-- Como a adoção de IA está transformando setores específicos como agricultura e logística no mercado nacional?
-- Quais são as perspectivas de crescimento para startups brasileiras de tecnologia nos próximos 5 anos?
+- Qual é o impacto de políticas públicas recentes no ritmo de crescimento do setor?
+- Quais são as perspectivas de médio e longo prazo para a retenção de talentos de TI no Brasil?
+- Como a inteligência artificial está moldando o mercado de trabalho em áreas tradicionalmente não relacionadas à tecnologia?
 ```
