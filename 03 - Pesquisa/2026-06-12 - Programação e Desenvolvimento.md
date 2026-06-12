@@ -3,40 +3,39 @@
 tipo: pesquisa
 criado: 2026-06-12
 atualizado: 2026-06-12
-pergunta-central: Quais são as melhores práticas e tendências emergentes em programação e desenvolvimento de software atualmente?
+pergunta-central: Como a programação e o desenvolvimento estão evoluindo para atender às demandas de tecnologias emergentes e metodologias ágeis?
 relacionado-a: []
-related: []
-tags: ["pesquisa", "dev", "produtividade"]
+related: [[Claude API e Anthropic SDK]], [[Pesquisa - Inteligência Artificial Generativa]]
+tags: [pesquisa, dev, produtividade]
 ---
 
 # Pesquisa - Programação e Desenvolvimento
 
 ## ❓ Pergunta central
-Quais são as melhores práticas e tendências emergentes em programação e desenvolvimento de software atualmente?
+Como a programação e o desenvolvimento estão evoluindo para atender às demandas de tecnologias emergentes e metodologias ágeis?
 
 ## 🎯 Síntese (3-5 linhas)
-A programação e desenvolvimento de software estão em constante evolução, impulsionados por novas linguagens, ferramentas e metodologias. O crescimento de práticas como DevOps, a popularização de linguagens para IA/ML como Python, e o foco em abordagens como desenvolvimento orientado a testes (TDD) e microsserviços estão moldando o cenário tecnológico. Além disso, a adoção de práticas ágeis e a importância crescente de habilidades de soft skills nos times de desenvolvimento são tendências essenciais.
+Programação e desenvolvimento estão em constante evolução para acompanhar o avanço das tecnologias emergentes como inteligência artificial, computação em nuvem e blockchain. A integração de metodologias ágeis e práticas DevOps são essenciais para acelerar ciclos de entrega, enquanto linguagens e frameworks modernos como Rust e TypeScript ganham destaque pela eficiência e robustez. A adoção de práticas de programação orientadas a segurança e integração contínua também é cada vez mais crucial.
 
 ## 🔬 Detalhes
-- A programação funcional está em alta, com linguagens como Elixir e Kotlin ganhando popularidade devido à sua eficiência e clareza.
-- DevOps e CI/CD (Continuous Integration/Continuous Deployment) tornaram-se pilares do desenvolvimento moderno, promovendo ciclos mais rápidos e entregas contínuas.
-- A Inteligência Artificial e o Machine Learning estão redefinindo o papel dos desenvolvedores, exigindo o aprendizado de novas ferramentas como TensorFlow e PyTorch.
-- Frameworks como React, Vue.js e Angular continuam dominando o front-end, enquanto soluções como Next.js e Remix estão promovendo o desenvolvimento full-stack.
-- A segurança no desenvolvimento de software está se tornando uma prioridade, levando à adoção de práticas como DevSecOps e auditorias de código.
-- O foco na experiência do desenvolvedor (DX) está incentivando empresas a adotarem ferramentas que tornam o trabalho de codificação mais eficiente e prazeroso.
+- Linguagens como Python e JavaScript continuam populares por sua flexibilidade, enquanto Rust e Go ganham espaço por desempenho e segurança.
+- O desenvolvimento ágil e o DevOps se consolidaram como práticas essenciais para entregar software mais rapidamente e com maior qualidade.
+- O uso de ferramentas de automação, como Jenkins e GitHub Actions, simplifica os processos de integração e entrega contínua (CI/CD).
+- A programação orientada a IA e machine learning requer bibliotecas especializadas, como TensorFlow, PyTorch e scikit-learn.
+- O desenvolvimento mobile tem sido impactado por frameworks como Flutter e React Native, que facilitam a criação de aplicativos multiplataforma.
+- A segurança na programação, com práticas como programação defensiva e análise estática de código, é prioritária devido ao aumento de ameaças cibernéticas.
 
 ## 🔗 Conexões
 - [[Claude API e Anthropic SDK]]
 - [[Pesquisa - Inteligência Artificial Generativa]]
-- [[Área - Desenvolvimento de Software]]
 
 ## 📚 Fontes
-- [[Referência - Clean Code (Robert C. Martin)]]
-- [[Referência - Site oficial do DevOps]]
-- [[Referência - Introdução ao Machine Learning com Python]]
+- [[Referência - Livro Clean Code de Robert C. Martin]]
+- [[Referência - Artigo sobre DevOps no site da Atlassian]]
+- [[Referência - Documentação oficial do Rust]]
 
 ## 🚧 Lacunas
-- Quais técnicas específicas de programação funcional podem ser aplicadas em projetos tradicionais para melhorar produtividade?
-- Como balancear a adoção de tendências emergentes com a manutenção de sistemas legados?
-- Quais são os impactos da automação avançada no papel do desenvolvedor tradicional?
+- Como linguagens emergentes como Julia estão sendo adotadas em nichos específicos como análise numérica e ciência de dados?
+- Qual é o impacto a longo prazo da integração de IA generativa como copiloto de programação no desenvolvimento de software?
+- De que maneira a ética na programação está influenciando decisões no design de algoritmos e sistemas críticos?
 ```
