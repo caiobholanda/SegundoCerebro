@@ -3,38 +3,42 @@
 tipo: pesquisa
 criado: 2026-06-12
 atualizado: 2026-06-12
-pergunta-central: Quais são as tendências, desafios e oportunidades atuais no mercado de TI no Brasil?
+pergunta-central: Quais são as tendências, desafios e oportunidades atuais do mercado de TI no Brasil?
 relacionado-a: []
-related: [[Projeto - Sistema Chamados]]
+related: [[Claude API e Anthropic SDK]]
 tags: [pesquisa, mercado, carreira]
 ---
 
 # Pesquisa - Mercado de TI no Brasil
 
 ## ❓ Pergunta central
-Quais são as tendências, desafios e oportunidades atuais no mercado de TI no Brasil?
+Quais são as tendências, desafios e oportunidades atuais do mercado de TI no Brasil?
 
 ## 🎯 Síntese (3-5 linhas)
-O mercado de TI no Brasil segue em crescimento acelerado, impulsionado pela transformação digital e pela demanda por soluções tecnológicas em diferentes setores. As áreas de desenvolvimento de software, segurança cibernética e ciência de dados estão entre as mais promissoras. No entanto, o setor enfrenta desafios como a escassez de profissionais qualificados e a necessidade de adaptação às rápidas mudanças tecnológicas.
+O mercado de TI no Brasil está em constante expansão, impulsionado pela transformação digital e pela adoção de novas tecnologias como inteligência artificial e computação em nuvem. Apesar da alta demanda por profissionais qualificados, o setor enfrenta desafios como a falta de mão de obra especializada e o impacto de políticas econômicas instáveis. Oportunidades incluem áreas como fintechs, e-commerce e cibersegurança.
 
 ## 🔬 Detalhes
-- O mercado de TI brasileiro cresceu significativamente nos últimos anos, especialmente em serviços de nuvem, inteligência artificial e automação.
-- Startup e fintechs têm se destacado como motores de inovação no setor, atraindo investimentos nacionais e internacionais.
-- Existe uma falta de profissionais qualificados para suprir a demanda crescente, especialmente em áreas como desenvolvimento de software e ciência de dados.
-- A adoção de práticas de trabalho remoto se consolidou, permitindo que profissionais brasileiros atuem em empresas globais.
-- Empresas estão cada vez mais preocupadas com segurança cibernética devido ao aumento de ataques e vazamentos de dados.
-- A transformação digital tem penetrado em setores tradicionais como agronegócio, saúde e educação, criando novas oportunidades no mercado de TI.
+- O Brasil é o maior mercado de TI da América Latina, representando cerca de 40% do total da região.
+- A transformação digital acelerada por conta da pandemia aumentou a demanda por serviços de tecnologia, especialmente em setores como saúde, educação e varejo.
+- Inteligência Artificial e Machine Learning são áreas em alta, com crescimento na busca por profissionais especializados.
+- O déficit de profissionais qualificados em TI no Brasil é significativo, com empresas enfrentando dificuldades para preencher vagas técnicas.
+- Fintechs e startups de tecnologia estão impulsionando a inovação no mercado, especialmente em áreas como pagamentos digitais e blockchain.
+- Cibersegurança é uma prioridade crescente devido ao aumento de ataques cibernéticos e à necessidade de proteger dados sensíveis.
+- Políticas econômicas e tributárias locais podem impactar o crescimento do setor, exigindo adaptação por parte das empresas.
+- A busca por diversidade e inclusão no setor está em ascensão, com iniciativas para aumentar a representatividade de grupos sub-representados.
 
 ## 🔗 Conexões
 - [[Claude API e Anthropic SDK]]
 - [[Projeto - Sistema Chamados]]
+- [[Referência - Transformação digital no Brasil]]
 
 ## 📚 Fontes
-- [[Referência - Panorama do Mercado de TI no Brasil 2026]]
-- [[Referência - Relatório Anual de Startups Brasileiras]]
+- [[Referência - Relatório Mercado TI América Latina 2026]]
+- [[Referência - Panorama Fintechs Brasil 2026]]
+- [[Referência - Tendências em Cibersegurança 2026]]
 
 ## 🚧 Lacunas
-- Como o cenário político e econômico do Brasil impacta os investimentos em TI?
-- Quais são as melhores práticas para formação de novos talentos na área de tecnologia no Brasil?
-- Como as empresas brasileiras estão lidando com a rápida evolução tecnológica, especialmente no uso de IA?
+- Qual é o impacto de políticas públicas recentes na capacitação e formação de profissionais de TI no Brasil?
+- Como a adoção de IA está transformando setores específicos como agricultura e logística no mercado nacional?
+- Quais são as perspectivas de crescimento para startups brasileiras de tecnologia nos próximos 5 anos?
 ```
