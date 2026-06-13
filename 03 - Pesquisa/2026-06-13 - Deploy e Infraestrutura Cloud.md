@@ -3,43 +3,39 @@
 tipo: pesquisa
 criado: 2026-06-13
 atualizado: 2026-06-13
-pergunta-central: Como projetar e otimizar uma infraestrutura cloud escalável e eficiente para processos de deploy contínuo?
+pergunta-central: Quais são as melhores práticas para realizar deploys escaláveis e gerenciar infraestrutura em provedores de cloud?
 relacionado-a: []
-related: [[Projeto - Sistema Chamados]]
-tags: [pesquisa, dev, infra]
+related: []
+tags: ["pesquisa", "dev", "infra"]
 ---
 
 # Pesquisa - Deploy e Infraestrutura Cloud
 
 ## ❓ Pergunta central
-Como projetar e otimizar uma infraestrutura cloud escalável e eficiente para processos de deploy contínuo?
+Quais são as melhores práticas para realizar deploys escaláveis e gerenciar infraestrutura em provedores de cloud?
 
 ## 🎯 Síntese (3-5 linhas)
-Deploy e infraestrutura cloud são componentes críticos no desenvolvimento de software moderno. O objetivo principal é garantir escalabilidade, resiliência e eficiência, enquanto se automatizam processos através de CI/CD. Compreender os diferentes serviços de provedores de nuvem, padrões de arquitetura e boas práticas é essencial para implementar soluções robustas e seguras.
+O deploy de aplicações em ambiente cloud exige automação, monitoramento e escalabilidade. Ferramentas como Docker e Kubernetes são amplamente utilizadas para gerenciar contêineres, enquanto provedores como AWS, GCP e Azure oferecem serviços integrados para otimizar custos e desempenho. A infraestrutura como código (IaC) e pipelines de CI/CD são essenciais para garantir consistência e reduzir falhas humanas.
 
 ## 🔬 Detalhes
-- **Definição de Deploy e Infraestrutura Cloud**: Deploy refere-se ao processo de disponibilizar um software em um ambiente de produção. Infraestrutura cloud é o conjunto de recursos (computação, armazenamento, redes) fornecidos por serviços em nuvem como AWS, Azure, GCP, entre outros.
-- **Importância do CI/CD**: Integração contínua (CI) e entrega contínua (CD) são práticas que automatizam o processo de desenvolvimento e deploy, aumentando a frequência de lançamentos e reduzindo erros manuais.
-- **Modelos de Computação em Nuvem**: Incluem IaaS (Infraestrutura como Serviço), PaaS (Plataforma como Serviço) e SaaS (Software como Serviço). A escolha do modelo depende dos requisitos do projeto.
-- **Ferramentas e Tecnologias**: Kubernetes para orquestração de contêineres, Terraform para infraestrutura como código, Jenkins e GitHub Actions para CI/CD.
-- **Escalabilidade e Resiliência**: É fundamental projetar sistemas capazes de escalar horizontalmente (adicionando mais recursos) e verticalmente (aumentando capacidade de um recurso) para atender a demandas flutuantes.
-- **Segurança na Nuvem**: Inclui práticas como hardening de servidores, uso de firewalls, criptografia de dados e autenticação multifator para proteger dados e sistemas.
-- **Custo e Otimização**: Ferramentas como AWS Cost Explorer ajudam a monitorar gastos e otimizar o uso de recursos para reduzir custos operacionais.
+- O uso de **contenedores** (como Docker) permite empacotar aplicações com todas as suas dependências, garantindo portabilidade entre ambientes.
+- **Orquestradores de contêineres** como Kubernetes são padrão para gerenciar clusters, escalar serviços automaticamente e lidar com failover.
+- **Infraestrutura como Código (IaC)**, utilizando ferramentas como Terraform ou AWS CloudFormation, traz automação, versionamento e repetibilidade para a configuração e provisionamento de recursos.
+- Provedores de cloud (AWS, GCP, Azure) oferecem serviços como **auto-scaling**, **load balancers**, e **managed databases**, que simplificam o gerenciamento de aplicações escaláveis.
+- **Pipelines de CI/CD** (Continuous Integration/Continuous Deployment) permitem deploys automatizados e rápidos, reduzindo o tempo de entrega de novas funcionalidades.
+- Monitoramento e logging são cruciais. Ferramentas como Prometheus, Grafana e serviços nativos de cloud (ex.: CloudWatch na AWS) ajudam a identificar problemas e otimizar recursos.
 
 ## 🔗 Conexões
 - [[Projeto - Sistema Chamados]]
-- [[Referência - Kubernetes]]
-- [[Referência - Terraform]]
-- [[Pesquisa - CI/CD na Prática]]
+- [[Claude API e Anthropic SDK]]
 
 ## 📚 Fontes
-- [[Referência - Livro: Cloud Native DevOps with Kubernetes]]
-- [[Referência - Blog da AWS]]
-- [[Referência - Documentação oficial do Terraform]]
-- [[Referência - Artigo sobre CI/CD no Dev.to]]
+- [[Referência - Livro Kubernetes Patterns]]
+- [[Referência - Artigo Terraform Best Practices]]
+- [[Referência - Serviço AWS Elastic Beanstalk]]
 
 ## 🚧 Lacunas
-- Quais são os critérios para escolher entre diferentes provedores de nuvem, além de custo?
-- Quais são os principais desafios na configuração de CI/CD em ambientes multi-cloud?
-- Como gerenciar a migração de sistemas legados para uma infraestrutura cloud moderna?
+- Como escolher o melhor provedor de cloud para diferentes tipos de aplicação (ex.: startups versus grandes empresas)?
+- Quais as diferenças práticas de performance entre os principais provedores (AWS, Azure, GCP)?
+- Quais são as estratégias mais eficazes para otimizar custos em ambientes de cloud?
 ```
