@@ -1,3 +1,4 @@
+```markdown
 ---
 tipo: pesquisa
 criado: 2026-06-13
@@ -14,27 +15,27 @@ tags: [pesquisa, dev, produtividade]
 Quais são os princípios fundamentais e as tendências emergentes em programação e desenvolvimento atualmente?
 
 ## 🎯 Síntese (3-5 linhas)
-A programação e o desenvolvimento são disciplinas em constante evolução, impulsionadas por novas linguagens, frameworks e paradigmas. Tendências como o uso crescente de inteligência artificial, a adoção de arquiteturas baseadas em microsserviços e o foco em desenvolvimento sustentável estão moldando o futuro da área. Dominar fundamentos, como algoritmos, estrutura de dados e boas práticas de codificação, continua essencial, mas a adaptabilidade às mudanças tecnológicas é cada vez mais crítica.
+Programação e desenvolvimento são pilares da tecnologia moderna, impulsionados por práticas como metodologias ágeis, DevOps e uso crescente de IA. Linguagens como Python e JavaScript continuam dominantes, enquanto paradigmas como programação funcional e ferramentas low-code ganham espaço. A segurança e a ética no desenvolvimento são áreas críticas de atenção.
 
 ## 🔬 Detalhes
-- **Fundamentos sólidos**: Conceitos como algoritmos, estruturas de dados, controle de versões e princípios de design (ex.: SOLID) permanecem essenciais para construir software robusto e escalável.
-- **Paradigmas emergentes**: A programação funcional ganha força por sua capacidade de lidar melhor com concorrência e imutabilidade, especialmente em sistemas distribuídos.
-- **Inteligência artificial**: Ferramentas baseadas em IA, como copilotos de código, estão transformando a produtividade dos desenvolvedores e possibilitando automação em várias etapas do desenvolvimento.
-- **Microsserviços e arquitetura serverless**: Modelos arquiteturais modernos, como microsserviços e serverless, oferecem escalabilidade e flexibilidade, mudando como desenvolvemos e implantamos sistemas.
-- **Desenvolvimento sustentável**: Há um movimento crescente para criar software que consuma menos energia e seja mais eficiente, em linha com preocupações ambientais e econômicas.
-- **Segurança no ciclo de desenvolvimento**: A integração de práticas de segurança, desde as primeiras etapas de desenvolvimento (DevSecOps), tornou-se uma prioridade para mitigar riscos cibernéticos.
+- **Metodologias ágeis**: Scrum e Kanban continuam sendo amplamente utilizados para gerenciar projetos e aumentar a eficiência.
+- **DevOps**: Integração contínua e entrega contínua (CI/CD) são práticas essenciais para agilidade e qualidade no desenvolvimento.
+- **Linguagens populares**: Python e JavaScript lideram o mercado, enquanto Rust e Go ganham tração por sua performance e segurança.
+- **Programação funcional**: Paradigma que enfatiza funções puras e imutabilidade, com crescente adoção em linguagens como Scala e Haskell.
+- **Low-code/no-code**: Plataformas como Bubble e Webflow democratizam o desenvolvimento, permitindo que não-programadores criem aplicações.
+- **IA no desenvolvimento**: Ferramentas como GPT e Copilot estão transformando a forma como desenvolvedores escrevem código e testam aplicações.
 
 ## 🔗 Conexões
 - [[Claude API e Anthropic SDK]]
-- [[Pesquisa - Impacto da IA no mercado de trabalho]]
 - [[Projeto - Sistema Chamados]]
 
 ## 📚 Fontes
-- [[Referência - Clean Code (Robert C. Martin)]]
-- [[Referência - The Pragmatic Programmer (Andrew Hunt e David Thomas)]]
-- [[Referência - Designing Data-Intensive Applications (Martin Kleppmann)]]
+- [[Referência - Metodologias Ágeis e Scrum]]
+- [[Referência - DevOps na Prática]]
+- [[Referência - Tendências em Linguagens de Programação]]
 
 ## 🚧 Lacunas
-- Como a programação quântica pode impactar paradigmas de desenvolvimento no futuro?
-- Quais são as melhores práticas para equilibrar eficiência e sustentabilidade no desenvolvimento de software?
-- Como desenvolver habilidades para se adaptar às rápidas mudanças em linguagens e frameworks?
+- Como equilibrar ética e inovação no uso de IA no desenvolvimento de software?
+- Quais são os impactos de longo prazo das plataformas low-code/no-code na profissão de desenvolvedor?
+- Como Rust e Go podem influenciar o futuro da programação segura e de alta performance?
+```
