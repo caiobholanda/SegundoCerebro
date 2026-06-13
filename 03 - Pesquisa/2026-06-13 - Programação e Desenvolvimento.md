@@ -3,7 +3,7 @@
 tipo: pesquisa
 criado: 2026-06-13
 atualizado: 2026-06-13
-pergunta-central: Quais são as práticas e ferramentas mais relevantes para um desenvolvedor moderno melhorar sua produtividade e criar software de impacto?
+pergunta-central: Como a evolução das ferramentas e práticas de programação influencia o desenvolvimento de software moderno?
 relacionado-a: []
 related: []
 tags: [pesquisa, dev, produtividade]
@@ -12,32 +12,30 @@ tags: [pesquisa, dev, produtividade]
 # Pesquisa - Programação e Desenvolvimento
 
 ## ❓ Pergunta central
-Quais são as práticas e ferramentas mais relevantes para um desenvolvedor moderno melhorar sua produtividade e criar software de impacto?
+Como a evolução das ferramentas e práticas de programação influencia o desenvolvimento de software moderno?
 
 ## 🎯 Síntese (3-5 linhas)
-A programação evolui rapidamente, e o desenvolvedor moderno precisa equilibrar habilidades técnicas com soft skills e o uso de ferramentas adequadas. Práticas como metodologias ágeis, programação limpa e conhecimento de múltiplas linguagens são essenciais. Além disso, o uso de ferramentas de automação, versionamento e colaboração, como Git, CI/CD e plataformas como GitHub, são indispensáveis para otimizar processos e entregar software de qualidade.
+O desenvolvimento de software moderno é impulsionado por ferramentas cada vez mais automatizadas e práticas ágeis que priorizam a colaboração e a entrega contínua. Linguagens e frameworks evoluem para atender à crescente demanda por eficiência, escalabilidade e segurança. O papel do desenvolvedor também se transforma, exigindo habilidades em arquitetura de sistemas, colaboração interdisciplinar e adaptação às inovações tecnológicas.
 
 ## 🔬 Detalhes
-- **Metodologias ágeis** como Scrum e Kanban são amplamente adotadas para organização e entrega iterativa de projetos.
-- **Programação limpa** (clean code) é um conjunto de práticas que promovem código legível, sustentável e menos propenso a erros.
-- **Versionamento com Git** e plataformas como GitHub e GitLab são fundamentais para colaboração em equipe e controle de versões.
-- **Ferramentas de automação** como Jenkins e GitHub Actions tornam o processo de integração e entrega contínua (CI/CD) mais eficiente.
-- **Aprendizado constante** é essencial, já que novas linguagens, frameworks e paradigmas emergem frequentemente no mercado.
-- **Soft skills** como comunicação, trabalho em equipe e resolução de problemas são tão importantes quanto habilidades técnicas para o sucesso no desenvolvimento.
+- A transição para metodologias ágeis, como Scrum e Kanban, substituiu práticas tradicionais de desenvolvimento em cascata, incentivando ciclos de desenvolvimento iterativos e colaborativos.
+- Ferramentas de CI/CD (Integração Contínua e Entrega Contínua) adotam automação para reduzir erros e aumentar a frequência de lançamentos.
+- O advento de linguagens como Python e Rust reflete demandas por simplicidade, segurança e performance em diferentes cenários.
+- Frameworks como React, Angular e Vue.js revolucionaram o desenvolvimento de interfaces, promovendo uma abordagem componentizada.
+- A ascensão da IA e do aprendizado de máquina está transformando o desenvolvimento, com ferramentas como o GitHub Copilot que automatizam tarefas repetitivas.
+- O conceito de DevOps e a integração de práticas de operação e desenvolvimento têm reduzido o tempo de deploy e melhorado a confiabilidade dos sistemas.
 
 ## 🔗 Conexões
 - [[Claude API e Anthropic SDK]]
-- [[Pesquisa - Metodologias Ágeis]]
-- [[Pesquisa - Boas Práticas em Git]]
-- [[Área - Desenvolvimento de Software]]
+- [[Projeto - Sistema Chamados]]
 
 ## 📚 Fontes
-- [[Referência - Clean Code (Robert C. Martin)]]
-- [[Referência - GitHub Documentation]]
-- [[Referência - Agile Manifesto]]
+- [[Referência - Manifesto Ágil]]
+- [[Referência - Livro Clean Code]]
+- [[Referência - Documentação oficial do GitHub Copilot]]
 
 ## 🚧 Lacunas
-- Quais são as linguagens de programação mais promissoras para os próximos 10 anos?
-- Como a inteligência artificial pode impactar a produtividade no desenvolvimento de software?
-- Quais são as melhores estratégias para equilibrar o aprendizado contínuo com a execução de projetos?
+- Como as práticas de programação estão sendo adaptadas para sistemas de IA generativa e computação quântica?
+- Quais são as implicações éticas e sociais do uso crescente de automação e IA no desenvolvimento de software?
+- Como as novas linguagens e frameworks impactam a curva de aprendizado de novos desenvolvedores?
 ```
