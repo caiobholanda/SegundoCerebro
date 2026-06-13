@@ -3,7 +3,7 @@
 tipo: pesquisa
 criado: 2026-06-13
 atualizado: 2026-06-13
-pergunta-central: Quais são as tendências, desafios e oportunidades do mercado de TI no Brasil atualmente?
+pergunta-central: Quais são as tendências, desafios e oportunidades no mercado de TI no Brasil em 2026?
 relacionado-a: []
 related: []
 tags: [pesquisa, mercado, carreira]
@@ -12,30 +12,31 @@ tags: [pesquisa, mercado, carreira]
 # Pesquisa - Mercado de TI no Brasil
 
 ## ❓ Pergunta central
-Quais são as tendências, desafios e oportunidades do mercado de TI no Brasil atualmente?
+Quais são as tendências, desafios e oportunidades no mercado de TI no Brasil em 2026?
 
 ## 🎯 Síntese (3-5 linhas)
-O mercado de TI no Brasil está em expansão, impulsionado pela transformação digital das empresas e a crescente demanda por soluções tecnológicas. As áreas de destaque incluem segurança cibernética, inteligência artificial e computação em nuvem. No entanto, o setor enfrenta desafios como a escassez de profissionais qualificados e a necessidade de adequação às regulamentações de proteção de dados.
+O mercado de TI no Brasil continua em expansão, impulsionado por demandas de transformação digital, inteligência artificial e cibersegurança. No entanto, enfrenta desafios como escassez de profissionais qualificados e adaptação às novas regulamentações de dados. As oportunidades incluem crescimento no setor de fintechs, healthtechs e soluções de IoT, destacando a relevância de habilidades técnicas e de negócios no setor.
 
 ## 🔬 Detalhes
-- O mercado de tecnologia no Brasil cresceu 22,9% em 2025, com destaque para os setores de fintechs, e-commerce e agritech.
-- A LGPD (Lei Geral de Proteção de Dados) tem impulsionado a demanda por especialistas em compliance e segurança de dados.
-- A área de desenvolvimento de software segue sendo a mais requisitada, com destaque para linguagens como Python, Java e JavaScript.
-- O mercado enfrenta uma lacuna de mais de 400 mil profissionais qualificados em TI, segundo a Brasscom.
-- A crescente adoção de inteligência artificial e automação está gerando novas demandas por skills relacionadas à IA, aprendizado de máquina e ciência de dados.
-- Startups brasileiras têm recebido volumes recordes de investimentos, especialmente em setores como fintech, healthtech e edtech.
+- O setor de TI no Brasil cresceu consistentemente nos últimos anos, representando cerca de 6,5% do PIB nacional em 2025.
+- A transformação digital acelerada por empresas de todos os portes gerou alta demanda por desenvolvedores, arquitetos de nuvem e especialistas em dados.
+- A escassez de profissionais qualificados é um dos maiores desafios, com mais de 100 mil vagas abertas sem preenchimento.
+- As fintechs lideram o mercado de startups, seguidas por healthtechs e edtechs, com investimentos robustos em soluções inovadoras.
+- Regulamentações como a LGPD (Lei Geral de Proteção de Dados) aumentaram a demanda por profissionais de compliance e cibersegurança.
+- Inteligência artificial e automação são áreas de destaque, com grande impacto na otimização de processos e na criação de produtos inteligentes.
 
 ## 🔗 Conexões
-- [[Pesquisa - Inteligência Artificial no Brasil]]
-- [[Projeto - Sistema Chamados]]
+- [[Claude API e Anthropic SDK]]
+- [[Pesquisa - Transformação Digital]]
+- [[Área - Desenvolvimento de Software]]
 
 ## 📚 Fontes
-- [[Referência - Panorama do Mercado de TI no Brasil]]
-- [[Referência - LGPD e Impactos na Indústria de Tecnologia]]
-- [[Referência - Relatório Brasscom 2025]]
+- [[Referência - Panorama do Mercado de TI no Brasil 2025]]
+- [[Referência - Relatório sobre Startups Brasileiras 2026]]
+- [[Referência - Impacto da LGPD no Mercado de Trabalho de TI]]
 
 ## 🚧 Lacunas
-- Qual a efetividade das iniciativas de formação de novos profissionais em TI no Brasil?
-- Como o mercado de TI brasileiro está se posicionando em relação à sustentabilidade e tecnologia verde?
-- Quais são as diferenças regionais dentro do Brasil no que diz respeito à maturidade do mercado de TI?
+- Quais são as regiões do Brasil com maior potencial de crescimento no setor de TI?
+- Como as empresas brasileiras estão se adaptando às tendências globais de sustentabilidade digital?
+- Qual é o impacto da IA generativa no mercado de trabalho de TI no Brasil?
 ```
