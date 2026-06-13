@@ -15,28 +15,27 @@ tags: [pesquisa, mercado, carreira]
 Quais são as principais tendências, desafios e oportunidades no mercado de TI no Brasil em 2026?
 
 ## 🎯 Síntese (3-5 linhas)
-O mercado de TI no Brasil continua em crescimento, impulsionado pela transformação digital e pela crescente demanda por soluções tecnológicas. Profissões ligadas à inteligência artificial, cibersegurança e desenvolvimento de software são algumas das mais valorizadas. Apesar disso, o país ainda enfrenta desafios como a escassez de profissionais qualificados e a necessidade de políticas públicas que incentivem a inovação e o acesso à tecnologia.
+O mercado de TI no Brasil em 2026 continua em expansão, impulsionado pela transformação digital e pelo aumento da demanda por soluções de tecnologia em setores como saúde, finanças e educação. Entretanto, desafios como a falta de profissionais qualificados e a alta competitividade global pressionam empresas e talentos locais. Tecnologias emergentes, como IA generativa e computação em nuvem, estão no centro das inovações, enquanto a regulamentação do setor de tecnologia gera debates sobre privacidade e segurança.
 
 ## 🔬 Detalhes
-- O mercado de TI no Brasil deve crescer cerca de 8% em 2026, acima da média global, segundo projeções do IDC.
-- Áreas como inteligência artificial, computação em nuvem e análise de dados estão em alta demanda.
-- A escassez de profissionais qualificados é um dos maiores gargalos, com uma estimativa de 70 mil vagas abertas sem preenchimento em 2026.
-- Programas de capacitação, como bootcamps e cursos de curta duração, estão se popularizando como solução para a formação acelerada de profissionais.
-- O setor de cibersegurança tem ganhado destaque, com um aumento significativo nos ataques cibernéticos no Brasil, o que pressiona empresas a investirem mais em proteção digital.
-- Empresas estão cada vez mais buscando soluções que combinem eficiência tecnológica com sustentabilidade, alinhando-se a práticas ESG (ambiental, social e governança).
+- O Brasil é o maior mercado de TI da América Latina, representando uma fatia significativa do setor na região.
+- A transformação digital acelerada pela pandemia continua a impulsionar investimentos em automação, inteligência artificial e computação em nuvem.
+- A falta de mão de obra qualificada é um dos maiores gargalos, com empresas enfrentando dificuldades para preencher vagas, especialmente em desenvolvimento de software, ciência de dados e cibersegurança.
+- A popularização de IA generativa, como modelos de linguagem, está criando novas oportunidades, mas também desafios éticos e de regulamentação.
+- Startups brasileiras de tecnologia têm atraído investidores internacionais, com crescente interesse em fintechs, edtechs e healthtechs.
+- O Brasil enfrenta desafios na infraestrutura de TI, especialmente fora dos grandes centros urbanos, o que limita a expansão de serviços digitais em regiões mais remotas.
 
 ## 🔗 Conexões
-- [[Pesquisa - Transformação Digital no Brasil]]
-- [[Pesquisa - Inteligência Artificial e Automação no Mercado de Trabalho]]
-- [[Áreas - Desenvolvimento de Software]]
+- [[Claude API e Anthropic SDK]]
+- [[Projeto - Sistema Chamados]]
 
 ## 📚 Fontes
-- [[Referência - IDC e o mercado de TI no Brasil]]
-- [[Referência - Relatório sobre Cibersegurança no Brasil]]
-- [[Referência - Impacto da Transformação Digital nos Negócios]]
+- [[Referência - Panorama do mercado de TI no Brasil 2026]]
+- [[Referência - Transformação digital na América Latina]]
+- [[Referência - Relatório sobre IA generativa e regulamentação]]
 
 ## 🚧 Lacunas
-- Quais são as políticas públicas mais eficazes para reduzir a escassez de profissionais qualificados em TI no Brasil?
-- Como as pequenas e médias empresas podem competir em um mercado dominado por grandes players tecnológicos?
-- Qual é o impacto da automação e da IA nos empregos de TI no Brasil nos próximos 5 anos?
+- Qual é o impacto exato das regulamentações recentes no setor de TI brasileiro?
+- Como o mercado de trabalho em TI pode ser mais inclusivo e acessível para novos talentos?
+- Quais são os melhores caminhos para melhorar a infraestrutura de TI fora dos grandes centros urbanos no Brasil?
 ```
