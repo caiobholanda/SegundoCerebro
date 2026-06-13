@@ -3,39 +3,39 @@
 tipo: pesquisa
 criado: 2026-06-13
 atualizado: 2026-06-13
-pergunta-central: Quais são as principais tendências, desafios e oportunidades no mercado de TI brasileiro em 2026?
+pergunta-central: Quais são as tendências, desafios e oportunidades do mercado de TI no Brasil atualmente?
 relacionado-a: []
-related: [[Projeto - Sistema Chamados]]
+related: []
 tags: [pesquisa, mercado, carreira]
 ---
 
 # Pesquisa - Mercado de TI no Brasil
 
 ## ❓ Pergunta central
-Quais são as principais tendências, desafios e oportunidades no mercado de TI brasileiro em 2026?
+Quais são as tendências, desafios e oportunidades do mercado de TI no Brasil atualmente?
 
 ## 🎯 Síntese (3-5 linhas)
-O mercado de TI no Brasil continua em crescimento acelerado, impulsionado pela transformação digital, adoção de tecnologias emergentes e demanda por profissionais qualificados. Apesar disso, desafios como a escassez de talentos e desigualdades regionais persistem. Setores como fintech, saúde digital e inteligência artificial lideram as oportunidades de inovação e investimento.
+O mercado de TI no Brasil está em expansão, impulsionado pela transformação digital das empresas e a crescente demanda por soluções tecnológicas. As áreas de destaque incluem segurança cibernética, inteligência artificial e computação em nuvem. No entanto, o setor enfrenta desafios como a escassez de profissionais qualificados e a necessidade de adequação às regulamentações de proteção de dados.
 
 ## 🔬 Detalhes
-- O mercado de TI brasileiro deve crescer cerca de 8% em 2026, consolidando-se como um dos setores mais promissores da economia.
-- Existe alta demanda por profissionais qualificados em áreas como desenvolvimento de software, segurança da informação e análise de dados.
-- São Paulo e Santa Catarina lideram como os principais polos de tecnologia no país, enquanto outras regiões ainda enfrentam barreiras de infraestrutura e investimento.
-- A adoção de inteligência artificial e machine learning está ganhando espaço, especialmente em áreas como saúde digital e agritech.
-- Fintechs brasileiras continuam a atrair investimentos significativos, com foco em inclusão financeira e inovação nos serviços bancários.
-- O modelo de trabalho remoto e híbrido se consolida, obrigando empresas a investirem em ferramentas de colaboração e segurança digital.
+- O mercado de tecnologia no Brasil cresceu 22,9% em 2025, com destaque para os setores de fintechs, e-commerce e agritech.
+- A LGPD (Lei Geral de Proteção de Dados) tem impulsionado a demanda por especialistas em compliance e segurança de dados.
+- A área de desenvolvimento de software segue sendo a mais requisitada, com destaque para linguagens como Python, Java e JavaScript.
+- O mercado enfrenta uma lacuna de mais de 400 mil profissionais qualificados em TI, segundo a Brasscom.
+- A crescente adoção de inteligência artificial e automação está gerando novas demandas por skills relacionadas à IA, aprendizado de máquina e ciência de dados.
+- Startups brasileiras têm recebido volumes recordes de investimentos, especialmente em setores como fintech, healthtech e edtech.
 
 ## 🔗 Conexões
-- [[Claude API e Anthropic SDK]]
 - [[Pesquisa - Inteligência Artificial no Brasil]]
+- [[Projeto - Sistema Chamados]]
 
 ## 📚 Fontes
-- [[Referência - Panorama do Mercado de TI no Brasil 2026]]
-- [[Referência - Relatório Gartner sobre TI no Brasil]]
-- [[Referência - Pesquisa de Salários e Demanda de Profissionais de TI]]
+- [[Referência - Panorama do Mercado de TI no Brasil]]
+- [[Referência - LGPD e Impactos na Indústria de Tecnologia]]
+- [[Referência - Relatório Brasscom 2025]]
 
 ## 🚧 Lacunas
-- Quais políticas públicas podem ser implementadas para reduzir desigualdades regionais na área de TI no Brasil?
-- Quais são os impactos econômicos da crescente adoção de inteligência artificial no mercado de trabalho brasileiro?
-- Como as pequenas e médias empresas estão lidando com os desafios da transformação digital?
+- Qual a efetividade das iniciativas de formação de novos profissionais em TI no Brasil?
+- Como o mercado de TI brasileiro está se posicionando em relação à sustentabilidade e tecnologia verde?
+- Quais são as diferenças regionais dentro do Brasil no que diz respeito à maturidade do mercado de TI?
 ```
