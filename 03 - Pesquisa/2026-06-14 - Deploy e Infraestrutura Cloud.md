@@ -1,43 +1,44 @@
+```markdown
 ---
 tipo: pesquisa
 criado: 2026-06-14
 atualizado: 2026-06-14
-pergunta-central: Como executar um deploy eficiente e manter uma infraestrutura cloud escalável e resiliente?
-relacionado-a: [arquitetura-cloud, devops, ci-cd]
-related: [[Claude API e Anthropic SDK]], [[DevOps - Práticas essenciais]], [[Infraestrutura como Código]]
+pergunta-central: Como configurar uma infraestrutura cloud eficiente e realizar deploys automatizados e escaláveis?
+relacionado-a: []
+related: [[Projeto - Sistema Chamados]]
 tags: [pesquisa, dev, infra]
 ---
 
 # Pesquisa - Deploy e Infraestrutura Cloud
 
 ## ❓ Pergunta central
-Como executar um deploy eficiente e manter uma infraestrutura cloud escalável e resiliente?
+Como configurar uma infraestrutura cloud eficiente e realizar deploys automatizados e escaláveis?
 
 ## 🎯 Síntese (3-5 linhas)
-Deploy e infraestrutura cloud são fundamentais para a entrega contínua de software de alta qualidade. Um pipeline de CI/CD bem projetado, integrado a práticas de IaC (Infraestrutura como Código), garante automação, rastreabilidade e consistência. Além disso, adotar estratégias como escalabilidade horizontal, monitoramento em tempo real e arquiteturas serverless pode otimizar custos e desempenho, enquanto mitiga riscos de falhas.
+A infraestrutura cloud e os processos de deploy são essenciais para empresas que buscam agilidade, escalabilidade e eficiência operacional. Ferramentas como Docker, Kubernetes e Terraform são amplamente utilizadas para provisionamento, orquestração e automação. A adoção de práticas como CI/CD e a escolha adequada de provedores cloud são fatores críticos para o sucesso.
 
 ## 🔬 Detalhes
-- Deploy contínuo (CD) é a prática de automatizar a entrega de código em produção após a aprovação de testes automatizados, reduzindo o tempo de lançamento e os riscos de falhas.
-- Infraestrutura como Código (IaC) permite gerenciar e provisionar recursos de infraestrutura de maneira programática, utilizando ferramentas como Terraform, AWS CloudFormation e Ansible.
-- A escalabilidade horizontal (adicionar instâncias) é muitas vezes mais eficiente que a escalabilidade vertical (aumentar capacidade de uma única instância) em arquiteturas cloud.
-- O uso de pipelines CI/CD, como Jenkins, GitHub Actions e GitLab CI, facilita a integração e entrega contínua, promovendo agilidade no ciclo de desenvolvimento.
-- Estratégias de monitoramento com ferramentas como Prometheus, Grafana e New Relic ajudam a identificar gargalos e prevenir falhas em tempo real.
-- Arquiteturas serverless, como AWS Lambda e Google Cloud Functions, permitem executar código sob demanda sem necessidade de provisionar servidores, reduzindo custos de infraestrutura.
-- O uso de containers e orquestradores como Docker e Kubernetes simplifica a portabilidade e a escalabilidade das aplicações.
+- O uso de contêineres, como os do [[Docker]], facilita a portabilidade e a consistência entre ambientes de desenvolvimento e produção.
+- [[Kubernetes]] é uma das ferramentas mais populares para orquestrar contêineres em ambientes cloud, permitindo escalabilidade e gerenciamento automatizado.
+- Provedores cloud como [[AWS]], [[Google Cloud]] e [[Azure]] oferecem serviços gerenciados para facilitar a configuração de infraestrutura e escalabilidade.
+- Práticas de CI/CD (Continuous Integration/Continuous Deployment) são fundamentais para automação de testes e deploys, reduzindo erros e tempo de entrega.
+- Ferramentas como [[Terraform]] e [[Ansible]] simplificam a infraestrutura como código (IaC), promovendo reprodutibilidade e controle de versão.
+- Segurança na nuvem é uma preocupação crescente, demandando boas práticas como controle de acesso, criptografia e monitoramento contínuo.
 
 ## 🔗 Conexões
 - [[Claude API e Anthropic SDK]]
-- [[DevOps - Práticas essenciais]]
-- [[Infraestrutura como Código]]
+- [[DevOps e Integração Contínua]]
+- [[Automação com Terraform]]
+- [[Referência - Kubernetes para Iniciantes]]
 
 ## 📚 Fontes
-- [[Referência - The Phoenix Project (Gene Kim, Kevin Behr, George Spafford)]]
-- [[Referência - The DevOps Handbook (Gene Kim, Patrick Debois, et al.)]]
-- [[Referência - Site Reliability Engineering (Google SRE)]]
-- [[Referência - Terraform Documentation]]
+- [[Referência - Livro: Kubernetes Patterns]]
+- [[Referência - Documentação Oficial Docker]]
 - [[Referência - AWS Well-Architected Framework]]
+- [[Referência - Guia Terraform para DevOps]]
 
 ## 🚧 Lacunas
-- Quais são os trade-offs entre o uso de arquiteturas serverless e tradicionais em aplicações de larga escala?
-- Como gerenciar a segurança de pipelines CI/CD em ambientes cloud públicos?
-- Quais são os principais desafios para implementar práticas de IaC em organizações legadas?
+- Como escolher o melhor provedor cloud para diferentes tipos de aplicações?
+- Quais são os trade-offs entre usar ferramentas gerenciadas pelo provedor versus soluções open-source?
+- Quais são as práticas emergentes para segurança em ambientes cloud-native?
+```
