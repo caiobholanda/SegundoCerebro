@@ -3,39 +3,39 @@
 tipo: pesquisa
 criado: 2026-06-13
 atualizado: 2026-06-13
-pergunta-central: Quais são as principais características, desafios e oportunidades do mercado de TI no Brasil em 2026?
+pergunta-central: Quais são as principais tendências, desafios e oportunidades do mercado de TI no Brasil em 2026?
 relacionado-a: []
-related: [[Projeto - Sistema Chamados]]
+related: []
 tags: [pesquisa, mercado, carreira]
 ---
 
 # Pesquisa - Mercado de TI no Brasil
 
 ## ❓ Pergunta central
-Quais são as principais características, desafios e oportunidades do mercado de TI no Brasil em 2026?
+Quais são as principais tendências, desafios e oportunidades do mercado de TI no Brasil em 2026?
 
 ## 🎯 Síntese (3-5 linhas)
-O mercado de TI no Brasil continua em expansão, impulsionado pela transformação digital e pela demanda crescente por soluções tecnológicas. Há um déficit significativo de profissionais qualificados, o que gera oportunidades para formação e qualificação. No entanto, desafios como burocracia, altos custos tributários e desigualdade regional ainda limitam o pleno desenvolvimento do setor.
+O mercado de TI no Brasil continua em crescimento acelerado, impulsionado pela transformação digital e pela busca de soluções tecnológicas em diversos setores. Há alta demanda por profissionais qualificados, mas a falta de mão de obra especializada ainda é um desafio. Além disso, áreas como inteligência artificial, segurança cibernética e computação em nuvem destacam-se como tendências promissoras.
 
 ## 🔬 Detalhes
-- O mercado de TI no Brasil movimentou mais de R$ 200 bilhões em 2025, representando cerca de 8% do PIB nacional.
-- A transformação digital está sendo liderada por setores como finanças, saúde, agronegócio e varejo, com destaque para a adoção de tecnologias como IA, Big Data e IoT.
-- Existe um déficit de mais de 400 mil profissionais qualificados em TI, segundo a Associação Brasileira das Empresas de Tecnologia da Informação e Comunicação (Brasscom).
-- Startups de tecnologia no Brasil têm atraído investimentos significativos, com destaque para fintechs e empresas de soluções SaaS.
-- A desigualdade regional é um desafio, com a maioria das vagas e oportunidades concentradas no Sudeste, especialmente em São Paulo.
-- Políticas públicas de incentivo ao setor, como a Lei de Informática, têm contribuído para o crescimento da indústria, mas questões como alta carga tributária e burocracia ainda são entraves importantes.
+- O Brasil é o maior mercado de TI da América Latina, representando cerca de 40% do setor na região.
+- A escassez de profissionais qualificados em áreas como desenvolvimento de software e ciência de dados dificulta o preenchimento de vagas, mesmo com salários atrativos.
+- A transformação digital acelerada por empresas brasileiras tem impulsionado investimentos em tecnologia, especialmente em setores como fintech, saúde e agronegócio.
+- A computação em nuvem e inteligência artificial são áreas de maior crescimento, com empresas adotando essas tecnologias para aumentar a eficiência e reduzir custos.
+- Startups de tecnologia estão em ascensão, com cidades como São Paulo e Florianópolis se destacando como hubs de inovação.
+- Políticas públicas e programas de capacitação, como o Brasil Mais Digital, buscam mitigar o gap de qualificação e fomentar novos talentos.
 
 ## 🔗 Conexões
 - [[Projeto - Sistema Chamados]]
-- [[Pesquisa - Transformação Digital no Brasil]]
-- [[Pesquisa - Inteligência Artificial no Mercado Brasileiro]]
+- [[Claude API e Anthropic SDK]]
 
 ## 📚 Fontes
-- [[Referência - Brasscom 2025 Relatório Setorial]]
-- [[Referência - Panorama Startups Brasil 2026]]
+- [[Referência - Panorama do Mercado de TI no Brasil]]
+- [[Referência - Relatório sobre Transformação Digital no Brasil]]
+- [[Referência - Pesquisa sobre escassez de profissionais de TI]]
 
 ## 🚧 Lacunas
-- Quais serão os impactos de longo prazo do déficit de profissionais em TI no Brasil?
-- Como a descentralização de investimentos pode transformar o mercado de TI em regiões como Norte e Nordeste?
-- Quais setores ainda estão atrasados na transformação digital e por que?
+- Quais são os impactos específicos da automação e da inteligência artificial nos empregos de TI no Brasil?
+- Como as políticas públicas podem ser mais eficazes na formação de profissionais de TI?
+- Quais são os principais desafios enfrentados pelas startups brasileiras na área de TI?
 ```
