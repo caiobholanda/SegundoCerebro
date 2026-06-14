@@ -3,42 +3,40 @@
 tipo: pesquisa
 criado: 2026-06-14
 atualizado: 2026-06-14
-pergunta-central: Como estruturar um processo eficiente e escalável de deploy utilizando infraestrutura cloud?
-relacionado-a: [desenvolvimento-de-software, devops, aws, azure, gcp]
-related: [[Claude API e Anthropic SDK]]
+pergunta-central: Quais são as melhores práticas e ferramentas para realizar deploys eficientes e gerenciar infraestrutura na nuvem?
+relacionado-a: []
+related: [[Projeto - Sistema Chamados]]
 tags: [pesquisa, dev, infra]
 ---
 
 # Pesquisa - Deploy e Infraestrutura Cloud
 
 ## ❓ Pergunta central
-Como estruturar um processo eficiente e escalável de deploy utilizando infraestrutura cloud?
+Quais são as melhores práticas e ferramentas para realizar deploys eficientes e gerenciar infraestrutura na nuvem?
 
 ## 🎯 Síntese (3-5 linhas)
-A infraestrutura cloud transformou a maneira como aplicações são desenvolvidas, testadas, implementadas e escaladas. Processos de deploy modernos utilizam práticas como CI/CD, conteinerização e orquestração para entregar software de forma ágil e confiável. Escolher entre os provedores de cloud como AWS, Azure ou GCP depende das necessidades específicas de cada projeto, como custo, escalabilidade e compatibilidade com ferramentas existentes.
+A implementação de deploys eficientes e a gestão de infraestrutura em ambientes cloud demandam o uso de práticas como automação, CI/CD e monitoramento contínuo. Ferramentas como Terraform, Kubernetes e AWS Lambda são amplamente utilizadas. A escolha correta da abordagem depende das necessidades do projeto, como escalabilidade, custos e tempo de entrega.
 
 ## 🔬 Detalhes
-- **Definição de Deploy em Cloud**: Deploy refere-se ao processo de disponibilizar uma aplicação ou serviço em um ambiente de produção. No contexto de cloud, isso envolve a utilização de recursos virtualizados e serviços gerenciados.
-- **Provedores principais**: Amazon Web Services (AWS), Google Cloud Platform (GCP) e Microsoft Azure dominam o mercado. Cada um oferece serviços variados para computação, armazenamento, banco de dados e redes.
-- **Práticas de CI/CD (Integração e Entrega Contínuas)**: Integração contínua automatiza testes e builds, enquanto entrega contínua permite que mudanças sejam implementadas rapidamente e com menor risco.
-- **Uso de containers**: Ferramentas como Docker permitem empacotar aplicações e suas dependências em um único ambiente portátil, garantindo consistência entre desenvolvimento, homologação e produção.
-- **Orquestração com Kubernetes**: Kubernetes é amplamente adotado para gerenciar aplicações em containers, permitindo escalabilidade, balanceamento de carga e alta disponibilidade.
-- **Infraestrutura como Código (IaC)**: Ferramentas como Terraform e AWS CloudFormation permitem que a infraestrutura seja criada e gerenciada através de arquivos de configuração, promovendo reprodutibilidade e versionamento.
-- **Monitoramento e observabilidade**: Soluções como Prometheus, Grafana e CloudWatch proporcionam visibilidade em tempo real sobre o desempenho e a saúde das aplicações e infraestrutura.
-- **Custo e escalabilidade**: Uma das maiores vantagens da cloud é a flexibilidade para escalar recursos automaticamente (auto-scaling) e pagar apenas pelo que é utilizado.
+- **Automação de processos**: Ferramentas como Terraform e Ansible facilitam o provisionamento e a configuração da infraestrutura de forma repetitiva e previsível.
+- **CI/CD**: Pipelines de integração e entrega contínuas (Jenkins, GitHub Actions, GitLab CI/CD) permitem deploys frequentes e automatizados, reduzindo erros manuais.
+- **Contêineres e orquestração**: Kubernetes e Docker são amplamente utilizados para gerenciar aplicações em ambientes distribuídos, permitindo escalabilidade horizontal.
+- **Serverless computing**: Soluções como AWS Lambda e Google Cloud Functions permitem executar código sem gerenciar servidores, sendo uma abordagem eficiente para workloads event-driven.
+- **Monitoramento e observabilidade**: Ferramentas como Prometheus, Grafana e Datadog ajudam a rastrear métricas, logs e eventos, garantindo a saúde da infraestrutura.
+- **Gestão de custos**: A escolha de instâncias otimizadas (como spot instances) e o uso de ferramentas de análise de custos ajudam a controlar o orçamento em nuvem.
 
 ## 🔗 Conexões
 - [[Claude API e Anthropic SDK]]
 - [[Projeto - Sistema Chamados]]
-- [[Pesquisa - Integração Contínua e Entrega Contínua (CI/CD)]]
+- [[Pesquisa - Kubernetes e Microsserviços]]
 
 ## 📚 Fontes
-- [[Referência - AWS Well-Architected Framework]]
-- [[Referência - Livro - Kubernetes Up & Running]]
-- [[Referência - Terraform Documentation]]
+- [[Referência - Site Terraform]]
+- [[Referência - Livro Kubernetes Up and Running]]
+- [[Referência - Guia AWS Lambda para Iniciantes]]
 
 ## 🚧 Lacunas
-- Quais critérios específicos utilizar para escolher entre AWS, Azure e GCP em diferentes cenários?
-- Como otimizar custos em projetos de infraestrutura cloud sem comprometer o desempenho?
-- Exemplos práticos de pipelines CI/CD para aplicações complexas em containers.
+- Quais ferramentas específicas são mais adequadas para startups que estão começando a usar nuvem?
+- Como escolher entre diferentes provedores de cloud (AWS, Azure, Google Cloud) para diferentes tipos de projetos?
+- Quais são os melhores métodos para garantir segurança em pipelines de CI/CD?
 ```
