@@ -3,43 +3,40 @@
 tipo: pesquisa
 criado: 2026-06-15
 atualizado: 2026-06-15
-pergunta-central: Quais são as tendências e melhores práticas atuais em programação e desenvolvimento?
+pergunta-central: Como a evolução das tecnologias e metodologias impacta o cenário atual e futuro da programação e desenvolvimento?
 relacionado-a: []
-related: [[Claude API e Anthropic SDK]], [[Pesquisa - Inteligência Artificial Generativa]]
+related: []
 tags: [pesquisa, dev, produtividade]
 ---
 
 # Pesquisa - Programação e Desenvolvimento
 
 ## ❓ Pergunta central
-Quais são as tendências e melhores práticas atuais em programação e desenvolvimento?
+Como a evolução das tecnologias e metodologias impacta o cenário atual e futuro da programação e desenvolvimento?
 
 ## 🎯 Síntese (3-5 linhas)
-Programação e desenvolvimento têm evoluído rapidamente com o avanço de tecnologias como inteligência artificial, programação funcional e metodologias ágeis. Ferramentas de automação, integração contínua e desenvolvimento orientado a testes (TDD) são essenciais para garantir eficiência e qualidade. Além disso, a importância da acessibilidade e da segurança digitais está em alta, moldando decisões de arquitetura e práticas de codificação.
+A programação e o desenvolvimento têm evoluído rapidamente com a adoção de novas tecnologias, como inteligência artificial, computação em nuvem e metodologias ágeis. Essas inovações estão transformando a forma como softwares são criados, testados e mantidos, promovendo maior eficiência, colaboração e acessibilidade. No entanto, novos desafios surgem, como a necessidade de atualização constante e o impacto ético de tecnologias avançadas.
 
 ## 🔬 Detalhes
-- A adoção de inteligência artificial está impactando diretamente o desenvolvimento de software, com ferramentas como [[Claude API e Anthropic SDK]] e GPTs facilitando automação e análise de código.
-- Metodologias ágeis continuam sendo amplamente usadas, mas frameworks como Scrum estão sendo complementados ou substituídos por abordagens mais flexíveis, como Kanban ou Lean.
-- Programação funcional está ganhando força devido à sua capacidade de reduzir efeitos colaterais e aumentar a legibilidade e manutenção do código.
-- Ferramentas de automação como GitHub Copilot estão transformando o trabalho de desenvolvedores ao acelerar a escrita de código.
-- Práticas de DevOps, como integração e entrega contínua (CI/CD), são indispensáveis para pipelines de desenvolvimento modernos.
-- Segurança digital tornou-se prioridade: frameworks como OWASP são fundamentais para proteger aplicações contra vulnerabilidades crescentes.
-- A acessibilidade digital está sendo cada vez mais integrada como padrão, com diretrizes como WCAG moldando o design de interfaces.
-- Linguagens de programação como Rust e Kotlin ganham destaque por sua robustez, segurança e eficiência em comparação a linguagens tradicionais.
+- A popularização de linguagens de alto nível, como Python e JavaScript, democratizou o acesso à programação.
+- Metodologias ágeis, como Scrum e Kanban, ganharam tração devido à sua capacidade de promover entregas mais rápidas e iterativas.
+- Ferramentas de versionamento, como Git, tornaram a colaboração entre desenvolvedores mais eficiente e segura.
+- A inteligência artificial está sendo integrada no desenvolvimento, com assistentes de codificação como GitHub Copilot e Claude Code.
+- O paradigma de "low-code/no-code" está permitindo que pessoas sem formação técnica desenvolvam soluções personalizadas.
+- A computação em nuvem revolucionou o deployment e a escalabilidade de aplicações, reduzindo custos e barreiras de entrada.
 
 ## 🔗 Conexões
 - [[Claude API e Anthropic SDK]]
-- [[Pesquisa - Inteligência Artificial Generativa]]
-- [[Referência - OWASP Top Ten]] 
+- [[Pesquisas sobre Metodologias Ágeis]]
+- [[Referência - Introdução ao Low-Code e No-Code]]
 
 ## 📚 Fontes
-- [[Referência - Livro Clean Code]]
-- [[Referência - Site Stack Overflow]]
-- [[Referência - Documentação oficial do GitHub Copilot]]
-- [[Referência - WCAG Guidelines]]
+- [[Referência - História da Programação e suas Linguagens]]
+- [[Referência - O Guia do Desenvolvedor Ágil]]
+- [[Referência - Inteligência Artificial e Programação]]
 
 ## 🚧 Lacunas
-- Qual é o impacto econômico e social da adoção de programação assistida por IA em larga escala?
-- Como a programação funcional pode ser melhor integrada a sistemas legados?
-- Quais são os novos desafios de segurança emergentes com o uso de IA no desenvolvimento de software?
+- Quais serão as próximas grandes tendências em linguagens de programação nos próximos 10 anos?
+- Como a ética pode ser melhor integrada no processo de desenvolvimento de tecnologias emergentes?
+- Quais são os impactos do "low-code/no-code" na formação de futuros profissionais de tecnologia?
 ```
