@@ -3,7 +3,7 @@
 tipo: pesquisa
 criado: 2026-06-15
 atualizado: 2026-06-15
-pergunta-central: Quais são as principais características, desafios e oportunidades do mercado de TI no Brasil atualmente?
+pergunta-central: Quais são os principais desafios e oportunidades no mercado de TI no Brasil atualmente?
 relacionado-a: []
 related: []
 tags: [pesquisa, mercado, carreira]
@@ -12,29 +12,30 @@ tags: [pesquisa, mercado, carreira]
 # Pesquisa - Mercado de TI no Brasil
 
 ## ❓ Pergunta central
-Quais são as principais características, desafios e oportunidades do mercado de TI no Brasil atualmente?
+Quais são os principais desafios e oportunidades no mercado de TI no Brasil atualmente?
 
 ## 🎯 Síntese (3-5 linhas)
-O mercado de TI no Brasil está em constante expansão, impulsionado pela transformação digital e pela demanda crescente por profissionais qualificados. Apesar do crescimento, há desafios relacionados à falta de mão de obra especializada, desigualdades regionais e dificuldades econômicas. No entanto, as áreas de desenvolvimento de software, segurança cibernética e ciência de dados apresentam grande potencial de crescimento e oportunidades.
+O mercado de TI no Brasil apresenta crescimento consistente, impulsionado pela transformação digital e pela demanda por soluções tecnológicas em diversos setores. No entanto, enfrenta desafios como a escassez de talentos qualificados, altos custos tributários e a desigualdade de acesso à tecnologia. Áreas como desenvolvimento de software, segurança cibernética e inteligência artificial têm forte demanda, enquanto a qualificação profissional e políticas públicas podem moldar o futuro do setor.
 
 ## 🔬 Detalhes
-- O mercado de TI no Brasil cresce a uma taxa superior à média global, com destaque para o aumento da demanda por soluções digitais em todos os setores.
-- Há uma carência significativa de profissionais qualificados, com uma estimativa de que o país possa enfrentar um déficit de mais de 400 mil profissionais de TI até 2027.
-- As áreas mais promissoras incluem desenvolvimento de software, segurança cibernética, inteligência artificial e ciência de dados.
-- A pandemia acelerou a transformação digital nas empresas, aumentando a necessidade de soluções de TI em áreas como e-commerce, trabalho remoto e automação de processos.
-- Desigualdades regionais ainda são um desafio, com a maioria das oportunidades concentradas nas regiões Sudeste e Sul, enquanto outras áreas enfrentam dificuldades de acesso à tecnologia e capacitação.
-- Iniciativas de educação e capacitação, como bootcamps e cursos online, têm ganhado destaque para suprir a demanda do mercado.
+- O mercado de TI brasileiro vem crescendo a taxas superiores à economia geral, com previsão de expansão contínua nos próximos anos.
+- A demanda por profissionais de TI qualificados supera a oferta, resultando em um déficit significativo de mão de obra no setor.
+- Principais áreas de crescimento incluem desenvolvimento de software, segurança cibernética, inteligência artificial e computação em nuvem.
+- Startups e empresas de tecnologia têm impulsionado a inovação, especialmente em fintechs, edtechs e healthtechs.
+- Barreiras incluem altos custos tributários, burocracia e desigualdade de acesso à internet de qualidade em certas regiões do país.
+- Políticas públicas, como a Estratégia Brasileira de Transformação Digital (E-Digital), têm buscado fomentar a inovação e a digitalização no Brasil.
 
 ## 🔗 Conexões
-- [[Pesquisa - Tendências em Inteligência Artificial]]
+- [[Pesquisa - Profissões do Futuro]]
 - [[Projeto - Sistema Chamados]]
 
 ## 📚 Fontes
-- [[Referência - Relatório Mercado de TI Brasil 2026]]
-- [[Referência - Panorama TI no Brasil 2025]]
+- [[Referência - Panorama do Mercado de TI no Brasil (2025)]]
+- [[Referência - Relatório Anual da ABES sobre o Mercado de TI]]
+- [[Referência - Transformação Digital no Brasil (2025)]]
 
 ## 🚧 Lacunas
-- Como as políticas públicas podem ajudar a reduzir as desigualdades regionais no acesso ao mercado de TI?
-- Quais são as iniciativas mais eficazes para capacitar a força de trabalho em TI no Brasil?
-- Qual o impacto da automação no mercado de trabalho de TI brasileiro?
+- Quais são as iniciativas mais eficazes para reduzir o déficit de profissionais qualificados em TI no Brasil?
+- Como o mercado de TI no Brasil pode superar os desafios tributários e burocráticos?
+- Qual é o impacto da desigualdade digital no desenvolvimento do setor em diferentes regiões brasileiras?
 ```
