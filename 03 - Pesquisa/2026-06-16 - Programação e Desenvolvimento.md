@@ -3,40 +3,38 @@
 tipo: pesquisa
 criado: 2026-06-16
 atualizado: 2026-06-16
-pergunta-central: Qual o impacto das boas práticas de programação no desenvolvimento de software eficiente e sustentável?
+pergunta-central: Como a programação e o desenvolvimento impactam a resolução de problemas no mundo contemporâneo?
 relacionado-a: []
 related: []
-tags: [pesquisa, dev, produtividade]
+tags: ["pesquisa", "dev", "produtividade"]
 ---
 
 # Pesquisa - Programação e Desenvolvimento
 
 ## ❓ Pergunta central
-Qual o impacto das boas práticas de programação no desenvolvimento de software eficiente e sustentável?
+Como a programação e o desenvolvimento impactam a resolução de problemas no mundo contemporâneo?
 
 ## 🎯 Síntese (3-5 linhas)
-Programação e desenvolvimento são pilares de inovação tecnológica, com impacto direto na eficiência e escalabilidade de soluções digitais. Boas práticas, como código limpo, versionamento e gestão de dependências, não apenas aumentam a produtividade, como também tornam os sistemas mais sustentáveis e fáceis de manter. A integração de princípios ágeis e metodologias modernas é essencial nesse contexto.
+A programação e o desenvolvimento são pilares fundamentais na transformação digital, permitindo a automação de processos, a criação de soluções escaláveis e a inovação tecnológica em diversas indústrias. Eles facilitam o acesso a informações, ampliam as possibilidades de comunicação e abrem caminho para avanços em áreas como saúde, educação e sustentabilidade. No entanto, desafios como a segurança cibernética, ética na inteligência artificial e desigualdade tecnológica ainda precisam ser enfrentados.
 
 ## 🔬 Detalhes
-- **Boas práticas de código**: A adoção de princípios como "Clean Code" (código limpo) ajuda a manter a legibilidade, reduz erros e facilita a manutenção a longo prazo.
-- **Metodologias ágeis**: Práticas como Scrum e Kanban permitem maior colaboração entre equipes, entregas incrementais e adaptações rápidas às mudanças.
-- **Ferramentas de versionamento**: Git e plataformas como GitHub e GitLab são cruciais para colaboração, histórico de alterações e controle de versões.
-- **Testes automatizados**: Garantem a integridade do código ao longo do tempo, prevenindo regressões e bugs críticos em produção.
-- **Documentação e comunicação**: Manter uma documentação clara e atualizada, incluindo comentários no código e documentação técnica, é vital para o entendimento e expansão do software.
-- **Sustentabilidade do software**: Refere-se à capacidade de manter e escalar sistemas ao longo do tempo, reduzindo dívidas técnicas e investindo em refatoração contínua.
+- A programação é a base para a criação de softwares que otimizam processos e resolvem problemas específicos.
+- Linguagens de programação variam em uso e propósito, como Python para ciência de dados e JavaScript para desenvolvimento web.
+- O desenvolvimento ágil é uma abordagem amplamente adotada para criar software de forma iterativa e colaborativa.
+- Tecnologias emergentes, como inteligência artificial e blockchain, estão redefinindo a maneira como problemas complexos são abordados.
+- O código aberto promove inovação colaborativa, permitindo que desenvolvedores de todo o mundo contribuam para projetos globais.
+- A acessibilidade digital e a alfabetização em programação são desafios importantes para garantir que os benefícios da tecnologia sejam amplamente distribuídos.
 
 ## 🔗 Conexões
 - [[Claude API e Anthropic SDK]]
-- [[Pesquisa - Metodologias ágeis]]
-- [[Referência - Clean Code]]
+- [[Pesquisa - Inteligência Artificial e Ética]]
 
 ## 📚 Fontes
-- [[Referência - Clean Code]]
-- [[Referência - Git e Controle de Versão]]
-- [[Referência - Princípios de Engenharia de Software]]
+- [[Referência - Clean Code, Robert C. Martin]]
+- [[Referência - The Pragmatic Programmer, Andy Hunt e Dave Thomas]]
 
 ## 🚧 Lacunas
-- Como medir o impacto direto das boas práticas de programação no retorno financeiro de projetos?
-- Quais são as melhores estratégias para ensinar e disseminar boas práticas em equipes de desenvolvimento?
-- Como as tecnologias emergentes (IA, blockchain) estão alterando os paradigmas de programação?
+- Como democratizar o ensino de programação de forma acessível e inclusiva?
+- Quais são os impactos éticos e sociais do uso crescente de automação e inteligência artificial?
+- Como balancear flexibilidade e segurança no desenvolvimento de softwares escaláveis?
 ```
