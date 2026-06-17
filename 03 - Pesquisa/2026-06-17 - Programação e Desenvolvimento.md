@@ -3,7 +3,7 @@
 tipo: pesquisa
 criado: 2026-06-17
 atualizado: 2026-06-17
-pergunta-central: Quais são os fundamentos essenciais e as tendências atuais em programação e desenvolvimento de software?
+pergunta-central: Como a programação e o desenvolvimento de software estão evoluindo para atender às demandas tecnológicas e sociais contemporâneas?
 relacionado-a: []
 related: []
 tags: [pesquisa, dev, produtividade]
@@ -12,30 +12,31 @@ tags: [pesquisa, dev, produtividade]
 # Pesquisa - Programação e Desenvolvimento
 
 ## ❓ Pergunta central
-Quais são os fundamentos essenciais e as tendências atuais em programação e desenvolvimento de software?
+Como a programação e o desenvolvimento de software estão evoluindo para atender às demandas tecnológicas e sociais contemporâneas?
 
 ## 🎯 Síntese (3-5 linhas)
-A programação e o desenvolvimento de software evoluem rapidamente, mas os fundamentos permanecem essenciais: lógica, estrutura de dados e algoritmos. Atualmente, o foco está em tecnologias como inteligência artificial, desenvolvimento para ambientes em nuvem e práticas de DevOps. Além disso, linguagens como Python, JavaScript e frameworks modernos continuam a dominar o mercado.
+A programação e o desenvolvimento de software estão em constante evolução para acompanhar o avanço tecnológico e as necessidades da sociedade. Tendências como inteligência artificial, desenvolvimento low-code/no-code, DevOps e a crescente preocupação com segurança e ética têm moldado o setor. Além disso, a demanda por acessibilidade e inclusão está redefinindo padrões de design e usabilidade em software.
 
 ## 🔬 Detalhes
-- A programação é baseada em princípios de lógica e matemática, sendo essencial compreender estruturas de controle, variáveis e funções.
-- As linguagens mais populares atualmente incluem Python, por sua simplicidade e versatilidade, e JavaScript, pelo domínio no desenvolvimento web.
-- Frameworks modernos como React, Angular e Vue.js são amplamente utilizados para o desenvolvimento de interfaces de usuário.
-- DevOps e metodologias ágeis tornaram-se padrões para a entrega contínua de software, garantindo maior eficiência e colaboração entre equipes.
-- A inteligência artificial e o aprendizado de máquina estão integrados na programação, com bibliotecas como TensorFlow e PyTorch liderando este campo.
-- O desenvolvimento para ambientes em nuvem (AWS, Azure, Google Cloud) é uma demanda crescente, exigindo habilidades em arquitetura de sistemas distribuídos.
+- **Inteligência Artificial e Machine Learning**: Ferramentas baseadas em IA estão sendo incorporadas ao desenvolvimento, desde assistentes de codificação (como o GitHub Copilot) até frameworks que automatizam testes e deploys.
+- **Low-Code/No-Code**: Plataformas como Bubble e OutSystems estão democratizando o desenvolvimento, permitindo que pessoas sem formação técnica criem aplicações funcionais.
+- **DevOps e CI/CD**: A integração contínua e entrega contínua estão se tornando padrões de mercado, acelerando ciclos de desenvolvimento e aumentando a eficiência.
+- **Segurança em foco**: Com o aumento das ameaças cibernéticas, práticas como DevSecOps e auditorias de código estão ganhando destaque.
+- **Acessibilidade e inclusão**: Mais empresas estão implementando práticas de design focadas em acessibilidade digital para atender a uma base de usuários mais ampla.
+- **Linguagens emergentes**: Novas linguagens como Rust estão ganhando popularidade devido ao foco em segurança e eficiência, enquanto Python continua a ser amplamente utilizado em IA e ciência de dados.
+- **Metodologias ágeis**: Práticas como Scrum e Kanban continuam a ser amplamente adotadas, mas estão sendo adaptadas para equipes remotas e distribuídas.
 
 ## 🔗 Conexões
 - [[Claude API e Anthropic SDK]]
-- [[Pesquisa - Inteligência Artificial]]
 - [[Projeto - Sistema Chamados]]
 
 ## 📚 Fontes
-- [[Referência - Python para Iniciantes]]
-- [[Referência - Clean Code]]
+- [[Referência - GitHub Copilot e o futuro da programação]]
+- [[Referência - DevOps e automação]]
+- [[Referência - Rust e segurança em software]]
 
 ## 🚧 Lacunas
-- Qual o impacto futuro de tecnologias como computação quântica no desenvolvimento de software?
-- Como integrar práticas de desenvolvimento sustentável em projetos de software?
-- Quais são as melhores abordagens para aprendizado contínuo em uma área que evolui tão rapidamente?
+- Como o desenvolvimento de software pode integrar mais profundamente práticas éticas relacionadas à IA?
+- Quais são os impactos de longo prazo do low-code/no-code no mercado de trabalho para desenvolvedores?
+- Quais métricas são mais efetivas para medir o sucesso de iniciativas de acessibilidade em software?
 ```
