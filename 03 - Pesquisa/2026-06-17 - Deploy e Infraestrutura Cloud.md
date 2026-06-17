@@ -3,41 +3,39 @@
 tipo: pesquisa
 criado: 2026-06-17
 atualizado: 2026-06-17
-pergunta-central: Como estruturar um processo de deploy eficaz e seguro utilizando infraestrutura cloud?
-relacionado-a: [devops, cloud-computing]
-related: [[Pesquisa - DevOps e automação]], [[Referência - Kubernetes]]
+pergunta-central: Como estruturar uma infraestrutura cloud eficiente e realizar deploys escaláveis e seguros?
+relacionado-a: []
+related: []
 tags: [pesquisa, dev, infra]
 ---
 
 # Pesquisa - Deploy e Infraestrutura Cloud
 
 ## ❓ Pergunta central
-Como estruturar um processo de deploy eficaz e seguro utilizando infraestrutura cloud?
+Como estruturar uma infraestrutura cloud eficiente e realizar deploys escaláveis e seguros?
 
 ## 🎯 Síntese (3-5 linhas)
-Deploy e infraestrutura cloud são fundamentais para a entrega contínua de software. Um processo eficiente depende de boas práticas de DevOps, escolha adequada de provedores cloud, automação com CI/CD e ferramentas como Docker e Kubernetes. A segurança e a escalabilidade devem ser priorizadas desde o planejamento, garantindo alta disponibilidade e resiliência do sistema.
+Deploy e infraestrutura cloud são pilares essenciais para a entrega eficiente de aplicações modernas. Uma boa prática é adotar automação e ferramentas como CI/CD para agilizar processos e garantir consistência. A escolha correta entre provedores de nuvem (AWS, GCP, Azure) e a configuração de recursos como containers, orquestradores (Kubernetes) e serviços gerenciados são fundamentais para garantir escalabilidade, segurança e custos controlados.
 
 ## 🔬 Detalhes
-- **Deploy contínuo**: Adotar pipelines de CI/CD é essencial para garantir lançamentos frequentes, evitando erros manuais e reduzindo o tempo de entrega.
-- **Escolha do provedor cloud**: Provedores como AWS, Azure e GCP oferecem serviços gerenciados (ex.: bancos de dados, balanceadores de carga) que otimizam a infraestrutura.
-- **Contêineres e orquestração**: Docker e Kubernetes são padrões de mercado para empacotamento e gerenciamento de aplicações, permitindo portabilidade e escalabilidade.
-- **Infraestrutura como código (IaC)**: Ferramentas como Terraform e AWS CloudFormation garantem replicabilidade e versionamento da infraestrutura.
-- **Segurança na cloud**: Implementar políticas de acesso (IAM), criptografia e monitoramento contínuo são práticas indispensáveis para proteger sistemas e dados.
-- **Monitoramento e logging**: Soluções como Prometheus, Grafana e ELK Stack ajudam a identificar problemas e medir performance em tempo real.
+- **Tipos de Deploy**: Blue-Green, Canary, Rolling e Recreate são estratégias comuns para minimizar downtime e riscos.
+- **Infraestrutura como Código (IaC)**: Ferramentas como Terraform e AWS CloudFormation permitem gerenciar infraestrutura de forma programática e versionável.
+- **Orquestração de Contêineres**: Kubernetes lidera como solução para gerenciar contêineres, garantindo escalabilidade, balanceamento de carga e alta disponibilidade.
+- **Provedores de Nuvem**: AWS, GCP e Azure oferecem serviços robustos, com diferenças em preço, foco em serviços específicos e níveis de suporte.
+- **Segurança no Deploy**: Práticas como configurações de firewall, autenticação multifator e rotacionamento de credenciais são essenciais.
+- **Monitoramento e Observabilidade**: Ferramentas como Prometheus, Grafana e serviços integrados dos provedores de nuvem ajudam a acompanhar métricas e logs.
 
 ## 🔗 Conexões
-- [[Pesquisa - DevOps e automação]]
-- [[Referência - Kubernetes]]
-- [[Referência - Terraform e IaC]]
+- [[Claude API e Anthropic SDK]]
+- [[Projeto - Sistema Chamados]]
 
 ## 📚 Fontes
-- [[Referência - Livro: The Phoenix Project]]
-- [[Referência - Kubernetes]]
-- [[Referência - Docker Documentation]]
-- [[Referência - AWS Well-Architected Framework]]
+- [[Referência - Livro: Site Reliability Engineering]]
+- [[Referência - Guia Oficial AWS para DevOps]]
+- [[Referência - Kubernetes Documentation]]
 
 ## 🚧 Lacunas
-- Quais são as melhores práticas para gerenciar custos em infraestrutura cloud?
-- Como implementar estratégias de disaster recovery eficientes em ambientes cloud?
-- Quais ferramentas emergentes podem substituir ou complementar as atuais soluções de CI/CD?
+- Quais são os trade-offs de custo e performance entre diferentes provedores de nuvem para pequenos negócios?
+- Como implementar melhores práticas específicas para segurança em pipelines CI/CD?
+- Quais são as tendências emergentes no uso de serverless em deploys modernos?
 ```

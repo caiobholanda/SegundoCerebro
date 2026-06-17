@@ -3,7 +3,7 @@
 tipo: pesquisa
 criado: 2026-06-17
 atualizado: 2026-06-17
-pergunta-central: Como as melhores práticas em programação e desenvolvimento podem aumentar a produtividade e a qualidade do software?
+pergunta-central: Como a programação e o desenvolvimento de software estão evoluindo para atender às demandas tecnológicas e sociais contemporâneas?
 relacionado-a: []
 related: []
 tags: [pesquisa, dev, produtividade]
@@ -12,31 +12,31 @@ tags: [pesquisa, dev, produtividade]
 # Pesquisa - Programação e Desenvolvimento
 
 ## ❓ Pergunta central
-Como as melhores práticas em programação e desenvolvimento podem aumentar a produtividade e a qualidade do software?
+Como a programação e o desenvolvimento de software estão evoluindo para atender às demandas tecnológicas e sociais contemporâneas?
 
 ## 🎯 Síntese (3-5 linhas)
-Programação e desenvolvimento são disciplinas fundamentais para criar soluções digitais inovadoras e eficientes. Práticas como metodologias ágeis, uso de frameworks modernos e ferramentas de automação têm se mostrado cruciais para melhorar a produtividade e garantir a qualidade do software. Além disso, o código limpo, a colaboração em equipe e o aprendizado contínuo desempenham papéis essenciais no sucesso de projetos de desenvolvimento.
+A programação e o desenvolvimento de software estão em constante evolução para acompanhar o avanço tecnológico e as necessidades da sociedade. Tendências como inteligência artificial, desenvolvimento low-code/no-code, DevOps e a crescente preocupação com segurança e ética têm moldado o setor. Além disso, a demanda por acessibilidade e inclusão está redefinindo padrões de design e usabilidade em software.
 
 ## 🔬 Detalhes
-- **Metodologias ágeis** como Scrum e Kanban promovem ciclos curtos de desenvolvimento, entregas contínuas e maior adaptabilidade às mudanças.
-- O uso de **ferramentas de versionamento**, como Git, facilita o trabalho colaborativo e o controle de versões do código.
-- **Práticas de DevOps**, como integração e entrega contínuas (CI/CD), reduzem o tempo entre o desenvolvimento e a entrega do software ao usuário final.
-- A adoção de **código limpo** (clean code) melhora a legibilidade e a manutenibilidade do software, reduzindo custos de longo prazo.
-- Frameworks modernos, como **React**, **Django** e **Spring**, aceleram o desenvolvimento ao fornecer componentes reutilizáveis e padrões de design.
-- **Testes automatizados** e a cultura de qualidade ajudam a identificar erros precocemente, garantindo a confiabilidade do software.
-- A aprendizagem contínua e a atualização em **novas linguagens e tecnologias** são essenciais devido à rápida evolução do setor.
+- **Inteligência Artificial e Machine Learning**: Ferramentas baseadas em IA estão sendo incorporadas ao desenvolvimento, desde assistentes de codificação (como o GitHub Copilot) até frameworks que automatizam testes e deploys.
+- **Low-Code/No-Code**: Plataformas como Bubble e OutSystems estão democratizando o desenvolvimento, permitindo que pessoas sem formação técnica criem aplicações funcionais.
+- **DevOps e CI/CD**: A integração contínua e entrega contínua estão se tornando padrões de mercado, acelerando ciclos de desenvolvimento e aumentando a eficiência.
+- **Segurança em foco**: Com o aumento das ameaças cibernéticas, práticas como DevSecOps e auditorias de código estão ganhando destaque.
+- **Acessibilidade e inclusão**: Mais empresas estão implementando práticas de design focadas em acessibilidade digital para atender a uma base de usuários mais ampla.
+- **Linguagens emergentes**: Novas linguagens como Rust estão ganhando popularidade devido ao foco em segurança e eficiência, enquanto Python continua a ser amplamente utilizado em IA e ciência de dados.
+- **Metodologias ágeis**: Práticas como Scrum e Kanban continuam a ser amplamente adotadas, mas estão sendo adaptadas para equipes remotas e distribuídas.
 
 ## 🔗 Conexões
 - [[Claude API e Anthropic SDK]]
 - [[Projeto - Sistema Chamados]]
 
 ## 📚 Fontes
-- [[Referência - Clean Code de Robert C. Martin]]
-- [[Referência - The DevOps Handbook de Gene Kim et al.]]
-- [[Referência - Artigo sobre Metodologias Ágeis (URL ou título específico)]]
+- [[Referência - GitHub Copilot e o futuro da programação]]
+- [[Referência - DevOps e automação]]
+- [[Referência - Rust e segurança em software]]
 
 ## 🚧 Lacunas
-- Quais são as tendências emergentes no desenvolvimento de software para os próximos 5 anos?
-- Como medir de forma eficaz o impacto da adoção de práticas ágeis na produtividade?
-- Quais ferramentas de automação são mais eficazes para equipes pequenas e médias?
+- Como o desenvolvimento de software pode integrar mais profundamente práticas éticas relacionadas à IA?
+- Quais são os impactos de longo prazo do low-code/no-code no mercado de trabalho para desenvolvedores?
+- Quais métricas são mais efetivas para medir o sucesso de iniciativas de acessibilidade em software?
 ```
