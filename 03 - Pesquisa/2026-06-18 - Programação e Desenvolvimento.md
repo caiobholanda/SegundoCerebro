@@ -1,9 +1,8 @@
-```markdown
 ---
 tipo: pesquisa
 criado: 2026-06-18
 atualizado: 2026-06-18
-pergunta-central: Como a programação e o desenvolvimento de software evoluíram para atender às demandas modernas e quais são as tendências futuras?
+pergunta-central: Como a programação e o desenvolvimento podem ser otimizados para atender às demandas atuais de inovação e produtividade?
 relacionado-a: []
 related: []
 tags: [pesquisa, dev, produtividade]
@@ -12,31 +11,29 @@ tags: [pesquisa, dev, produtividade]
 # Pesquisa - Programação e Desenvolvimento
 
 ## ❓ Pergunta central
-Como a programação e o desenvolvimento de software evoluíram para atender às demandas modernas e quais são as tendências futuras?
+Como a programação e o desenvolvimento podem ser otimizados para atender às demandas atuais de inovação e produtividade?
 
 ## 🎯 Síntese (3-5 linhas)
-A programação e o desenvolvimento de software são pilares da era digital, sustentando inovações tecnológicas que moldam o mundo. Linguagens modernas e metodologias ágeis têm facilitado a criação de aplicações escaláveis e robustas. O futuro aponta para a consolidação da inteligência artificial, desenvolvimento low-code/no-code, computação quântica e programação ética como áreas de maior impacto.
+A programação e o desenvolvimento têm evoluído rapidamente, impulsionados por novas tecnologias como IA, DevOps e frameworks modernos. A busca por eficiência está levando a práticas como desenvolvimento ágil, automação, e clean code. O futuro aponta para a integração de inteligência artificial no ciclo de desenvolvimento, enquanto a demanda por código sustentável e soluções escaláveis cresce.
 
 ## 🔬 Detalhes
-- A programação evoluiu de linguagens de baixo nível, como Assembly, para linguagens de alto nível como Python, que priorizam legibilidade e produtividade.
-- Metodologias ágeis, como Scrum e Kanban, transformaram o processo de desenvolvimento, promovendo entregas contínuas e colaboração entre equipes.
-- Inteligência artificial e aprendizado de máquina estão integrando-se às práticas de desenvolvimento, com frameworks como TensorFlow e PyTorch ganhando popularidade.
-- Ferramentas de desenvolvimento low-code/no-code democratizam a criação de software, permitindo que usuários não técnicos desenvolvam soluções complexas.
-- A computação quântica, embora ainda em estágio inicial, promete revolucionar problemas computacionais insolúveis com a computação clássica.
-- Questões éticas, como viés algorítmico e privacidade de dados, estão se tornando centrais à medida que o impacto do software na sociedade se expande.
+- **Desenvolvimento Ágil**: Metodologias como Scrum e Kanban permitem ciclos rápidos de entrega, adaptando-se às mudanças e aumentando a colaboração entre equipes.
+- **Automação**: Ferramentas como CI/CD (Integração e Implantação Contínuas) reduzem falhas humanas, aceleram entregas e tornam os pipelines de desenvolvimento mais eficientes.
+- **Clean Code**: Práticas como legibilidade de código, modularização e testes automatizados facilitam a manutenção e a escalabilidade de sistemas.
+- **Inteligência Artificial no Desenvolvimento**: Ferramentas como [[Claude API e Anthropic SDK]] e GitHub Copilot estão transformando o modo como os desenvolvedores escrevem, revisam e otimizam código.
+- **Linguagens e Frameworks Modernos**: O uso de linguagens como Python, Rust e frameworks como React e Django está em alta devido à sua simplicidade e eficiência.
+- **Cultura DevOps**: A integração entre desenvolvimento e operações promove colaboração, acelera lançamentos e melhora a confiabilidade dos sistemas.
 
 ## 🔗 Conexões
 - [[Claude API e Anthropic SDK]]
-- [[Pesquisa - Ética em IA]]
-- [[Pesquisa - Futuro da Computação]]
+- [[Projeto - Sistema Chamados]]
 
 ## 📚 Fontes
-- [[Referência - Clean Code (Robert C. Martin)]]
-- [[Referência - The Pragmatic Programmer (Andrew Hunt e David Thomas)]]
-- [[Referência - Introdução à Computação e Programação com Python (John Guttag)]]
+- [[Referência - Clean Code por Robert C. Martin]]
+- [[Referência - Livro - DevOps Handbook]]
+- [[Referência - Documentação oficial do GitHub Copilot]]
 
 ## 🚧 Lacunas
-- Como os avanços em computação quântica impactarão as linguagens e frameworks de desenvolvimento?
-- Quais são as melhores práticas para mitigar o viés algorítmico em soluções de IA?
-- Como equilibrar produtividade no desenvolvimento low-code/no-code com a necessidade de segurança e escalabilidade?
-```
+- Quais são os impactos a longo prazo da adoção massiva de IA no desenvolvimento de software?
+- Como equilibrar eficiência com segurança e ética no desenvolvimento ágil?
+- Quais são as melhores práticas para adotar novas tecnologias sem comprometer a estabilidade de sistemas legados?
