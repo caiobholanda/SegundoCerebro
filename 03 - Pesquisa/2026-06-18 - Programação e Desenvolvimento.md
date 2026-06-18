@@ -3,7 +3,7 @@
 tipo: pesquisa
 criado: 2026-06-18
 atualizado: 2026-06-18
-pergunta-central: Quais são as práticas mais eficazes e as tendências emergentes em programação e desenvolvimento de software?
+pergunta-central: Como a programação e o desenvolvimento evoluíram para atender às demandas tecnológicas atuais?
 relacionado-a: []
 related: []
 tags: [pesquisa, dev, produtividade]
@@ -12,31 +12,31 @@ tags: [pesquisa, dev, produtividade]
 # Pesquisa - Programação e Desenvolvimento
 
 ## ❓ Pergunta central
-Quais são as práticas mais eficazes e as tendências emergentes em programação e desenvolvimento de software?
+Como a programação e o desenvolvimento evoluíram para atender às demandas tecnológicas atuais?
 
 ## 🎯 Síntese (3-5 linhas)
-Programação e desenvolvimento de software estão em constante evolução, impulsionados por avanços em inteligência artificial, metodologias ágeis e ferramentas de automação. Práticas como DevOps, programação funcional e desenvolvimento guiado por testes (TDD) têm se destacado. Além disso, linguagens modernas como Python e frameworks como React e Rust continuam a ganhar tração por sua eficiência e versatilidade.
+A programação e o desenvolvimento têm se transformado rapidamente para atender às novas demandas, como a popularização da inteligência artificial, a necessidade de interfaces mais intuitivas e a adoção de práticas ágeis. Ferramentas modernas, como frameworks e plataformas no-code, democratizam o acesso ao desenvolvimento, enquanto linguagens e ambientes evoluem para maior desempenho e segurança.
 
 ## 🔬 Detalhes
-- **Metodologias Ágeis**: Frameworks como Scrum e Kanban ajudam a melhorar a colaboração e a entrega contínua de valor aos clientes.
-- **DevOps**: Integra desenvolvimento e operações, promovendo automação e monitoramento contínuo para acelerar ciclos de entrega.
-- **Inteligência Artificial**: Ferramentas como o [[Claude API e Anthropic SDK]] impulsionam a produtividade ao automatizar tarefas repetitivas e auxiliar em decisões complexas.
-- **Desenvolvimento Orientado a Testes (TDD)**: Melhora a qualidade do código e reduz custos a longo prazo ao identificar bugs mais cedo.
-- **Linguagens emergentes**: Rust é amplamente reconhecida por sua segurança e desempenho, enquanto Python continua a ser a escolha para IA e análise de dados.
-- **Arquiteturas modernas**: O uso crescente de microsserviços e serverless computing está transformando a maneira como sistemas são projetados e escalados.
+- A programação funcional ganhou popularidade devido à sua capacidade de lidar com sistemas complexos e paralelismo.
+- Ferramentas de desenvolvimento no-code e low-code estão permitindo que não programadores criem soluções personalizadas.
+- Linguagens como Python e JavaScript permanecem dominantes, enquanto Rust e Go têm crescido devido à sua ênfase em segurança e eficiência.
+- Práticas ágeis, como DevOps e integração/entrega contínua (CI/CD), estão tornando o desenvolvimento mais dinâmico e colaborativo.
+- Inteligência artificial e machine learning estão sendo integrados em ferramentas de desenvolvimento, como IDEs com suporte à autocompletar avançado e geração de código.
+- A preocupação com a sustentabilidade está influenciando o desenvolvimento de software, com esforços para reduzir a pegada de carbono de serviços digitais.
 
 ## 🔗 Conexões
 - [[Claude API e Anthropic SDK]]
-- [[Pesquisa - Inteligência Artificial e Desenvolvimento de Sistemas]]
-- [[Referência - DevOps e Integração Contínua]]
+- [[Pesquisa - Inteligência Artificial Generativa]]
+- [[Área - Desenvolvimento de Software]]
 
 ## 📚 Fontes
-- [[Referência - Livro Clean Code]]
-- [[Referência - Artigo sobre DevOps]]
-- [[Referência - Framework Ágil (Scrum)]]
+- [[Referência - Clean Code (Robert C. Martin)]]
+- [[Referência - You Don't Know JS (Kyle Simpson)]]
+- [[Referência - Blog do Martin Fowler]]
 
 ## 🚧 Lacunas
-- Como medir e comparar a eficácia de diferentes linguagens e frameworks em contextos reais de desenvolvimento?
-- Quais são os desafios éticos específicos do uso de inteligência artificial no desenvolvimento de software?
-- Como prever e adaptar-se às mudanças nas tendências de programação a longo prazo?
+- Como as práticas de programação sustentável podem ser implementadas em larga escala?
+- Quais os desafios éticos mais urgentes no desenvolvimento de tecnologias baseadas em IA?
+- Quais são os próximos avanços esperados em linguagens de programação para os próximos 5 anos?
 ```
