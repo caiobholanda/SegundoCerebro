@@ -3,39 +3,40 @@
 tipo: pesquisa
 criado: 2026-06-18
 atualizado: 2026-06-18
-pergunta-central: Como a programação pode ser usada para aumentar a produtividade e resolver problemas complexos no mundo real?
+pergunta-central: Como a programação e o desenvolvimento de software evoluíram para atender às demandas modernas e quais são as tendências futuras?
 relacionado-a: []
 related: []
-tags: ["pesquisa", "dev", "produtividade"]
+tags: [pesquisa, dev, produtividade]
 ---
 
 # Pesquisa - Programação e Desenvolvimento
 
 ## ❓ Pergunta central
-Como a programação pode ser usada para aumentar a produtividade e resolver problemas complexos no mundo real?
+Como a programação e o desenvolvimento de software evoluíram para atender às demandas modernas e quais são as tendências futuras?
 
 ## 🎯 Síntese (3-5 linhas)
-A programação é uma ferramenta essencial para resolver problemas complexos e automatizar tarefas. Ela permite a criação de soluções personalizadas, escaláveis e eficientes, adaptadas às necessidades específicas de indivíduos e organizações. Além disso, com a evolução de tecnologias como inteligência artificial, a programação está se tornando ainda mais poderosa, permitindo a implementação de sistemas que aprendem e se adaptam.
+A programação e o desenvolvimento de software são pilares da era digital, sustentando inovações tecnológicas que moldam o mundo. Linguagens modernas e metodologias ágeis têm facilitado a criação de aplicações escaláveis e robustas. O futuro aponta para a consolidação da inteligência artificial, desenvolvimento low-code/no-code, computação quântica e programação ética como áreas de maior impacto.
 
 ## 🔬 Detalhes
-- A programação é o processo de criação de instruções para que computadores executem tarefas específicas.
-- Linguagens de programação variam em nível de abstração, desde baixo nível (próximo ao hardware) até alto nível (mais próximo da linguagem humana).
-- Frameworks e bibliotecas ajudam a acelerar o desenvolvimento ao fornecer funcionalidades pré-construídas.
-- A programação é usada em diversas áreas: desenvolvimento web, ciência de dados, inteligência artificial, jogos, automação, entre outras.
-- Ferramentas de controle de versão, como Git, são fundamentais para gerenciar projetos e colaborar em equipes de desenvolvimento.
-- A prática de programação em pequenos projetos ou desafios, como os encontrados em plataformas como HackerRank e LeetCode, é uma forma eficiente de melhorar habilidades e aprender novas linguagens.
+- A programação evoluiu de linguagens de baixo nível, como Assembly, para linguagens de alto nível como Python, que priorizam legibilidade e produtividade.
+- Metodologias ágeis, como Scrum e Kanban, transformaram o processo de desenvolvimento, promovendo entregas contínuas e colaboração entre equipes.
+- Inteligência artificial e aprendizado de máquina estão integrando-se às práticas de desenvolvimento, com frameworks como TensorFlow e PyTorch ganhando popularidade.
+- Ferramentas de desenvolvimento low-code/no-code democratizam a criação de software, permitindo que usuários não técnicos desenvolvam soluções complexas.
+- A computação quântica, embora ainda em estágio inicial, promete revolucionar problemas computacionais insolúveis com a computação clássica.
+- Questões éticas, como viés algorítmico e privacidade de dados, estão se tornando centrais à medida que o impacto do software na sociedade se expande.
 
 ## 🔗 Conexões
 - [[Claude API e Anthropic SDK]]
-- [[Projeto - Sistema Chamados]]
+- [[Pesquisa - Ética em IA]]
+- [[Pesquisa - Futuro da Computação]]
 
 ## 📚 Fontes
-- [[Referência - Clean Code (Livro de Robert C. Martin)]]
-- [[Referência - Documentação oficial do Python]]
-- [[Referência - Artigo: "How Programming Enhances Productivity in Business"]]
+- [[Referência - Clean Code (Robert C. Martin)]]
+- [[Referência - The Pragmatic Programmer (Andrew Hunt e David Thomas)]]
+- [[Referência - Introdução à Computação e Programação com Python (John Guttag)]]
 
 ## 🚧 Lacunas
-- Quais são as melhores práticas para ensinar programação a iniciantes sem formação técnica?
-- Como a evolução de IA e machine learning impactará a necessidade de programadores humanos?
-- Quais são os limites éticos e práticos do uso da programação em automação de processos?
+- Como os avanços em computação quântica impactarão as linguagens e frameworks de desenvolvimento?
+- Quais são as melhores práticas para mitigar o viés algorítmico em soluções de IA?
+- Como equilibrar produtividade no desenvolvimento low-code/no-code com a necessidade de segurança e escalabilidade?
 ```
