@@ -3,7 +3,7 @@
 tipo: pesquisa
 criado: 2026-06-17
 atualizado: 2026-06-17
-pergunta-central: Quais são as tendências, desafios e oportunidades no mercado de TI no Brasil em 2026?
+pergunta-central: Quais são as principais tendências e desafios do mercado de TI no Brasil em 2026?
 relacionado-a: []
 related: []
 tags: [pesquisa, mercado, carreira]
@@ -12,29 +12,30 @@ tags: [pesquisa, mercado, carreira]
 # Pesquisa - Mercado de TI no Brasil
 
 ## ❓ Pergunta central
-Quais são as tendências, desafios e oportunidades no mercado de TI no Brasil em 2026?
+Quais são as principais tendências e desafios do mercado de TI no Brasil em 2026?
 
 ## 🎯 Síntese (3-5 linhas)
-O mercado de TI no Brasil continua em expansão, impulsionado pela transformação digital e pela alta demanda por soluções tecnológicas em diversos setores. Áreas como inteligência artificial, segurança cibernética e desenvolvimento de software são destaques, mas ainda há desafios significativos, como a falta de profissionais qualificados e desigualdades regionais. A capacitação e a inclusão digital são temas centrais para o crescimento sustentável do setor.
+O mercado de TI no Brasil continua em expansão, impulsionado pela transformação digital e pela crescente demanda por soluções tecnológicas em todos os setores. No entanto, enfrenta desafios como a escassez de profissionais qualificados, desigualdade regional e necessidade de adaptação às rápidas mudanças tecnológicas.
 
 ## 🔬 Detalhes
-- O setor de TI no Brasil cresceu consistentemente nos últimos anos, sendo um dos mais resilientes mesmo em tempos de crise econômica.
-- A demanda por profissionais de TI supera a oferta, resultando em alta empregabilidade e salários competitivos para quem possui qualificação.
-- Inteligência artificial, big data, cloud computing e segurança cibernética são áreas em destaque, com grande investimento por parte das empresas.
-- A falta de profissionais qualificados ainda é um gargalo significativo, com projeções de déficit superior a 400 mil vagas não preenchidas até 2027.
-- A concentração de oportunidades em grandes centros urbanos, como São Paulo e Rio de Janeiro, amplia a desigualdade regional na área de tecnologia.
-- Políticas públicas e programas de formação, como o programa Brasil Mais Digital, têm buscado incentivar a capacitação e inclusão digital.
+- O Brasil é o maior mercado de TI da América Latina, representando cerca de 40% do total da região.
+- A demanda por profissionais qualificados em áreas como ciência de dados, segurança cibernética e desenvolvimento de software supera a oferta, gerando uma lacuna de talentos.
+- Startups de tecnologia têm desempenhado um papel significativo, com o aumento do número de unicórnios brasileiros.
+- A transformação digital em setores tradicionais, como saúde, agricultura e educação, está ampliando o escopo do mercado de TI.
+- Desigualdades regionais persistem, com concentração de oportunidades no Sudeste enquanto regiões Norte e Nordeste ainda enfrentam desafios de infraestrutura e acesso.
+- A adoção de inteligência artificial, computação em nuvem e soluções de automação está moldando o futuro do mercado de TI no país.
 
 ## 🔗 Conexões
-- [[Pesquisa - Futuro do Trabalho e Automação]]
-- [[Referência - Relatório Mercado TI 2025]]
+- [[Pesquisa - Impacto da IA na economia brasileira]]
+- [[Projeto - Sistema Chamados]]
+- [[Roteiro - Como entrar no mercado de TI]]
 
 ## 📚 Fontes
-- [[Referência - Relatório Anual da ABES (Associação Brasileira das Empresas de Software)]]
-- [[Referência - Artigo: Mercado de TI no Brasil em 2026 (TechCrunch)]]
+- [[Referência - Relatório Mercado de TI no Brasil 2026]]
+- [[Referência - Panorama de Startups no Brasil]]
 
 ## 🚧 Lacunas
-- Qual o impacto das novas regulamentações de IA no mercado de TI brasileiro?
-- De que forma a descentralização tecnológica pode reduzir as desigualdades regionais no Brasil?
-- Quais são as melhores práticas de outros países que poderiam ser aplicadas no mercado de TI nacional?
+- Qual o impacto das políticas públicas recentes no desenvolvimento do mercado de TI brasileiro?
+- Como pequenas empresas estão se adaptando às demandas de transformação digital?
+- Quais são as principais barreiras para a formação de novos talentos em TI no Brasil?
 ```
