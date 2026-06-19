@@ -3,40 +3,41 @@
 tipo: pesquisa
 criado: 2026-06-19
 atualizado: 2026-06-19
-pergunta-central: Quais são as principais práticas e ferramentas para aumentar a produtividade e eficiência em programação e desenvolvimento?
+pergunta-central: Quais são as melhores práticas e tendências atuais em programação e desenvolvimento de software?
 relacionado-a: []
-related: []
+related: [[Claude API e Anthropic SDK]]
 tags: [pesquisa, dev, produtividade]
 ---
 
 # Pesquisa - Programação e Desenvolvimento
 
 ## ❓ Pergunta central
-Quais são as principais práticas e ferramentas para aumentar a produtividade e eficiência em programação e desenvolvimento?
+Quais são as melhores práticas e tendências atuais em programação e desenvolvimento de software?
 
 ## 🎯 Síntese (3-5 linhas)
-Programação e desenvolvimento são disciplinas que combinam criatividade, lógica e ferramentas tecnológicas. As práticas ágeis, como Scrum e Kanban, promovem colaboração e entregas rápidas. Ferramentas modernas, como VS Code, Git e plataformas de CI/CD, são essenciais para fluxos de trabalho eficientes. Além disso, metodologias como TDD (Test-Driven Development) e o uso de IA para automatizar tarefas repetitivas estão transformando o panorama do desenvolvimento.
+Programação e desenvolvimento de software evoluem constantemente, com novas práticas e tecnologias emergindo para aumentar a eficiência, escalabilidade e qualidade dos sistemas. As tendências incluem o uso de Inteligência Artificial, metodologias ágeis, programação funcional e foco em segurança. A colaboração, automação e aprendizado contínuo são essenciais para se manter competitivo no setor.
 
 ## 🔬 Detalhes
-- **Práticas ágeis**: Métodos como Scrum e Kanban ajudam equipes a organizar tarefas, priorizar entregas e promover a colaboração.
-- **Editor de texto e IDEs**: Ferramentas como [[Visual Studio Code]] e IntelliJ IDEA oferecem extensões e suporte para múltiplas linguagens, aumentando a produtividade.
-- **Controle de versão**: Git é essencial para rastrear mudanças no código, colaborar em equipe e gerenciar releases.
-- **CI/CD (Integração e Entrega Contínuas)**: Plataformas como Jenkins, GitHub Actions e CircleCI automatizam testes e deploys, reduzindo erros humanos.
-- **Testes automatizados**: Métodos como TDD garantem que o código seja mais robusto e menos suscetível a bugs.
-- **Uso de IA no desenvolvimento**: Ferramentas como [[Claude API e Anthropic SDK]] e GitHub Copilot ajudam a escrever código mais rápido, explicar trechos complexos e sugerir melhorias.
+- Metodologias ágeis, como Scrum e Kanban, continuam sendo amplamente usadas para gerenciar projetos de desenvolvimento com foco em entregas incrementais.
+- Programação funcional está ganhando espaço por sua eficiência em manipulação de dados e facilidade de paralelismo.
+- Ferramentas de DevOps e CI/CD estão sendo amplamente adotadas para automatizar os processos de integração e entrega contínuas.
+- Segurança é uma prioridade crescente, com práticas como DevSecOps e desenvolvimento seguro desde o início do ciclo de vida do software.
+- Linguagens como Python, JavaScript e Rust estão em alta, cada uma com suas respectivas aplicações em ciência de dados, desenvolvimento web e sistemas de baixo nível.
+- Inteligência Artificial está sendo usada para automação de código, detecção de bugs e até mesmo geração de novos algoritmos.
 
 ## 🔗 Conexões
 - [[Claude API e Anthropic SDK]]
-- [[Referência - Guia Scrum]]
-- [[Referência - Melhores práticas Git]]
+- [[Pesquisa - Inteligência Artificial e Modelos de Linguagem]]
+- [[Referência - Metodologias Ágeis]]
+- [[Pesquisa - DevOps e CI/CD]]
 
 ## 📚 Fontes
-- [[Referência - Agile Manifesto]]
 - [[Referência - Livro Clean Code]]
-- [[Referência - Documentação do GitHub Actions]]
+- [[Referência - Artigo sobre DevSecOps]]
+- [[Referência - Relatório sobre tendências em TI 2026]]
 
 ## 🚧 Lacunas
-- Quais linguagens de programação têm mais suporte para ferramentas de automação baseadas em IA?
-- Como medir o impacto real da adoção de práticas ágeis na produtividade de equipes de desenvolvimento?
-- Quais são as limitações éticas e técnicas do uso de IA em programação?
+- Como diferentes paradigmas de programação (orientado a objetos, funcional, etc.) se comparam em produtividade e escalabilidade?
+- Quais são os impactos a longo prazo da adoção de Inteligência Artificial no desenvolvimento de software?
+- Quais ferramentas e frameworks emergentes estão se destacando em 2026 para desenvolvimento web e mobile?
 ```
