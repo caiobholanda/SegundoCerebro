@@ -3,42 +3,39 @@
 tipo: pesquisa
 criado: 2026-06-19
 atualizado: 2026-06-19
-pergunta-central: Quais são as melhores práticas e ferramentas para realizar deploys escaláveis e gerenciar infraestrutura em cloud?
+pergunta-central: Como arquitetar e gerenciar um pipeline de deploy eficiente em infraestruturas cloud modernas?
 relacionado-a: []
-related: [[Projeto - Sistema Chamados]]
+related: []
 tags: [pesquisa, dev, infra]
 ---
 
 # Pesquisa - Deploy e Infraestrutura Cloud
 
 ## ❓ Pergunta central
-Quais são as melhores práticas e ferramentas para realizar deploys escaláveis e gerenciar infraestrutura em cloud?
+Como arquitetar e gerenciar um pipeline de deploy eficiente em infraestruturas cloud modernas?
 
 ## 🎯 Síntese (3-5 linhas)
-Deploys e infraestrutura em cloud são fundamentais para a escalabilidade e resiliência de aplicações modernas. As melhores práticas incluem automação, uso de containers, pipelines CI/CD, monitoramento contínuo e estratégias como infraestrutura imutável. Ferramentas como Docker, Kubernetes, Terraform e AWS CloudFormation são amplamente usadas. A escolha entre provedores de nuvem (AWS, Azure, Google Cloud) depende de casos de uso e custo-benefício.
+O deploy em infraestruturas cloud envolve práticas como Continuous Integration e Continuous Deployment (CI/CD), orquestração de containers e uso de ferramentas como Kubernetes. A escolha da infraestrutura — seja ela AWS, Azure ou GCP — impacta diretamente no desempenho e custo. Além disso, a automação e a observabilidade são pilares fundamentais para garantir consistência e escalabilidade.
 
 ## 🔬 Detalhes
-- **Automação como base**: Usar ferramentas de automação para provisionamento e deploy reduz erros humanos e acelera entregas.
-- **Containers e Kubernetes**: Docker e Kubernetes são padrões para deploys, permitindo portabilidade e escalabilidade de aplicações.
-- **Infraestrutura como código (IaC)**: Ferramentas como Terraform e AWS CloudFormation facilitam o provisionamento e a gestão de infraestrutura de forma declarativa.
-- **Pipelines CI/CD**: Integração e entrega contínuas (CI/CD) garantem que novas versões de software sejam implantadas com mais segurança e eficiência.
-- **Monitoramento e observabilidade**: Ferramentas como Prometheus, Grafana e serviços como AWS CloudWatch ajudam a monitorar e responder a falhas rapidamente.
-- **Adoção de estratégias modernas**: Infraestrutura imutável, blue-green deployment e rolling updates são práticas que aumentam a confiabilidade dos sistemas.
+- **CI/CD**: Práticas de integração e entrega contínuas minimizam erros manuais e permitem ciclos de desenvolvimento mais rápidos.
+- **Containers**: Tecnologias como Docker permitem empacotar aplicações com suas dependências, facilitando a portabilidade.
+- **Orquestração**: Kubernetes é amplamente utilizado para gerenciar clusters de containers, garantindo alta disponibilidade e escalabilidade.
+- **Infraestrutura como Código (IaC)**: Ferramentas como Terraform e AWS CloudFormation permitem gerenciar infraestrutura de forma declarativa e reprodutível.
+- **Monitoramento e logging**: Soluções como Prometheus, Grafana e ELK Stack são essenciais para diagnosticar problemas e otimizar o desempenho.
+- **Custos na cloud**: Estratégias como dimensionamento automático e uso de instâncias spot ajudam a minimizar os custos operacionais.
 
 ## 🔗 Conexões
+- [[Claude API e Anthropic SDK]]
 - [[Projeto - Sistema Chamados]]
-- [[Referência - Docker e Kubernetes]]
-- [[Referência - Terraform e AWS CloudFormation]]
-- [[Referência - Cloud Providers (AWS, Azure, Google Cloud)]]
 
 ## 📚 Fontes
-- [[Referência - Docker e Kubernetes]]
-- [[Referência - Terraform e AWS CloudFormation]]
-- [[Referência - Cloud Providers (AWS, Azure, Google Cloud)]]
-- [[Referência - CI/CD com Jenkins, GitHub Actions e GitLab CI]]
+- [[Referência - Livro - Site Reliability Engineering (SRE)]]
+- [[Referência - Artigo - Kubernetes: The Future of Infrastructure]]
+- [[Referência - Curso - Terraform for Beginners]]
 
 ## 🚧 Lacunas
-- Como escolher entre diferentes provedores de nuvem para casos de uso específicos?
-- Quais são os custos ocultos mais comuns em deploys cloud (e como mitigá-los)?
-- Como integrar segurança avançada (DevSecOps) em pipelines de CI/CD?
+- Quais são as melhores práticas para segurança em pipelines CI/CD na cloud?
+- Como otimizar a performance de aplicações em múltiplas regiões geográficas usando infraestrutura cloud?
+- Qual o impacto ambiental do uso intensivo de infraestrutura cloud e como mitigar?
 ```
