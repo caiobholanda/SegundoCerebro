@@ -3,7 +3,7 @@
 tipo: pesquisa
 criado: 2026-06-19
 atualizado: 2026-06-19
-pergunta-central: Quais são as perspectivas e desafios do mercado de TI no Brasil em 2026?
+pergunta-central: Quais são as principais tendências e desafios do mercado de TI no Brasil atualmente?
 relacionado-a: []
 related: []
 tags: [pesquisa, mercado, carreira]
@@ -12,31 +12,30 @@ tags: [pesquisa, mercado, carreira]
 # Pesquisa - Mercado de TI no Brasil
 
 ## ❓ Pergunta central
-Quais são as perspectivas e desafios do mercado de TI no Brasil em 2026?
+Quais são as principais tendências e desafios do mercado de TI no Brasil atualmente?
 
 ## 🎯 Síntese (3-5 linhas)
-O mercado de TI no Brasil em 2026 continua em crescimento, impulsionado pela transformação digital, pela adoção de novas tecnologias como IA e cloud computing, e pela alta demanda por profissionais qualificados. Contudo, enfrenta desafios como a escassez de talentos, a desigualdade regional e a necessidade de políticas públicas eficazes para fomentar inovação e competitividade.
+O mercado de TI no Brasil está em crescimento acelerado, impulsionado pela transformação digital, pela demanda por soluções em nuvem e inteligência artificial. No entanto, enfrenta desafios como a escassez de profissionais qualificados, a necessidade de políticas públicas para fomentar inovação e um investimento ainda limitado em infraestrutura tecnológica. Áreas como cibersegurança, desenvolvimento de software e análise de dados são destaques.
 
 ## 🔬 Detalhes
-- O setor de TI é um dos que mais cresce no Brasil, com previsão de aumento significativo no número de vagas até 2030.
-- A transformação digital acelerada pela pandemia continua impulsionando a demanda por soluções tecnológicas em diversos setores, como saúde, educação e comércio eletrônico.
-- Inteligência Artificial, Big Data e Cloud Computing estão entre as áreas mais promissoras, com alta procura por especialização.
-- Apesar do crescimento, o país enfrenta um déficit de profissionais qualificados, com uma lacuna estimada de mais de 400 mil vagas até o final do ano.
-- A concentração de oportunidades ainda é majoritariamente nas grandes capitais, o que limita o desenvolvimento de regiões mais distantes.
-- Políticas de incentivo, como programas de capacitação técnica e subsídios para startups, têm sido discutidas como formas de mitigar as desigualdades e fomentar a inovação.
+- O setor de TI no Brasil deve crescer cerca de 8% em 2026, segundo projeções da IDC, com destaque para serviços de nuvem e inteligência artificial.
+- Existe uma demanda crescente por profissionais especializados, mas o país enfrenta um déficit de mais de 400 mil talentos na área de tecnologia.
+- Startups de tecnologia, especialmente fintechs, healthtechs e edtechs, representam uma parcela significativa da movimentação do mercado.
+- O governo brasileiro tem incentivado a tecnologia com programas como a Lei da Informática e o Marco Legal das Startups, mas ainda há desafios regulatórios e de acesso a crédito.
+- Tendências como low-code/no-code, blockchain e a Internet das Coisas (IoT) estão ganhando espaço no mercado nacional.
+- A desigualdade regional é um desafio: enquanto grandes centros como São Paulo e Florianópolis concentram oportunidades, outras regiões têm dificuldade em atrair investimentos.
 
 ## 🔗 Conexões
-- [[Projeto - Sistema Chamados]]
+- [[Pesquisa - Futuro das Carreiras em Tecnologia]]
 - [[Referência - Transformação Digital no Brasil]]
-- [[Pesquisa - Inteligência Artificial no mercado brasileiro]]
 
 ## 📚 Fontes
-- [[Referência - Relatório Mercado TI Brasil 2026]]
-- [[Referência - Panorama de Carreiras TI 2026]]
-- [[Referência - Pesquisa ABES 2026]]
+- [[Referência - Relatório IDC sobre o Mercado de TI no Brasil 2026]]
+- [[Referência - Panorama das Startups Brasileiras 2026]]
+- [[Referência - Lei da Informática e Impactos no Setor]]
 
 ## 🚧 Lacunas
-- Quais são as iniciativas mais eficazes para reduzir o déficit de profissionais de TI no Brasil?
-- Como regiões fora dos grandes centros podem ser melhor integradas ao mercado de TI?
-- Qual o impacto da regulamentação de tecnologias emergentes no desenvolvimento do setor no Brasil?
+- Quais são as principais políticas públicas em desenvolvimento para suprir a demanda por profissionais de TI no Brasil?
+- Como a desigualdade regional pode ser mitigada no setor de tecnologia?
+- Qual é o impacto da adoção de tecnologias emergentes no mercado de trabalho local?
 ```
