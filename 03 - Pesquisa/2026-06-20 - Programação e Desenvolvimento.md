@@ -1,45 +1,40 @@
-```markdown
 ---
 tipo: pesquisa
 criado: 2026-06-20
 atualizado: 2026-06-20
-pergunta-central: Quais são as melhores práticas e tendências atuais em programação e desenvolvimento de software?
+pergunta-central: Quais são os fundamentos e as tendências mais importantes em programação e desenvolvimento atualmente?
 relacionado-a: []
-related: []
+related: [[Claude API e Anthropic SDK]]
 tags: [pesquisa, dev, produtividade]
 ---
 
 # Pesquisa - Programação e Desenvolvimento
 
 ## ❓ Pergunta central
-Quais são as melhores práticas e tendências atuais em programação e desenvolvimento de software?
+Quais são os fundamentos e as tendências mais importantes em programação e desenvolvimento atualmente?
 
 ## 🎯 Síntese (3-5 linhas)
-Programação e desenvolvimento de software estão em constante evolução, impulsionados por avanços em metodologias ágeis, ferramentas de automação, inteligência artificial e arquiteturas modernas como microserviços. A colaboração em equipe, o foco na experiência do usuário e a segurança são pilares fundamentais. Além disso, a popularização de plataformas de low-code/no-code e o uso de práticas DevOps têm transformado o ciclo de desenvolvimento, permitindo maior eficiência e inovação.
+Programação e desenvolvimento são pilares da tecnologia moderna, abrangendo desde a criação de aplicativos até a automação de processos complexos. As tendências atuais incluem a ascensão da inteligência artificial, a integração de modelos de machine learning em produtos, o uso crescente de tecnologias de baixo código e o foco em desenvolvimento sustentável. A habilidade de resolver problemas e a adaptabilidade continuam sendo competências-chave para profissionais da área.
 
 ## 🔬 Detalhes
-- O uso de metodologias ágeis, como Scrum e Kanban, é amplamente adotado para promover entregas rápidas e iterativas.
-- DevOps integra desenvolvimento e operações, automatizando testes, integração e deploy para reduzir o tempo de entrega.
-- Microserviços e arquiteturas serverless são tendências que permitem maior escalabilidade e modularidade no desenvolvimento de sistemas.
-- Ferramentas de automação e CI/CD (Integração Contínua/Entrega Contínua) são essenciais para garantir qualidade e agilidade.
-- A segurança no desenvolvimento (DevSecOps) está em alta devido ao aumento de ciberataques e à necessidade de proteger dados e infraestruturas.
-- Linguagens como Python, JavaScript e frameworks como React, Angular e Django continuam dominantes, mas há interesse crescente em Rust e Go para sistemas de alta performance.
-- A popularização de plataformas low-code/no-code democratiza o desenvolvimento, permitindo que não especialistas criem soluções simples.
-- A integração de inteligência artificial no desenvolvimento, como o uso de modelos generativos para acelerar a codificação e revisão de código, está revolucionando o setor.
+- Programação é essencialmente a criação de instruções que um computador pode executar para realizar tarefas específicas.
+- Linguagens populares incluem Python, JavaScript, Java e C#. Cada uma tem seus casos de uso ideais (ex.: Python para IA, JavaScript para web).
+- O desenvolvimento de software moderno muitas vezes segue metodologias ágeis, como Scrum e Kanban, para maximizar a eficiência.
+- Inteligência artificial e aprendizado de máquina estão moldando o futuro do desenvolvimento, com frameworks como TensorFlow e PyTorch liderando o mercado.
+- Tecnologias de baixo código e no-code estão ganhando força, permitindo que pessoas sem formação técnica criem aplicativos funcionais.
+- A preocupação com a sustentabilidade no desenvolvimento está crescendo, incentivando práticas como codificação eficiente e uso de energia renovável em data centers.
 
 ## 🔗 Conexões
 - [[Claude API e Anthropic SDK]]
-- [[Pesquisa - Metodologias ágeis]]
-- [[Pesquisa - DevOps e CI/CD]]
-- [[Referência - Microserviços e serverless]]
+- [[Pesquisa - Inteligência Artificial Generativa]]
+- [[Pesquisa - Metodologias Ágeis]]
 
 ## 📚 Fontes
-- [[Referência - Livro Clean Code, Robert C. Martin]]
-- [[Referência - The DevOps Handbook, Gene Kim et al.]]
-- [[Referência - Artigo sobre tendências de programação 2026]]
+- [[Referência - Clean Code (Robert C. Martin)]]
+- [[Referência - The Pragmatic Programmer]]
+- [[Referência - Artigo - Tendências em Desenvolvimento de Software 2026]]
 
 ## 🚧 Lacunas
-- Quais são os desafios de adoção de inteligência artificial no desenvolvimento para equipes pequenas?
-- Como equilibrar a segurança com a velocidade de entrega no contexto de DevOps?
-- Quais são os impactos de longo prazo da popularização de plataformas low-code/no-code no mercado de trabalho de programadores?
-```
+- Quais são os melhores métodos para aprendizado contínuo em programação, considerando a rápida evolução tecnológica?
+- Qual será o impacto de longo prazo da automação de código e ferramentas de IA na profissão de desenvolvedor?
+- Como medir e melhorar a eficiência energética na programação e desenvolvimento de software?
