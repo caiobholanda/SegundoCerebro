@@ -3,40 +3,40 @@
 tipo: pesquisa
 criado: 2026-06-20
 atualizado: 2026-06-20
-pergunta-central: Como os avanços recentes em ferramentas e metodologias estão transformando a programação e o desenvolvimento de software?
+pergunta-central: Quais são as melhores práticas e tendências atuais em programação e desenvolvimento de software?
 relacionado-a: []
-related: [[Claude API e Anthropic SDK]]
+related: []
 tags: [pesquisa, dev, produtividade]
 ---
 
 # Pesquisa - Programação e Desenvolvimento
 
 ## ❓ Pergunta central
-Como os avanços recentes em ferramentas e metodologias estão transformando a programação e o desenvolvimento de software?
+Quais são as melhores práticas e tendências atuais em programação e desenvolvimento de software?
 
 ## 🎯 Síntese (3-5 linhas)
-Nos últimos anos, a programação e o desenvolvimento de software têm sido impactados por avanços significativos em inteligência artificial, metodologias ágeis e ferramentas de automação. Tecnologias como code assistants baseados em IA, plataformas de low-code/no-code e práticas como DevOps estão transformando a maneira como desenvolvedores trabalham, aumentando a produtividade e reduzindo barreiras de entrada para novos profissionais.
+Programação e desenvolvimento continuam evoluindo rapidamente, com ênfase em metodologias ágeis, DevOps, e práticas de Clean Code para melhorar a produtividade e a qualidade do software. Novas linguagens, frameworks e ferramentas, como Rust, TypeScript e IA generativa, estão moldando o futuro do setor. A integração de segurança no ciclo de desenvolvimento, ou DevSecOps, também ganha destaque frente a crescentes preocupações com cibersegurança.
 
 ## 🔬 Detalhes
-- Ferramentas de IA, como [[Claude API e Anthropic SDK]] e GitHub Copilot, estão acelerando o desenvolvimento de código ao sugerir trechos ou até gerar funcionalidades completas.
-- Plataformas de low-code e no-code estão democratizando o desenvolvimento de software, permitindo que pessoas com pouca ou nenhuma experiência em programação criem aplicações funcionais.
-- Metodologias ágeis, como Scrum e Kanban, continuam a evoluir, promovendo maior colaboração entre equipes e ciclos de desenvolvimento mais rápidos.
-- Práticas de DevOps e CI/CD (Integração Contínua/Entrega Contínua) estão reduzindo o tempo de entrega de software, promovendo integração frequente e testes automatizados.
-- Linguagens de programação modernas, como Rust e Kotlin, estão ganhando popularidade devido à sua eficiência, segurança e suporte a paradigmas modernos.
-- O uso de contêineres e orquestradores como Docker e Kubernetes está facilitando a escalabilidade e a portabilidade de aplicações.
+- **Metodologias Ágeis**: SCRUM, Kanban e Extreme Programming (XP) continuam a ser amplamente adotados para melhorar a colaboração e entregar software mais rapidamente.
+- **DevOps e CI/CD**: Integração contínua e entrega contínua permitem ciclos de desenvolvimento e deploy mais rápidos e confiáveis.
+- **Clean Code**: Práticas como refatoração constante, testes automatizados e código legível ajudam a garantir manutenção e escalabilidade.
+- **Linguagens emergentes**: Rust tem crescido em popularidade devido à sua performance e segurança. TypeScript lidera no desenvolvimento web.
+- **Inteligência Artificial**: Ferramentas como GitHub Copilot e ChatGPT estão sendo usadas para acelerar o desenvolvimento e auxiliar na resolução de problemas.
+- **DevSecOps**: A segurança integrada no ciclo de vida do desenvolvimento é essencial diante do aumento de ataques cibernéticos.
 
 ## 🔗 Conexões
 - [[Claude API e Anthropic SDK]]
-- [[Pesquisa - Inteligência Artificial Generativa]]
-- [[Pesquisa - Práticas Ágeis em Desenvolvimento de Software]]
+- [[Pesquisa - Inteligência Artificial no Desenvolvimento de Software]]
 
 ## 📚 Fontes
-- [[Referência - GitHub Copilot: O futuro da programação assistida por IA]]
-- [[Referência - Introdução ao Low-Code/No-Code]]
-- [[Referência - DevOps: Automação e Entrega Contínua]]
+- [[Referência - Clean Code de Robert C. Martin]]
+- [[Referência - Accelerate: The Science of Lean Software and DevOps]]
+- [[Referência - Site oficial do Rust]]
+- [[Referência - Artigo sobre DevSecOps em 2026]]
 
 ## 🚧 Lacunas
-- Qual o impacto de longo prazo da democratização do desenvolvimento via low-code/no-code na profissão de programador(a)?
-- Quais são os limites éticos e técnicos do uso de inteligência artificial no desenvolvimento de software?
-- Como equilibrar a segurança e a eficiência em linguagens de programação modernas como Rust e Go?
+- Como medir o impacto real da IA generativa na produtividade dos desenvolvedores?
+- Quais são os maiores desafios para adoção de Rust em grandes empresas?
+- Como pequenas equipes podem implementar práticas eficazes de DevSecOps?
 ```
