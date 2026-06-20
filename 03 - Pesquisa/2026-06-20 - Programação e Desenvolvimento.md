@@ -3,40 +3,39 @@
 tipo: pesquisa
 criado: 2026-06-20
 atualizado: 2026-06-20
-pergunta-central: Quais são as principais práticas, linguagens e ferramentas utilizadas atualmente para o desenvolvimento de software eficiente e escalável?
+pergunta-central: Como a programação e o desenvolvimento de software podem se adaptar e evoluir nas próximas décadas?
 relacionado-a: []
 related: []
-tags: [pesquisa, dev, produtividade]
+tags: ["pesquisa", "dev", "produtividade"]
 ---
 
 # Pesquisa - Programação e Desenvolvimento
 
 ## ❓ Pergunta central
-Quais são as principais práticas, linguagens e ferramentas utilizadas atualmente para o desenvolvimento de software eficiente e escalável?
+Como a programação e o desenvolvimento de software podem se adaptar e evoluir nas próximas décadas?
 
 ## 🎯 Síntese (3-5 linhas)
-A programação e o desenvolvimento de software têm evoluído com a adoção de práticas ágeis, desenvolvimento em nuvem e inteligência artificial. Linguagens como Python, JavaScript e Rust estão em alta devido à sua versatilidade e desempenho. Ferramentas de CI/CD e arquiteturas baseadas em microsserviços ajudam a construir sistemas escaláveis e robustos. A colaboração em equipes remotas e o uso de plataformas como GitHub são tendências crescentes.
+A programação e o desenvolvimento de software estão em constante evolução, impulsionados por avanços em inteligência artificial, automação e novas arquiteturas computacionais. O foco está em aumentar a produtividade dos desenvolvedores, melhorar a acessibilidade ao desenvolvimento para não programadores e explorar paradigmas emergentes, como computação quântica e programação orientada por IA. A evolução contínua também exige maior atenção à ética, segurança e sustentabilidade no desenvolvimento de tecnologias.
 
 ## 🔬 Detalhes
-- **Práticas Ágeis**: Metodologias ágeis como Scrum e Kanban permitem entregas rápidas e maior adaptabilidade às mudanças de requisitos.
-- **Linguagens de programação populares**: Python lidera em ciência de dados e aprendizado de máquina, enquanto JavaScript é essencial para desenvolvimento web. Rust ganha espaço por seu desempenho e segurança.
-- **Arquiteturas modernas**: Microsserviços e serverless são amplamente utilizados para criar sistemas escaláveis e de fácil manutenção.
-- **Ferramentas de automação**: A integração e entrega contínuas (CI/CD) com ferramentas como Jenkins, GitHub Actions e GitLab CI aceleram o ciclo de desenvolvimento.
-- **Inteligência Artificial**: Modelos como GPT-4 são utilizados para acelerar tarefas de programação, refatoração de código e até mesmo geração de código.
-- **Plataformas de colaboração**: GitHub, GitLab e Bitbucket são fundamentais para equipes distribuídas trabalharem em conjunto e gerenciarem código e versões.
+- A inteligência artificial e o aprendizado de máquina estão transformando o desenvolvimento de software, desde ferramentas de autocompletar código, como [[GitHub Copilot]], até ferramentas que criam programas inteiros com base em prompts textuais.
+- Abordagens low-code e no-code estão democratizando o desenvolvimento, permitindo que pessoas sem formação técnica criem soluções funcionais.
+- A programação orientada por eventos e o uso de arquiteturas baseadas em microsserviços continuam ganhando espaço em sistemas distribuídos e escaláveis.
+- Ferramentas de DevOps integram desenvolvimento e operações, acelerando o ciclo de vida de software com foco em integração e entrega contínuas.
+- A computação quântica, embora ainda em estágio inicial, tem o potencial de revolucionar áreas específicas do desenvolvimento, com novos paradigmas de programação e algoritmos.
+- A ética e a segurança em desenvolvimento de software são questões cada vez mais centrais, especialmente em projetos que envolvem inteligência artificial e privacidade de dados.
 
 ## 🔗 Conexões
 - [[Claude API e Anthropic SDK]]
-- [[Pesquisa - Inteligência Artificial Generativa]]
-- [[Referência - Metodologias Ágeis]]
+- [[Projeto - Sistema Chamados]]
 
 ## 📚 Fontes
-- [[Referência - Livro Clean Code]]
-- [[Referência - Artigo sobre Rust e segurança]]
-- [[Referência - Documentação do GitHub Actions]]
+- [[Referência - GitHub Copilot e o futuro da programação]]
+- [[Referência - Impacto do No-Code na indústria de software]]
+- [[Referência - Introdução à computação quântica para desenvolvedores]]
 
 ## 🚧 Lacunas
-- Quais são as diferenças práticas entre o uso de Rust e C++ em projetos de alta performance?
-- Como as novas ferramentas de IA generativa podem impactar o papel dos desenvolvedores no futuro?
-- Quais são as melhores práticas para a implementação de arquitetura serverless em grandes empresas?
+- Quais serão os principais desafios éticos no uso de IA para criar software no futuro?
+- Como a computação quântica será integrada aos fluxos de trabalho tradicionais de desenvolvimento?
+- Qual o impacto do crescimento de ferramentas no-code sobre o papel do desenvolvedor tradicional?
 ```
