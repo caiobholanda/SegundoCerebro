@@ -3,40 +3,41 @@
 tipo: pesquisa
 criado: 2026-06-20
 atualizado: 2026-06-20
-pergunta-central: Como a evolução das práticas de programação e desenvolvimento impacta a eficiência e a inovação tecnológica?
+pergunta-central: Como a evolução das práticas de programação e do desenvolvimento de software impacta a produtividade e a qualidade do código?
 relacionado-a: []
-related: [[Projeto - Sistema Chamados]]
+related: []
 tags: [pesquisa, dev, produtividade]
 ---
 
 # Pesquisa - Programação e Desenvolvimento
 
 ## ❓ Pergunta central
-Como a evolução das práticas de programação e desenvolvimento impacta a eficiência e a inovação tecnológica?
+Como a evolução das práticas de programação e do desenvolvimento de software impacta a produtividade e a qualidade do código?
 
 ## 🎯 Síntese (3-5 linhas)
-A programação e o desenvolvimento estão em constante evolução, moldados por novas tecnologias, metodologias ágeis e ferramentas colaborativas. Com o avanço da inteligência artificial, práticas como desenvolvimento assistido por IA e automação de tarefas repetitivas estão redefinindo o processo de criação de software. Entender essas mudanças é essencial para manter-se competitivo e inovador no mercado.
+A programação e o desenvolvimento de software evoluíram significativamente com o advento de paradigmas modernos como DevOps, metodologias ágeis e ferramentas de automação. Essas práticas têm aumentado a velocidade e a qualidade do desenvolvimento, enquanto frameworks e linguagens emergentes continuam expandindo as possibilidades de aplicação. Contudo, a escolha de tecnologias adequadas e a gestão eficaz de equipes multiculturais ainda permanecem desafios estratégicos.
 
 ## 🔬 Detalhes
-- **Paradigmas de programação**: Desde a programação estruturada até o paradigma funcional, cada abordagem traz vantagens específicas para diferentes tipos de problemas.
-- **Metodologias ágeis**: Frameworks como Scrum e Kanban promovem maior adaptabilidade às mudanças e entregas contínuas de valor.
-- **Ferramentas de DevOps**: Integram desenvolvimento e operações, acelerando o ciclo de vida de softwares e garantindo maior qualidade.
-- **Impacto da IA**: Ferramentas como o [[Claude API e Anthropic SDK]] estão facilitando o desenvolvimento assistido, aumentando a eficiência e reduzindo erros.
-- **Aprendizado contínuo**: Programadores precisam acompanhar tendências como novas linguagens, frameworks e práticas, como [[Pesquisa - Low-code e No-code]].
-- **Segurança no desenvolvimento**: Práticas como DevSecOps integram segurança ao ciclo de desenvolvimento, essencial em um mundo cada vez mais conectado.
+- **DevOps e CI/CD**: Integração contínua e entrega contínua aceleram o ciclo de vida do desenvolvimento, permitindo entregas rápidas e incrementais.
+- **Metodologias ágeis**: Scrum e Kanban têm promovido maior colaboração entre equipes, priorizando entregas iterativas e feedback constante.
+- **Linguagens emergentes**: Linguagens como Rust e Go estão ganhando tração devido à sua performance e segurança, enquanto Python continua dominando em áreas como ciência de dados e IA.
+- **Automação**: Ferramentas como Docker e Kubernetes estão otimizando a implantação e a escalabilidade de aplicativos complexos.
+- **Inteligência Artificial**: Modelos como [[Claude API e Anthropic SDK]] e GitHub Copilot estão sendo usados para auxiliar na escrita de código e na detecção de bugs.
+- **Desafios em times remotos**: A colaboração em equipes distribuídas exige novas abordagens para comunicação, gestão de projetos e revisão de código.
 
 ## 🔗 Conexões
 - [[Claude API e Anthropic SDK]]
-- [[Pesquisa - Low-code e No-code]]
-- [[Projeto - Sistema Chamados]]
+- [[Pesquisa - Metodologias Ágeis]]
+- [[Referência - Clean Code]]
 
 ## 📚 Fontes
-- [[Referência - Clean Code de Robert C. Martin]]
-- [[Referência - The Pragmatic Programmer de Andrew Hunt e David Thomas]]
-- [[Referência - Artigo sobre DevOps no Medium]]
+- [[Referência - DevOps Handbook]]
+- [[Referência - The Pragmatic Programmer]]
+- [[Referência - Clean Code]]
+- [[Referência - Rust Programming Language]]
 
 ## 🚧 Lacunas
-- Quais são os impactos éticos do desenvolvimento assistido por IA na profissão de programador?
-- Como a adoção de linguagens emergentes, como Rust ou Julia, está transformando setores específicos da tecnologia?
-- Qual o papel dos ambientes de desenvolvimento colaborativos no futuro das equipes distribuídas?
+- Quais são os impactos de novas linguagens como Carbon na indústria de software?
+- Como medir efetivamente a produtividade em equipes que utilizam metodologias ágeis e ferramentas de automação?
+- Quais serão as implicações éticas do uso cada vez maior de IA no desenvolvimento de software?
 ```
