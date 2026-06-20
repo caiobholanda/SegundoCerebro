@@ -3,39 +3,40 @@
 tipo: pesquisa
 criado: 2026-06-20
 atualizado: 2026-06-20
-pergunta-central: Qual é o papel da programação no desenvolvimento de sistemas e como otimizar o processo para maior produtividade?
+pergunta-central: Como os avanços recentes em ferramentas e metodologias estão transformando a programação e o desenvolvimento de software?
 relacionado-a: []
-related: []
+related: [[Claude API e Anthropic SDK]]
 tags: [pesquisa, dev, produtividade]
 ---
 
 # Pesquisa - Programação e Desenvolvimento
 
 ## ❓ Pergunta central
-Qual é o papel da programação no desenvolvimento de sistemas e como otimizar o processo para maior produtividade?
+Como os avanços recentes em ferramentas e metodologias estão transformando a programação e o desenvolvimento de software?
 
 ## 🎯 Síntese (3-5 linhas)
-A programação é o núcleo do desenvolvimento de sistemas modernos, permitindo a criação de soluções automatizadas para problemas complexos. O foco crescente em metodologias ágeis, ferramentas de colaboração e práticas como DevOps tem impulsionado a produtividade nas equipes de desenvolvimento. Além disso, linguagens e frameworks modernos estão reduzindo o tempo entre a concepção e a entrega de software, sem comprometer a qualidade.
+Nos últimos anos, a programação e o desenvolvimento de software têm sido impactados por avanços significativos em inteligência artificial, metodologias ágeis e ferramentas de automação. Tecnologias como code assistants baseados em IA, plataformas de low-code/no-code e práticas como DevOps estão transformando a maneira como desenvolvedores trabalham, aumentando a produtividade e reduzindo barreiras de entrada para novos profissionais.
 
 ## 🔬 Detalhes
-- A programação é a base para automatizar processos e desenvolver soluções digitais, desde aplicativos até sistemas complexos.
-- Linguagens como Python e JavaScript dominam o mercado devido à sua simplicidade e versatilidade.
-- Metodologias ágeis, como Scrum e Kanban, têm redefinido a maneira como equipes de desenvolvimento organizam e entregam projetos.
-- Ferramentas de versionamento, como Git, são essenciais para o trabalho colaborativo e para o gerenciamento de mudanças no código.
-- O movimento DevOps integra desenvolvimento e operações para criar um ciclo de entrega contínua, melhorando a eficiência e a qualidade.
-- O avanço da inteligência artificial e do aprendizado de máquina está transformando a programação, permitindo automação no desenvolvimento e na depuração de código.
+- Ferramentas de IA, como [[Claude API e Anthropic SDK]] e GitHub Copilot, estão acelerando o desenvolvimento de código ao sugerir trechos ou até gerar funcionalidades completas.
+- Plataformas de low-code e no-code estão democratizando o desenvolvimento de software, permitindo que pessoas com pouca ou nenhuma experiência em programação criem aplicações funcionais.
+- Metodologias ágeis, como Scrum e Kanban, continuam a evoluir, promovendo maior colaboração entre equipes e ciclos de desenvolvimento mais rápidos.
+- Práticas de DevOps e CI/CD (Integração Contínua/Entrega Contínua) estão reduzindo o tempo de entrega de software, promovendo integração frequente e testes automatizados.
+- Linguagens de programação modernas, como Rust e Kotlin, estão ganhando popularidade devido à sua eficiência, segurança e suporte a paradigmas modernos.
+- O uso de contêineres e orquestradores como Docker e Kubernetes está facilitando a escalabilidade e a portabilidade de aplicações.
 
 ## 🔗 Conexões
 - [[Claude API e Anthropic SDK]]
-- [[Pesquisa - Metodologias ágeis no desenvolvimento de software]]
+- [[Pesquisa - Inteligência Artificial Generativa]]
+- [[Pesquisa - Práticas Ágeis em Desenvolvimento de Software]]
 
 ## 📚 Fontes
-- [[Referência - Clean Code: A Handbook of Agile Software Craftsmanship]]
-- [[Referência - The Pragmatic Programmer]]
-- [[Referência - DevOps Handbook]]
+- [[Referência - GitHub Copilot: O futuro da programação assistida por IA]]
+- [[Referência - Introdução ao Low-Code/No-Code]]
+- [[Referência - DevOps: Automação e Entrega Contínua]]
 
 ## 🚧 Lacunas
-- Como as ferramentas de IA podem revolucionar a depuração e a escrita de código no futuro próximo?
-- Quais são os impactos das novas linguagens de programação, como Rust, em relação à segurança e desempenho?
-- Como a programação pode ser ainda mais acessível para iniciantes sem comprometer padrões de qualidade?
+- Qual o impacto de longo prazo da democratização do desenvolvimento via low-code/no-code na profissão de programador(a)?
+- Quais são os limites éticos e técnicos do uso de inteligência artificial no desenvolvimento de software?
+- Como equilibrar a segurança e a eficiência em linguagens de programação modernas como Rust e Go?
 ```
