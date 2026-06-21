@@ -3,40 +3,39 @@
 tipo: pesquisa
 criado: 2026-06-21
 atualizado: 2026-06-21
-pergunta-central: Quais são as melhores práticas e ferramentas para realizar deploy eficiente e gerenciar infraestrutura em nuvem de forma escalável e segura?
-relacionado-a: [devops, cloud-computing, automacao]
-related: [[Projeto - Sistema Chamados]]
+pergunta-central: Como escolher e implementar a melhor estratégia de deploy utilizando infraestrutura cloud em diferentes cenários?
+relacionado-a: []
+related: []
 tags: [pesquisa, dev, infra]
 ---
 
 # Pesquisa - Deploy e Infraestrutura Cloud
 
 ## ❓ Pergunta central
-Quais são as melhores práticas e ferramentas para realizar deploy eficiente e gerenciar infraestrutura em nuvem de forma escalável e segura?
+Como escolher e implementar a melhor estratégia de deploy utilizando infraestrutura cloud em diferentes cenários?
 
 ## 🎯 Síntese (3-5 linhas)
-Deploy e infraestrutura cloud envolvem o uso de ferramentas e práticas que garantam a entrega rápida, escalável e segura de aplicações. O uso de serviços como AWS, Azure e Google Cloud permite o gerenciamento de recursos computacionais em escala global. Automação, CI/CD e observabilidade são pilares fundamentais para otimizar processos e manter a confiabilidade. Infraestrutura como código (IaC) e containers como Docker são amplamente utilizados para padronizar e simplificar a gestão.
+Deploy e infraestrutura cloud são elementos críticos para a entrega e operação de sistemas escaláveis, resilientes e eficientes. A escolha da abordagem depende de fatores como o modelo de aplicação (monolítica, microserviços), recursos disponíveis e requisitos de negócio. Ferramentas como Kubernetes, AWS Elastic Beanstalk e Terraform são amplamente utilizadas para orquestração e gerenciamento de infraestrutura.
 
 ## 🔬 Detalhes
-- **Infraestrutura como Código (IaC)**: Ferramentas como Terraform e AWS CloudFormation permitem definir e provisionar infraestrutura de forma declarativa e reprodutível.
-- **Plataformas Cloud**: AWS, Google Cloud Platform (GCP) e Microsoft Azure são os principais provedores, oferecendo serviços como computação elástica, armazenamento e redes globais.
-- **Automação e CI/CD**: Ferramentas como Jenkins, GitHub Actions e GitLab CI/CD permitem pipelines automatizados para construir, testar e implantar código de forma contínua.
-- **Orquestração de Containers**: Kubernetes domina o mercado para gerenciar aplicações em contêineres, oferecendo escalabilidade e balanceamento de carga.
-- **Segurança na Cloud**: Práticas como controle de acesso baseado em funções (IAM), criptografia de dados em trânsito e em repouso, e auditoria de logs são cruciais.
-- **Observabilidade e Monitoramento**: Ferramentas como Prometheus, Grafana e serviços integrados de monitoramento (ex.: AWS CloudWatch) permitem rastrear desempenho e identificar problemas rapidamente.
+- **Modelos de Deploy**: Os principais tipos incluem blue-green deployment, canary deployment e rolling updates. Cada um tem vantagens específicas para minimizar downtime e riscos.
+- **Orquestração**: Plataformas como Kubernetes permitem gerenciar containers em larga escala, garantindo alta disponibilidade e escalabilidade.
+- **Infraestrutura como Código (IaC)**: Ferramentas como Terraform e AWS CloudFormation são essenciais para provisionar e gerenciar recursos de infraestrutura de forma automatizada e reproduzível.
+- **Serviços de Cloud**: AWS, Azure e Google Cloud são líderes no mercado, oferecendo soluções de IaaS, PaaS e SaaS para diferentes necessidades.
+- **Monitoramento e Observabilidade**: Soluções como Prometheus, Grafana e AWS CloudWatch são fundamentais para acompanhar a saúde e o desempenho dos sistemas em produção.
+- **Custos e Otimização**: A escolha da infraestrutura deve levar em conta não apenas desempenho, mas também o custo-benefício, exigindo planejamento e monitoramento contínuos.
 
 ## 🔗 Conexões
 - [[Claude API e Anthropic SDK]]
 - [[Projeto - Sistema Chamados]]
 
 ## 📚 Fontes
-- [[Referência - Site oficial da AWS]]
-- [[Referência - Kubernetes Documentation]]
-- [[Referência - Livro Terraform: Up & Running]]
-- [[Referência - Artigo sobre DevOps e CI/CD]]
+- [[Referência - Kubernetes]]
+- [[Referência - AWS Elastic Beanstalk]]
+- [[Referência - Terraform]]
 
 ## 🚧 Lacunas
-- Quais são os principais desafios de custo e otimização em arquiteturas multi-cloud?
-- Como implementar segurança zero trust em ambientes cloud nativos?
-- Quais são as tendências emergentes em deploy contínuo e serverless?
+- Quais são as melhores práticas para implementar estratégias de failover em infraestrutura cloud?
+- Como realizar migrações de sistemas legados para uma arquitetura baseada em cloud sem interrupções significativas?
+- Quais são as diferenças práticas entre as principais ferramentas de IaC (Terraform, CloudFormation, Ansible) em projetos complexos?
 ```
