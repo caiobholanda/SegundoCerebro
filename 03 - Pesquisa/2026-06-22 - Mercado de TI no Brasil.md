@@ -3,7 +3,7 @@
 tipo: pesquisa
 criado: 2026-06-22
 atualizado: 2026-06-22
-pergunta-central: Quais são as principais características, desafios e oportunidades do mercado de TI no Brasil em 2026?
+pergunta-central: Qual o panorama atual do mercado de TI no Brasil e suas perspectivas futuras?
 relacionado-a: []
 related: []
 tags: [pesquisa, mercado, carreira]
@@ -12,29 +12,30 @@ tags: [pesquisa, mercado, carreira]
 # Pesquisa - Mercado de TI no Brasil
 
 ## ❓ Pergunta central
-Quais são as principais características, desafios e oportunidades do mercado de TI no Brasil em 2026?
+Qual o panorama atual do mercado de TI no Brasil e suas perspectivas futuras?
 
 ## 🎯 Síntese (3-5 linhas)
-O mercado de TI no Brasil continua em crescimento, impulsionado pela digitalização acelerada e pela demanda por soluções tecnológicas em diversos setores. Há uma alta demanda por profissionais qualificados, mas a formação técnica ainda não atende plenamente às necessidades do setor. Além disso, a internacionalização do trabalho remoto cria novas oportunidades, mas também intensifica a concorrência global.
+O mercado de TI no Brasil continua em expansão, impulsionado pela transformação digital e pela crescente demanda por soluções tecnológicas. No entanto, ainda enfrenta desafios como a escassez de profissionais qualificados, a desigualdade regional e a necessidade de políticas públicas mais robustas para o setor. As perspectivas são promissoras, especialmente em áreas como inteligência artificial, cibersegurança e computação em nuvem.
 
 ## 🔬 Detalhes
-- A transformação digital das empresas brasileiras se acelerou, especialmente nas áreas de e-commerce, fintechs e agronegócio.
-- Existe uma carência significativa de profissionais qualificados no mercado, com destaque para áreas como cibersegurança, inteligência artificial e desenvolvimento de software.
-- O modelo de trabalho remoto se consolidou, permitindo que profissionais brasileiros atendam empresas estrangeiras, mas também aumentando a concorrência com talentos globais.
-- Startups continuam a desempenhar um papel importante na inovação tecnológica no Brasil, especialmente em soluções voltadas para problemas locais.
-- Políticas públicas e programas de incentivo à tecnologia são insuficientes ou mal distribuídos, o que cria desafios para empresas menores e para a formação de mão de obra.
-- Salários no setor de TI estão acima da média nacional, mas há uma disparidade significativa entre profissionais em início de carreira e especialistas mais experientes.
+- O Brasil é um dos maiores mercados de tecnologia da informação na América Latina, respondendo por cerca de 40% do total da região.
+- A pandemia de COVID-19 acelerou a transformação digital em diversos setores, aumentando a necessidade de profissionais de TI.
+- Há uma carência de mão de obra qualificada no setor, com projeções indicando um déficit de até 400 mil profissionais até 2027.
+- Setores como fintechs e healthtechs têm sido destaques, atraindo investimentos significativos e gerando novas oportunidades de emprego.
+- A desigualdade regional é um desafio, com maior concentração de empresas e oportunidades em grandes centros como São Paulo e Rio de Janeiro.
+- Políticas públicas de fomento à tecnologia, como a Estratégia Brasileira para a Transformação Digital (E-Digital), têm buscado impulsionar o setor, mas enfrentam desafios de implementação.
 
 ## 🔗 Conexões
 - [[Projeto - Sistema Chamados]]
-- [[Referência - Desafios da Educação em TI no Brasil]]
+- [[Pesquisa - Impacto da IA no mercado de trabalho]]
 
 ## 📚 Fontes
-- [[Referência - Panorama do Mercado de TI no Brasil]]
-- [[Referência - Pesquisa sobre Trabalho Remoto na TI]]
+- [[Referência - Panorama do mercado de TI no Brasil (2026)]]
+- [[Referência - Relatório da ABES sobre o setor de TI no Brasil]]
+- [[Referência - Impacto da transformação digital na economia brasileira]]
 
 ## 🚧 Lacunas
-- Qual é o impacto real das políticas governamentais recentes no setor de TI?
-- Como as instituições de ensino brasileiras podem se alinhar melhor às demandas do mercado de TI?
-- Quais são as estratégias que as empresas brasileiras estão adotando para reter talentos em um mercado cada vez mais globalizado?
+- Quais são os principais fatores que contribuem para a escassez de profissionais qualificados em TI no Brasil?
+- Como as pequenas e médias empresas podem se beneficiar mais do crescimento do mercado de TI?
+- Quais são as iniciativas mais promissoras no Brasil para descentralizar as oportunidades de TI?
 ```
