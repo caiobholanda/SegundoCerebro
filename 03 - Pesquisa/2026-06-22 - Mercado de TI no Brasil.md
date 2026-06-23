@@ -3,39 +3,40 @@
 tipo: pesquisa
 criado: 2026-06-22
 atualizado: 2026-06-22
-pergunta-central: Quais são as principais tendências, desafios e oportunidades no mercado de TI no Brasil em 2026?
+pergunta-central: Quais são as tendências e desafios do mercado de TI no Brasil em 2026?
 relacionado-a: []
 related: []
-tags: ["pesquisa", "mercado", "carreira"]
+tags: [pesquisa, mercado, carreira]
 ---
 
 # Pesquisa - Mercado de TI no Brasil
 
 ## ❓ Pergunta central
-Quais são as principais tendências, desafios e oportunidades no mercado de TI no Brasil em 2026?
+Quais são as tendências e desafios do mercado de TI no Brasil em 2026?
 
 ## 🎯 Síntese (3-5 linhas)
-O mercado de TI no Brasil segue em crescimento, impulsionado pela transformação digital e pela busca por inovação tecnológica em diversos setores. Áreas como inteligência artificial, cibersegurança e desenvolvimento de software estão em alta, enquanto desafios como a escassez de profissionais qualificados e a desigualdade de acesso à tecnologia precisam ser enfrentados. A demanda por profissionais com habilidades técnicas e soft skills é crescente, e empresas começam a investir mais em qualificação e retenção de talentos.
+O mercado de TI no Brasil segue em crescimento, impulsionado pela transformação digital e pela demanda por soluções tecnológicas em diversos setores. As áreas de cibersegurança, ciência de dados e inteligência artificial estão em alta. Entretanto, o setor enfrenta desafios relacionados à escassez de mão de obra qualificada e à necessidade de políticas públicas que incentivem a inovação e a infraestrutura tecnológica.
 
 ## 🔬 Detalhes
-- A transformação digital acelerada pela pandemia continua a impulsionar investimentos em tecnologia por empresas de todos os tamanhos.
-- Há um déficit significativo de profissionais qualificados em TI no Brasil, com estimativas de mais de 300 mil vagas não preenchidas em 2026.
-- As áreas mais promissoras incluem inteligência artificial, ciência de dados, cibersegurança, desenvolvimento de aplicativos e computação em nuvem.
-- Startups brasileiras de tecnologia continuam a atrair investimentos, especialmente nos setores de fintechs, healthtechs e edtechs.
-- O setor público também tem investido em tecnologias como big data e automação para melhorar a eficiência de serviços governamentais.
-- Há um aumento na oferta de cursos técnicos e programas de requalificação para tentar suprir a demanda do mercado, mas o gap de habilidades persiste.
+- O mercado de TI brasileiro cresceu cerca de 10% ao ano nos últimos cinco anos, mesmo enfrentando desafios econômicos.
+- Há alta demanda por profissionais especializados em áreas como desenvolvimento de software, cibersegurança, análise de dados e inteligência artificial.
+- De acordo com a Brasscom, o Brasil precisará de mais de 800 mil profissionais de TI até 2027 para suprir as demandas do mercado.
+- A escassez de mão de obra qualificada é um dos maiores desafios, com empresas enfrentando dificuldades em encontrar candidatos capacitados.
+- Startups de tecnologia estão ganhando força, especialmente em fintechs, healthtechs e edtechs, impulsionadas por investimentos de capital de risco.
+- A inclusão de tecnologias emergentes como 5G, IoT e machine learning está transformando setores tradicionais como agronegócio, saúde e logística.
 
 ## 🔗 Conexões
 - [[Projeto - Sistema Chamados]]
-- [[Pesquisa - Inteligência Artificial no Brasil]]
+- [[Pesquisa - Impacto do 5G na economia brasileira]]
+- [[Pesquisa - Inteligência Artificial no mercado de trabalho]]
 
 ## 📚 Fontes
-- [[Referência - Panorama do Mercado de TI no Brasil 2026]]
-- [[Referência - Relatório de Tendências de Tecnologia 2026]]
-- [[Referência - Análise de Déficit de Profissionais de TI no Brasil]]
+- [[Referência - Relatório Brasscom 2026]]
+- [[Referência - Artigo sobre startups no Brasil]]
+- [[Referência - Estudo sobre tecnologia 5G no Brasil]]
 
 ## 🚧 Lacunas
-- Qual o impacto das políticas públicas recentes no desenvolvimento do mercado de TI no Brasil?
-- Como a educação básica e superior no Brasil pode ser melhor alinhada às demandas do mercado de TI?
-- Quais são as principais estratégias de retenção de talentos adotadas pelas empresas brasileiras de tecnologia?
+- Qual é o impacto das políticas públicas recentes no avanço do setor de TI no Brasil?
+- Quais estratégias podem ser implementadas para mitigar a escassez de mão de obra qualificada?
+- Como as empresas brasileiras estão lidando com a implementação de tecnologias emergentes?
 ```
