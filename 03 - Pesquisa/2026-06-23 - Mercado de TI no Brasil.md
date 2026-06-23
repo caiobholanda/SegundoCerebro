@@ -3,7 +3,7 @@
 tipo: pesquisa
 criado: 2026-06-23
 atualizado: 2026-06-23
-pergunta-central: Quais tendências e desafios moldam o mercado de TI no Brasil atualmente?
+pergunta-central: Quais são as tendências, desafios e oportunidades no mercado de TI no Brasil em 2026?
 relacionado-a: []
 related: []
 tags: [pesquisa, mercado, carreira]
@@ -12,31 +12,30 @@ tags: [pesquisa, mercado, carreira]
 # Pesquisa - Mercado de TI no Brasil
 
 ## ❓ Pergunta central
-Quais tendências e desafios moldam o mercado de TI no Brasil atualmente?
+Quais são as tendências, desafios e oportunidades no mercado de TI no Brasil em 2026?
 
-## 🎯 Síntese (3-5 linhas)
-O mercado de TI no Brasil está em crescimento acelerado, impulsionado pela transformação digital, aumento da demanda por segurança cibernética e adoção de tecnologias emergentes como IA e computação em nuvem. Contudo, enfrenta desafios, como a falta de profissionais qualificados e a necessidade de maior investimento em infraestrutura e educação tecnológica.
+## 🎯 Síntese
+O mercado de TI no Brasil continua em expansão, com alta demanda por profissionais qualificados em áreas como inteligência artificial, cibersegurança e desenvolvimento de software. Apesar disso, o setor enfrenta desafios como a falta de talentos especializados e a necessidade de maior investimento em infraestrutura tecnológica. Há oportunidades promissoras para quem busca qualificação, especialmente em tecnologias emergentes.
 
 ## 🔬 Detalhes
-- O Brasil é o maior mercado de TI da América Latina, representando cerca de 45% do total de investimentos na região.
-- Setores como fintechs, e-commerce e agritech lideram a demanda por soluções tecnológicas inovadoras no país.
-- A escassez de talentos em TI é um dos maiores desafios, com um déficit projetado de mais de 400 mil profissionais até 2025.
-- Tecnologias emergentes como inteligência artificial, blockchain e IoT (Internet das Coisas) estão sendo cada vez mais adotadas por empresas brasileiras.
-- A pandemia acelerou a transformação digital, aumentando a demanda por trabalho remoto e soluções de cloud computing.
-- Investimentos em segurança cibernética têm crescido significativamente, acompanhando o aumento de ataques e ameaças digitais.
+- O Brasil é o maior mercado de TI da América Latina e está entre os 10 maiores do mundo, com crescimento médio anual acima de 10%.
+- Áreas em alta: inteligência artificial, análise de dados, cibersegurança, computação em nuvem e desenvolvimento de aplicativos móveis.
+- A escassez de profissionais capacitados é um grande gargalo, com mais de 400 mil vagas não preenchidas previstas para 2026.
+- A transformação digital nas empresas brasileiras foi acelerada pela pandemia, mas a infraestrutura tecnológica ainda é desigual, especialmente fora dos grandes centros.
+- Startups de tecnologia têm se destacado no país, especialmente em fintechs, edtechs e healthtechs, atraindo investidores nacionais e internacionais.
+- Políticas governamentais, como incentivos fiscais para empresas de tecnologia e programas de formação técnica, têm sido implementadas, mas ainda há espaço para avanços.
 
 ## 🔗 Conexões
-- [[Claude API e Anthropic SDK]]
-- [[Pesquisa - Inteligência Artificial no Brasil]]
 - [[Projeto - Sistema Chamados]]
+- [[Pesquisa - Inteligência Artificial no Brasil]]
 
 ## 📚 Fontes
 - [[Referência - Panorama do mercado de TI no Brasil 2026]]
-- [[Referência - Relatório ABES 2026 sobre TI na América Latina]]
-- [[Referência - Tendências globais de tecnologia 2026]]
+- [[Referência - Relatório sobre transformação digital no Brasil]]
+- [[Referência - Perspectivas para o setor de TI na América Latina]]
 
 ## 🚧 Lacunas
-- Impacto das políticas públicas brasileiras no desenvolvimento do setor de TI.
-- Como atrair e reter talentos em TI no Brasil frente à concorrência internacional.
-- Análise mais detalhada sobre o papel das pequenas e médias empresas no mercado de TI brasileiro.
+- Qual é o impacto das políticas públicas recentes no desenvolvimento do mercado de TI no Brasil?
+- Como a desigualdade de acesso à tecnologia afeta o crescimento do setor em diferentes regiões do país?
+- Quais são as tecnologias emergentes mais promissoras para o mercado brasileiro nos próximos 5 anos?
 ```
