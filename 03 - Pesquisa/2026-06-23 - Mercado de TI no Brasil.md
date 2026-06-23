@@ -1,38 +1,40 @@
+```markdown
 ---
 tipo: pesquisa
 criado: 2026-06-23
 atualizado: 2026-06-23
-pergunta-central: Quais são as principais tendências, desafios e oportunidades no mercado de TI no Brasil atualmente?
+pergunta-central: Quais são as oportunidades, desafios e tendências do mercado de TI no Brasil atualmente?
 relacionado-a: []
-related: [[Área - Tecnologia e Inovação]], [[Pesquisa - Futuro do trabalho em tecnologia]]
+related: []
 tags: [pesquisa, mercado, carreira]
 ---
 
 # Pesquisa - Mercado de TI no Brasil
 
 ## ❓ Pergunta central
-Quais são as principais tendências, desafios e oportunidades no mercado de TI no Brasil atualmente?
+Quais são as oportunidades, desafios e tendências do mercado de TI no Brasil atualmente?
 
 ## 🎯 Síntese (3-5 linhas)
-O mercado de TI no Brasil está em crescimento acelerado, impulsionado pela transformação digital, inteligência artificial e adoção de tecnologias emergentes. No entanto, enfrenta desafios como a escassez de mão de obra qualificada e a necessidade de políticas públicas que incentivem inovação. Áreas como cibersegurança, desenvolvimento de software e dados são especialmente promissoras para profissionais e empresas.
+O mercado de TI no Brasil continua em expansão, impulsionado pela transformação digital em setores como saúde, finanças e varejo. A alta demanda por profissionais qualificados supera a oferta, gerando oportunidades, mas também desafios relacionados à formação e retenção de talentos. Tendências como computação em nuvem, inteligência artificial e cibersegurança são áreas de destaque e crescimento acelerado.
 
 ## 🔬 Detalhes
-- O Brasil tem um mercado de TI em expansão, com previsão de crescimento acima da média global, impulsionado pela digitalização de empresas.
-- Há uma crescente demanda por profissionais de TI qualificados, mas a falta de formação técnica adequada gera um déficit de mão de obra especializada.
-- As áreas de destaque incluem desenvolvimento de software, cibersegurança, inteligência artificial e análise de dados.
-- Startups brasileiras de tecnologia têm ganhado destaque internacional, com um aumento no número de "unicórnios" (empresas avaliadas em mais de US$ 1 bilhão).
-- A Lei Geral de Proteção de Dados (LGPD) tem incentivado investimentos em segurança da informação e compliance.
-- O setor ainda enfrenta desafios como infraestrutura tecnológica limitada em algumas regiões e alta burocracia para empresas.
+- O setor de TI no Brasil cresceu significativamente nos últimos anos, representando cerca de 7% do PIB nacional.
+- A pandemia de COVID-19 acelerou a digitalização de empresas, aumentando a demanda por soluções tecnológicas e profissionais especializados.
+- Há uma escassez de mão de obra qualificada, com um déficit estimado de 500 mil profissionais até 2027.
+- Áreas como cibersegurança, dados e inteligência artificial apresentam alta demanda devido à necessidade de proteger e aproveitar ao máximo os dados empresariais.
+- Startups e o movimento de fintechs no Brasil têm sido protagonistas na adoção de tecnologias disruptivas, atraindo investimentos estrangeiros.
+- Políticas públicas e iniciativas privadas buscam capacitar novos talentos, mas ainda enfrentam desafios como inclusão social e acesso à educação de qualidade.
 
 ## 🔗 Conexões
 - [[Claude API e Anthropic SDK]]
-- [[Pesquisa - Futuro do trabalho em tecnologia]]
+- [[Referência - Panorama do mercado de tecnologia no Brasil]]
 
 ## 📚 Fontes
-- [[Referência - Relatório Mercado de TI Brasil 2026]]
-- [[Referência - Panorama da LGPD no Brasil]]
+- [[Referência - Panorama do mercado de tecnologia no Brasil]]
+- [[Referência - Relatório de tendências em TI 2026]]
 
 ## 🚧 Lacunas
-- Quais são as melhores práticas internacionais que podem ser adaptadas ao mercado de TI brasileiro?
-- Qual é o impacto da IA generativa no mercado de trabalho de TI no Brasil?
-- Quais políticas públicas poderiam ajudar a mitigar o déficit de mão de obra qualificada no setor?
+- Como o mercado de TI no Brasil pode superar a escassez de talentos em curto e médio prazo?
+- Qual o impacto das regulamentações brasileiras, como a LGPD, no crescimento das áreas de TI?
+- Quais setores ou regiões do Brasil ainda estão subaproveitados em termos de adoção tecnológica?
+```
