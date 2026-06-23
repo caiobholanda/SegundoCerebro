@@ -1,40 +1,41 @@
+```markdown
 ---
 tipo: pesquisa
 criado: 2026-06-23
 atualizado: 2026-06-23
-pergunta-central: Como realizar um deploy eficiente e escalável utilizando infraestrutura em nuvem?
-relacionado-a: ["cloud-computing", "devops", "infraestrutura"]
-related: [["Projeto - Sistema Chamados"], ["Referência - AWS Best Practices"], ["Referência - Kubernetes"]]
-tags: ["pesquisa", "dev", "infra"]
+pergunta-central: Quais são as melhores práticas e ferramentas para realizar deploys eficientes e gerenciar infraestrutura cloud de forma escalável e segura?
+relacionado-a: [Claude API e Anthropic SDK, Projeto - Sistema Chamados]
+related: []
+tags: [pesquisa, dev, infra]
 ---
 
 # Pesquisa - Deploy e Infraestrutura Cloud
 
 ## ❓ Pergunta central
-Como realizar um deploy eficiente e escalável utilizando infraestrutura em nuvem?
+Quais são as melhores práticas e ferramentas para realizar deploys eficientes e gerenciar infraestrutura cloud de forma escalável e segura?
 
 ## 🎯 Síntese (3-5 linhas)
-Deploy e infraestrutura cloud são componentes essenciais para aplicações modernas. Um deploy eficiente exige automação, pipelines de CI/CD e práticas DevOps. A infraestrutura cloud oferece escalabilidade, alta disponibilidade e custos otimizados. Ferramentas como Kubernetes, Terraform e AWS têm papéis fundamentais no provisionamento, gerenciamento e operação de aplicativos em nuvem.
+Deploy e infraestrutura cloud são pilares essenciais para o desenvolvimento e operação de sistemas modernos. As melhores práticas incluem automação, uso de ferramentas como Kubernetes e Terraform, monitoramento contínuo e estratégias de segurança robustas. A escolha do provedor de cloud também impacta diretamente na escalabilidade e custo-benefício das operações.
 
 ## 🔬 Detalhes
-- **Definição de deploy**: Refere-se ao processo de disponibilizar uma aplicação ou serviço para produção, podendo envolver múltiplos estágios, como build, testes e entrega.
-- **Infraestrutura como Código (IaC)**: Ferramentas como Terraform e AWS CloudFormation permitem provisionar e gerenciar infraestrutura de forma declarativa, garantindo consistência e reprodutibilidade.
-- **Contêineres e Orquestração**: Tecnologias como Docker e Kubernetes são amplamente usadas para criar, gerenciar e escalar contêineres, promovendo portabilidade e eficiência.
-- **Escalabilidade automática**: Serviços de nuvem como AWS Auto Scaling e Azure Scale Sets ajustam automaticamente recursos com base na demanda, otimizando custos e desempenho.
-- **Pipelines CI/CD**: Integração Contínua (CI) e Entrega Contínua (CD) automatizam o processo de desenvolvimento, testes e deploy, reduzindo erros manuais e acelerando o ciclo de entrega.
-- **Monitoramento e observabilidade**: Ferramentas como Prometheus, Grafana e AWS CloudWatch são cruciais para monitorar métricas, rastrear logs e diagnosticar problemas em tempo real.
+- **Automação**: Ferramentas como Jenkins, GitHub Actions e GitLab CI/CD são amplamente usadas para automatizar pipelines de deploy, reduzindo erros manuais.
+- **Containers e Orquestração**: O uso de Docker para containerização e Kubernetes para orquestração são padrões da indústria para escalabilidade e gerenciamento eficiente.
+- **Infraestrutura como Código (IaC)**: Ferramentas como Terraform e AWS CloudFormation permitem gerenciar recursos de infraestrutura de forma declarativa e versionada.
+- **Monitoramento e Performance**: Soluções como Prometheus, Grafana e AWS CloudWatch ajudam a monitorar recursos e aplicações em tempo real, identificando problemas rapidamente.
+- **Segurança**: Implementar políticas de segurança como controle de acesso baseado em funções (RBAC), criptografia em trânsito e em repouso, e práticas de segurança no código são essenciais.
+- **Escolha do Provedor de Cloud**: AWS, Google Cloud e Microsoft Azure são os principais players, sendo preferíveis dependendo do caso de uso e região de atuação.
 
 ## 🔗 Conexões
+- [[Claude API e Anthropic SDK]]
 - [[Projeto - Sistema Chamados]]
-- [[Referência - AWS Best Practices]]
-- [[Referência - Kubernetes]]
 
 ## 📚 Fontes
-- [[Referência - AWS Best Practices]]
-- [[Referência - Kubernetes]]
+- [[Referência - Kubernetes: Up & Running]]
 - [[Referência - Terraform Documentation]]
+- [[Referência - AWS Well-Architected Framework]]
 
 ## 🚧 Lacunas
-- Como escolher entre diferentes provedores de nuvem (AWS, Azure, Google Cloud) para diferentes casos de uso?
-- Quais as melhores práticas para implementar segurança em pipelines de CI/CD no contexto de nuvem?
-- Como otimizar custos de infraestrutura cloud ao escalar aplicativos globalmente?
+- Como otimizar custos ao escalar infraestrutura em diferentes provedores de cloud?
+- Quais são as tendências emergentes em deploy e infraestrutura, como serverless e edge computing?
+- Quais são as melhores práticas para gerenciar incidentes e realizar rollback rápido em caso de falhas no deploy?
+```
