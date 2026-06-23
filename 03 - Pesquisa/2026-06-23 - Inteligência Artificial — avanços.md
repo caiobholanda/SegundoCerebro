@@ -1,41 +1,42 @@
+```markdown
 ---
 tipo: pesquisa
 criado: 2026-06-23
 atualizado: 2026-06-23
-pergunta-central: Quais foram os avanços mais significativos em inteligência artificial nos últimos anos e como eles estão impactando diferentes setores?
+pergunta-central: Quais são os avanços mais significativos na área de inteligência artificial nos últimos anos, e quais são suas implicações para o futuro?
 relacionado-a: []
-related: []
+related: [[Claude API e Anthropic SDK]]
 tags: [pesquisa, ia]
 ---
 
 # Pesquisa - Inteligência Artificial — avanços
 
 ## ❓ Pergunta central
-Quais foram os avanços mais significativos em inteligência artificial nos últimos anos e como eles estão impactando diferentes setores?
+Quais são os avanços mais significativos na área de inteligência artificial nos últimos anos, e quais são suas implicações para o futuro?
 
 ## 🎯 Síntese (3-5 linhas)
-Nos últimos anos, a inteligência artificial (IA) avançou significativamente em áreas como aprendizado profundo, processamento de linguagem natural, visão computacional e inteligência generativa. Modelos como ChatGPT e DALL·E demonstraram o poder dos sistemas baseados em redes neurais e grandes volumes de dados. Esses avanços estão transformando setores como saúde, educação, indústria criativa e automação, ao mesmo tempo em que levantam questões éticas e regulatórias.
+Os avanços recentes em inteligência artificial incluem a evolução de modelos de linguagem de grande escala, como GPT e Claude, melhorias na capacidade de aprendizado por reforço e a aplicação crescente em áreas como saúde, energia, educação e governança. A integração de IA generativa em sistemas produtivos e criativos está transformando indústrias ao mesmo tempo que levanta questões éticas e de regulação. A busca por um equilíbrio entre inovação e controle ético é um dos grandes desafios da próxima década.
 
 ## 🔬 Detalhes
-- Modelos de linguagem grandes (LLMs) como GPT-4 e outros sucederam em alcançar capacidades quase humanas em tarefas de compreensão e geração de texto, com aplicações em atendimento ao cliente, redação assistida e programação.
-- Avanços em IA generativa, como DALL·E e Stable Diffusion, possibilitaram a criação de imagens, música, vídeos e até mesmo modelos 3D a partir de prompts textuais simples.
-- No setor de saúde, IA tem proporcionado avanços em diagnósticos médicos, como na interpretação de exames de imagem e no desenvolvimento de novos medicamentos.
-- A automação industrial foi impulsionada por IA, com robôs e sistemas inteligentes otimizando processos de fabricação e logística.
-- A ética e a regulamentação da IA têm sido tópicos quentes, com debates sobre viés algorítmico, privacidade e o impacto no mercado de trabalho.
-- A integração de IA com IoT (Internet das Coisas) tem criado sistemas mais inteligentes em áreas como cidades inteligentes, agricultura de precisão e casas conectadas.
+- Modelos de linguagem de grande escala, como [[GPT-4]] e [[Claude AI]], têm demonstrado capacidades avançadas de processamento de linguagem natural, como tradução, geração de texto e assistência em tarefas complexas.
+- O aprendizado por reforço foi utilizado em projetos como AlphaFold, da DeepMind, que revolucionou a biologia estrutural ao prever estruturas de proteínas com precisão inédita.
+- IA generativa tem sido amplamente aplicada em áreas criativas, como arte, música e design, com ferramentas como [[DALL-E]] e [[MidJourney]] ganhando popularidade.
+- A aplicação de IA na área da saúde tem avançado significativamente, com sistemas auxiliando diagnósticos, personalização de tratamentos e descoberta de novos medicamentos.
+- Discussões éticas e regulatórias ganharam força, especialmente em relação à transparência, viés algorítmico e impactos no mercado de trabalho.
+- A integração de IA em sistemas de energia renovável está contribuindo para a otimização de recursos e redução de emissões de carbono, destacando seu potencial no combate às mudanças climáticas.
 
 ## 🔗 Conexões
 - [[Claude API e Anthropic SDK]]
-- [[Pesquisa - Ética em Inteligência Artificial]]
-- [[Pesquisa - Aplicações de IA na Medicina]]
+- [[Pesquisa - Ética em IA]]
+- [[Projeto - Sistema Chamados]]
 
 ## 📚 Fontes
-- [[Referência - OpenAI: Avanços em GPT-4]]
-- [[Referência - DALL·E e o Futuro da Criatividade]]
-- [[Referência - Ética e IA: Considerações Contemporâneas]]
-- [[Referência - Aplicação da IA na Saúde]]
+- [[Referência - GPT-4: artigos técnicos da OpenAI]]
+- [[Referência - Relatório do estado da IA 2026]] 
+- [[Referência - AlphaFold e biologia estrutural]]
 
 ## 🚧 Lacunas
-- Quais são as limitações técnicas atuais dos modelos de inteligência artificial e como superá-las?
-- Como diferentes países estão abordando a regulamentação de sistemas de inteligência artificial?
-- Quais são os impactos de longo prazo da automação baseada em IA no mercado de trabalho global?
+- Quais são os desafios técnicos mais críticos para o desenvolvimento de IA geral (AGI)?
+- Como regulamentar o uso de IA sem sufocar a inovação?
+- Quais são os impactos de longo prazo da IA no mercado de trabalho e na educação?
+```
