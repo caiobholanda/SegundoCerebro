@@ -1,9 +1,8 @@
-```markdown
 ---
 tipo: pesquisa
 criado: 2026-06-24
 atualizado: 2026-06-24
-pergunta-central: Como a programação e o desenvolvimento de software estão moldando o futuro das tecnologias e da sociedade?
+pergunta-central: Quais são os fundamentos e tendências atuais em programação e desenvolvimento de software?
 relacionado-a: []
 related: []
 tags: [pesquisa, dev, produtividade]
@@ -12,32 +11,29 @@ tags: [pesquisa, dev, produtividade]
 # Pesquisa - Programação e Desenvolvimento
 
 ## ❓ Pergunta central
-Como a programação e o desenvolvimento de software estão moldando o futuro das tecnologias e da sociedade?
+Quais são os fundamentos e tendências atuais em programação e desenvolvimento de software?
 
 ## 🎯 Síntese (3-5 linhas)
-A programação é a base das inovações tecnológicas contemporâneas, permitindo a automação, a criação de soluções digitais e o avanço da inteligência artificial. O desenvolvimento de software é essencial para o funcionamento de setores como saúde, educação, finanças e entretenimento. Com a crescente adoção de práticas como DevOps, metodologias ágeis e uso de inteligência artificial no desenvolvimento, o futuro aponta para maior eficiência, colaboração e integração entre humanos e máquinas.
+A programação e o desenvolvimento de software continuam evoluindo rapidamente, impulsionados por novas linguagens, frameworks e metodologias. A adoção de práticas como DevOps, desenvolvimento ágil e uso de inteligência artificial tem transformado a forma como sistemas são criados e mantidos. Além disso, a importância crescente da segurança e da acessibilidade está moldando o futuro do setor.
 
 ## 🔬 Detalhes
-- A programação é a linguagem fundamental para comunicar instruções às máquinas, possibilitando o funcionamento de sistemas digitais.
-- Metodologias ágeis como Scrum e Kanban têm revolucionado a forma de criar software, priorizando a adaptabilidade e o feedback contínuo.
-- O desenvolvimento de software está se transformando com o uso de inteligência artificial, como o GitHub Copilot e o ChatGPT, que auxiliam na escrita de código.
-- Tecnologias como blockchain, inteligência artificial e IoT (Internet das Coisas) são altamente dependentes de avanços em programação.
-- O movimento de código aberto tem democratizado o acesso a ferramentas de desenvolvimento, permitindo inovações colaborativas.
-- A crescente automação de processos através de software está impactando o mercado de trabalho, exigindo novas habilidades e redefinindo carreiras.
+- **Paradigmas de Programação**: Os principais paradigmas incluem programação orientada a objetos, funcional e reativa, cada uma com suas vantagens e aplicações específicas.
+- **Novas linguagens e frameworks**: Linguagens como Rust, Go e frameworks como React, Angular e Django estão em destaque por sua eficiência e escalabilidade.
+- **Práticas ágeis**: Metodologias como Scrum e Kanban são amplamente adotadas para melhorar a colaboração e o ciclo de desenvolvimento.
+- **DevOps**: A integração de desenvolvimento e operações (DevOps) acelera a entrega de software com ferramentas como Docker, Kubernetes e CI/CD pipelines.
+- **Segurança no desenvolvimento**: O conceito de "security by design" está ganhando força, com foco em antecipar e mitigar vulnerabilidades durante o desenvolvimento.
+- **Inteligência Artificial**: Ferramentas como GitHub Copilot e ChatGPT estão revolucionando o desenvolvimento, oferecendo suporte na geração de código e documentação.
 
 ## 🔗 Conexões
 - [[Claude API e Anthropic SDK]]
-- [[Pesquisa - Inteligência Artificial Generativa]]
-- [[Área - Tecnologia e Inovação]]
-- [[Referência - Metodologias Ágeis]]
+- [[Projeto - Sistema Chamados]]
 
 ## 📚 Fontes
-- [[Referência - O Poder da Programação]]
-- [[Referência - DevOps e a Cultura Ágil]]
-- [[Referência - A Revolução do Código Aberto]]
+- [[Referência - Clean Code]]
+- [[Referência - DevOps Handbook]]
+- [[Referência - OWASP Top 10]]
 
 ## 🚧 Lacunas
-- Qual é o impacto de curto e longo prazo da IA no mercado de trabalho para programadores?
-- Como equilibrar a ética no desenvolvimento de tecnologias disruptivas?
-- Quais são as melhores práticas para promover mais diversidade e inclusão no campo da programação?
-```
+- Quais são as tendências emergentes para os próximos cinco anos em linguagens de programação?
+- Como a inteligência artificial pode impactar o papel do desenvolvedor humano no futuro?
+- Quais são os principais desafios éticos no desenvolvimento de software moderno?
