@@ -3,41 +3,39 @@
 tipo: pesquisa
 criado: 2026-06-24
 atualizado: 2026-06-24
-pergunta-central: Como a programação e o desenvolvimento evoluíram para atender às demandas modernas de tecnologia e produtividade?
+pergunta-central: Como a programação e o desenvolvimento evoluem para atender às demandas atuais de tecnologia e inovação?
 relacionado-a: []
 related: []
-tags: [pesquisa, dev, produtividade]
+tags: ["pesquisa", "dev", "produtividade"]
 ---
 
 # Pesquisa - Programação e Desenvolvimento
 
 ## ❓ Pergunta central
-Como a programação e o desenvolvimento evoluíram para atender às demandas modernas de tecnologia e produtividade?
+Como a programação e o desenvolvimento evoluem para atender às demandas atuais de tecnologia e inovação?
 
 ## 🎯 Síntese (3-5 linhas)
-A programação e o desenvolvimento passaram por grandes transformações com o avanço de novas linguagens, frameworks e práticas como metodologias ágeis. Tecnologias como inteligência artificial, computação em nuvem e ferramentas de automação estão impulsionando a produtividade e permitindo que times entreguem soluções mais rapidamente. Além disso, a colaboração remota e o uso de repositórios públicos, como o GitHub, tornaram-se essenciais no ecossistema de desenvolvimento.
+Programação e desenvolvimento estão em constante evolução para acompanhar as demandas de inovação tecnológica. Tendências como desenvolvimento ágil, computação em nuvem, inteligência artificial e programação low-code estão transformando a maneira como softwares são criados e implementados. Essas abordagens buscam maior eficiência, escalabilidade e acessibilidade, permitindo que empresas e desenvolvedores criem soluções mais rápidas e adaptáveis.
 
 ## 🔬 Detalhes
-- A popularidade de linguagens modernas como Python, JavaScript e Rust reflete a busca por maior simplicidade, desempenho e segurança no desenvolvimento de software.
-- Frameworks como React, Angular e Django aceleraram o desenvolvimento de aplicações web com componentes reutilizáveis e arquiteturas modulares.
-- Metodologias ágeis, como Scrum e Kanban, revolucionaram o gerenciamento de projetos, promovendo entregas incrementais e maior colaboração entre equipes.
-- A computação em nuvem (AWS, Azure, GCP) transformou a maneira como aplicações são hospedadas, possibilitando escalabilidade instantânea e custos otimizados.
-- Ferramentas de CI/CD (integração e entrega contínuas), como Jenkins e GitHub Actions, reduziram o tempo entre desenvolvimento e produção.
-- A integração de inteligência artificial está automatizando tarefas como debugging, code review e até a geração de código, aumentando a eficiência dos desenvolvedores.
+- **Desenvolvimento Ágil**: Metodologias como Scrum e Kanban priorizam entregas rápidas e iterativas, garantindo que os projetos atendam às necessidades em constante mudança dos stakeholders.
+- **Programação Funcional**: Linguagens como Haskell, Clojure e Scala têm ganhado destaque por promoverem código mais limpo, modular e fácil de testar.
+- **Inteligência Artificial**: Ferramentas como [[Claude API e Anthropic SDK]] estão revolucionando o desenvolvimento, permitindo automação avançada e integração de modelos de IA.
+- **Low-code/No-code**: Plataformas como Bubble e OutSystems democratizam o desenvolvimento, permitindo que pessoas sem conhecimento técnico criem aplicativos funcionais.
+- **Computação em Nuvem**: Serviços como AWS, Azure e Google Cloud oferecem escalabilidade instantânea e reduzem custos de infraestrutura para desenvolvedores.
+- **Segurança no Desenvolvimento**: Práticas como DevSecOps integram segurança diretamente no ciclo de vida do desenvolvimento, evitando vulnerabilidades desde o início.
 
 ## 🔗 Conexões
 - [[Claude API e Anthropic SDK]]
-- [[Pesquisa - Inteligência Artificial Generativa]]
-- [[Referência - Metodologias Ágeis]]
-- [[Referência - Computação em Nuvem]]
+- [[Projeto - Sistema Chamados]]
 
 ## 📚 Fontes
-- [[Referência - The Pragmatic Programmer]]
-- [[Referência - Clean Code]]
-- [[Referência - The Phoenix Project]]
+- [[Referência - Livro Clean Code]]
+- [[Referência - Documentação AWS]]
+- [[Referência - Artigo sobre Low-code]]
 
 ## 🚧 Lacunas
-- Quais são as principais tendências futuras para linguagens de programação?
-- Como a inteligência artificial pode criar novos paradigmas no desenvolvimento de software?
-- Quais são os impactos da automação extrema no papel do desenvolvedor?
+- Quais são as melhores práticas emergentes para integração de inteligência artificial em projetos de desenvolvimento?
+- Como a evolução da computação quântica impactará a programação e o desenvolvimento nos próximos 5 anos?
+- Quais são os limites e desafios das plataformas low-code em comparação com o desenvolvimento tradicional?
 ```
