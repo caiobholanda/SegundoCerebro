@@ -15,26 +15,27 @@ tags: [pesquisa, mercado, carreira]
 Quais são as principais tendências e desafios do mercado de TI no Brasil em 2026?
 
 ## 🎯 Síntese (3-5 linhas)
-O mercado de TI no Brasil continua em expansão, impulsionado pela transformação digital e pela crescente demanda por soluções tecnológicas em diversos setores. Apesar do aumento na oferta de vagas, há um déficit significativo de profissionais qualificados, o que desafia empresas a investir mais em treinamento e retenção. Áreas como inteligência artificial, cibersegurança e computação em nuvem estão em alta, enquanto questões como tributação, conectividade e desigualdade regional ainda limitam o crescimento sustentável.
+O mercado de TI no Brasil segue em expansão, impulsionado pela transformação digital e pela demanda por soluções de inteligência artificial, segurança cibernética e computação em nuvem. No entanto, o setor enfrenta desafios significativos, como a escassez de profissionais qualificados, desigualdades regionais no acesso à tecnologia e a necessidade de maior investimento em educação tecnológica e infraestrutura.
 
 ## 🔬 Detalhes
-- O Brasil é o maior mercado de TI da América Latina, representando cerca de 40% do setor na região.
-- A transformação digital acelerada pela pandemia consolidou a relevância de áreas como e-commerce, fintechs e saúde digital.
-- Há um déficit estimado de mais de 400 mil profissionais de TI em 2026, evidenciando a lacuna entre a demanda do mercado e a qualificação disponível.
-- Cibersegurança é uma prioridade crescente, com empresas investindo mais em soluções para lidar com o aumento de ataques cibernéticos.
-- Políticas públicas, como incentivos fiscais e programas de qualificação tecnológica, têm impactado positivamente o setor, mas ainda há desafios em termos de infraestrutura e conectividade, especialmente em áreas remotas.
-- A adoção de tecnologias emergentes, como inteligência artificial e blockchain, está transformando o mercado, mas ainda enfrenta resistências culturais e falta de regulamentação clara.
+- O setor de TI no Brasil cresceu consideravelmente nos últimos anos, com startups e grandes empresas liderando a inovação em áreas como fintechs, healthtechs e edtechs.
+- A transformação digital acelerada pela pandemia de COVID-19 continua a impulsionar a adoção de tecnologias como nuvem, IA e automação em diversos setores.
+- A escassez de profissionais qualificados em TI é um dos maiores gargalos do mercado. Estima-se que o Brasil tenha um déficit anual de mais de 70 mil profissionais.
+- As desigualdades regionais no acesso à tecnologia e à formação em TI persistem, com grande concentração de oportunidades em polos como São Paulo e Santa Catarina.
+- A segurança cibernética é uma preocupação crescente, com empresas brasileiras investindo mais em soluções para proteger dados e infraestruturas críticas.
+- Políticas públicas, como o Marco Legal das Startups e investimentos governamentais em inovação, têm contribuído para o fortalecimento do setor, mas ainda há espaço para avanços.
 
 ## 🔗 Conexões
-- [[Pesquisa - Tendências de IA em 2026]]
 - [[Projeto - Sistema Chamados]]
+- [[Pesquisas - Inteligência Artificial no Mercado de Trabalho]]
 
 ## 📚 Fontes
-- [[Referência - Panorama do Mercado de TI no Brasil - 2026]]
-- [[Referência - Relatório sobre Transformação Digital no Brasil]]
+- [[Referência - Panorama do mercado de TI no Brasil 2026]]
+- [[Referência - Relatório Anual de Startups no Brasil]]
+- [[Referência - Estudo sobre déficit de profissionais no setor de TI]]
 
 ## 🚧 Lacunas
-- Quais são as principais iniciativas de inclusão digital para mitigar desigualdades regionais no setor de TI?
-- Como a regulação de novas tecnologias, como IA e blockchain, está sendo conduzida no Brasil?
-- Quais são os setores que mais demandarão profissionais de TI nos próximos 5 anos?
+- Como o Brasil pode reduzir a desigualdade regional no acesso a oportunidades no mercado de TI?
+- Quais estratégias têm sido mais eficazes para superar a escassez de profissionais qualificados no setor?
+- Qual o impacto das políticas públicas recentes no crescimento do mercado de TI brasileiro?
 ```
