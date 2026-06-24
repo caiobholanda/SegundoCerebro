@@ -1,9 +1,8 @@
-```markdown
 ---
 tipo: pesquisa
 criado: 2026-06-24
 atualizado: 2026-06-24
-pergunta-central: Qual é o impacto das metodologias ágeis e das novas ferramentas de IA no fluxo de trabalho em programação e desenvolvimento?
+pergunta-central: Quais são as práticas, ferramentas e linguagens mais relevantes para o desenvolvimento de software em 2026?
 relacionado-a: []
 related: [[Claude API e Anthropic SDK]]
 tags: [pesquisa, dev, produtividade]
@@ -12,31 +11,30 @@ tags: [pesquisa, dev, produtividade]
 # Pesquisa - Programação e Desenvolvimento
 
 ## ❓ Pergunta central
-Qual é o impacto das metodologias ágeis e das novas ferramentas de IA no fluxo de trabalho em programação e desenvolvimento?
+Quais são as práticas, ferramentas e linguagens mais relevantes para o desenvolvimento de software em 2026?
 
 ## 🎯 Síntese (3-5 linhas)
-Programação e desenvolvimento evoluíram significativamente com a adoção de metodologias ágeis e ferramentas de inteligência artificial. Essas práticas promovem maior colaboração, adaptabilidade e eficiência, ao mesmo tempo em que ferramentas baseadas em IA automatizam tarefas repetitivas e aumentam a produtividade. Entretanto, ainda é necessário explorar como equilibrar a criatividade humana e a automação para alcançar melhores resultados.
+O desenvolvimento de software em 2026 é marcado pela consolidação de ferramentas de IA para automação de código, a popularização de linguagens como Python, Rust e TypeScript, e uma forte ênfase em práticas de DevOps e desenvolvimento ágil. A segurança e a escalabilidade continuam sendo prioridades, enquanto o desenvolvimento low-code/no-code ganha força, democratizando o acesso à programação.
 
 ## 🔬 Detalhes
-- Metodologias ágeis como Scrum e Kanban priorizam entregas iterativas e rápidas com feedback frequente, promovendo a adaptação às mudanças.
-- A inteligência artificial está sendo usada para tarefas como geração de código, análise estática, testes automatizados e até mesmo identificação de bugs.
-- Ferramentas como GitHub Copilot e ChatGPT estão diminuindo barreiras para novos programadores, mas também levantam questões sobre dependência e ética no uso da IA.
-- O desenvolvimento de software moderno envolve uma ampla gama de linguagens, frameworks e plataformas, exigindo um aprendizado contínuo dos profissionais.
-- A colaboração em equipes de desenvolvimento é facilitada por plataformas como GitHub, GitLab e ferramentas de comunicação como Slack e Microsoft Teams.
-- Segurança e privacidade continuam sendo áreas críticas, especialmente com o aumento de ataques cibernéticos e a complexidade das arquiteturas de software.
+- Python permanece como uma das linguagens mais populares devido à sua versatilidade e forte presença em áreas como ciência de dados, aprendizado de máquina e automação.
+- Rust tem ganhado destaque por sua performance e segurança, sendo amplamente adotada em sistemas de alto desempenho e desenvolvimento de sistemas embarcados.
+- TypeScript se tornou o padrão de fato para aplicações web modernas devido à sua forte tipagem e integração com o ecossistema JavaScript.
+- Ferramentas de inteligência artificial, como o [[Claude API e Anthropic SDK]], aceleram o desenvolvimento através de geração assistida de código e automação de tarefas repetitivas.
+- Práticas de DevOps, como integração e entrega contínuas (CI/CD), são essenciais para garantir ciclos de desenvolvimento rápidos e confiáveis.
+- Plataformas de desenvolvimento low-code/no-code estão permitindo que usuários sem experiência em programação criem aplicações funcionais, reduzindo as barreiras de entrada.
+- A segurança em desenvolvimento de software é um foco crescente, com a implementação de práticas como DevSecOps e o uso de ferramentas de análise estática de código.
 
 ## 🔗 Conexões
 - [[Claude API e Anthropic SDK]]
-- [[Pesquisa - Automação de Processos com IA]]
-- [[Referência - Clean Code]]
+- [[Projeto - Sistema Chamados]]
+- [[Referência - DevOps e CI/CD]]
 
 ## 📚 Fontes
-- [[Referência - The Pragmatic Programmer]]
-- [[Referência - Agile Manifesto]]
-- [[Referência - Livro Clean Code]]
+- [[Referência - Estado das Linguagens de Programação 2026]]
+- [[Referência - Tendências em Ferramentas de Desenvolvimento 2026]]
 
 ## 🚧 Lacunas
-- Como equilibrar o uso de IA com a necessidade de desenvolvimento criativo e crítico?
-- Quais são as melhores práticas para integrar ferramentas de IA ao pipeline de desenvolvimento sem comprometer a segurança?
-- Qual será o impacto do avanço da IA na demanda por habilidades tradicionais de programação no futuro?
-```
+- Quais são as ferramentas de low-code/no-code mais populares e como elas impactam o mercado de trabalho para desenvolvedores?
+- Como a inteligência artificial pode contribuir para a segurança no desenvolvimento de software?
+- Quais são os desafios futuros para a adoção em larga escala de Rust em indústrias tradicionais?
