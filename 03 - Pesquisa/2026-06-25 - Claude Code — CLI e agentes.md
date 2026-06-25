@@ -1,41 +1,44 @@
-```markdown
 ---
 tipo: pesquisa
 criado: 2026-06-25
 atualizado: 2026-06-25
-pergunta-central: Como o Claude Code utiliza CLI e agentes para facilitar automações e interações inteligentes?
-relacionado-a: [Claude API, Anthropic SDK]
-related: [[Claude API e Anthropic SDK]], [[CLI para automação]]
-tags: [pesquisa, ia, dev, claude]
+pergunta-central: Quais as novidades do Claude Code CLI e sistema de agentes em junho 2026?
+relacionado-a: [Claude API]
+related: ["[[2026-06-24 - Claude Code — CLI e agentes]]"]
+tags: [pesquisa, ia, claude, dev, agentes]
 ---
 
 # Pesquisa - Claude Code — CLI e agentes
 
 ## ❓ Pergunta central
-Como o Claude Code utiliza CLI e agentes para facilitar automações e interações inteligentes?
+Quais as novidades do Claude Code CLI e sistema de agentes em junho 2026?
 
 ## 🎯 Síntese (3-5 linhas)
-Claude Code é uma estrutura desenvolvida para simplificar a integração de IA em fluxos de trabalho. Utilizando CLI (Command Line Interface) e agentes inteligentes, ele permite automações que vão desde a execução de tarefas repetitivas até a análise de dados complexos. Sua arquitetura modular e API flexível são focadas em facilitar a interoperabilidade e a personalização.
+Claude Code agora suporta sub-agentes aninhados em até 3 níveis para decomposição hierárquica de tarefas. Dynamic Workflows em research preview permite dezenas/centenas de subagentes paralelos por sessão com verificação integrada. Novidade de junho: Community Tool Marketplace para descobrir e instalar ferramentas via CLI. `fallbackModel` aceita até 3 modelos de fallback em ordem. GitHub Actions e JetBrains ganharam Claude como agent provider.
 
 ## 🔬 Detalhes
-- Claude Code é uma extensão do [[Claude API e Anthropic SDK]], projetada para uso em ambientes de desenvolvimento e automação.
-- Utiliza CLI como interface primária, permitindo comandos simples para interagir com agentes de IA.
-- Os agentes são unidades programáveis que podem executar tarefas específicas, como análise de dados, processamento de linguagem natural e integração com sistemas externos.
-- Possui suporte para fluxos de trabalho complexos usando scripts customizáveis, que podem ser integrados a plataformas como [[Zapier]] ou [[IFTTT]].
-- Inclui um sistema de permissões e autenticação robusto para garantir segurança nas operações realizadas pelos agentes.
-- É projetado para escalabilidade, permitindo que equipes desenvolvam e implantem soluções de IA em ambientes corporativos ou pessoais.
+- **Sub-agentes aninhados (hierárquicos)**: pai cria filhos; cada filho pode criar netos — até 3 níveis de profundidade; ideal para migrações de codebase em módulos paralelos
+- **Dynamic Workflows** (research preview): orquestração dinâmica com dezenas/centenas de subagentes paralelos; Claude escreve scripts de orquestração + verificação integrada antes de apresentar resultado
+- **Community Tool Marketplace**: descoberta e instalação de ferramentas via `claude marketplace search` / `claude marketplace install`
+- **`fallbackModel`**: até 3 modelos de fallback testados em ordem quando o modelo primário falha ou recusa
+- **`/cd`**: muda diretório da sessão sem quebrar o prompt cache
+- **Sandbox credential blocking**: bloqueia credenciais em ambientes sandbox por segurança
+- **Org model restrictions**: administradores podem restringir quais modelos a organização pode usar
+- **Remote MCP melhorado**: sessões e handling mais confiáveis nas versões recentes
+- **Claude como agent provider no JetBrains** (preview, 22/06): integração nativa via GitHub Changelog
+- **Structured output** mais confiável nas versões recentes
 
 ## 🔗 Conexões
-- [[Claude API e Anthropic SDK]]
-- [[CLI para automação]]
-- [[Projeto - Sistema Chamados]]
+- [[2026-06-25 - Claude API e Anthropic SDK]]
+- [[2026-06-25 - Inteligência Artificial — avanços]]
 
 ## 📚 Fontes
-- [[Referência - Claude Code Documentation]]
-- [[Referência - Anthropic Whitepaper]]
+- [What's new – Claude Code Docs](https://code.claude.com/docs/en/whats-new)
+- [Claude Code Updates – Releasebot](https://releasebot.io/updates/anthropic/claude-code)
+- [Claude as agent provider em JetBrains – GitHub Changelog](https://github.blog/changelog/2026-06-22-new-features-and-claude-as-agent-provider-preview-in-jetbrains-ides/)
+- [Claude Code June 2026 – SitePoint](https://www.sitepoint.com/claude-code-june-2026-10-new-features-devs-need-to-know/)
 
 ## 🚧 Lacunas
-- Quais são as melhores práticas para criar agentes Claude personalizados para fluxos de trabalho específicos?
-- Como o Claude Code se compara em funcionalidade e eficiência com outras ferramentas de automação baseada em IA?
-- Quais são as limitações atuais do sistema de CLI e agentes no Claude Code?
-```
+- Os 3 níveis de sub-agentes aninhados são limitação técnica ou de pricing?
+- Como o Community Tool Marketplace é moderado/curado?
+- Dynamic Workflows tem SLA diferente por ser research preview?

@@ -1,42 +1,46 @@
-```markdown
 ---
 tipo: pesquisa
 criado: 2026-06-25
 atualizado: 2026-06-25
-pergunta-central: Como a Claude API e o Anthropic SDK podem ser utilizados para integrar soluções de IA em aplicações modernas de forma eficiente e segura?
-relacionado-a: []
-related: [[Projeto - Sistema Chamados]]
-tags: [pesquisa, ia, dev, claude]
+pergunta-central: Quais as novidades da Claude API e plataforma Anthropic em junho 2026?
+relacionado-a: [Claude Code, Economia de Tokens]
+related: ["[[2026-06-24 - Claude API e Anthropic SDK]]"]
+tags: [pesquisa, ia, claude, api]
 ---
 
 # Pesquisa - Claude API e Anthropic SDK
 
 ## ❓ Pergunta central
-Como a Claude API e o Anthropic SDK podem ser utilizados para integrar soluções de IA em aplicações modernas de forma eficiente e segura?
+Quais as novidades da Claude API e plataforma Anthropic em junho 2026?
 
 ## 🎯 Síntese (3-5 linhas)
-Claude API e Anthropic SDK são ferramentas oferecidas pela Anthropic para facilitar a integração de modelos de linguagem avançados em aplicações. A API fornece acesso direto ao modelo Claude, enquanto o SDK oferece recursos para simplificar o desenvolvimento e garantir boas práticas de segurança e eficiência. Ambas são projetadas com foco em alinhamento ético e controle de IA.
+Fable 5 entrou em cobrança medida após o período gratuito (encerrou 22/06, $10/$50 por MTok). Billing split está ativo desde 15/06. A API ganhou fallback server-side, MCP tunnels para redes privadas, Rate Limits API e Multi-agent sessions em beta público. Managed Agents agora roda em sandbox corporativo com MCP privado. Claude chegou ao ecossistema Apple (Foundation Models, iOS/macOS/watchOS 27) e ao Slack via Claude Tag.
 
 ## 🔬 Detalhes
-- **Claude API**: fornece endpoints para interagir com o modelo de linguagem Claude, permitindo consultas em linguagem natural e respostas contextualmente ricas.
-- **Anthropic SDK**: uma biblioteca que facilita a integração da Claude API em diferentes linguagens e frameworks, incluindo suporte para Python, Node.js, entre outros.
-- **Segurança e alinhamento ético**: as ferramentas são projetadas com princípios de segurança e alinhamento para evitar usos prejudiciais ou não intencionais da IA.
-- **Casos de uso**: incluem chatbots avançados, análise de linguagem natural, geração de texto, resumo de documentos e assistência em aplicações empresariais.
-- **Escalabilidade**: a API suporta cargas de trabalho intensivas e pode ser configurada para atender diferentes níveis de demanda, com opções de personalização.
-- **Documentação e suporte**: a Anthropic oferece uma documentação robusta e uma comunidade ativa para desenvolvedores, facilitando a adoção e solução de problemas.
+- **Claude Fable 5** (GA desde 09/06): 1M ctx, 128K output, $10/$50 MTok — período gratuito Pro/Max/Team encerrou em 22/06; a partir de agora consome créditos
+- **Claude Mythos 5**: disponível apenas para ciber-defensores e provedores de infraestrutura selecionados (parceiros Glasswing)
+- **Billing split** (ativo desde 15/06): Agent SDK, `claude -p`, GitHub Actions e apps de terceiros consomem pool separado (Pro $20, Max5x $100, Max20x $200/mês)
+- **Fallback server-side** (header `server-side-fallback-2026-06-01`): recusas retentam em segundo modelo no mesmo round-trip, sem cobrança extra
+- **Sem cobrança por recusas**: requests com `stop_reason: "refusal"` sem output gerado não são mais cobrados
+- **MCP Tunnels** (research preview): permite conectar servidores MCP dentro de redes privadas
+- **Rate Limits API**: admins podem consultar os limites da organização e dos workspaces via API
+- **Managed Agents enterprise**: sandbox corporativo + MCP privado; multi-agent sessions e Outcomes em beta público (`managed-agents-2026-04-01`)
+- **Claude Tag no Slack** (beta Team/Enterprise): @Claude em canais com acesso a ferramentas e bases de código
+- **Apple Foundation Models**: suporte no framework iOS 27, iPadOS 27, macOS 27, visionOS 27
+- **Sonnet 4 e Opus 4 originais** descontinuados em 15/06 — chamadas falham
 
 ## 🔗 Conexões
+- [[2026-06-25 - Claude Code — CLI e agentes]]
+- [[2026-06-25 - Economia de Tokens em LLMs]]
 - [[Projeto - Sistema Chamados]]
-- [[Pesquisa - Modelos de linguagem natural]]
-- [[Referência - Ética na IA]]
 
 ## 📚 Fontes
-- [[Referência - Documentação Oficial da Claude API]]
-- [[Referência - Guia do Anthropic SDK]]
-- [[Referência - Princípios de segurança em IA - Anthropic]]
+- [Anthropic Release Notes – Releasebot](https://releasebot.io/updates/anthropic)
+- [Claude Platform Release Notes](https://platform.claude.com/docs/en/release-notes/overview)
+- [Claude Fable 5 e Mythos 5 – Anthropic](https://www.anthropic.com/news/claude-fable-5-mythos-5)
+- [Claude Opus 4.8 – Anthropic](https://www.anthropic.com/news/claude-opus-4-8)
 
 ## 🚧 Lacunas
-- Como a Claude API se compara a outras APIs de IA, como OpenAI GPT e LLaMA, em termos de performance e custo?
-- Quais são as melhores práticas para garantir que o alinhamento ético da Claude API seja mantido em aplicações empresariais?
-- Como a Anthropic SDK pode ser escalada para suportar múltiplos usuários simultâneos em ambientes de alta demanda?
-```
+- Como o fallback server-side afeta latência e custo médio por request?
+- Quais as condições exatas de elegibilidade para acessar Mythos 5?
+- Impacto do billing split em workflows agênticos existentes após 15/06
