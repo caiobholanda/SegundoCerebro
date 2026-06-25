@@ -1,82 +1,42 @@
+```markdown
 ---
 tipo: pesquisa
 criado: 2026-06-25
 atualizado: 2026-06-25
-<<<<<<< HEAD
-pergunta-central: Quais os principais avanços em IA em junho 2026, especialmente no front Gemini/GPT/modelos frontier?
-relacionado-a: [Claude API, Economia de Tokens]
-related: ["[[2026-06-24 - Inteligência Artificial — avanços]]"]
-=======
-pergunta-central: Quais foram os avanços mais significativos em Inteligência Artificial nos últimos anos e quais suas implicações para o futuro?
+pergunta-central: Quais são os principais avanços recentes em inteligência artificial e seus impactos na sociedade?
 relacionado-a: []
-related: [[Claude API e Anthropic SDK]], [[Pesquisa - Ética na IA]]
->>>>>>> 2fe417dd6f2a991dd229c8ad7a0f7422af3d2bac
+related: [[Claude API e Anthropic SDK]]
 tags: [pesquisa, ia]
 ---
 
 # Pesquisa - Inteligência Artificial — avanços
 
 ## ❓ Pergunta central
-<<<<<<< HEAD
-Quais os principais avanços em IA em junho 2026, especialmente no front Gemini/GPT/modelos frontier?
+Quais são os principais avanços recentes em inteligência artificial e seus impactos na sociedade?
 
 ## 🎯 Síntese (3-5 linhas)
-Google lançou Gemini 3.5 Flash (GA) e confirmou Gemini 3.5 Pro para junho 2026. O Gemini Omni introduz geração multimodal de qualquer input para qualquer output, com foco em vídeo. O Gemini Spark é o primeiro agente pessoal 24/7 da Google, rodando em background mesmo com o celular bloqueado. Reasoning models (o1, DeepSeek-R1) estabelecem o trade-off velocidade × precisão como eixo principal de diferenciação.
+Nos últimos anos, a inteligência artificial avançou em áreas como processamento de linguagem natural, aprendizado por reforço e inteligência generativa. Ferramentas como modelos de linguagem de grande escala (LLMs), sistemas autônomos e IA aplicada à saúde têm transformado indústrias inteiras. No entanto, preocupações éticas e regulamentações ainda são desafios importantes a serem enfrentados.
 
 ## 🔬 Detalhes
-- **Gemini 3.5 Flash** (GA): 4× mais rápido que o flagship anterior; supera Sonnet 4.6 (52) e Grok 4.3 (53) no Intelligence Index com score ~55; otimizado para workflows agênticos
-- **Gemini 3.5 Pro**: confirmado para junho 2026; em uso interno na Google há semanas
-- **Gemini Omni**: novo modelo de geração multimodal — qualquer input → qualquer output; foco inicial em vídeo
-- **Gemini Spark**: agente pessoal 24/7 apresentado no Gemini app; roda em cloud em background, opera mesmo com celular bloqueado; posiciona Gemini como parceiro ativo, não apenas assistente
-- **Gemini app redesenhado**: Daily Brief, nova UI, acesso ao Gemini Omni e Spark
-- **Reasoning models como padrão**: OpenAI o1 e DeepSeek-R1 consolidaram o paradigma "troca velocidade por precisão" — virou eixo de diferenciação de produto
-- **Multimodal como base mínima**: todos os modelos frontier 2026 são nativamente multimodais
-- **Eficiência de custo**: performance equivalente ao GPT-4 original disponível por $0,40/MTok (era $20 em 2022 — queda de 98%)
-- **Agentes autônomos**: mercado projetado em US$8,5B → US$35B até 2030
-- **IA em pesquisa científica**: 89% dos papers de IA publicados no 1S/2026 ainda usam Python como ferramenta principal
-
-## 🔗 Conexões
-- [[2026-06-25 - Claude API e Anthropic SDK]]
-- [[2026-06-25 - Economia de Tokens em LLMs]]
-- [[2026-06-25 - Mercado de TI no Brasil]]
-
-## 📚 Fontes
-- [Google AI Updates – TechCrunch](https://techcrunch.com/2026/05/19/google-updates-its-gemini-app-to-take-on-chatgpt-and-claude-at-io-2026/)
-- [LLM Updates Today – llm-stats.com](https://llm-stats.com/llm-updates)
-- [Google Gemini AI Updates June 2026 – Sumato Solutions](https://sumatosolutions.com/blog-google-ai-updates-2026-gemini-flash-agentic-app-builder/)
-- [Innovations from Google I/O 26 on Google Cloud](https://cloud.google.com/blog/products/ai-machine-learning/innovations-from-google-io-26-on-google-cloud)
-
-## 🚧 Lacunas
-- Gemini Spark usa qual modelo base internamente — Gemini 3.5 Flash ou 3.5 Pro?
-- Como o Gemini Omni se compara ao Fable 5 em geração de vídeo?
-- Quais os benchmarks exatos do Gemini 3.5 Pro vs Opus 4.8?
-=======
-Quais foram os avanços mais significativos em Inteligência Artificial nos últimos anos e quais suas implicações para o futuro?
-
-## 🎯 Síntese (3-5 linhas)
-Nos últimos anos, a Inteligência Artificial avançou significativamente em áreas como aprendizado profundo, modelos generativos, processamento de linguagem natural e robótica. Inovações como modelos multimodais, maior eficiência energética em treinamentos e regulamentações éticas estão moldando o futuro da IA. No entanto, desafios éticos e técnicos permanecem, como o viés algorítmico e a necessidade de explicabilidade.
-
-## 🔬 Detalhes
-- Modelos de linguagem de grande porte (LLMs), como GPT-4 e Claude, demonstraram avanços impressionantes em compreensão e geração de texto, permitindo aplicações em educação, saúde e indústrias criativas.
-- Modelos multimodais, como GPT-V e DALL·E 3, conseguem combinar texto com imagens, abrindo caminho para novas interações e aplicações mais dinâmicas.
-- Aprendizado por reforço profundo (Deep Reinforcement Learning) tem sido utilizado em áreas como jogos, robótica e estratégias de otimização complexas.
-- A implementação de IA responsável tem ganhado força, com empresas e governos investindo em frameworks éticos e regulamentações para reduzir viés e melhorar a transparência.
-- Avanços em hardware, como chips especializados (TPUs, NPUs) e computação quântica, estão acelerando a capacidade de processamento de IA, permitindo a execução de modelos maiores com menor custo energético.
-- Ferramentas de código aberto e APIs, como o Anthropic SDK e frameworks como PyTorch e TensorFlow, democratizaram o acesso à criação de IA avançada.
+- O desenvolvimento de modelos de linguagem de grande escala (LLMs), como GPT-4 e Claude, revolucionou a interação humano-máquina, permitindo respostas mais naturais e contextualmente relevantes.
+- A inteligência generativa, como no caso do DALL-E e MidJourney, trouxe avanços significativos na criação de imagens, vídeos e outras formas de mídia com base em descrições textuais.
+- Aprendizado por reforço profundo tem permitido a criação de sistemas que superam humanos em jogos complexos, como xadrez e Go, além de aplicações na robótica e otimização de processos industriais.
+- Aplicações em saúde, como diagnóstico assistido por IA e descoberta de medicamentos, têm acelerado processos médicos e gerado avanços no tratamento de doenças.
+- A evolução de sistemas autônomos, incluindo veículos autônomos e drones, tem impulsionado a logística e a mobilidade urbana, mas também levantado questões de segurança.
+- Preocupações éticas, como viés algorítmico, uso indevido de IA para desinformação e impacto no mercado de trabalho, continuam sendo barreiras para a adoção ampla e responsável da tecnologia.
 
 ## 🔗 Conexões
 - [[Claude API e Anthropic SDK]]
 - [[Pesquisa - Ética na IA]]
-- [[Referência - OpenAI e o impacto dos LLMs]]
+- [[Referência - Impacto da IA na saúde]]
 
 ## 📚 Fontes
-- [[Referência - OpenAI e o impacto dos LLMs]]
-- [[Referência - Artigo sobre ética em IA - MIT Technology Review]]
-- [[Referência - Relatório sobre IA da Stanford University]]
+- [[Referência - OpenAI GPT-4 whitepaper]]
+- [[Referência - Artigo sobre ética em IA (MIT Technology Review)]]
+- [[Referência - Relatório da OMS sobre IA em saúde]]
 
 ## 🚧 Lacunas
-- Como garantir a explicabilidade e a transparência dos modelos mais complexos de IA?
-- Quais serão os impactos de longo prazo da automação em massa nas economias globais?
-- Como as regulamentações podem acompanhar o ritmo dos avanços tecnológicos sem inibir a inovação?
+- Qual é o impacto de longo prazo da inteligência artificial no mercado de trabalho, especialmente com a automação de tarefas cognitivas?
+- Como as regulamentações internacionais podem acompanhar o ritmo acelerado dos avanços em IA?
+- Quais são as implicações sociais e psicológicas do uso de sistemas de IA em interações humanas, como assistentes virtuais e ferramentas de suporte emocional?
 ```
->>>>>>> 2fe417dd6f2a991dd229c8ad7a0f7422af3d2bac
