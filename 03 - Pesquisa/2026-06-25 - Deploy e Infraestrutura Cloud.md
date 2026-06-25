@@ -1,43 +1,39 @@
-```markdown
 ---
 tipo: pesquisa
 criado: 2026-06-25
 atualizado: 2026-06-25
-pergunta-central: Quais são as melhores práticas e ferramentas para realizar deploys confiáveis e gerenciar infraestrutura em ambientes de computação em nuvem?
+pergunta-central: Como garantir um deploy eficiente e seguro em ambientes de infraestrutura cloud modernos?
 relacionado-a: []
-related: [[Claude API e Anthropic SDK]]
+related: []
 tags: [pesquisa, dev, infra]
 ---
 
 # Pesquisa - Deploy e Infraestrutura Cloud
 
 ## ❓ Pergunta central
-Quais são as melhores práticas e ferramentas para realizar deploys confiáveis e gerenciar infraestrutura em ambientes de computação em nuvem?
+Como garantir um deploy eficiente e seguro em ambientes de infraestrutura cloud modernos?
 
 ## 🎯 Síntese (3-5 linhas)
-A infraestrutura em nuvem revolucionou o desenvolvimento tecnológico, permitindo escalabilidade, maior eficiência e redução de custos. O deploy moderno exige automação, observabilidade e integração contínua para garantir confiabilidade e otimização. Ferramentas como Kubernetes e Terraform são essenciais para gerenciar recursos e orquestrar aplicações em ambientes cloud.
+A infraestrutura cloud permite escalabilidade, flexibilidade e automação essenciais para o deploy eficiente de aplicativos modernos. Práticas como integração contínua, entrega contínua (CI/CD), uso de contêineres e orquestração (ex.: Kubernetes) são fundamentais. Além disso, a segurança deve ser integrada ao ciclo de desenvolvimento, com ferramentas de monitoramento, controle de acesso e automação de políticas.
 
 ## 🔬 Detalhes
-- **Automação com CI/CD:** Adotar pipelines de integração e entrega contínua minimiza erros humanos e acelera o ciclo de desenvolvimento.
-- **IaC (Infraestrutura como Código):** Ferramentas como [[Terraform]] e [[AWS CloudFormation]] permitem gerenciar e provisionar infraestrutura de forma declarativa e versionável.
-- **Orquestração de Contêineres:** [[Kubernetes]] e [[Docker]] são padrões de mercado para gerenciar aplicações em contêineres, garantindo escalabilidade e resiliência.
-- **Observabilidade e Monitoramento:** Utilizar ferramentas como [[Prometheus]], [[Grafana]] e [[Datadog]] para monitorar desempenho e identificar problemas em tempo real.
-- **Práticas de segurança:** Implementar políticas de segurança, como controle de acesso e criptografia, além de adotar práticas de DevSecOps.
-- **Multi-cloud e edge computing:** Estratégias multi-cloud garantem redundância e flexibilidade, enquanto edge computing reduz latência ao processar dados próximos à origem.
+- Deploy na nuvem se beneficia de modelos como IaaS, PaaS e SaaS, permitindo diferentes níveis de controle e abstração.
+- Contêineres (ex.: Docker) e orquestradores (ex.: Kubernetes) oferecem portabilidade e escalabilidade, sendo amplamente usados para gerenciar aplicações distribuídas.
+- Práticas DevOps, especialmente CI/CD, são cruciais para automatizar e acelerar o processo de deploy, reduzindo erros humanos.
+- Infraestrutura como Código (IaC) (ex.: Terraform, AWS CloudFormation) ajuda a gerenciar recursos de forma programática e rastreável.
+- Segurança deve ser priorizada com estratégias como DevSecOps, uso de scanners de vulnerabilidades e controles de acesso baseados em funções (RBAC).
+- Monitoramento contínuo e logging são essenciais para identificar e mitigar problemas rapidamente em ambientes cloud.
 
 ## 🔗 Conexões
+- [[Projeto - Sistema Chamados]]
 - [[Claude API e Anthropic SDK]]
-- [[Referência - Kubernetes]]
-- [[Referência - Terraform]]
-- [[Referência - CI/CD Pipelines]]
 
 ## 📚 Fontes
-- [[Referência - Livro Engenharia de Software Moderna]]
-- [[Referência - Artigo sobre práticas de DevSecOps]]
-- [[Referência - Documentação oficial do Terraform]]
+- [[Referência - Livro "The Phoenix Project"]]
+- [[Referência - Kubernetes: Up and Running]]
+- [[Referência - Guia AWS Well-Architected Framework]]
 
 ## 🚧 Lacunas
-- Comparação aprofundada entre diferentes provedores de cloud (AWS vs Azure vs Google Cloud).
-- Melhores práticas para implementação de edge computing em infraestruturas híbridas.
-- Estudo de caso sobre a transição de infraestrutura on-premises para cloud usando Kubernetes e Terraform.
-```
+- Como escolher entre diferentes provedores de cloud (AWS, GCP, Azure) para necessidades específicas de deploy?
+- Quais são as melhores práticas para gerenciar custos de infraestrutura em ambientes multicloud?
+- Como medir e otimizar o desempenho de sistemas em tempo real no contexto de infraestrutura cloud?
