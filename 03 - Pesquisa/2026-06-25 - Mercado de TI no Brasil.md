@@ -3,7 +3,7 @@
 tipo: pesquisa
 criado: 2026-06-25
 atualizado: 2026-06-25
-pergunta-central: Quais são as principais tendências, desafios e oportunidades no mercado de TI no Brasil atualmente?
+pergunta-central: Qual é o panorama atual do mercado de TI no Brasil e suas principais tendências para os próximos anos?
 relacionado-a: []
 related: []
 tags: [pesquisa, mercado, carreira]
@@ -12,31 +12,30 @@ tags: [pesquisa, mercado, carreira]
 # Pesquisa - Mercado de TI no Brasil
 
 ## ❓ Pergunta central
-Quais são as principais tendências, desafios e oportunidades no mercado de TI no Brasil atualmente?
+Qual é o panorama atual do mercado de TI no Brasil e suas principais tendências para os próximos anos?
 
 ## 🎯 Síntese (3-5 linhas)
-O mercado de TI no Brasil é um dos setores mais promissores, com alta demanda por profissionais qualificados e crescimento acelerado impulsionado pela transformação digital. Apesar disso, enfrenta desafios como a falta de mão de obra capacitada e a necessidade de adaptação às tecnologias emergentes, como inteligência artificial e computação em nuvem. Há oportunidades significativas em áreas como desenvolvimento de software, segurança cibernética e análise de dados.
+O mercado de TI no Brasil continua crescendo a passos largos, impulsionado pela transformação digital, investimentos em tecnologia e expansão de startups. O setor enfrenta alta demanda por profissionais qualificados, mas ainda sofre com a escassez de mão de obra especializada. Tendências como inteligência artificial, computação em nuvem e cibersegurança estão moldando o futuro do setor.
 
 ## 🔬 Detalhes
-- O mercado de TI no Brasil cresce acima da média global, impulsionado pela digitalização de negócios e pelo aumento do consumo de tecnologia.
-- Existe um déficit de profissionais qualificados, com estimativas de que o país terá uma escassez de mais de 400 mil especialistas em TI até 2027.
-- Áreas como segurança cibernética, inteligência artificial e ciência de dados estão entre as mais demandadas no mercado.
-- Startups no Brasil têm se destacado em fintech, healthtech e edtech, recebendo investimentos significativos e impulsionando o setor.
-- Programas de capacitação e bootcamps estão se expandindo para suprir a necessidade de formação rápida e prática em habilidades de TI.
-- Políticas públicas e incentivos fiscais para inovação tecnológica estão contribuindo para o crescimento do setor, embora ainda haja desafios em infraestrutura e conectividade.
+- O mercado de TI no Brasil movimentou mais de R$ 200 bilhões em 2025, representando cerca de 7% do PIB nacional.
+- Há uma crescente demanda por profissionais especializados, especialmente em áreas como desenvolvimento de software, análise de dados, cibersegurança e inteligência artificial.
+- O setor de startups no Brasil tem se destacado, com um aumento significativo na quantidade de unicórnios (startups avaliadas em mais de US$ 1 bilhão), especialmente em fintechs e healthtechs.
+- Programas de capacitação e bootcamps estão se consolidando como alternativas rápidas para formar novos profissionais e suprir a carência de talentos.
+- Apesar disso, há uma desigualdade regional no desenvolvimento do setor, com o Sudeste concentrando a maior parte das vagas e investimentos.
+- A transformação digital nas empresas, impulsionada pela pandemia de COVID-19, acelerou a adoção de tecnologias como computação em nuvem, automação de processos e inteligência artificial.
 
 ## 🔗 Conexões
+- [[Projeto - Sistema Chamados]]
 - [[Claude API e Anthropic SDK]]
-- [[Pesquisa - Inteligência Artificial e o futuro do trabalho]]
-- [[Área - Carreira e Desenvolvimento Profissional]]
 
 ## 📚 Fontes
-- [[Referência - Relatório setor de TI Brasil 2026]]
-- [[Referência - Perspectivas de mercado tecnológico no Brasil]]
-- [[Referência - Tendências de carreira em TI]]
+- [[Referência - Panorama do Mercado de TI no Brasil 2025]]
+- [[Referência - Relatório sobre Startups no Brasil]]
+- [[Referência - Transformação Digital e o Setor de TI]]
 
 ## 🚧 Lacunas
-- Qual é o impacto da Web3 e blockchain no mercado de TI brasileiro?
-- Como as empresas estão promovendo diversidade e inclusão na área de TI no Brasil?
-- Quais são os principais desafios enfrentados por startups de tecnologia no Brasil?
+- Quais são os principais desafios enfrentados por pequenas e médias empresas de TI no Brasil?
+- Como a regulação governamental está influenciando o crescimento do mercado de TI no país?
+- Quais são as perspectivas de longo prazo para a formação de mão de obra qualificada no setor?
 ```
