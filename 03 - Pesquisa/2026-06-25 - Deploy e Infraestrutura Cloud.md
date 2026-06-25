@@ -2,15 +2,23 @@
 tipo: pesquisa
 criado: 2026-06-25
 atualizado: 2026-06-25
+<<<<<<< HEAD
 pergunta-central: Qual o estado atual das plataformas de deploy cloud (Railway, Fly.io, Vercel, Render) em meados de 2026?
 relacionado-a: [Programação, Economia de Tokens]
 related: ["[[2026-06-24 - Deploy e Infraestrutura Cloud]]"]
 tags: [pesquisa, dev, deploy, infra]
+=======
+pergunta-central: Quais são as melhores práticas e ferramentas para realizar deploys e gerenciar infraestrutura em ambientes cloud modernos?
+relacionado-a: []
+related: []
+tags: [pesquisa, dev, infra]
+>>>>>>> 2fe417dd6f2a991dd229c8ad7a0f7422af3d2bac
 ---
 
 # Pesquisa - Deploy e Infraestrutura Cloud
 
 ## ❓ Pergunta central
+<<<<<<< HEAD
 Qual o estado atual das plataformas de deploy cloud (Railway, Fly.io, Vercel, Render) em meados de 2026?
 
 ## 🎯 Síntese (3-5 linhas)
@@ -42,3 +50,37 @@ O mercado de PaaS está em reestruturação: Vercel subiu preço 4 vezes desde 2
 - Railway Metal está totalmente estável após o outage GCP de maio 2026?
 - Render flat fee ($25/mês) é competitivo para workloads de baixo consumo vs Railway?
 - Qual plataforma tem melhor integração nativa com Claude Code Managed Agents?
+=======
+Quais são as melhores práticas e ferramentas para realizar deploys e gerenciar infraestrutura em ambientes cloud modernos?
+
+## 🎯 Síntese (3-5 linhas)
+Deploy e infraestrutura cloud envolvem a automação de processos de entrega de software e a gestão de recursos escaláveis na nuvem. Ferramentas como Kubernetes, Terraform e CI/CD pipelines são essenciais. As melhores práticas incluem o uso de infraestrutura como código (IaC), monitoramento contínuo e adoção de arquiteturas baseadas em microserviços e containers, que permitem maior flexibilidade e escalabilidade.
+
+## 🔬 Detalhes
+- **Infraestrutura como Código (IaC)**: Ferramentas como Terraform e AWS CloudFormation permitem gerenciar recursos de infraestrutura de forma declarativa, promovendo consistência entre ambientes.
+- **Orquestração de Containers**: Kubernetes é amplamente utilizado para gerenciar clusters de containers, facilitando o deploy e a escalabilidade de aplicações.
+- **Automação de CI/CD**: Ferramentas como Jenkins, GitHub Actions e GitLab CI/CD automatizam testes e deploys, acelerando ciclos de desenvolvimento.
+- **Monitoramento e Observabilidade**: Plataformas como Prometheus, Grafana e Datadog ajudam a monitorar ambientes cloud, garantindo segurança e desempenho.
+- **Cloud Providers**: AWS, Azure e Google Cloud oferecem soluções completas de infraestrutura e serviços gerenciados, além de suporte a modelos híbridos de nuvem.
+- **Segurança em Nuvem**: Adoção de práticas como autenticação multifator, controle de acesso baseado em papéis (RBAC) e criptografia de dados é essencial para proteger recursos em cloud.
+- **Custos e Eficiência**: O uso de serviços como AWS Cost Explorer e Azure Cost Management ajuda a otimizar os gastos e evitar desperdícios.
+
+## 🔗 Conexões
+- [[Projeto - Sistema Chamados]]
+- [[Referência - Kubernetes e orquestração de containers]]
+- [[Referência - Terraform e infraestrutura como código]]
+- [[Referência - Guia de boas práticas para CI/CD]]
+
+## 📚 Fontes
+- [[Referência - Kubernetes: The Complete Guide]]
+- [[Referência - Terraform Up & Running]]
+- [[Referência - Livro: Cloud Native DevOps with Kubernetes]]
+- [[Referência - Artigo: Continuous Delivery Best Practices]]
+- [[Referência - Site oficial AWS]]
+
+## 🚧 Lacunas
+- Como comparar e escolher entre provedores de cloud para diferentes necessidades de negócio?
+- Quais são as tendências emergentes em automação de infraestrutura cloud?
+- Como implementar estratégias eficazes de recuperação de desastres em ambientes multi-cloud?
+```
+>>>>>>> 2fe417dd6f2a991dd229c8ad7a0f7422af3d2bac

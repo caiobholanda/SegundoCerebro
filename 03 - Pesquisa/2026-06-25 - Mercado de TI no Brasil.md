@@ -2,15 +2,23 @@
 tipo: pesquisa
 criado: 2026-06-25
 atualizado: 2026-06-25
+<<<<<<< HEAD
 pergunta-central: Como está o mercado de trabalho em TI no Brasil em 2026 — salários, demanda e tendências?
 relacionado-a: [Programação, Inteligência Artificial]
 related: ["[[2026-06-24 - Mercado de TI no Brasil]]"]
 tags: [pesquisa, mercado, brasil, ti]
+=======
+pergunta-central: Quais são os principais desafios e oportunidades no mercado de TI no Brasil em 2026?
+relacionado-a: []
+related: []
+tags: [pesquisa, mercado, carreira]
+>>>>>>> 2fe417dd6f2a991dd229c8ad7a0f7422af3d2bac
 ---
 
 # Pesquisa - Mercado de TI no Brasil
 
 ## ❓ Pergunta central
+<<<<<<< HEAD
 Como está o mercado de trabalho em TI no Brasil em 2026 — salários, demanda e tendências?
 
 ## 🎯 Síntese (3-5 linhas)
@@ -46,3 +54,31 @@ O mercado de TI brasileiro mantém expansão com salário médio de R$7.666/mês
 - PL 2.338 sendo adiado tem impacto na contratação de IA ou é irrelevante operacionalmente?
 - Existe diferença salarial significativa entre capitais (SP vs outros estados) para especialistas em IA?
 - Qual o perfil do gap entre o que as faculdades ensinam e o que o mercado exige em 2026?
+=======
+Quais são os principais desafios e oportunidades no mercado de TI no Brasil em 2026?
+
+## 🎯 Síntese (3-5 linhas)
+O mercado de TI no Brasil continua crescendo, impulsionado pela demanda por transformação digital, inteligência artificial e cibersegurança. O setor enfrenta desafios como a escassez de profissionais qualificados, enquanto oferece oportunidades em áreas emergentes como IA generativa e soluções em nuvem. Investimentos em educação técnica e parcerias público-privadas são essenciais para alavancar o setor.
+
+## 🔬 Detalhes
+- O mercado de TI no Brasil cresceu cerca de 10% ao ano nos últimos anos, mesmo com desafios econômicos globais.
+- Escassez de profissionais qualificados é uma questão crítica, com mais de 400 mil vagas não preenchidas em 2026.
+- Áreas mais demandadas incluem desenvolvimento de software, ciência de dados, cibersegurança e nuvem.
+- Startups de tecnologia continuam a surgir, especialmente em fintechs, healthtechs e agritechs.
+- Empresas estão investindo em soluções de inteligência artificial generativa, como chatbots e automação de processos.
+- Parcerias entre empresas de tecnologia e instituições de ensino têm sido fundamentais para promover a formação de novos talentos.
+
+## 🔗 Conexões
+- [[Projeto - Sistema Chamados]]
+- [[Pesquisa - Inteligência Artificial e Automação no Trabalho]]
+
+## 📚 Fontes
+- [[Referência - Relatório Mercado de TI Brasil 2026]]
+- [[Referência - Panorama da Educação em Tecnologia]]
+
+## 🚧 Lacunas
+- Qual é o impacto de políticas governamentais recentes no incentivo à formação técnica em TI?
+- Como o mercado de TI brasileiro está se posicionando no cenário global de inovação tecnológica?
+- Quais estratégias as empresas estão utilizando para reter talentos em TI no Brasil?
+```
+>>>>>>> 2fe417dd6f2a991dd229c8ad7a0f7422af3d2bac
