@@ -5,7 +5,7 @@ criado: 2026-06-26
 atualizado: 2026-06-26
 pergunta-central: Quais são as melhores práticas e tendências atuais em programação e desenvolvimento de software?
 relacionado-a: []
-related: [[Claude API e Anthropic SDK]]
+related: []
 tags: [pesquisa, dev, produtividade]
 ---
 
@@ -15,28 +15,29 @@ tags: [pesquisa, dev, produtividade]
 Quais são as melhores práticas e tendências atuais em programação e desenvolvimento de software?
 
 ## 🎯 Síntese (3-5 linhas)
-Programação e desenvolvimento de software estão em constante evolução, com tendências como desenvolvimento ágil, uso de IA para automação, e práticas de DevOps ganhando destaque. As linguagens e frameworks mais populares atualmente incluem Python, JavaScript e React. Além disso, há um foco crescente em segurança e acessibilidade, bem como na integração com ferramentas de IA generativa para acelerar o desenvolvimento.
+A programação e o desenvolvimento de software estão em constante evolução, impulsionados por novas tecnologias, metodologias e ferramentas. Hoje, práticas como DevOps, metodologias ágeis e o uso de inteligência artificial estão transformando o ciclo de desenvolvimento. Além disso, linguagens como Python, JavaScript e Rust continuam em alta devido à flexibilidade e desempenho. A adoção de arquiteturas como microserviços também tem sido uma grande mudança no design de sistemas escaláveis.
 
 ## 🔬 Detalhes
-- **Desenvolvimento Ágil**: A abordagem ágil continua sendo uma das mais adotadas por equipes para gerar ciclos rápidos de entrega e adaptação às mudanças.
-- **DevOps**: Integração de desenvolvimento e operações para otimizar o ciclo de vida do software, com ferramentas como Kubernetes e Jenkins.
-- **IA no desenvolvimento**: Ferramentas como GitHub Copilot e ChatGPT estão sendo usadas para automatizar tarefas repetitivas e auxiliar na escrita de código.
-- **Linguagens mais usadas**: Python, JavaScript, Java e Rust são as linguagens mais procuradas, cada uma com suas vantagens específicas.
-- **Segurança no desenvolvimento**: Há um foco maior em práticas de segurança, como testes de penetração automatizados e revisão de código com análise estática.
-- **Acessibilidade digital**: Implementar práticas de desenvolvimento que considerem design universal e acessibilidade se tornou essencial.
-- **Microserviços e arquitetura de software**: A adoção de arquitetura baseada em microserviços permite maior escalabilidade e independência de componentes.
+- **Metodologias Ágeis**: Métodos como Scrum e Kanban continuam dominando a gestão de projetos, promovendo entregas contínuas e colaboração entre equipes.
+- **DevOps**: Integração contínua e entrega contínua (CI/CD) são práticas-chave para agilidade e eficiência no desenvolvimento e entrega de software.
+- **Inteligência Artificial**: Ferramentas baseadas em IA, como GitHub Copilot e ChatGPT, estão transformando a forma como os desenvolvedores escrevem e depuram código.
+- **Linguagens em alta**: Python é amplamente utilizado para ciência de dados e aprendizado de máquina; JavaScript e seus frameworks (React, Vue.js) dominam no front-end; Rust cresce em popularidade por seu desempenho e segurança.
+- **Arquitetura de Microserviços**: Essa abordagem modular facilita a escalabilidade e a manutenção de sistemas complexos, sendo amplamente adotada em aplicações modernas.
+- **Segurança**: A segurança está se tornando uma prioridade desde o início do ciclo de desenvolvimento, com práticas como DevSecOps e o uso de ferramentas de análise estática.
 
 ## 🔗 Conexões
 - [[Claude API e Anthropic SDK]]
-- [[Pesquisa - Tendências em IA Generativa]]
+- [[Pesquisa - Inteligência Artificial Generativa]]
+- [[Pesquisa - Metodologias Ágeis]]
+- [[Pesquisa - DevOps e CI/CD]]
 
 ## 📚 Fontes
-- [[Referência - Livro Clean Code]]
-- [[Referência - Artigo sobre DevOps e Kubernetes]]
-- [[Referência - Python para Desenvolvedores]]
+- [[Referência - Clean Code]]
+- [[Referência - DevOps Handbook]]
+- [[Referência - Artigo sobre tendências em desenvolvimento de software 2026]]
 
 ## 🚧 Lacunas
-- Como as novas linguagens emergentes como Julia e Rust podem impactar o futuro do desenvolvimento?
-- Qual é o papel da ética no uso de IA no desenvolvimento de software?
-- Como equilibrar inovação tecnológica com sustentabilidade no desenvolvimento de software?
+- Quais são as principais barreiras para a adoção de novas tecnologias em empresas tradicionais?
+- Como equilibrar o uso de ferramentas de IA com a necessidade de garantir a segurança e a privacidade no desenvolvimento?
+- Quais são as tendências emergentes em linguagens de programação para a próxima década?
 ```
