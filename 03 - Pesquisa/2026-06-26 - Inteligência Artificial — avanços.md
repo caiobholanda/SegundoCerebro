@@ -3,39 +3,39 @@
 tipo: pesquisa
 criado: 2026-06-26
 atualizado: 2026-06-26
-pergunta-central: Quais foram os avanços mais significativos na inteligência artificial nos últimos anos e quais impactos eles têm na sociedade e na tecnologia?
-relacionado-a: []
-related: [[Claude API e Anthropic SDK]], [[Pesquisa - Ética na IA]]
+pergunta-central: Quais são os principais avanços recentes em inteligência artificial e seus impactos na sociedade e na tecnologia?
+relacionado-a: [tecnologia, sociedade, machine-learning]
+related: [[Claude API e Anthropic SDK]], [[Pesquisa - Ética em Inteligência Artificial]]
 tags: [pesquisa, ia]
 ---
 
 # Pesquisa - Inteligência Artificial — avanços
 
 ## ❓ Pergunta central
-Quais foram os avanços mais significativos na inteligência artificial nos últimos anos e quais impactos eles têm na sociedade e na tecnologia?
+Quais são os principais avanços recentes em inteligência artificial e seus impactos na sociedade e na tecnologia?
 
 ## 🎯 Síntese (3-5 linhas)
-Nos últimos anos, a inteligência artificial avançou significativamente em áreas como aprendizado profundo, modelos generativos, processamento de linguagem natural e robótica. Tecnologias como os grandes modelos de linguagem (LLMs) estão transformando setores como saúde, educação, e automação industrial, promovendo maior eficiência e inovação. No entanto, desafios éticos, como viés algorítmico e impacto no mercado de trabalho, permanecem significativos.
+Os avanços recentes em inteligência artificial incluem modelos de linguagem de grande escala, como o GPT-4, sistemas de IA generativa e aplicações em setores como saúde, educação e transporte. Esses avanços têm potencial de transformar a sociedade, mas também levantam desafios éticos e preocupações sobre segurança e regulação.
 
 ## 🔬 Detalhes
-- O desenvolvimento de modelos de linguagem como GPT, Claude e Bard revolucionou o processamento de texto, permitindo aplicações em atendimento ao cliente, pesquisa e criação de conteúdo.
-- Redes neurais profundas e arquiteturas como Transformers impulsionaram os avanços em reconhecimento de imagens, tradução automática e geração de conteúdo.
-- A integração de IA com robótica está permitindo automação avançada em setores como manufatura, agricultura e transporte.
-- IA médica avançou no diagnóstico precoce de doenças, análise de imagem médica e descoberta de medicamentos.
-- Sistemas de IA generativa, como DALL-E e MidJourney, desafiaram os limites da criatividade humana, gerando arte, música e design.
-- Houve avanços na explicabilidade de IA, com novas técnicas para entender e interpretar decisões algorítmicas.
+- Modelos de linguagem de larga escala (LLMs) como GPT-4 e Claude estão redefinindo a interação humano-máquina, com aplicações em comunicação, criação de conteúdo e programação.
+- IA generativa está transformando o setor criativo, com ferramentas que produzem imagens, música e vídeos de alta qualidade com mínima intervenção humana.
+- Aprendizado profundo (deep learning) continua a avançar, com novos algoritmos e arquiteturas, como transformers, melhorando o desempenho e a eficiência dos modelos.
+- Na saúde, IA está sendo usada para diagnóstico precoce, descoberta de medicamentos e personalização de tratamentos.
+- Veículos autônomos, guiados por IA, estão se tornando mais comuns, revolucionando o transporte e a logística.
+- A questão da ética na IA está em foco, com discussões sobre viés, privacidade e impactos nos empregos se intensificando.
 
 ## 🔗 Conexões
 - [[Claude API e Anthropic SDK]]
-- [[Pesquisa - Ética na IA]]
+- [[Pesquisa - Ética em Inteligência Artificial]]
 
 ## 📚 Fontes
-- [[Referência - GPT e o futuro do trabalho]]
-- [[Referência - Impactos da IA generativa na arte]]
-- [[Referência - Diagnósticos médicos com IA]]
+- [[Referência - OpenAI GPT-4]]
+- [[Referência - IA na saúde - artigo da Nature]]
+- [[Referência - Ética em IA - relatório UNESCO]]
 
 ## 🚧 Lacunas
-- Como regulamentações globais podem acompanhar a velocidade dos avanços em IA?
-- Quais impactos psicológicos e culturais a disseminação de IA generativa pode ter a longo prazo?
-- Qual é o verdadeiro limite ético e técnico da autonomia em sistemas de IA?
+- Quais são os limites atuais da IA generativa e como podem ser superados?
+- Como diferentes culturas e governos estão abordando as questões éticas da IA?
+- Quais são os impactos ambientais da crescente demanda por computação em IA?
 ```
