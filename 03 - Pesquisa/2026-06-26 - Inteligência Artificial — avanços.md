@@ -3,7 +3,7 @@
 tipo: pesquisa
 criado: 2026-06-26
 atualizado: 2026-06-26
-pergunta-central: Quais foram os avanços mais significativos na área de inteligência artificial nos últimos anos e quais são as perspectivas futuras?
+pergunta-central: Quais foram os avanços mais significativos na Inteligência Artificial nos últimos anos e quais impactos eles tiveram na sociedade?
 relacionado-a: []
 related: [[Claude API e Anthropic SDK]]
 tags: [pesquisa, ia]
@@ -12,32 +12,29 @@ tags: [pesquisa, ia]
 # Pesquisa - Inteligência Artificial — avanços
 
 ## ❓ Pergunta central
-Quais foram os avanços mais significativos na área de inteligência artificial nos últimos anos e quais são as perspectivas futuras?
+Quais foram os avanços mais significativos na Inteligência Artificial nos últimos anos e quais impactos eles tiveram na sociedade?
 
 ## 🎯 Síntese (3-5 linhas)
-Os avanços na inteligência artificial têm se concentrado na aplicação de modelos de linguagem de grande escala, como os LLMs (Large Language Models), no desenvolvimento de IA generativa, e na ampliação de sua capacidade em tarefas complexas e personalizadas. Novas técnicas, como aprendizado de máquina federado, modelos multimodais e sistemas de IA mais éticos, têm sido destaques recentes. As perspectivas futuras incluem uma integração mais profunda em áreas como saúde, educação, robótica e sustentabilidade.
+A Inteligência Artificial tem avançado exponencialmente, com inovações como modelos generativos, algoritmos de aprendizado profundo e IA explicável. Esses progressos estão transformando setores como saúde, educação, transporte e entretenimento, trazendo benefícios como maior eficiência e personalização, mas também levantando desafios éticos e sociais, como viés algorítmico e impactos no mercado de trabalho.
 
 ## 🔬 Detalhes
-- Modelos de linguagem de grande escala (LLMs), como GPT-4 e Claude, revolucionaram a compreensão e a geração de texto, aumentando a eficiência em diversas tarefas.
-- O surgimento da IA generativa, como a criação de imagens (ex.: DALL-E, MidJourney) e vídeos, abriu novas possibilidades para criatividade e automação.
-- Aprendizado profundo (deep learning) continua sendo uma força motriz, com arquiteturas como transformers e modelos multimodais possibilitando avanços em processamento de linguagem e visão computacional.
-- A expansão do aprendizado de máquina federado tem permitido o treinamento de modelos sem comprometer a privacidade dos dados individuais.
-- Há um foco crescente no desenvolvimento de IA ética e responsável, abordando questões como viés algorítmico, impacto social e transparência.
-- Áreas como saúde (diagnósticos automatizados, medicamentos personalizados), robótica avançada e sustentabilidade (otimização de recursos, previsão climática) se destacam como fronteiras promissoras para a aplicação de IA.
+- Modelos de linguagem pré-treinados, como GPT e Claude, têm revolucionado a geração de texto e interações humanas com máquinas.
+- A evolução das redes neurais profundas (deep learning) permite o desenvolvimento de sistemas mais precisos em reconhecimento de imagem, voz e predição.
+- IA explicável (XAI) está ganhando espaço, buscando garantir maior transparência e interpretabilidade nos resultados dos sistemas de IA.
+- Avanços na medicina incluem diagnósticos mais precisos e personalizados, além de suporte em pesquisa de medicamentos e terapias.
+- Aplicações em transporte autônomo estão em fase de testes avançados, prometendo maior segurança e eficiência no futuro.
+- Questões éticas, como viés algorítmico e privacidade, continuam sendo desafios críticos para a implementação responsável da IA.
 
 ## 🔗 Conexões
 - [[Claude API e Anthropic SDK]]
-- [[Pesquisa - Ética em Inteligência Artificial]]
-- [[Referência - Modelos multimodais em IA]]
 - [[Projeto - Sistema Chamados]]
 
 ## 📚 Fontes
-- [[Referência - GPT-4 e o futuro dos LLMs]]
-- [[Referência - IA generativa e suas aplicações]]
-- [[Referência - Ética na Inteligência Artificial]]
+- [[Referência - OpenAI GPT-4]]
+- [[Referência - Livro Inteligência Artificial Explicada]]
 
 ## 🚧 Lacunas
-- Como lidar com os desafios de escalabilidade e custo computacional em modelos de IA cada vez maiores?
-- Quais são os impactos sociais e econômicos a longo prazo da automação impulsionada pela IA?
-- Como garantir que os avanços em IA sejam acessíveis globalmente, reduzindo desigualdades tecnológicas?
+- Como os avanços na IA podem ser regulados para minimizar impactos éticos e sociais negativos?
+- Quais são as implicações de longo prazo da adoção de IA na força de trabalho global?
+- Como os desenvolvimentos em IA podem ser usados para mitigar desigualdades sociais e econômicas?
 ```
