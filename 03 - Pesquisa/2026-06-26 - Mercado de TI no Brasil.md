@@ -15,28 +15,27 @@ tags: [pesquisa, mercado, carreira]
 Quais são as tendências, desafios e oportunidades no mercado de TI no Brasil em 2026?
 
 ## 🎯 Síntese (3-5 linhas)
-O mercado de TI no Brasil segue em expansão, impulsionado pela transformação digital e pela crescente adoção de tecnologias emergentes como IA e computação em nuvem. Contudo, desafios como a escassez de mão de obra qualificada e a necessidade de adaptação regulatória das empresas limitam o crescimento. As áreas de maior demanda incluem cibersegurança, desenvolvimento de software e análise de dados.
+O mercado de TI no Brasil continua em expansão, impulsionado pela transformação digital, pela demanda por profissionais especializados e pelo crescimento de setores como fintechs e agritechs. Contudo, desafios como a escassez de talentos qualificados, a alta carga tributária e a infraestrutura tecnológica desigual ainda limitam o potencial do setor. A adoção de IA e a transição para o trabalho remoto e híbrido são tendências que moldam o futuro da área.
 
 ## 🔬 Detalhes
-- O Brasil é o maior mercado de TI da América Latina, representando cerca de 40% do setor na região.
-- A transformação digital acelerada pela pandemia de COVID-19 continua a impulsionar a demanda por soluções tecnológicas em diversos setores, incluindo saúde, educação e varejo.
-- A área de cibersegurança tem se destacado devido ao aumento de ataques cibernéticos e à necessidade de proteção de dados sensíveis.
-- A escassez de profissionais qualificados é um dos maiores desafios enfrentados pelo setor, com uma lacuna estimada em mais de 400 mil profissionais até 2026.
-- Tecnologias emergentes, como inteligência artificial, machine learning e blockchain, estão entre as principais tendências que moldam o mercado.
-- Startups brasileiras de tecnologia têm ganhado destaque global, com investimentos significativos em fintechs, healthtechs e edtechs, consolidando o Brasil como um polo de inovação.
+- O mercado de TI no Brasil apresentou crescimento contínuo nos últimos anos, com aumento na demanda por desenvolvedores, especialistas em segurança cibernética e cientistas de dados.
+- Fintechs e agritechs têm se destacado como áreas de maior crescimento, atraindo investimentos nacionais e internacionais.
+- A escassez de talentos qualificados é um dos maiores desafios, com um déficit projetado de mais de 400 mil profissionais até 2027.
+- A transformação digital em empresas tradicionais e o crescimento do e-commerce têm impulsionado a busca por soluções em cloud computing, big data e inteligência artificial.
+- A alta carga tributária e a burocracia no Brasil dificultam o crescimento de startups e pequenas empresas no setor de TI.
+- A pandemia acelerou a adoção de modelos de trabalho remoto e híbrido, tendência que continua a se consolidar em 2026, especialmente no setor de tecnologia.
 
 ## 🔗 Conexões
-- [[Claude API e Anthropic SDK]]
-- [[Pesquisa - Transformação digital no Brasil]]
-- [[Projeto - Sistema Chamados]]
+- [[Pesquisa - Inteligência Artificial no Mercado de Trabalho]]
+- [[Referência - Estratégias para suprir a escassez de talentos em TI]]
 
 ## 📚 Fontes
 - [[Referência - Panorama do Mercado de TI no Brasil 2026]]
-- [[Referência - Relatório Gartner sobre TI no Brasil]]
-- [[Referência - Tendências de Tecnologia na América Latina]]
+- [[Referência - Relatório de tendências em tecnologia no Brasil]]
+- [[Referência - Estudo sobre desafios e oportunidades em TI na América Latina]]
 
 ## 🚧 Lacunas
-- Qual é o impacto a longo prazo da inteligência artificial na empregabilidade do setor de TI no Brasil?
-- Como as políticas públicas e incentivos fiscais podem ajudar a diminuir a lacuna de mão de obra qualificada?
-- Qual o papel das universidades brasileiras na formação de profissionais alinhados às demandas do mercado de TI?
+- Qual o impacto a longo prazo da automação e da IA no mercado de trabalho em TI no Brasil?
+- Como a desigualdade digital afeta o acesso e a inclusão no setor de TI em regiões menos desenvolvidas do país?
+- Quais políticas públicas podem ser implementadas para mitigar a escassez de talentos no setor?
 ```
