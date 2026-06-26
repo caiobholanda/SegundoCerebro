@@ -15,28 +15,26 @@ tags: [pesquisa, mercado, carreira]
 Quais são as principais tendências, desafios e oportunidades no mercado de TI no Brasil em 2026?
 
 ## 🎯 Síntese (3-5 linhas)
-O mercado de TI no Brasil continua em expansão, impulsionado pela transformação digital e pela demanda por tecnologia em diversos setores. Há uma crescente busca por profissionais qualificados em áreas como inteligência artificial, cibersegurança e desenvolvimento de software. Contudo, o déficit de talentos ainda representa um desafio significativo. Iniciativas de capacitação e parcerias público-privadas são essenciais para atender à demanda e alavancar o potencial do setor.
+O mercado de TI no Brasil continua crescendo, impulsionado pela transformação digital e pela demanda por soluções tecnológicas em setores como finanças, saúde e educação. A escassez de mão de obra qualificada ainda é um desafio, mas programas de formação e iniciativas de inclusão digital estão tentando mitigar esse problema. Tecnologias emergentes, como inteligência artificial e computação em nuvem, estão moldando o futuro do setor.
 
 ## 🔬 Detalhes
-- O setor de tecnologia no Brasil deve crescer cerca de 10% em 2026, com destaque para serviços de TI, como computação em nuvem e inteligência artificial.
-- A área de cibersegurança está em alta, impulsionada por um aumento nos ataques cibernéticos e pela necessidade de proteção de dados, especialmente após a implementação da LGPD.
-- O Brasil enfrenta um déficit significativo de profissionais qualificados em TI, estimado em mais de 500 mil vagas não preenchidas, o que ressalta a necessidade de treinamento e formação técnica.
-- Startups de tecnologia continuam a prosperar, com destaque para fintechs, healthtechs e agrotechs que lideram a inovação no mercado.
-- O trabalho remoto consolidou-se no setor, ampliando as oportunidades para brasileiros trabalharem para empresas internacionais.
-- A adoção de tecnologias emergentes como blockchain, metaverso e internet das coisas (IoT) está transformando setores tradicionais, como agricultura, saúde e varejo.
+- O Brasil é o maior mercado de TI da América Latina, representando cerca de 40% do mercado na região.
+- A transformação digital nas empresas tem sido acelerada pela pandemia, com um aumento na adoção de tecnologias como cloud computing, inteligência artificial e big data.
+- A escassez de profissionais qualificados continua sendo um dos maiores desafios, com um déficit estimado de 400 mil profissionais na área até 2025.
+- Startups de tecnologia têm sido um dos maiores motores de inovação no Brasil, com destaque para fintechs e healthtechs.
+- O mercado de TI no Brasil está enfrentando desafios regulatórios, como a adequação à Lei Geral de Proteção de Dados (LGPD), que impacta empresas de todos os portes.
+- A desvalorização do real e a alta demanda global por profissionais de TI estão levando a um aumento na exportação de talentos brasileiros para empresas estrangeiras, muitas vezes em regimes de trabalho remoto.
 
 ## 🔗 Conexões
 - [[Projeto - Sistema Chamados]]
-- [[Pesquisa - Inteligência Artificial no mercado brasileiro]]
-- [[Referência - LGPD e cibersegurança]]
+- [[Pesquisa - Inteligência Artificial no Brasil]]
 
 ## 📚 Fontes
-- [[Referência - Relatório Mercado de TI Brasil 2026]]
-- [[Referência - Panorama de Startups no Brasil]]
-- [[Referência - Impacto da LGPD no setor de TI]]
+- [[Referência - Panorama do mercado de TI no Brasil]]
+- [[Referência - Impacto da LGPD no setor de tecnologia]]
 
 ## 🚧 Lacunas
-- Quais políticas públicas estão sendo implementadas para reduzir o déficit de profissionais de TI no Brasil?
-- Quais tecnologias emergentes têm maior potencial de crescimento no mercado brasileiro nos próximos 5 anos?
-- Como o Brasil pode se posicionar globalmente como um hub de inovação tecnológica?
+- Quais setores específicos lideram a demanda por serviços de TI no Brasil atualmente?
+- Qual é o impacto das políticas públicas no desenvolvimento do mercado de TI no Brasil?
+- Como o mercado de TI brasileiro está se posicionando em relação às novas tendências globais, como metaverso e blockchain?
 ```
