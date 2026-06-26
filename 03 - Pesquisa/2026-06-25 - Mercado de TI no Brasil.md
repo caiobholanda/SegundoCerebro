@@ -3,39 +3,40 @@
 tipo: pesquisa
 criado: 2026-06-25
 atualizado: 2026-06-25
-pergunta-central: Quais são as tendências, desafios e oportunidades no mercado de TI no Brasil atualmente?
+pergunta-central: Quais são as tendências, desafios e oportunidades do mercado de TI no Brasil em 2026?
 relacionado-a: []
 related: []
-tags: [pesquisa, mercado, carreira]
+tags: ["pesquisa", "mercado", "carreira"]
 ---
 
 # Pesquisa - Mercado de TI no Brasil
 
 ## ❓ Pergunta central
-Quais são as tendências, desafios e oportunidades no mercado de TI no Brasil atualmente?
+Quais são as tendências, desafios e oportunidades do mercado de TI no Brasil em 2026?
 
 ## 🎯 Síntese (3-5 linhas)
-O mercado de TI no Brasil continua em expansão, impulsionado pela transformação digital e pela demanda crescente por soluções tecnológicas em diversos setores. Áreas como cloud computing, inteligência artificial e cibersegurança estão em alta, enquanto a escassez de profissionais qualificados ainda é um desafio. Programas de capacitação e a adoção de políticas de incentivo à inovação são essenciais para manter o ritmo de crescimento.
+O mercado de TI no Brasil continua em crescimento exponencial, impulsionado pela transformação digital e pelo aumento da demanda por automação e serviços em nuvem. Apesar da alta procura por profissionais qualificados, o país ainda enfrenta desafios como a escassez de mão de obra especializada e a adaptação às rápidas mudanças tecnológicas. O setor oferece oportunidades significativas, especialmente em áreas como inteligência artificial, segurança cibernética e desenvolvimento de software.
 
 ## 🔬 Detalhes
-- A transformação digital acelerada durante a pandemia consolidou a importância da TI em empresas de todos os portes.
-- Serviços em nuvem (cloud computing) e infraestrutura de TI são as áreas mais procuradas, com expectativas de crescimento contínuo.
-- A escassez de profissionais qualificados no Brasil é uma das maiores barreiras; estima-se que existam mais de 500 mil vagas não preenchidas na área.
-- Startups de tecnologia, especialmente fintechs e edtechs, têm atraído investimentos significativos, consolidando o Brasil como um hub de inovação na América Latina.
-- A implementação da Lei Geral de Proteção de Dados (LGPD) aumentou a demanda por especialistas em cibersegurança e compliance.
-- Há iniciativas de empresas e governos para capacitar novos talentos em tecnologia, com programas gratuitos ou subsidiados de treinamento em programação e outras habilidades técnicas.
+- O setor de TI no Brasil representou cerca de 8% do PIB em 2025, sendo um dos maiores mercados de tecnologia da América Latina.
+- A demanda por profissionais de TI supera a oferta, com um déficit estimado de 500 mil profissionais qualificados até 2027.
+- Áreas em alta incluem inteligência artificial, ciência de dados, segurança cibernética, computação em nuvem e desenvolvimento de software.
+- Empresas brasileiras têm investido em nearshoring, atraindo clientes internacionais devido à proximidade geográfica e cultural com os EUA e Europa.
+- O setor enfrenta desafios como a alta carga tributária, burocracia e falta de incentivos para startups, limitando a capacidade de inovação.
+- Iniciativas de inclusão e diversidade estão ganhando força, com mais mulheres e pessoas de grupos sub-representados entrando no mercado de TI.
 
 ## 🔗 Conexões
-- [[Roteiro - Tendências em Tecnologia para 2026]]
-- [[Projeto - Sistema Chamados]]
+- [[Pesquisa - Inteligência Artificial no Brasil]]
+- [[Pesquisa - Educação e capacitação em TI]]
+- [[Referência - Tendências tecnológicas 2026]]
 
 ## 📚 Fontes
-- [[Referência - Relatório Mercado de TI no Brasil 2026]]
-- [[Referência - Impacto da LGPD no Mercado de Trabalho]]
-- [[Referência - Startups Brasileiras em Números]]
+- [[Referência - Panorama do mercado de TI no Brasil 2025]]
+- [[Referência - Relatório de tendências em tecnologia 2026]]
+- [[Referência - Estudos sobre déficit de profissionais de TI no Brasil]]
 
 ## 🚧 Lacunas
-- Quais são as principais estratégias que empresas brasileiras estão adotando para atrair e reter talentos de TI?
-- Como o mercado de TI no Brasil se compara ao de outros países emergentes, como Índia e China?
-- Qual é o impacto de tecnologias emergentes como blockchain e metaverso no mercado brasileiro?
+- Quais políticas públicas poderiam ajudar a reduzir o déficit de profissionais de TI no Brasil?
+- Como o mercado de TI está se adaptando aos desafios econômicos e sociais do país em 2026?
+- Quais são as oportunidades específicas para pequenas e médias empresas no setor de TI brasileiro?
 ```
