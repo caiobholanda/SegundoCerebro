@@ -3,39 +3,43 @@
 tipo: pesquisa
 criado: 2026-06-26
 atualizado: 2026-06-26
-pergunta-central: Como os avanços recentes em tecnologias e metodologias estão transformando o cenário da programação e do desenvolvimento de software?
+pergunta-central: Quais são os princípios fundamentais e as tendências atuais em programação e desenvolvimento de software?
 relacionado-a: []
-related: []
+related: [[Claude API e Anthropic SDK]]
 tags: [pesquisa, dev, produtividade]
 ---
 
 # Pesquisa - Programação e Desenvolvimento
 
 ## ❓ Pergunta central
-Como os avanços recentes em tecnologias e metodologias estão transformando o cenário da programação e do desenvolvimento de software?
+Quais são os princípios fundamentais e as tendências atuais em programação e desenvolvimento de software?
 
 ## 🎯 Síntese (3-5 linhas)
-A programação e o desenvolvimento de software passam por uma revolução contínua, impulsionada por práticas como DevOps, adoção de metodologias ágeis, inteligência artificial e plataformas de desenvolvimento low-code/no-code. A automação e a colaboração estão redefinindo tanto a produtividade das equipes quanto a acessibilidade ao desenvolvimento de software, permitindo a criação mais rápida e acessível de soluções digitais.
+Programação e desenvolvimento são pilares da era digital, fundamentados em princípios como modularidade, reutilização de código e design orientado a objetos. Atualmente, tendências como o uso de IA em desenvolvimento, frameworks low-code/no-code e a ênfase em práticas DevOps estão transformando a forma como o software é projetado, construído e mantido. A evolução constante das linguagens de programação e o foco em acessibilidade e segurança também são aspectos críticos.
 
 ## 🔬 Detalhes
-- **DevOps e CI/CD**: A integração contínua e a entrega contínua (CI/CD) são pilares do DevOps, permitindo ciclos de desenvolvimento mais rápidos e confiáveis.
-- **Metodologias ágeis**: Scrum e Kanban continuam dominando, melhorando a colaboração entre equipes e adaptando projetos às mudanças de requisitos.
-- **Inteligência artificial no desenvolvimento**: Frameworks de IA, como TensorFlow e PyTorch, além de ferramentas como Copilot e ChatGPT, aumentam a produtividade e reduzem o tempo necessário para tarefas complexas.
-- **Low-code e no-code**: Democratizam o desenvolvimento de software, permitindo que pessoas sem formação técnica criem aplicações funcionais.
-- **Foco em segurança**: O desenvolvimento seguro (DevSecOps) está ganhando importância devido ao aumento de ataques cibernéticos e ao uso crescente de APIs.
-- **Programação em múltiplas linguagens**: A interoperabilidade entre linguagens, como o uso de Python com Rust ou C++, está em alta no desenvolvimento de sistemas complexos.
+- **Princípios fundamentais**: incluem modularidade, reutilização de código, testes automatizados, legibilidade e manutenibilidade do código, além de práticas como versionamento e revisão de código.
+- **Paradigmas de programação**: os principais são programação imperativa, orientada a objetos, funcional e declarativa. Cada paradigma é adequado para diferentes tipos de problemas.
+- **DevOps**: integração de práticas de desenvolvimento e operação para reduzir o tempo de entrega e aumentar a confiabilidade do software.
+- **Tendências em IA**: uso crescente de modelos de aprendizado de máquina e inteligência artificial na automação de tarefas de desenvolvimento, como geração de código e testes.
+- **Low-code/no-code**: ferramentas que democratizam o desenvolvimento, permitindo que usuários sem habilidades avançadas criem aplicativos funcionais.
+- **Segurança e privacidade**: com o aumento das ameaças cibernéticas, há um foco maior no desenvolvimento seguro, com práticas como DevSecOps e criptografia avançada.
+- **Cloud computing e microservices**: adoção de arquiteturas baseadas em nuvem e microserviços para melhorar a escalabilidade e a eficiência de sistemas modernos.
+- **Programação acessível**: novas ferramentas e frameworks estão ajudando a tornar o desenvolvimento mais inclusivo para pessoas com deficiências.
 
 ## 🔗 Conexões
 - [[Claude API e Anthropic SDK]]
-- [[Projeto - Sistema Chamados]]
+- [[Pesquisa - Inteligência Artificial Generativa]]
+- [[Pesquisa - DevOps e Práticas Ágeis]]
 
 ## 📚 Fontes
-- [[Referência - Livro Clean Code]]
-- [[Referência - DevOps Handbook]]
-- [[Referência - Artigo sobre Low-Code]]
+- [[Referência - Clean Code de Robert C. Martin]]
+- [[Referência - The Phoenix Project de Gene Kim]]
+- [[Referência - Site oficial do GitHub]]
+- [[Referência - Artigo sobre tendências em low-code]]
 
 ## 🚧 Lacunas
-- Quais são as melhores práticas para integrar ferramentas de IA em fluxos de trabalho de desenvolvimento existentes?
-- Como equilibrar a necessidade de segurança com a agilidade oferecida por metodologias ágeis e DevOps?
-- Qual é o impacto de longo prazo do uso de plataformas low-code/no-code na qualidade do software e na profissão de desenvolvedor?
+- Como as práticas de desenvolvimento estão sendo adaptadas para lidar com a crescente dependência de IA?
+- Quais são as melhores formas de integrar princípios éticos no ciclo de vida do desenvolvimento de software?
+- Como o avanço do quantum computing pode impactar paradigmas e práticas de programação?
 ```
