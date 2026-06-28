@@ -3,8 +3,8 @@
 tipo: pesquisa
 criado: 2026-06-27
 atualizado: 2026-06-27
-pergunta-central: Quais são as tendências, desafios e oportunidades do mercado de TI no Brasil em 2026?
-relacionado-a: [carreira, tecnologia, mercado]
+pergunta-central: Quais são as tendências, desafios e oportunidades no mercado de TI no Brasil em 2026?
+relacionado-a: [carreira, tecnologia, economia]
 related: []
 tags: [pesquisa, mercado, carreira]
 ---
@@ -12,31 +12,31 @@ tags: [pesquisa, mercado, carreira]
 # Pesquisa - Mercado de TI no Brasil
 
 ## ❓ Pergunta central
-Quais são as tendências, desafios e oportunidades do mercado de TI no Brasil em 2026?
+Quais são as tendências, desafios e oportunidades no mercado de TI no Brasil em 2026?
 
 ## 🎯 Síntese (3-5 linhas)
-O mercado de TI no Brasil continua em expansão, impulsionado pela transformação digital e pela crescente demanda por soluções tecnológicas. Áreas como inteligência artificial, cibersegurança e desenvolvimento de software estão em alta. No entanto, desafios como a escassez de profissionais qualificados e a disparidade regional de acesso à tecnologia limitam o crescimento uniforme no país.
+O mercado de TI no Brasil continua em expansão, impulsionado pela transformação digital em diversos setores, como saúde, educação e varejo. Há uma alta demanda por profissionais qualificados, especialmente em áreas como desenvolvimento de software, segurança cibernética e inteligência artificial. No entanto, o país ainda enfrenta desafios na formação de talentos e na infraestrutura tecnológica.
 
 ## 🔬 Detalhes
-- O mercado de TI no Brasil deve crescer significativamente até 2030, com destaque para soluções baseadas em nuvem e inteligência artificial.
-- A escassez de mão de obra qualificada em tecnologia é um dos principais desafios enfrentados por empresas do setor.
-- O Brasil é o maior mercado de TI da América Latina, representando cerca de 40% do total da região.
-- A pandemia acelerou a transformação digital de empresas brasileiras, aumentando a demanda por serviços tecnológicos.
-- Regiões como o Sudeste concentram a maior parte das empresas e investimentos em TI, gerando desigualdade regional no setor.
-- Startups de tecnologia têm desempenhado um papel crucial na inovação, especialmente nos setores de fintechs, healthtechs e agritechs.
-- Políticas públicas de incentivo à educação em tecnologia são fundamentais para suprir a demanda por profissionais qualificados.
+- O mercado de TI brasileiro tem crescido a uma taxa média anual de 7%, sendo um dos setores mais resilientes da economia.
+- Áreas de destaque incluem desenvolvimento de software, análise de dados, segurança cibernética e inteligência artificial.
+- Startups brasileiras de tecnologia têm recebido investimentos significativos, com fintechs e healthtechs liderando o volume de aportes.
+- A carência de profissionais qualificados é um dos maiores desafios do setor, com mais de 400 mil vagas previstas até 2030 sem profissionais para preenchê-las.
+- O avanço do 5G no Brasil impulsionará a adoção de tecnologias como IoT (Internet das Coisas) e cidades inteligentes.
+- A regulamentação do trabalho remoto tem impactado positivamente o setor, permitindo maior acesso a talentos em diferentes regiões do país.
+- As disparidades regionais ainda são um entrave, com a maior parte das oportunidades concentrada em São Paulo e outras grandes capitais.
 
 ## 🔗 Conexões
 - [[Projeto - Sistema Chamados]]
-- [[Pesquisa - Inteligência Artificial no Brasil]]
+- [[Pesquisa - Carreira em Desenvolvimento de Software no Brasil]]
 
 ## 📚 Fontes
-- [[Referência - Panorama do Mercado de TI no Brasil 2026]]
-- [[Referência - Relatório de Transformação Digital no Brasil]]
-- [[Referência - Tendências de Tecnologia na América Latina]]
+- [[Referência - Relatório Mercado de TI Brasil 2026]]
+- [[Referência - Panorama do Setor de TI no Brasil]]
+- [[Referência - Impactos do 5G no Brasil]]
 
 ## 🚧 Lacunas
-- Como reduzir o déficit de profissionais de TI no Brasil, especialmente em regiões fora do eixo Sudeste?
-- Qual o impacto das novas regulamentações em cibersegurança no setor de TI no Brasil?
-- Como o Brasil pode se posicionar globalmente em áreas emergentes, como inteligência artificial e computação quântica?
+- Qual é o impacto do câmbio e da economia global na competitividade das empresas brasileiras de TI?
+- Como as políticas públicas podem ajudar a reduzir as disparidades regionais no setor?
+- Quais são as estratégias mais eficazes para a formação de talentos em TI no Brasil?
 ```
