@@ -3,7 +3,7 @@
 tipo: pesquisa
 criado: 2026-06-28
 atualizado: 2026-06-28
-pergunta-central: Como evoluir continuamente como programador e acompanhar as tendências em desenvolvimento de software?
+pergunta-central: Quais são os principais conceitos, ferramentas e tendências que moldam o campo de programação e desenvolvimento atualmente?
 relacionado-a: []
 related: [[Claude API e Anthropic SDK]]
 tags: [pesquisa, dev, produtividade]
@@ -12,33 +12,31 @@ tags: [pesquisa, dev, produtividade]
 # Pesquisa - Programação e Desenvolvimento
 
 ## ❓ Pergunta central
-Como evoluir continuamente como programador e acompanhar as tendências em desenvolvimento de software?
+Quais são os principais conceitos, ferramentas e tendências que moldam o campo de programação e desenvolvimento atualmente?
 
 ## 🎯 Síntese (3-5 linhas)
-Programação e desenvolvimento são áreas em constante transformação, impulsionadas por novas tecnologias, metodologias e ferramentas. Para se destacar, é essencial manter-se atualizado, praticar regularmente e cultivar habilidades de aprendizado contínuo. A colaboração e o engajamento com comunidades de desenvolvedores também são cruciais para o crescimento.
+A programação é o processo de criar software, envolvendo linguagens, frameworks e ferramentas que permitem resolver problemas computacionais. Atualmente, o setor é marcado por tendências como o uso de inteligência artificial, o crescimento do low-code/no-code, o foco em desenvolvimento sustentável e o aumento na adoção de arquiteturas serverless. A aprendizagem contínua é essencial devido à rápida evolução tecnológica.
 
 ## 🔬 Detalhes
-- Programação é a base para solucionar problemas computacionais e criar softwares que atendam a necessidades específicas.
-- Linguagens de programação evoluem constantemente; aprender conceitos fundamentais permite transitar entre diferentes linguagens.
-- Metodologias ágeis como Scrum e Kanban são amplamente usadas para organizar equipes e projetos de desenvolvimento.
-- Ferramentas de versionamento, como Git e plataformas como GitHub ou GitLab, são indispensáveis para a colaboração em equipe.
-- Frameworks e bibliotecas aceleram o desenvolvimento, mas exigem aprendizado contínuo para acompanhar suas atualizações.
-- Tendências emergentes em desenvolvimento incluem Inteligência Artificial, computação em nuvem, desenvolvimento mobile e segurança cibernética.
+- **Paradigmas de programação**: Imperativo, funcional e orientado a objetos são os mais usados. A escolha depende do problema e da linguagem.
+- **Linguagens populares**: Python, JavaScript, Java e C# lideram, enquanto Rust e Go estão em ascensão devido à performance e segurança.
+- **Low-code/no-code**: Plataformas como Bubble e OutSystems democratizam o desenvolvimento, permitindo que não programadores criem soluções.
+- **Inteligência Artificial no desenvolvimento**: Ferramentas como GitHub Copilot e ChatGPT estão transformando a forma como os desenvolvedores escrevem código, automatizando tarefas repetitivas.
+- **DevOps e automação**: Práticas como CI/CD e ferramentas como Docker, Kubernetes e Jenkins estão otimizando o ciclo de vida do software.
+- **Segurança e privacidade**: O aumento de ciberataques faz com que segurança seja uma prioridade desde o início do desenvolvimento.
 
 ## 🔗 Conexões
 - [[Claude API e Anthropic SDK]]
-- [[Pesquisa - Inteligência Artificial no Desenvolvimento]]
-- [[Pesquisa - Computação em Nuvem]]
-- [[Pesquisa - Metodologias Ágeis]]
+- [[Pesquisa - Automação no Desenvolvimento de Software]]
+- [[Referência - Introdução à Ciência da Computação]]
 
 ## 📚 Fontes
-- [[Referência - Clean Code]]
-- [[Referência - GitHub Documentation]]
-- [[Referência - Scrum Guide]]
-- [[Referência - Trends in Software Development]]
+- [[Referência - Clean Code - Robert C. Martin]]
+- [[Referência - The Pragmatic Programmer - Andy Hunt e Dave Thomas]]
+- [[Referência - Artigo - State of Developer Ecosystem 2026 - JetBrains]]
 
 ## 🚧 Lacunas
-- Quais são as melhores práticas para aprender linguagens emergentes rapidamente?
-- Como prever futuras tendências em programação e desenvolvimento?
-- Quais são os impactos éticos das novas tecnologias no desenvolvimento de software?
+- Como o avanço do low-code/no-code impactará o mercado de trabalho dos desenvolvedores em longo prazo?
+- Quais são os desafios éticos e práticos da integração de IA em ferramentas de desenvolvimento?
+- Como medir e melhorar a sustentabilidade no desenvolvimento de software?
 ```
