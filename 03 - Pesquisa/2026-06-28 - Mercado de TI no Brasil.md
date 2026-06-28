@@ -1,10 +1,10 @@
-```markdown
+```yaml
 ---
 tipo: pesquisa
 criado: 2026-06-28
 atualizado: 2026-06-28
-pergunta-central: Quais são as tendências, desafios e oportunidades no mercado de TI no Brasil em 2026?
-relacionado-a: []
+pergunta-central: Quais são as principais tendências, desafios e oportunidades no mercado de TI no Brasil em 2026?
+relacionado-a: [tecnologia, economia]
 related: []
 tags: [pesquisa, mercado, carreira]
 ---
@@ -12,31 +12,31 @@ tags: [pesquisa, mercado, carreira]
 # Pesquisa - Mercado de TI no Brasil
 
 ## ❓ Pergunta central
-Quais são as tendências, desafios e oportunidades no mercado de TI no Brasil em 2026?
+Quais são as principais tendências, desafios e oportunidades no mercado de TI no Brasil em 2026?
 
 ## 🎯 Síntese (3-5 linhas)
-O mercado de TI no Brasil continua em expansão, impulsionado pela transformação digital e pela crescente demanda por soluções tecnológicas em diversos setores. Áreas como desenvolvimento de software, segurança cibernética e inteligência artificial estão em alta, enquanto a carência de profissionais qualificados persiste como um desafio significativo. O trabalho remoto segue como tendência, ampliando as oportunidades para talentos em diferentes regiões do país.
+O mercado de TI no Brasil em 2026 continua aquecido, impulsionado pela demanda por transformação digital, inteligência artificial e soluções em cibersegurança. Há uma crescente escassez de profissionais qualificados, o que eleva salários e incentiva a formação na área. Desafios incluem a desigualdade de acesso à tecnologia e a necessidade de investimentos em infraestrutura digital.
 
 ## 🔬 Detalhes
-- O setor de TI no Brasil cresceu cerca de 20% em 2025, com destaque para o aumento de investimentos em tecnologia por empresas de médio e grande porte.
-- A transformação digital continua a ser uma prioridade para empresas em todas as indústrias, especialmente com a adoção de soluções de nuvem e automação.
-- A segurança cibernética tornou-se uma das áreas mais críticas, dado o aumento de ataques cibernéticos e a necessidade de conformidade com a LGPD (Lei Geral de Proteção de Dados).
-- A demanda por desenvolvedores de software, profissionais de dados e especialistas em inteligência artificial segue crescendo, enquanto o déficit de talentos no setor ultrapassa 400 mil vagas.
-- O trabalho remoto e o modelo híbrido são amplamente aceitos, permitindo a descentralização de oportunidades e o acesso a talentos de diferentes regiões do país.
-- Startups de tecnologia continuam a atrair investimentos, com foco em fintechs, healthtechs e edtechs, que endereçam desafios específicos do mercado brasileiro.
+- O setor de TI no Brasil cresceu acima da média global nos últimos anos, movimentando cerca de R$ 200 bilhões em 2025, com previsão de crescimento contínuo.
+- Áreas como inteligência artificial, ciência de dados, desenvolvimento de software e cibersegurança estão em alta demanda.
+- O mercado enfrenta um déficit de profissionais qualificados, estimado em mais de 400 mil vagas não preenchidas em 2026.
+- Startups brasileiras de tecnologia estão atraindo investimentos significativos, especialmente nos setores de fintechs, healthtechs e edtechs.
+- A LGPD (Lei Geral de Proteção de Dados) continua a impulsionar a necessidade de compliance e serviços de segurança cibernética.
+- A desigualdade digital permanece um desafio, especialmente em regiões menos desenvolvidas do Brasil, onde a conectividade e o acesso à tecnologia ainda são limitados.
 
 ## 🔗 Conexões
 - [[Projeto - Sistema Chamados]]
 - [[Referência - Transformação Digital no Brasil]]
-- [[Referência - LGPD e Impactos no Mercado de TI]]
+- [[Referência - Inteligência Artificial no Mercado Brasileiro]]
 
 ## 📚 Fontes
-- [[Referência - Panorama do Mercado de TI no Brasil 2026]]
-- [[Referência - Relatório Anual de Tecnologia e Inovação]]
-- [[Referência - Tendências de Emprego em TI]]
+- [[Referência - Relatório ABES sobre o mercado de TI 2025]]
+- [[Referência - Panorama do mercado de trabalho em TI no Brasil]]
+- [[Referência - LGPD e o impacto no mercado brasileiro]]
 
 ## 🚧 Lacunas
-- Quais medidas específicas estão sendo tomadas para reduzir o déficit de profissionais qualificados no setor de TI?
-- Qual é o impacto real da LGPD na adoção de novas tecnologias no Brasil?
-- Como o mercado de TI está reagindo às mudanças econômicas e políticas recentes no país?
+- Quais políticas públicas estão sendo implementadas para reduzir a desigualdade digital no Brasil?
+- Quais são as tendências específicas no desenvolvimento de software para dispositivos móveis no Brasil?
+- Como o mercado de TI brasileiro se compara com outros mercados emergentes em termos de inovação e competitividade?
 ```
