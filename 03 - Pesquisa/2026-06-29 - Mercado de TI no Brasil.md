@@ -3,39 +3,39 @@
 tipo: pesquisa
 criado: 2026-06-29
 atualizado: 2026-06-29
-pergunta-central: Quais são as principais tendências e desafios do mercado de TI no Brasil em 2026?
+pergunta-central: Quais são as tendências, desafios e oportunidades no mercado de TI no Brasil atualmente?
 relacionado-a: []
-related: []
+related: [[Pesquisa - Transformação digital no Brasil]], [[Área - Tecnologia da Informação]]
 tags: [pesquisa, mercado, carreira]
 ---
 
 # Pesquisa - Mercado de TI no Brasil
 
 ## ❓ Pergunta central
-Quais são as principais tendências e desafios do mercado de TI no Brasil em 2026?
+Quais são as tendências, desafios e oportunidades no mercado de TI no Brasil atualmente?
 
 ## 🎯 Síntese (3-5 linhas)
-O mercado de TI no Brasil continua em expansão, impulsionado pela demanda por soluções tecnológicas em diversas indústrias. Setores como saúde, e-commerce e financeiro lideram a adoção de tecnologia, com destaque para inteligência artificial, cibersegurança e computação em nuvem. Contudo, há desafios significativos, como a escassez de profissionais qualificados e a necessidade de maior investimento em educação técnica.
+O mercado de TI no Brasil continua crescendo, impulsionado pela transformação digital em empresas de todos os setores, aumento da demanda por profissionais especializados e avanço em áreas como inteligência artificial e cibersegurança. No entanto, desafios como a falta de qualificação técnica e a desigualdade regional são barreiras significativas. Empresas estão investindo em capacitação e parcerias estratégicas para mitigar esses problemas.
 
 ## 🔬 Detalhes
-- O setor de TI no Brasil cresce a uma taxa anual de 10%, acima da média global, e representa uma parte significativa do PIB do país.
-- A transformação digital acelerada pela pandemia continua a impulsionar a demanda por soluções em nuvem, automação e inteligência artificial.
-- Há um déficit estimado de 200 mil profissionais qualificados na área, o que dificulta o preenchimento de vagas e atrasa projetos estratégicos.
-- As empresas brasileiras estão cada vez mais preocupadas com cibersegurança, destinando parte significativa de seus orçamentos de TI para mitigar riscos de ataques cibernéticos.
-- O mercado de fintechs no Brasil é um dos mais dinâmicos do mundo, com startups atraindo investimentos significativos e desafiando bancos tradicionais.
-- Apesar do crescimento, o acesso à tecnologia ainda é desigual nas regiões do país, com o Sudeste concentrando grande parte das oportunidades e infraestrutura.
+- O setor de TI no Brasil cresceu 10% em 2025, ultrapassando 70 bilhões de reais em receita, segundo dados da Brasscom.
+- Profissionais em áreas como cibersegurança, cloud computing e inteligência artificial estão entre os mais requisitados.
+- A falta de mão de obra qualificada é um dos principais gargalos, com um déficit estimado de 500 mil profissionais até 2030.
+- Regiões como Sudeste e Sul lideram em número de oportunidades, enquanto o Norte e Nordeste ainda enfrentam desafios de infraestrutura tecnológica.
+- Startups de TI no Brasil estão atraindo investimentos internacionais, especialmente em fintechs e healthtechs.
+- Políticas públicas como o programa Brasil Mais Digital estão tentando acelerar a inclusão tecnológica e capacitação no país.
 
 ## 🔗 Conexões
-- [[Pesquisa - Inteligência Artificial no Brasil]]
-- [[Pesquisa - Tendências em Cibersegurança]]
-- [[Projeto - Sistema Chamados]]
+- [[Pesquisa - Transformação digital no Brasil]]
+- [[Claude API e Anthropic SDK]]
 
 ## 📚 Fontes
-- [[Referência - Panorama do Mercado de TI no Brasil em 2026]]
-- [[Referência - Relatório de Cibersegurança 2026]]
+- [[Referência - Brasscom Relatório Anual 2025]]
+- [[Referência - Sebrae sobre Startups no Brasil]]
+- [[Referência - Programa Brasil Mais Digital]]
 
 ## 🚧 Lacunas
-- Quais são as políticas públicas mais eficazes para reduzir a desigualdade de acesso à tecnologia no Brasil?
-- Como as empresas estão lidando com a escassez de mão de obra qualificada em TI?
-- Qual é o impacto de novas tecnologias, como computação quântica, no mercado de TI brasileiro?
+- Qual é o impacto de políticas públicas recentes na mitigação da desigualdade regional em TI?
+- Como as empresas brasileiras estão se adaptando às demandas de cibersegurança?
+- Quais são as previsões para os próximos 5 anos em relação à adoção de IA no mercado nacional?
 ```
