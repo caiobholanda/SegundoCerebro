@@ -3,7 +3,7 @@
 tipo: pesquisa
 criado: 2026-06-28
 atualizado: 2026-06-28
-pergunta-central: Quais são os melhores métodos e práticas para realizar deploys em infraestrutura cloud moderna?
+pergunta-central: Como otimizar o processo de deploy e construir uma infraestrutura cloud escalável e resiliente?
 relacionado-a: []
 related: [[Claude API e Anthropic SDK]]
 tags: [pesquisa, dev, infra]
@@ -12,31 +12,30 @@ tags: [pesquisa, dev, infra]
 # Pesquisa - Deploy e Infraestrutura Cloud
 
 ## ❓ Pergunta central
-Quais são os melhores métodos e práticas para realizar deploys em infraestrutura cloud moderna?
+Como otimizar o processo de deploy e construir uma infraestrutura cloud escalável e resiliente?
 
 ## 🎯 Síntese (3-5 linhas)
-Deploys em infraestrutura cloud são fundamentais para escalar aplicações com eficiência e segurança. As melhores práticas incluem uso de pipelines CI/CD automatizados, infraestrutura como código (IaC), monitoramento contínuo e integração de ferramentas de gerenciamento como Kubernetes e Terraform. A escolha entre modelos como PaaS, IaaS ou FaaS depende do caso de uso e dos requisitos do projeto.
+Deploy eficiente e infraestrutura cloud confiável são fundamentais para garantir escalabilidade, disponibilidade e desempenho de aplicações modernas. Soluções como automação de pipelines CI/CD, uso de contêineres (Docker), orquestração com Kubernetes e serviços gerenciados na nuvem (AWS, Azure, GCP) são pilares dessa estratégia. A escolha das ferramentas e práticas deve sempre alinhar-se às necessidades do negócio.
 
 ## 🔬 Detalhes
-- **Infraestrutura como Código (IaC)**: Ferramentas como Terraform e AWS CloudFormation permitem replicar ambientes rapidamente e garantir consistência entre deploys.
-- **Automação via CI/CD**: Pipeline automatizado com ferramentas como GitHub Actions, GitLab CI ou Jenkins acelera o ciclo de desenvolvimento e reduz erros humanos.
-- **Containerização**: Utilizar Docker e gerenciar com Kubernetes facilita o deploy escalável e portátil entre diferentes provedores de nuvem.
-- **Modelos Cloud**: Escolha entre PaaS (Heroku, AWS Elastic Beanstalk), IaaS (AWS EC2, Google Compute Engine) ou FaaS (AWS Lambda, Google Cloud Functions) dependendo da complexidade da aplicação.
-- **Monitoramento e Observabilidade**: Ferramentas como Prometheus, Grafana e Datadog ajudam a diagnosticar problemas e garantir uptime.
-- **Segurança no Deploy**: Implementar práticas como gerenciamento de segredos (ex.: HashiCorp Vault), scans de vulnerabilidade no código e autenticação baseada em IAM.
+- **Pipelines CI/CD**: Automação no desenvolvimento, testes e deploy é essencial para reduzir erros e acelerar entregas.
+- **Contêineres e Kubernetes**: Docker simplifica o empacotamento de aplicações, enquanto Kubernetes gerencia clusters e garante alta disponibilidade.
+- **Infraestrutura como código (IaC)**: Ferramentas como Terraform e AWS CloudFormation permitem configurar recursos de forma replicável e versionável.
+- **Monitoramento e Logging**: Soluções como Prometheus, Grafana e ELK Stack ajudam a analisar o desempenho e detectar problemas proativamente.
+- **Escolha de provedores cloud**: AWS, Azure, e GCP oferecem serviços robustos, mas é crucial entender custos, SLAs e limitações de cada plataforma.
+- **Segurança na nuvem**: Implementação de práticas como IAM (Identity and Access Management), criptografia e backups regulares para proteger dados e acessos.
 
 ## 🔗 Conexões
 - [[Claude API e Anthropic SDK]]
-- [[Projeto - Sistema Chamados]]
-- [[Pesquisa - Kubernetes e Orquestração de Containers]]
+- [[Pesquisa - Segurança da Informação]]
 
 ## 📚 Fontes
-- [[Referência - Terraform: Documentação Oficial]]
-- [[Referência - Kubernetes: Best Practices]]
+- [[Referência - Site Reliability Engineering (SRE) por Google]]
+- [[Referência - Livro: Kubernetes Up & Running]]
 - [[Referência - AWS Well-Architected Framework]]
 
 ## 🚧 Lacunas
-- Comparação detalhada entre os principais provedores cloud para diferentes tipos de deploy (AWS, GCP, Azure).
-- Melhores práticas para otimizar custos em deploys cloud.
-- Impacto ambiental de infraestrutura cloud e alternativas mais sustentáveis.
+- Qual é o impacto de novas tecnologias emergentes, como WebAssembly, na infraestrutura cloud?
+- Como gerenciar os custos de cloud computing em ambientes de grande escala?
+- Quais são as melhores práticas para proteger pipelines CI/CD contra ataques de segurança?
 ```
