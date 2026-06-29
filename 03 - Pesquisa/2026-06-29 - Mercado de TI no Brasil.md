@@ -15,27 +15,27 @@ tags: [pesquisa, mercado, carreira]
 Quais são as principais tendências, desafios e oportunidades do mercado de TI no Brasil em 2026?
 
 ## 🎯 Síntese (3-5 linhas)
-O mercado de TI no Brasil continua em expansão, com foco crescente em inteligência artificial, computação em nuvem e cibersegurança. Há uma alta demanda por profissionais qualificados, mas a escassez de talentos na área persiste. Startups e grandes corporações estão investindo em inovação tecnológica, enquanto políticas públicas e iniciativas privadas buscam fomentar a capacitação e inclusão digital.
+O mercado de TI no Brasil continua em expansão, impulsionado pela transformação digital e pela crescente demanda por profissionais qualificados em áreas como inteligência artificial, segurança cibernética e ciência de dados. No entanto, enfrenta desafios como a escassez de mão de obra especializada e a necessidade de modernização tecnológica em diversos setores. Há grandes oportunidades de crescimento, especialmente com o avanço do 5G e o aumento das startups de tecnologia.
 
 ## 🔬 Detalhes
-- O setor de TI no Brasil cresceu 12% em 2025, impulsionado pela digitalização acelerada de empresas de diversos setores.
-- Profissionais com habilidades em IA, machine learning e blockchain estão entre os mais demandados.
-- A falta de profissionais qualificados é um dos maiores desafios; estima-se um déficit de 400 mil vagas não preenchidas em 2026.
-- Startups de tecnologia no Brasil atraíram mais de R$ 30 bilhões em investimentos no último ano.
-- A transformação digital em áreas como saúde, educação e agronegócio está gerando novos mercados e oportunidades no país.
-- Políticas públicas como o Programa Brasil Digital estão sendo implementadas para fomentar a capacitação e a inclusão digital de populações menos favorecidas.
+- O mercado de TI no Brasil deve crescer acima da média global, com destaque para áreas como computação em nuvem, inteligência artificial e Internet das Coisas (IoT).
+- Há uma alta demanda por profissionais especializados em desenvolvimento de software, análise de dados e segurança cibernética, mas ainda existe um déficit significativo de mão de obra qualificada.
+- A implementação do 5G no Brasil está abrindo novas possibilidades para inovação tecnológica, especialmente em setores como saúde, educação e agronegócio.
+- Startups brasileiras de tecnologia têm atraído investimentos recordes, destacando-se nos segmentos de fintechs, healthtechs e edtechs.
+- Apesar do crescimento, pequenas e médias empresas enfrentam desafios para adotar tecnologias avançadas devido a altos custos e falta de expertise.
+- Políticas públicas e incentivos governamentais para a digitalização de negócios e formação de talentos em TI são fundamentais para sustentar o crescimento do setor.
 
 ## 🔗 Conexões
-- [[Pesquisa - Inteligência Artificial no Brasil]]
 - [[Projeto - Sistema Chamados]]
+- [[Pesquisa - Impacto do 5G na Economia Brasileira]]
 
 ## 📚 Fontes
-- [[Referência - Panorama do Mercado de TI no Brasil 2025]]
-- [[Referência - Relatório Anual de Startups Brasileiras 2025]]
-- [[Referência - Programa Brasil Digital]]
+- [[Referência - Panorama do Mercado de TI no Brasil em 2026]]
+- [[Referência - Relatório Anual ABES 2026]]
+- [[Referência - Inovação e Startups no Brasil]]
 
 ## 🚧 Lacunas
-- Qual o impacto específico da IA no mercado de trabalho de TI no Brasil nos próximos 5 anos?
-- Como as políticas públicas podem ajudar a mitigar a falta de profissionais qualificados no setor?
-- Qual é a percepção das pequenas e médias empresas sobre a transformação digital no Brasil?
+- Qual é o impacto específico do avanço do 5G em mercados regionais e setores específicos no Brasil?
+- Como a educação formal e informal pode ser reestruturada para atender à demanda por mão de obra qualificada em TI?
+- Quais são as melhores práticas internacionais que poderiam ser adaptadas para acelerar a digitalização no Brasil?
 ```
