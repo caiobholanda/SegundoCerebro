@@ -19,6 +19,7 @@ Notas diárias `YYYY-MM-DD.md`. Geradas pela skill `nota-diaria` ou pelo plugin 
 - [[2026-06-06]]
 
 ## Revisões mensais
+- [[06 - Diário/Revisao - 2026-06|Revisão — Junho 2026]]
 - [[06 - Diário/Revisao - 2026-05|Revisão — Maio 2026]]
 
 ## Diários recentes
