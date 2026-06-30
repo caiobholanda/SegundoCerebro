@@ -1,9 +1,8 @@
-```markdown
 ---
 tipo: pesquisa
 criado: 2026-06-30
 atualizado: 2026-06-30
-pergunta-central: Como o Claude Code pode ser integrado via CLI e agentes para fluxos de trabalho eficientes e programáveis?
+pergunta-central: Como o Claude Code utiliza CLI e agentes para interagir e ampliar sua funcionalidade?
 relacionado-a: []
 related: [[Claude API e Anthropic SDK]]
 tags: [pesquisa, ia, dev, claude]
@@ -12,29 +11,29 @@ tags: [pesquisa, ia, dev, claude]
 # Pesquisa - Claude Code — CLI e agentes
 
 ## ❓ Pergunta central
-Como o Claude Code pode ser integrado via CLI e agentes para fluxos de trabalho eficientes e programáveis?
+Como o Claude Code utiliza CLI e agentes para interagir e ampliar sua funcionalidade?
 
 ## 🎯 Síntese (3-5 linhas)
-O Claude Code oferece funcionalidades avançadas para automação e integração via CLI e agentes. Ele permite executar comandos programáveis, gerenciar fluxos de trabalho e interagir com APIs relacionadas. A sua arquitetura suporta personalização, modularidade e escalabilidade, sendo uma ferramenta valiosa para desenvolvedores e operadores técnicos.
+O Claude Code utiliza CLI (Interface de Linha de Comando) e agentes como mecanismos para integração de seus serviços em fluxos de trabalho automatizados. A CLI permite a execução de comandos diretos, enquanto os agentes são configuráveis e oferecem flexibilidade para tarefas complexas. Ambos são projetados para interoperabilidade com APIs e outros sistemas, promovendo escalabilidade e automação em ambientes de desenvolvimento.
 
 ## 🔬 Detalhes
-- O Claude Code é projetado pela Anthropic para interagir com sistemas externos via APIs e interfaces de linha de comando (CLI).
-- A integração via CLI permite comandos rápidos e programáveis, ideal para automações e scripts em ambientes técnicos.
-- Os agentes do Claude Code são configuráveis e podem ser treinados para executar tarefas específicas, seguindo modelos de comportamento predefinidos.
-- Suporte a múltiplos formatos de entrada e saída, como JSON, YAML e Markdown, facilitando a integração com outras ferramentas.
-- Permite a implementação de fluxos de trabalho automatizados, como análise de grandes volumes de dados e tomada de decisão baseada em IA.
-- A segurança é um foco do desenho do sistema, com restrições de acesso e monitoramento de execução para evitar uso indevido.
-  
+- O Claude Code CLI permite acessar funcionalidades do modelo diretamente por meio de comandos de terminal, otimizando fluxos de trabalho para desenvolvedores.
+- Os agentes do Claude Code são instâncias especializadas do modelo, configuradas para desempenhar funções específicas com base em instruções e contextos.
+- A CLI suporta operações como envio de prompts, ajuste de parâmetros, e integração com pipelines de CI/CD.
+- Os agentes podem ser programados para realizar tarefas como análise de texto, automação de respostas e até mesmo integrações com outros serviços através de APIs.
+- A combinação de CLI e agentes expande o uso do Claude Code para além de interfaces gráficas padrão, permitindo maior customização.
+- A segurança e controle sobre as ações realizadas pelos agentes são priorizados, com logs de atividades e configurações customizáveis de permissões.
+
 ## 🔗 Conexões
 - [[Claude API e Anthropic SDK]]
 - [[Projeto - Sistema Chamados]]
 
 ## 📚 Fontes
-- [[Referência - Claude Code Documentation]]
-- [[Referência - Anthropic CLI Guide]]
+- [[Referência - Documentação oficial do Claude Code]]
+- [[Referência - Artigo sobre automação com IA e CLI]]
+- [[Referência - Guia de configuração de agentes no Claude]]
 
 ## 🚧 Lacunas
-- Detalhar como configurar agentes personalizados para casos de uso específicos.
-- Explorar exemplos práticos de integração com sistemas legados.
-- Investigar limitações atuais do Claude Code em termos de escalabilidade e segurança.
-```
+- Quais são os limites atuais das capacidades dos agentes do Claude Code em termos de tarefas mais complexas?
+- Como o uso de CLI e agentes pode ser otimizado para fluxos de trabalho colaborativos em equipes grandes?
+- Quais são as melhores práticas de segurança para configurar e utilizar agentes em um ambiente de produção?
