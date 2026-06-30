@@ -3,7 +3,7 @@
 tipo: pesquisa
 criado: 2026-06-30
 atualizado: 2026-06-30
-pergunta-central: Qual o impacto das tendências atuais em programação e desenvolvimento no futuro da tecnologia?
+pergunta-central: Como a programação e o desenvolvimento de software estão moldando o futuro da tecnologia e da produtividade humana?
 relacionado-a: []
 related: []
 tags: [pesquisa, dev, produtividade]
@@ -12,30 +12,31 @@ tags: [pesquisa, dev, produtividade]
 # Pesquisa - Programação e Desenvolvimento
 
 ## ❓ Pergunta central
-Qual o impacto das tendências atuais em programação e desenvolvimento no futuro da tecnologia?
+Como a programação e o desenvolvimento de software estão moldando o futuro da tecnologia e da produtividade humana?
 
 ## 🎯 Síntese (3-5 linhas)
-A programação e o desenvolvimento têm evoluído rapidamente com a introdução de inteligência artificial, metodologias ágeis e ferramentas automatizadas. Essas tendências estão moldando o futuro da tecnologia, permitindo maior eficiência, acessibilidade e inovação. No entanto, elas também trazem desafios éticos, de segurança e de adaptação às novas demandas do mercado.
+A programação é o alicerce do mundo digital, permitindo a criação de soluções para problemas complexos em escala global. Ferramentas de desenvolvimento estão cada vez mais acessíveis e poderosas, enquanto práticas como DevOps e metodologias ágeis aceleram a entrega de valor. O impacto da inteligência artificial e da automação está transformando o papel dos desenvolvedores, tornando a habilidade de programar uma competência essencial no século XXI.
 
 ## 🔬 Detalhes
-- A ascensão de linguagens de programação modernas, como Python, Rust e Go, tem simplificado o desenvolvimento e melhorado a produtividade dos desenvolvedores.
-- Ferramentas de automação, como GitHub Copilot e ChatGPT, estão reduzindo o tempo de desenvolvimento ao fornecer assistência em tempo real.
-- A metodologia DevOps está se tornando padrão, integrando desenvolvimento e operações para entregas mais ágeis e eficientes.
-- Frameworks de desenvolvimento como React, Angular e Flutter permitem criar aplicações multiplataforma com maior rapidez e eficiência.
-- A segurança cibernética em desenvolvimento é uma preocupação crescente, com práticas como DevSecOps ganhando relevância.
-- A inteligência artificial e o aprendizado de máquina estão sendo cada vez mais integrados aos processos de desenvolvimento para criar sistemas mais inteligentes e adaptativos.
+- A programação é um conjunto de habilidades que permite a criação de software para resolver problemas práticos e automatizar tarefas.
+- Linguagens de programação são a base para a comunicação com máquinas. Exemplos: Python, JavaScript, C++, Go.
+- Metodologias ágeis como Scrum e Kanban promovem entregas rápidas e iterativas em projetos de desenvolvimento.
+- DevOps integra desenvolvimento e operações, utilizando ferramentas como Docker e Kubernetes para automação e escalabilidade.
+- O uso de inteligência artificial na programação, como o GitHub Copilot, está auxiliando na escrita de código e reduzindo o tempo de desenvolvimento.
+- A crescente acessibilidade a plataformas de baixo código (low-code) e sem código (no-code) está permitindo que pessoas sem conhecimento técnico criem soluções digitais.
 
 ## 🔗 Conexões
 - [[Claude API e Anthropic SDK]]
-- [[Pesquisa - Impacto da IA no mercado de trabalho]]
 - [[Projeto - Sistema Chamados]]
+- [[Referência - Livro Clean Code]]
 
 ## 📚 Fontes
-- [[Referência - Livro Clean Code de Robert C. Martin]]
-- [[Referência - Artigo sobre DevOps na DZone]]
+- [[Referência - Livro Clean Code]]
+- [[Referência - Artigo sobre DevOps e produtividade]]
+- [[Referência - Tendências em Inteligência Artificial 2026]]
 
 ## 🚧 Lacunas
-- Como as novas ferramentas de IA estão transformando o papel dos desenvolvedores?
-- Quais são as implicações éticas do uso de IA no desenvolvimento de software?
-- Qual será o impacto da programação em low-code/no-code no mercado de trabalho tradicional?
+- Como a programação pode ser integrada de forma mais eficaz à educação básica?
+- Quais são os limites e riscos do uso de IA na automação de desenvolvimento?
+- Quais novas linguagens de programação estão surgindo para atender às demandas de computação quântica?
 ```
