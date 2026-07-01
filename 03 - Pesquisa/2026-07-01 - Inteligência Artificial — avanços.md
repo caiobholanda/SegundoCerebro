@@ -1,41 +1,40 @@
-```markdown
 ---
 tipo: pesquisa
 criado: 2026-07-01
 atualizado: 2026-07-01
-pergunta-central: Quais foram os avanços mais significativos em inteligência artificial nos últimos anos e como eles estão moldando o futuro?
-relacionado-a: [tecnologia, inovação]
-related: [[Claude API e Anthropic SDK]], [[Pesquisa - Ética em IA]]
+pergunta-central: Quais são os avanços mais significativos na área de inteligência artificial nos últimos anos e como eles estão impactando a sociedade?
+relacionado-a: []
+related: []
 tags: [pesquisa, ia]
 ---
 
 # Pesquisa - Inteligência Artificial — avanços
 
 ## ❓ Pergunta central
-Quais foram os avanços mais significativos em inteligência artificial nos últimos anos e como eles estão moldando o futuro?
+Quais são os avanços mais significativos na área de inteligência artificial nos últimos anos e como eles estão impactando a sociedade?
 
 ## 🎯 Síntese (3-5 linhas)
-Os últimos anos foram marcados por avanços notáveis em inteligência artificial, incluindo o desenvolvimento de modelos de linguagem generativa, como GPT e Claude, a aplicação de IA em diagnósticos médicos, e o uso de algoritmos para resolver problemas de mudanças climáticas. Esses avanços estão redefinindo indústrias e levantando questões éticas sobre privacidade, viés e impacto sobre o emprego.
+Nos últimos anos, a inteligência artificial avançou significativamente em áreas como modelos generativos, aprendizado por reforço profundo e aplicações em saúde, meio ambiente e automação industrial. Tecnologias como os modelos de linguagem de grande escala, sistemas de visão computacional e inteligência artificial generativa estão revolucionando setores inteiros. No entanto, questões éticas e de regulamentação continuam sendo desafios importantes.
 
 ## 🔬 Detalhes
-- Modelos de linguagem generativa, como GPT-4 e Claude 2, possibilitam interações mais naturais e criação de conteúdo automatizado.
-- IA aplicada na saúde tem auxiliado na detecção precoce de doenças, como câncer, através de análise de imagens e dados genéticos.
-- A inteligência artificial está sendo usada para prever mudanças climáticas e otimizar o uso de recursos naturais.
-- Veículos autônomos, impulsionados por sistemas de IA avançados, têm feito progressos significativos em segurança e navegação.
-- A integração de IA no setor financeiro está aprimorando a detecção de fraudes e permitindo análises de mercado mais rápidas e precisas.
-- Tecnologias como aprendizado por reforço e redes neurais profundas estão sendo usadas para superar desafios em jogos e simulações complexas, como AlphaFold na previsão de estruturas de proteínas.
+- Os modelos de linguagem de grande escala, como GPT e seus sucessores, permitiram avanços em interação humano-computador, tradução automática e automação de tarefas linguísticas.
+- A inteligência artificial generativa está transformando áreas como arte, design e entretenimento, permitindo a criação de imagens, vídeos, música e texto de alta qualidade.
+- Aplicações em saúde, como diagnóstico assistido por IA e descoberta de medicamentos, estão ajudando a identificar doenças mais rapidamente e a desenvolver tratamentos personalizados.
+- No setor ambiental, a IA está sendo usada para monitorar mudanças climáticas, prever desastres naturais e otimizar o uso de recursos naturais.
+- Aprendizado por reforço profundo tem permitido avanços em robótica, jogos e sistemas de controle autônomo, incluindo veículos autônomos e drones.
+- Apesar dos avanços, questões como viés algorítmico, privacidade de dados e o impacto no mercado de trabalho levantam preocupações éticas e sociais.
 
 ## 🔗 Conexões
 - [[Claude API e Anthropic SDK]]
-- [[Pesquisa - Ética em IA]]
+- [[Pesquisa - Ética e regulação em IA]]
+- [[Projeto - Sistema Chamados]]
 
 ## 📚 Fontes
-- [[Referência - Avanços em IA por OpenAI]]
-- [[Referência - Aplicações médicas de IA]]
-- [[Referência - Impactos da IA na indústria]]
+- [[Referência - OpenAI e modelos de linguagem]]
+- [[Referência - IA na saúde]]
+- [[Referência - Aplicações ambientais de IA]]
 
 ## 🚧 Lacunas
-- Quais são os limites atuais dos modelos de IA generativa e como podem ser superados?
-- Como equilibrar inovação em IA com regulamentações éticas e legais robustas?
-- Qual será o impacto de longo prazo da automação em empregos e na economia global?
-```
+- Como regulamentar a inteligência artificial de maneira eficaz e equilibrada em um cenário global?
+- Quais serão os impactos de longo prazo da automação baseada em IA no mercado de trabalho?
+- Como mitigar os riscos associados ao viés algorítmico em sistemas de IA?
