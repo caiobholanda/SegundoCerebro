@@ -1,43 +1,39 @@
-```markdown
 ---
 tipo: pesquisa
 criado: 2026-07-02
 atualizado: 2026-07-02
-pergunta-central: Como implementar um deploy eficiente e seguro em uma infraestrutura cloud moderna?
+pergunta-central: Quais são as melhores práticas para realizar deploys e gerenciar infraestrutura na nuvem de forma eficiente e escalável?
 relacionado-a: []
-related: []
-tags: ["pesquisa", "dev", "infra"]
+related: [[Projeto - Sistema Chamados]]
+tags: [pesquisa, dev, infra]
 ---
 
 # Pesquisa - Deploy e Infraestrutura Cloud
 
 ## ❓ Pergunta central
-Como implementar um deploy eficiente e seguro em uma infraestrutura cloud moderna?
+Quais são as melhores práticas para realizar deploys e gerenciar infraestrutura na nuvem de forma eficiente e escalável?
 
 ## 🎯 Síntese (3-5 linhas)
-Deploy e infraestrutura cloud envolvem a configuração de ambientes escaláveis, seguros e resilientes para hospedar aplicações e serviços. Ferramentas de automação, como CI/CD pipelines, são essenciais para garantir entregas rápidas e sem interrupções. Além disso, boas práticas em segurança e monitoramento contínuo são fundamentais para a confiabilidade e o desempenho.
+A infraestrutura cloud permite escalabilidade e flexibilidade para aplicações modernas, mas exige planejamento cuidadoso, automação e monitoramento constante para evitar custos desnecessários e garantir alta disponibilidade. Ferramentas como IaC (Infrastructure as Code), CI/CD pipelines e serviços gerenciados são fundamentais para otimizar processos de deploy e manutenção.
 
 ## 🔬 Detalhes
-- Infraestruturas cloud oferecem flexibilidade e escalabilidade, permitindo que recursos sejam alocados conforme a demanda.
-- Práticas de CI/CD (Integração Contínua/Entrega Contínua) automatizam o processo de desenvolvimento, teste e deploy, reduzindo erros manuais e acelerando a entrega de software.
-- Provedores como AWS, Google Cloud e Azure oferecem ferramentas nativas para deploy, como AWS Elastic Beanstalk, Google Cloud Build e Azure DevOps.
-- Contêineres (ex.: Docker) e orquestradores como Kubernetes são amplamente utilizados para gerenciar aplicações em ambientes distribuídos.
-- A segurança na infraestrutura cloud requer estratégias como criptografia de dados, controle de acesso baseado em funções (RBAC) e monitoramento de logs.
-- O uso de IaC (Infraestrutura como Código), com ferramentas como Terraform e AWS CloudFormation, permite gerenciar e versionar a infraestrutura de forma eficiente.
-- Monitoramento contínuo com ferramentas como Prometheus, Grafana e serviços nativos dos provedores cloud é essencial para identificar e corrigir problemas rapidamente.
+- **Infrastructure as Code (IaC)**: Ferramentas como Terraform e AWS CloudFormation permitem a criação e gerenciamento de infraestrutura de forma automatizada e reproduzível.
+- **CI/CD Pipelines**: Automação do processo de integração e deploy (ex.: GitHub Actions, Jenkins) reduz erros humanos e acelera entregas.
+- **Contêineres e Orquestração**: Plataformas como Docker e Kubernetes facilitam o deploy de aplicações em ambientes isolados e escaláveis.
+- **Serviços gerenciados**: Provedores como AWS, Azure e Google Cloud oferecem soluções como bancos de dados, armazenamento e computação com manutenção incluída.
+- **Monitoramento e Observabilidade**: Ferramentas como Prometheus, Grafana e serviços como AWS CloudWatch são essenciais para garantir disponibilidade e desempenho.
+- **Custo e otimização**: O uso de escalabilidade automática (auto-scaling) e análise de custos ajuda a evitar gastos excessivos.
 
 ## 🔗 Conexões
-- [[Pesquisa - Kubernetes e Orquestração de Contêineres]]
-- [[Referência - AWS CloudFormation]]
-- [[Referência - DevOps e Pipeline CI/CD]]
+- [[Claude API e Anthropic SDK]]
+- [[Projeto - Sistema Chamados]]
 
 ## 📚 Fontes
-- [[Referência - Livro - Kubernetes: Up & Running]]
-- [[Referência - Artigo - Melhores práticas para deploy na AWS]]
-- [[Referência - Guia oficial do Terraform]]
+- [[Referência - Terraform Documentation]]
+- [[Referência - AWS Well-Architected Framework]]
+- [[Referência - Kubernetes Documentation]]
 
 ## 🚧 Lacunas
-- Quais são as diferenças práticas entre os principais provedores de cloud (AWS, Azure, Google Cloud) no que diz respeito a ferramentas de deploy?
-- Quais são os impactos ambientais e de custos ao escalar infraestruturas cloud?
-- Como as práticas de segurança em infraestrutura cloud evoluem para atender a novas ameaças?
-```
+- Como escolher entre diferentes provedores de nuvem (AWS, Azure, GCP) para projetos específicos?
+- Quais são os principais desafios de segurança em deploys na nuvem e como mitigá-los?
+- Como otimizar a configuração de serviços gerenciados para reduzir custos sem comprometer o desempenho?

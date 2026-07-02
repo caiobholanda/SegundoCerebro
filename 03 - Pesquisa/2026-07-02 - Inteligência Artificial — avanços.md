@@ -1,42 +1,42 @@
-```yaml
+```markdown
 ---
 tipo: pesquisa
 criado: 2026-07-02
 atualizado: 2026-07-02
-pergunta-central: Quais são os avanços mais recentes em inteligência artificial e seus impactos nas diversas áreas do conhecimento?
-relacionado-a: [tecnologia, inovação, aprendizado-de-maquina]
-related: [[Claude API e Anthropic SDK]], [[Pesquisa - Ética em IA]], [[Projeto - Sistema Chamados]]
+pergunta-central: Quais são os avanços mais significativos na Inteligência Artificial e suas implicações globais?
+relacionado-a: []
+related: [[Claude API e Anthropic SDK]]
 tags: [pesquisa, ia]
 ---
 
 # Pesquisa - Inteligência Artificial — avanços
 
 ## ❓ Pergunta central
-Quais são os avanços mais recentes em inteligência artificial e seus impactos nas diversas áreas do conhecimento?
+Quais são os avanços mais significativos na Inteligência Artificial e suas implicações globais?
 
 ## 🎯 Síntese (3-5 linhas)
-A inteligência artificial tem avançado significativamente com o desenvolvimento de modelos de linguagem de grande escala, sistemas generativos e técnicas de aprendizado por reforço. Esses avanços estão transformando áreas como saúde, transporte, educação e criatividade, mas também levantam desafios éticos e de regulação. A integração de IA em sistemas críticos promete benefícios imensos, mas exige cautela para mitigar riscos.
+Os avanços recentes em IA incluem modelos de linguagem cada vez mais potentes, melhorias na eficiência energética de algoritmos e aplicações práticas em saúde, educação e trabalho autônomo. Além disso, as discussões éticas sobre IA generativa e autonomia são fundamentais para moldar o futuro da tecnologia. Esses progressos prometem transformar a sociedade, mas também trazem desafios regulatórios e morais.
 
 ## 🔬 Detalhes
-- Modelos de linguagem de grande escala, como GPT-4 e Claude, têm alcançado níveis impressionantes de compreensão e geração de texto, impulsionando tarefas como redação, tradução e análise de dados.
-- Sistemas generativos, como DALL-E para imagens e MusicLM para música, estão redefinindo o papel da criatividade humana em colaboração com a tecnologia.
-- Avanços em aprendizado por reforço têm permitido conquistas em robótica, jogos e otimização de processos industriais.
-- No campo da saúde, a IA está sendo usada para diagnósticos mais precisos, desenvolvimento de medicamentos e análise de dados genômicos, promovendo uma medicina mais personalizada.
-- Veículos autônomos baseados em IA continuam a progredir, prometendo maior segurança e eficiência no transporte, embora questões regulatórias ainda sejam um desafio.
-- O uso de IA em educação, como tutores virtuais e plataformas adaptativas, está personalizando o aprendizado e ampliando o acesso ao conhecimento, mas também levanta questões sobre privacidade e qualidade.
+- Modelos de linguagem como GPT-4 e Claude 2 têm superado benchmarks de compreensão e geração de texto.
+- IA generativa está sendo usada para criar imagens, vídeos e música, redefinindo indústrias criativas.
+- Avanços em aprendizado de máquina têm melhorado diagnósticos médicos e predição em saúde pública.
+- Veículos autônomos estão cada vez mais precisos, com testes já em larga escala em cidades.
+- Existe uma corrida tecnológica entre grandes empresas e países para liderar a inovação em IA.
+- Questões éticas como viés algorítmico, privacidade de dados e impacto no mercado de trabalho estão sendo amplamente debatidas.
 
 ## 🔗 Conexões
 - [[Claude API e Anthropic SDK]]
-- [[Pesquisa - Ética em IA]]
-- [[Projeto - Sistema Chamados]]
+- [[Pesquisa - Ética em Inteligência Artificial]]
+- [[Área - Tecnologia e Inovação]]
 
 ## 📚 Fontes
-- [[Referência - GPT-4: OpenAI Technical Report]]
-- [[Referência - DALL-E e o futuro da criatividade]]
-- [[Referência - IA na saúde: tendências e desafios]]
+- [[Referência - State of AI Report 2026]]
+- [[Referência - OpenAI GPT-4 Paper]]
+- [[Referência - Impactos da IA na Saúde Pública]]
 
 ## 🚧 Lacunas
-- Como garantir a transparência dos modelos de IA em decisões críticas para a sociedade?
-- Qual será o impacto da IA no mercado de trabalho a longo prazo?
-- Quais políticas públicas podem ser mais eficazes para regular o uso ético da inteligência artificial?
+- Como regulamentar o uso ético de IA em escala global?
+- Qual é o impacto ambiental do aumento na demanda por computação em IA?
+- Como podemos garantir que os avanços em IA sejam distribuídos de forma equitativa entre países e populações?
 ```

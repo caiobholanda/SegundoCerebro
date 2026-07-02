@@ -3,7 +3,7 @@
 tipo: pesquisa
 criado: 2026-07-02
 atualizado: 2026-07-02
-pergunta-central: Qual é o panorama atual do mercado de TI no Brasil e quais são as tendências para os próximos anos?
+pergunta-central: Quais são as tendências, desafios e oportunidades no mercado de TI no Brasil atualmente?
 relacionado-a: []
 related: []
 tags: [pesquisa, mercado, carreira]
@@ -12,30 +12,31 @@ tags: [pesquisa, mercado, carreira]
 # Pesquisa - Mercado de TI no Brasil
 
 ## ❓ Pergunta central
-Qual é o panorama atual do mercado de TI no Brasil e quais são as tendências para os próximos anos?
+Quais são as tendências, desafios e oportunidades no mercado de TI no Brasil atualmente?
 
 ## 🎯 Síntese (3-5 linhas)
-O mercado de TI no Brasil continua a crescer, impulsionado pela transformação digital e pela adoção de tecnologias emergentes. Apesar da alta demanda por profissionais qualificados, a escassez de talentos ainda é um desafio. Áreas como inteligência artificial, segurança cibernética e desenvolvimento de software estão em alta, com forte investimento em startups e serviços baseados em nuvem.
+O mercado de TI no Brasil está em expansão, impulsionado pela transformação digital, crescimento de startups e aumento da demanda por soluções tecnológicas. Contudo, enfrenta desafios como a escassez de profissionais qualificados e desigualdades regionais no acesso a infraestrutura. Áreas como inteligência artificial, segurança cibernética e cloud computing são destaques para 2026.
 
 ## 🔬 Detalhes
-- O setor de TI no Brasil cresceu cerca de 20% nos últimos 5 anos, sendo um dos mais resilientes à crise econômica.
-- A transformação digital acelerada pela pandemia de COVID-19 impulsionou a adoção de tecnologias como cloud computing, big data e inteligência artificial.
-- Há uma grande lacuna de profissionais qualificados, com estimativas apontando para mais de 400 mil vagas não preenchidas até 2025.
-- Startups brasileiras de tecnologia, especialmente fintechs, têm atraído investimentos recordes, colocando o Brasil como líder em inovação na América Latina.
-- A segurança cibernética é uma preocupação crescente, com aumento na demanda por especialistas na área devido a ataques cibernéticos mais frequentes e sofisticados.
-- Programação e desenvolvimento de softwares seguem sendo as áreas mais procuradas, com destaque para linguagens como Python, JavaScript e Java.
+- O mercado de TI brasileiro é um dos que mais crescem na América Latina, representando cerca de 3% do PIB nacional.
+- Startups de tecnologia têm recebido investimentos recordes, especialmente em setores como fintechs, edtechs e healthtechs.
+- A demanda por profissionais de TI segue alta, mas há um déficit anual de mais de 50 mil vagas devido à falta de qualificação.
+- Áreas em alta incluem inteligência artificial, análise de dados, segurança cibernética e computação em nuvem.
+- Políticas públicas como o "Plano Nacional de Internet das Coisas" visam fomentar inovação e adoção de tecnologias avançadas.
+- Desafios incluem desigualdade na distribuição de infraestrutura tecnológica entre regiões do país e baixa inclusão digital em áreas rurais.
 
 ## 🔗 Conexões
-- [[Projeto - Sistema Chamados]]
-- [[Pesquisa - Transformação Digital no Brasil]]
+- [[Claude API e Anthropic SDK]]
+- [[Pesquisa - Tendências em Inteligência Artificial]]
+- [[Área - Desenvolvimento de Software]]
 
 ## 📚 Fontes
-- [[Referência - Panorama do Mercado de TI no Brasil]]
-- [[Referência - Relatório Startups e Inovação no Brasil]]
-- [[Referência - Tendências em Tecnologia 2026]]
+- [[Referência - Panorama das Startups Brasileiras 2026]]
+- [[Referência - Relatório Brasscom 2026]]
+- [[Referência - Plano Nacional de Internet das Coisas]]
 
 ## 🚧 Lacunas
-- Qual é o impacto do avanço da inteligência artificial na empregabilidade e nas funções tradicionais de TI no Brasil?
-- Como o mercado de TI no Brasil pode superar a escassez de profissionais qualificados?
-- Quais políticas públicas estão sendo implementadas para fomentar o setor de TI no país?
+- Qual é o impacto do déficit de mão de obra qualificada nas empresas de médio porte?
+- Como as políticas públicas podem mitigar as desigualdades regionais no acesso à tecnologia?
+- Quais são os principais fatores que limitam a inclusão digital no Brasil em 2026?
 ```
