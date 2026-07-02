@@ -3,39 +3,40 @@
 tipo: pesquisa
 criado: 2026-07-02
 atualizado: 2026-07-02
-pergunta-central: Como a programação e o desenvolvimento de software estão evoluindo diante das novas tecnologias, frameworks e inteligência artificial?
+pergunta-central: Como a evolução das tecnologias e práticas de programação impacta o desenvolvimento de software moderno?
 relacionado-a: []
 related: []
-tags: [pesquisa, dev, produtividade]
+tags: ["pesquisa", "dev", "produtividade"]
 ---
 
 # Pesquisa - Programação e Desenvolvimento
 
 ## ❓ Pergunta central
-Como a programação e o desenvolvimento de software estão evoluindo diante das novas tecnologias, frameworks e inteligência artificial?
+Como a evolução das tecnologias e práticas de programação impacta o desenvolvimento de software moderno?
 
 ## 🎯 Síntese (3-5 linhas)
-A programação e o desenvolvimento de software estão em um momento de grande transformação. Ferramentas baseadas em inteligência artificial estão automatizando tarefas repetitivas e acelerando o ciclo de desenvolvimento, enquanto novos frameworks e linguagens tornam mais acessível a criação de aplicações escaláveis e robustas. Além disso, práticas como DevOps e metodologias ágeis continuam a moldar a forma como equipes colaboram e entregam software de qualidade.
+A programação e o desenvolvimento de software estão em constante evolução, guiados por avanços em linguagens, frameworks, ferramentas de automação e metodologias ágeis. A integração contínua (CI/CD), o uso de inteligência artificial e a crescente automação estão moldando um cenário onde a produtividade e a eficiência são maximizadas. No entanto, desafios como a escalabilidade, a segurança e a ética no uso de IA permanecem críticos.
 
 ## 🔬 Detalhes
-- A chegada de ferramentas como GitHub Copilot e ChatGPT está ajudando desenvolvedores a aumentar sua produtividade, automatizando a escrita de código e a resolução de problemas.
-- Frameworks como React, Vue.js e Angular continuam sendo amplamente utilizados para desenvolvimento front-end, enquanto no back-end, Node.js, Django e frameworks baseados em Rust estão ganhando espaço.
-- A programação funcional está ganhando popularidade em linguagens como Elixir, Scala e Haskell, devido à sua capacidade de lidar melhor com a paralelização e a imutabilidade.
-- Práticas como DevOps e CI/CD (Integração Contínua/Entrega Contínua) são essenciais para a entrega rápida e confiável de software.
-- O uso de contêineres, especialmente com Docker e orquestradores como Kubernetes, transformou a forma como aplicações são implantadas e escaladas.
-- A inteligência artificial está sendo integrada diretamente em sistemas de desenvolvimento, desde IDEs até sistemas avançados de análise de código, para prever bugs e otimizar o desempenho.
+- A programação evoluiu de linguagens de baixo nível, como Assembly, para linguagens de alto nível, como Python e Rust, priorizando legibilidade e eficiência.
+- Frameworks modernos, como React, Django e Spring, aceleram o desenvolvimento ao fornecer estruturas pré-definidas para aplicações robustas.
+- Metodologias ágeis, como Scrum e Kanban, substituíram processos tradicionais de desenvolvimento em cascata, priorizando entregas rápidas e feedback contínuo.
+- Ferramentas de automação, como Jenkins e GitHub Actions, simplificam processos de integração e entrega contínua (CI/CD), reduzindo erros humanos.
+- A inteligência artificial está sendo usada para gerar código (ex.: [[Claude API e Anthropic SDK]]) e detectar vulnerabilidades, mas levanta questões éticas e de segurança.
+- O desenvolvimento de software está cada vez mais focado em práticas DevOps, que integram equipes de desenvolvimento e operações para aumentar a eficiência.
 
 ## 🔗 Conexões
 - [[Claude API e Anthropic SDK]]
-- [[Projeto - Sistema Chamados]]
+- [[Pesquisa - Automação no Desenvolvimento de Software]]
+- [[Referência - Metodologias Ágeis]]
 
 ## 📚 Fontes
-- [[Referência - Livro Clean Code]]
-- [[Referência - Artigo sobre GitHub Copilot]]
-- [[Referência - Guia de boas práticas com DevOps]]
+- [[Referência - Clean Code (Robert C. Martin)]]
+- [[Referência - The Pragmatic Programmer]]
+- [[Referência - DevOps Handbook]]
 
 ## 🚧 Lacunas
-- Quais são as limitações e desafios éticos do uso de inteligência artificial na programação?
-- Como a adoção de linguagens emergentes como Rust e Go impactará o futuro do desenvolvimento de software?
-- Quais frameworks e tecnologias estão em ascensão e podem se tornar os novos padrões no mercado?
+- Qual é o impacto a longo prazo da inteligência artificial na carreira de programadores e desenvolvedores?
+- Como as práticas de programação podem se adaptar à crescente complexidade e escala dos sistemas modernos?
+- Quais frameworks emergentes têm maior potencial para substituir os padrões atuais?
 ```
