@@ -3,40 +3,39 @@
 tipo: pesquisa
 criado: 2026-07-01
 atualizado: 2026-07-01
-pergunta-central: Como a programação e o desenvolvimento moldam o futuro da tecnologia e da sociedade?
+pergunta-central: Como a programação e o desenvolvimento evoluíram para facilitar a inovação tecnológica e quais são as tendências futuras?
 relacionado-a: []
 related: []
-tags: [pesquisa, dev, produtividade]
+tags: ["pesquisa", "dev", "produtividade"]
 ---
 
 # Pesquisa - Programação e Desenvolvimento
 
 ## ❓ Pergunta central
-Como a programação e o desenvolvimento moldam o futuro da tecnologia e da sociedade?
+Como a programação e o desenvolvimento evoluíram para facilitar a inovação tecnológica e quais são as tendências futuras?
 
 ## 🎯 Síntese (3-5 linhas)
-A programação é a base da transformação digital, sendo essencial para o desenvolvimento de tecnologias que impulsionam a economia, a comunicação e a inovação. Com a evolução contínua de linguagens, ferramentas e paradigmas, o papel dos desenvolvedores está se expandindo, exigindo habilidades técnicas avançadas e uma compreensão profunda de problemas sociais e éticos. A colaboração e o aprendizado contínuo são pilares fundamentais para o sucesso na área.
+A programação e o desenvolvimento passaram de práticas manuais e lentas para processos altamente automatizados e colaborativos. Ferramentas como Git, frameworks modernos e práticas ágeis aceleraram a criação de software, enquanto linguagens como Python e Rust trazem maior eficiência. O futuro aponta para IA assistida, desenvolvimento low-code/no-code e computação quântica.
 
 ## 🔬 Detalhes
-- Programação é o processo de criação de instruções para que computadores realizem tarefas específicas.
-- As linguagens de programação evoluíram de baixo nível (como Assembly) para alto nível (como Python e JavaScript), tornando o desenvolvimento mais acessível.
-- O paradigma de programação funcional vem ganhando espaço devido à sua capacidade de lidar com a imutabilidade e concorrência.
-- O desenvolvimento de software ágil é amplamente adotado, permitindo entregas rápidas e iterativas, alinhadas às necessidades dos usuários.
-- O conceito de DevOps integra desenvolvimento e operações, promovendo automação e colaboração para acelerar o ciclo de vida do software.
-- Inteligência artificial e aprendizado de máquina estão transformando o desenvolvimento, exigindo que os programadores entendam modelos matemáticos e algoritmos complexos.
-- A programação não se limita a software; também impulsiona áreas como automação, Internet das Coisas (IoT) e desenvolvimento de jogos.
+- A programação evoluiu de linguagens de baixo nível como Assembly para linguagens de alto nível, como Python e JavaScript, que priorizam facilidade de uso.
+- O desenvolvimento ágil e DevOps transformaram o ciclo de vida do software, promovendo entregas contínuas e alta colaboração entre equipes.
+- Frameworks como React, Angular e Django simplificam a criação de aplicações complexas com menor esforço e maior consistência.
+- A inteligência artificial está cada vez mais integrada no desenvolvimento, com ferramentas como Copilot e ChatGPT otimizando a escrita de código.
+- O movimento low-code/no-code democratiza o desenvolvimento, permitindo que usuários não técnicos criem aplicações funcionais.
+- A computação quântica surge como uma promessa para resolver problemas computacionais antes impossíveis, embora ainda esteja em estágio inicial.
 
 ## 🔗 Conexões
 - [[Claude API e Anthropic SDK]]
-- [[Projeto - Sistema Chamados]]
+- [[Pesquisa - Inteligência Artificial no Desenvolvimento de Software]]
 
 ## 📚 Fontes
-- [[Referência - Clean Code]]
-- [[Referência - The Pragmatic Programmer]]
-- [[Referência - Artigo sobre DevOps]]
+- [[Referência - Clean Code de Robert C. Martin]]
+- [[Referência - Artigo sobre DevOps na prática]]
+- [[Referência - Introdução ao Low-Code e No-Code]]
 
 ## 🚧 Lacunas
-- Quais são as melhores práticas emergentes para lidar com a ética no desenvolvimento de software?
-- Como os avanços em computação quântica impactarão a programação tradicional?
-- Quais linguagens de programação têm maior potencial de crescimento nos próximos 5 anos?
+- Como a computação quântica pode impactar o desenvolvimento de software nos próximos 10 anos?
+- Quais são os desafios éticos e sociais do uso crescente de IA no desenvolvimento de software?
+- Quais são os impactos do low-code/no-code na profissão de programador a longo prazo?
 ```
