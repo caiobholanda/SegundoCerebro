@@ -3,38 +3,40 @@
 tipo: pesquisa
 criado: 2026-07-02
 atualizado: 2026-07-02
-pergunta-central: Quais são os avanços mais recentes em inteligência artificial e como estão moldando diferentes setores?
+pergunta-central: Quais são os avanços mais significativos em inteligência artificial nos últimos 5 anos e como estão moldando o futuro das tecnologias e da sociedade?
 relacionado-a: []
-related: []
+related: [[Claude API e Anthropic SDK]]
 tags: [pesquisa, ia]
 ---
 
 # Pesquisa - Inteligência Artificial — avanços
 
 ## ❓ Pergunta central
-Quais são os avanços mais recentes em inteligência artificial e como estão moldando diferentes setores?
+Quais são os avanços mais significativos em inteligência artificial nos últimos 5 anos e como estão moldando o futuro das tecnologias e da sociedade?
 
 ## 🎯 Síntese (3-5 linhas)
-A Inteligência Artificial (IA) tem avançado rapidamente, com destaque para modelos generativos, melhorias em IA ética e aplicações em setores como saúde, educação e indústria. A integração de IA em sistemas cotidianos está transformando a produtividade e o acesso a informações, embora questões de regulamentação e impactos sociais permaneçam desafiadoras.
+Nos últimos anos, a IA avançou em áreas como modelos de linguagem, percepção visual, autonomia robótica, e aprendizado por reforço. Ferramentas como o GPT e Claude redefiniram interações humano-máquina, enquanto sistemas de visão computacional têm aplicações em saúde e segurança. Contudo, desafios éticos e técnicos continuam sendo centrais.
 
 ## 🔬 Detalhes
-- Modelos generativos como GPT-4 e Claude estão redefinindo o processamento de linguagem natural, permitindo respostas mais contextuais e criativas.
-- Redes neurais profundas estão sendo otimizadas para consumir menos energia, aumentando a sustentabilidade do uso de IA.
-- Avanços na IA ética incluem maior transparência nos modelos e ferramentas para reduzir viés algorítmico.
-- Aplicações em saúde incluem diagnósticos mais precisos com base em imagens médicas e personalização de tratamentos com IA preditiva.
-- No setor educacional, tutores baseados em IA estão sendo usados para personalizar a aprendizagem e expandir o acesso à educação de qualidade.
-- Indústrias como manufatura e logística estão adotando IA para automação preditiva, reduzindo custos e aumentando eficiência.
+- Modelos de linguagem grandes (LLMs) como GPT-4 e Claude expandiram o uso de IA em áreas como escrita, programação e assistência.
+- A evolução de redes neurais visuais permite diagnósticos médicos mais precisos e sistemas de monitoramento avançado.
+- Aprendizado por reforço tem sido aplicado em robótica para criar sistemas autônomos adaptáveis, como veículos autônomos.
+- IA generativa, como DALL-E e MidJourney, revolucionou o design e a criatividade, permitindo geração de arte e conteúdo visual.
+- Integração de IA em sistemas de segurança cibernética fortaleceu a detecção e prevenção de ameaças.
+- O debate ético sobre o uso responsável de IA ganhou força, com discussões sobre viés, privacidade e impacto no mercado de trabalho.
 
 ## 🔗 Conexões
 - [[Claude API e Anthropic SDK]]
-- [[Pesquisa - Ética em inteligência artificial]]
+- [[Pesquisa - Ética na Inteligência Artificial]]
+- [[Projeto - Sistema Chamados]]
 
 ## 📚 Fontes
-- [[Referência - OpenAI e GPT-4]]
-- [[Referência - Relatório de tendências em IA 2026]]
+- [[Referência - GPT e LLMs]]
+- [[Referência - Segurança e IA]]
+- [[Referência - Ética na IA]]
 
 ## 🚧 Lacunas
-- Quais são os impactos de longo prazo da substituição de tarefas humanas pela IA em diferentes profissões?
-- Como os governos estão regulamentando o uso de IA em setores críticos como saúde e finanças?
-- Quais métodos podem ser mais eficazes para reduzir o viés algorítmico em larga escala?
+- Como os avanços em IA podem impactar diretamente os países em desenvolvimento e suas economias?
+- Quais são os próximos passos para mitigar vieses em sistemas de IA de larga escala?
+- Qual é o papel da IA na resolução de crises climáticas e ambientais?
 ```
