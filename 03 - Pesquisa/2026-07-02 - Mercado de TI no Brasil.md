@@ -3,7 +3,7 @@
 tipo: pesquisa
 criado: 2026-07-02
 atualizado: 2026-07-02
-pergunta-central: Quais são as tendências, desafios e oportunidades no mercado de TI no Brasil atualmente?
+pergunta-central: Quais são as principais tendências, desafios e oportunidades no mercado de TI no Brasil em 2026?
 relacionado-a: []
 related: []
 tags: [pesquisa, mercado, carreira]
@@ -12,31 +12,31 @@ tags: [pesquisa, mercado, carreira]
 # Pesquisa - Mercado de TI no Brasil
 
 ## ❓ Pergunta central
-Quais são as tendências, desafios e oportunidades no mercado de TI no Brasil atualmente?
+Quais são as principais tendências, desafios e oportunidades no mercado de TI no Brasil em 2026?
 
 ## 🎯 Síntese (3-5 linhas)
-O mercado de TI no Brasil está em expansão, impulsionado pela transformação digital, crescimento de startups e aumento da demanda por soluções tecnológicas. Contudo, enfrenta desafios como a escassez de profissionais qualificados e desigualdades regionais no acesso a infraestrutura. Áreas como inteligência artificial, segurança cibernética e cloud computing são destaques para 2026.
+O mercado de TI no Brasil continua crescendo, impulsionado pela transformação digital e pela demanda por soluções tecnológicas em diversos setores. Áreas como inteligência artificial, cibersegurança e desenvolvimento de software estão em alta. No entanto, o setor enfrenta desafios como a escassez de profissionais qualificados e a necessidade de adaptar-se rapidamente às mudanças regulatórias e tecnológicas globais.
 
 ## 🔬 Detalhes
-- O mercado de TI brasileiro é um dos que mais crescem na América Latina, representando cerca de 3% do PIB nacional.
-- Startups de tecnologia têm recebido investimentos recordes, especialmente em setores como fintechs, edtechs e healthtechs.
-- A demanda por profissionais de TI segue alta, mas há um déficit anual de mais de 50 mil vagas devido à falta de qualificação.
-- Áreas em alta incluem inteligência artificial, análise de dados, segurança cibernética e computação em nuvem.
-- Políticas públicas como o "Plano Nacional de Internet das Coisas" visam fomentar inovação e adoção de tecnologias avançadas.
-- Desafios incluem desigualdade na distribuição de infraestrutura tecnológica entre regiões do país e baixa inclusão digital em áreas rurais.
+- O mercado de TI no Brasil deve crescer mais de 10% ao ano até 2028, segundo projeções de associações do setor.
+- Inteligência artificial e aprendizado de máquina são áreas prioritárias, com forte investimento de empresas e startups.
+- Existe um déficit de mais de 400 mil profissionais qualificados para preencher vagas no setor, segundo dados recentes.
+- O avanço das regulamentações de proteção de dados, como a LGPD, exige que empresas invistam em compliance e cibersegurança.
+- O trabalho remoto e híbrido segue como uma tendência consolidada, aumentando a competitividade no mercado de talentos.
+- Startups brasileiras de tecnologia continuam a atrair investimentos significativos, especialmente em fintechs e healthtechs.
 
 ## 🔗 Conexões
-- [[Claude API e Anthropic SDK]]
+- [[Projeto - Sistema Chamados]]
 - [[Pesquisa - Tendências em Inteligência Artificial]]
-- [[Área - Desenvolvimento de Software]]
+- [[Pesquisa - Cibersegurança no Brasil]]
 
 ## 📚 Fontes
-- [[Referência - Panorama das Startups Brasileiras 2026]]
-- [[Referência - Relatório Brasscom 2026]]
-- [[Referência - Plano Nacional de Internet das Coisas]]
+- [[Referência - Panorama do Mercado de TI no Brasil]]
+- [[Referência - Relatório Anual ABES 2026]]
+- [[Referência - Impacto da LGPD no Setor de Tecnologia]]
 
 ## 🚧 Lacunas
-- Qual é o impacto do déficit de mão de obra qualificada nas empresas de médio porte?
-- Como as políticas públicas podem mitigar as desigualdades regionais no acesso à tecnologia?
-- Quais são os principais fatores que limitam a inclusão digital no Brasil em 2026?
+- Qual é o impacto do avanço da inteligência artificial generativa no mercado de trabalho em TI no Brasil?
+- Como as empresas brasileiras estão se preparando para as mudanças trazidas pelo 5G e pela Internet das Coisas?
+- Quais são as iniciativas educacionais mais eficazes para reduzir o déficit de profissionais qualificados no setor?
 ```
