@@ -1,41 +1,39 @@
-```markdown
 ---
 tipo: pesquisa
 criado: 2026-07-02
 atualizado: 2026-07-02
-pergunta-central: Como a programação e o desenvolvimento de software podem impulsionar a inovação em diferentes setores da sociedade?
+pergunta-central: Como a programação e o desenvolvimento de software estão evoluindo para atender às demandas do futuro?
 relacionado-a: []
-related: []
+related: [[Claude API e Anthropic SDK]], [[Pesquisa - Inteligência Artificial na Automação de Código]]
 tags: [pesquisa, dev, produtividade]
 ---
 
 # Pesquisa - Programação e Desenvolvimento
 
 ## ❓ Pergunta central
-Como a programação e o desenvolvimento de software podem impulsionar a inovação em diferentes setores da sociedade?
+Como a programação e o desenvolvimento de software estão evoluindo para atender às demandas do futuro?
 
 ## 🎯 Síntese (3-5 linhas)
-A programação e o desenvolvimento de software são ferramentas essenciais para a inovação, permitindo a criação de soluções personalizadas e escaláveis para problemas complexos. Desde a automação de processos até a inteligência artificial, essas disciplinas têm revolucionado setores como saúde, educação, finanças e transporte. No entanto, a rápida evolução tecnológica exige aprendizado contínuo e atenção aos impactos éticos e sociais.
+A programação e o desenvolvimento de software estão se transformando rapidamente com a adoção de inteligência artificial, automação de tarefas repetitivas e metodologias ágeis. O foco está em acelerar o desenvolvimento, melhorar a manutenção de código e ampliar a acessibilidade para novos programadores através de ferramentas low-code e no-code. As práticas DevOps e a computação em nuvem também estão moldando o futuro da área.
 
 ## 🔬 Detalhes
-- A programação e o desenvolvimento de software são fundamentais para a criação de aplicativos, sistemas e plataformas que conectam pessoas, empresas e dispositivos.
-- Métodos ágeis, como Scrum e Kanban, transformaram a maneira como equipes desenvolvem e entregam software, promovendo iteração contínua e adaptação às mudanças.
-- Linguagens de programação como Python, JavaScript e Go continuam a dominar o mercado devido à sua versatilidade e grande comunidade de desenvolvedores.
-- A inteligência artificial, habilitada por linguagens como Python e frameworks como TensorFlow e PyTorch, está promovendo inovações em áreas como saúde, transporte autônomo e processamento de linguagem natural.
-- A crescente popularidade do código aberto democratizou o acesso a ferramentas de desenvolvimento, permitindo a colaboração global e acelerando a inovação.
-- A programação não se limita a desenvolvedores profissionais; iniciativas de ensino de código para crianças e leigos têm fomentado a alfabetização digital e a criatividade.
+- O uso de inteligência artificial, como modelos GPT, está revolucionando a escrita e revisão de código, auxiliando desenvolvedores a programar com mais eficiência.
+- Ferramentas de low-code e no-code permitem que indivíduos sem formação técnica criem softwares funcionais, democratizando o acesso ao desenvolvimento.
+- A adoção de metodologias ágeis e práticas DevOps está otimizando os ciclos de desenvolvimento, integrando equipes e melhorando a entrega contínua.
+- A computação em nuvem está se tornando o padrão, permitindo maior escalabilidade e facilitando a colaboração remota entre equipes de desenvolvimento.
+- Paradigmas como programação funcional e orientação a eventos estão ganhando espaço, oferecendo abordagens alternativas para resolver problemas complexos.
+- A crescente importância da segurança e da privacidade está direcionando a comunidade de desenvolvedores a adotar práticas mais rigorosas, como DevSecOps e o uso de ferramentas para análise estática de código.
 
 ## 🔗 Conexões
 - [[Claude API e Anthropic SDK]]
-- [[Projeto - Sistema Chamados]]
+- [[Pesquisa - Inteligência Artificial na Automação de Código]]
 
 ## 📚 Fontes
-- [[Referência - Clean Code]]
-- [[Referência - Pragmatic Programmer]]
-- [[Referência - Automate the Boring Stuff with Python]]
+- [[Referência - Livro Clean Code]]
+- [[Referência - Artigo sobre Low-code e No-code]]
+- [[Referência - Relatório sobre DevOps e Cloud Computing]]
 
 ## 🚧 Lacunas
-- Quais são os impactos éticos do uso crescente de inteligência artificial no desenvolvimento de software?
-- Como as metodologias ágeis podem ser otimizadas para equipes remotas e distribuídas?
-- Quais são as principais barreiras para a inclusão de grupos sub-representados no campo da programação?
-```
+- Como a ética está sendo integrada nas práticas de desenvolvimento de sistemas baseados em inteligência artificial?
+- Quais são os impactos do avanço das ferramentas low-code/no-code no mercado de trabalho para desenvolvedores?
+- Quais serão as linguagens de programação dominantes nos próximos 10 anos e por quê?
