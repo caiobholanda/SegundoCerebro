@@ -1,10 +1,9 @@
-```markdown
 ---
 tipo: pesquisa
 criado: 2026-07-03
 atualizado: 2026-07-03
-pergunta-central: Quais são as principais tendências e desafios do mercado de TI no Brasil em 2026?
-relacionado-a: [carreira, tecnologia, inovação]
+pergunta-central: Quais são as tendências, desafios e oportunidades no mercado de TI no Brasil em 2026?
+relacionado-a: []
 related: []
 tags: [pesquisa, mercado, carreira]
 ---
@@ -12,32 +11,29 @@ tags: [pesquisa, mercado, carreira]
 # Pesquisa - Mercado de TI no Brasil
 
 ## ❓ Pergunta central
-Quais são as principais tendências e desafios do mercado de TI no Brasil em 2026?
+Quais são as tendências, desafios e oportunidades no mercado de TI no Brasil em 2026?
 
 ## 🎯 Síntese (3-5 linhas)
-O mercado de TI no Brasil segue em crescimento, impulsionado pela transformação digital e pela adoção de novas tecnologias como IA, computação em nuvem e IoT. No entanto, enfrenta desafios como a escassez de profissionais qualificados e a necessidade de maior investimento em infraestrutura e cibersegurança. Empresas buscam inovação constante para se manterem competitivas em um cenário globalizado.
+O mercado de TI no Brasil continua em expansão, com aumento da demanda por profissionais qualificados, especialmente em áreas como inteligência artificial, cibersegurança e desenvolvimento de software. No entanto, enfrenta desafios como a escassez de talentos, a alta competitividade e a necessidade de atualização constante. Diversidade e inclusão também têm ganhado destaque como prioridades estratégicas no setor.
 
 ## 🔬 Detalhes
-- O setor de TI no Brasil cresce a uma taxa média de 7,6% ao ano e já representa cerca de 7% do PIB nacional.
-- A transformação digital está impulsionando a demanda por profissionais especializados em áreas como inteligência artificial, big data, segurança da informação e desenvolvimento de software.
-- A escassez de mão de obra qualificada é um dos maiores desafios, com um déficit estimado de 500 mil profissionais até 2030.
-- Startups de tecnologia têm ganhado destaque no ecossistema brasileiro, especialmente nos setores de fintechs, edtechs e healthtechs.
-- A adaptação às regulamentações de proteção de dados, como a LGPD (Lei Geral de Proteção de Dados), tem demandado investimentos e redefinição de processos corporativos.
-- O crescimento do home office e do trabalho híbrido aumentou a necessidade de soluções de colaboração digital e infraestrutura de TI escalável.
-- Desafios como a desigualdade de acesso à tecnologia e a baixa conectividade em regiões menos urbanizadas ainda precisam ser enfrentados.
+- O setor de TI no Brasil registrou crescimento contínuo nos últimos anos, impulsionado pela transformação digital e pela adoção de tecnologias emergentes.
+- Áreas como inteligência artificial, ciência de dados e cibersegurança estão entre as mais demandadas, refletindo tendências globais.
+- A escassez de profissionais qualificados é um dos maiores desafios do setor, com empresas enfrentando dificuldades para preencher vagas de alta especialização.
+- Diversidade e inclusão têm ganhado espaço nas discussões do mercado, mas ainda há muito a avançar em termos de representação de mulheres e grupos minoritários.
+- A maturidade tecnológica das organizações brasileiras varia amplamente, com grandes empresas liderando a inovação e pequenas empresas enfrentando dificuldades de adaptação.
+- A internacionalização do mercado de trabalho, especialmente pós-pandemia, abriu novas oportunidades para profissionais brasileiros, mas também aumentou a competição por talentos locais.
 
 ## 🔗 Conexões
-- [[Projeto - Transformação Digital no Brasil]]
-- [[Área - Carreira em Tecnologia]]
-- [[Pesquisa - Inteligência Artificial no Brasil]]
+- [[Análise - Desafios da transformação digital no Brasil]]
+- [[Pesquisa - Tendências em inteligência artificial]]
+- [[Referência - Relatório sobre cibersegurança no Brasil]]
 
 ## 📚 Fontes
-- [[Referência - Panorama do Mercado de TI no Brasil 2026]]
-- [[Referência - Relatório da Brasscom 2026]]
-- [[Referência - Tendências de Transformação Digital 2026]]
+- [[Referência - Panorama do mercado de TI no Brasil 2026]]
+- [[Referência - Relatório de tendências tecnológicas 2026]]
 
 ## 🚧 Lacunas
-- Qual é o impacto da política pública atual no desenvolvimento do mercado de TI no Brasil?
-- Como a educação pode ser ajustada para suprir a demanda por profissionais qualificados em TI?
-- Quais são os setores mais promissores para investimentos em tecnologia nos próximos cinco anos?
-```
+- Como o mercado de TI está se adaptando às mudanças regulatórias e de governança no Brasil?
+- Quais iniciativas específicas têm sido eficazes para aumentar a diversidade no setor de TI brasileiro?
+- Qual o impacto do trabalho remoto na competitividade dos profissionais brasileiros no mercado global?
