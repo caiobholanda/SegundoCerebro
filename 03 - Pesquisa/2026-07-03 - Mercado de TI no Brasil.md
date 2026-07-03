@@ -1,8 +1,9 @@
+```markdown
 ---
 tipo: pesquisa
 criado: 2026-07-03
 atualizado: 2026-07-03
-pergunta-central: Quais são as tendências, desafios e oportunidades no mercado de TI brasileiro atualmente?
+pergunta-central: Quais são as tendências, desafios e oportunidades no mercado de TI no Brasil?
 relacionado-a: []
 related: []
 tags: [pesquisa, mercado, carreira]
@@ -11,31 +12,30 @@ tags: [pesquisa, mercado, carreira]
 # Pesquisa - Mercado de TI no Brasil
 
 ## ❓ Pergunta central
-Quais são as tendências, desafios e oportunidades no mercado de TI brasileiro atualmente?
+Quais são as tendências, desafios e oportunidades no mercado de TI no Brasil?
 
 ## 🎯 Síntese (3-5 linhas)
-O mercado de TI no Brasil cresce rapidamente, impulsionado pela transformação digital, com alta demanda por profissionais qualificados, especialmente em áreas como desenvolvimento, ciência de dados e cibersegurança. Contudo, enfrenta desafios como falta de mão de obra especializada e desigualdade regional no acesso a oportunidades. A adoção de tecnologias emergentes, como inteligência artificial e computação em nuvem, apresenta grandes oportunidades.
+O mercado de TI no Brasil está em constante crescimento, impulsionado pela transformação digital e pela alta demanda por soluções tecnológicas em diversos setores. Contudo, enfrenta desafios relacionados à escassez de profissionais qualificados e à necessidade de políticas públicas que fomentem a inovação. Áreas como inteligência artificial, cibersegurança e ciência de dados apresentam grande potencial de expansão.
 
 ## 🔬 Detalhes
-- A TI é um dos setores mais resilientes da economia brasileira, com crescimento anual acima da média em comparação com outros setores.
-- Há alta demanda por profissionais qualificados, especialmente em áreas como desenvolvimento de software, ciência de dados, cibersegurança e gestão de projetos.
-- A transformação digital em empresas de todos os portes tem acelerado investimentos em tecnologias como computação em nuvem, automação e inteligência artificial.
-- O déficit de mão de obra qualificada é um problema significativo, com estimativas de que faltarão centenas de milhares de profissionais até 2030.
-- Desigualdade regional: enquanto grandes centros como São Paulo e Rio de Janeiro concentram a maioria das oportunidades, outras regiões ainda enfrentam desafios de infraestrutura e capacitação.
-- Startups e empresas de tecnologia têm recebido investimentos recordes, mas o cenário econômico instável pode trazer riscos para o setor.
-- Políticas públicas, como incentivos fiscais e programas de capacitação, têm sido implementadas para mitigar o déficit de profissionais e estimular o crescimento do setor.
+- O setor de TI no Brasil cresceu cerca de 10% ao ano na última década, sendo um dos principais motores da economia nacional.
+- As áreas mais promissoras incluem inteligência artificial, ciência de dados, cibersegurança, desenvolvimento de software e computação em nuvem.
+- A escassez de profissionais qualificados é um dos maiores gargalos do mercado, com uma previsão de déficit de mais de 400 mil profissionais até 2027.
+- As empresas têm investido em programas de capacitação e parcerias com instituições de ensino para formar novos talentos.
+- A adoção de metodologias ágeis e a transformação digital têm sido impulsionadas pela pandemia, acelerando a necessidade de inovação tecnológica.
+- A falta de políticas públicas robustas e de investimentos em infraestrutura tecnológica ainda é um entrave para o pleno desenvolvimento do setor no Brasil.
 
 ## 🔗 Conexões
-- [[Claude API e Anthropic SDK]]
-- [[Pesquisa - Tendências tecnológicas emergentes]]
-- [[Área - Desenvolvimento de software]]
+- [[Área - Desenvolvimento de Software]]
+- [[Pesquisa - Inteligência Artificial e Impacto no Mercado de Trabalho]]
+- [[Referência - Relatório da Associação Brasileira de Empresas de Software (ABES)]]
 
 ## 📚 Fontes
-- [[Referência - Panorama do mercado de TI no Brasil 2026]]
-- [[Referência - Relatório de tendências em cibersegurança]]
-- [[Referência - Estudos sobre transformação digital no Brasil]]
+- [[Referência - Panorama do Setor de Software e Serviços de TI no Brasil - ABES]]
+- [[Referência - Relatório Anual da Brasscom 2025]]
 
 ## 🚧 Lacunas
-- Quais são as principais iniciativas públicas e privadas em andamento para mitigar o déficit de profissionais em TI?
-- Como o mercado de TI se comporta em regiões menos desenvolvidas do Brasil?
-- Qual é o impacto das tecnologias emergentes, como IA generativa, no mercado de trabalho em TI nos próximos 5 anos?
+- Quais políticas públicas poderiam ser implementadas para reduzir o déficit de profissionais de TI no Brasil?
+- Qual o impacto da automação e da IA no mercado de trabalho de TI nos próximos 10 anos?
+- Quais são os principais obstáculos enfrentados por startups de TI no Brasil para escalar seus negócios?
+```
