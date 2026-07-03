@@ -1,7 +1,7 @@
 ---
 tipo: moc
 criado: 2026-04-29
-atualizado: 2026-07-02
+atualizado: 2026-07-03
 ---
 
 # 📅 MOC — Diário
@@ -23,6 +23,7 @@ Notas diárias `YYYY-MM-DD.md`. Geradas pela skill `nota-diaria` ou pelo plugin 
 - [[06 - Diário/Revisao - 2026-05|Revisão — Maio 2026]]
 
 ## Diários recentes
+- [[06 - Diário/2026-07-03|2026-07-03 — sexta-feira]]
 - [[06 - Diário/2026-07-02|2026-07-02 — quinta-feira]]
 - [[06 - Diário/2026-07-01|2026-07-01 — quarta-feira]]
 - [[06 - Diário/2026-06-30|2026-06-30 — terça-feira]]
