@@ -3,44 +3,40 @@
 tipo: pesquisa
 criado: 2026-07-04
 atualizado: 2026-07-04
-pergunta-central: Como os princípios fundamentais da programação e do desenvolvimento de software evoluíram ao longo do tempo e quais tendências moldam o futuro da área?
+pergunta-central: Quais são as principais práticas, ferramentas e tendências que norteiam a programação e o desenvolvimento atualmente?
 relacionado-a: []
-related: [[Claude API e Anthropic SDK]], [[Pesquisa - Inteligência Artificial Generativa]]
+related: []
 tags: [pesquisa, dev, produtividade]
 ---
 
 # Pesquisa - Programação e Desenvolvimento
 
 ## ❓ Pergunta central
-Como os princípios fundamentais da programação e do desenvolvimento de software evoluíram ao longo do tempo e quais tendências moldam o futuro da área?
+Quais são as principais práticas, ferramentas e tendências que norteiam a programação e o desenvolvimento atualmente?
 
 ## 🎯 Síntese (3-5 linhas)
-Programação e desenvolvimento de software são pilares da tecnologia moderna, evoluindo constantemente para atender às demandas de eficiência, escalabilidade e inovação. Atualmente, vemos uma transição para modelos de desenvolvimento ágeis, uso de inteligência artificial, e maior ênfase em segurança e sustentabilidade na tecnologia. O futuro aponta para maior integração de IA, automação e uma abordagem centrada em dados para a engenharia de software.
+A programação e o desenvolvimento continuam evoluindo rapidamente, impulsionados por avanços em IA, desenvolvimento low-code/no-code e frameworks modernos. A adoção de DevOps e metodologias ágeis tem se consolidado, enquanto linguagens como Python, JavaScript e Rust seguem como essenciais em diferentes áreas. Além disso, a importância de boas práticas como versionamento, testes automatizados e documentação clara tem sido amplamente destacada.
 
 ## 🔬 Detalhes
-- A programação começou com linguagens de baixo nível como Assembly, evoluindo para linguagens mais abstraídas como Python e JavaScript.
-- O paradigma de programação funcional tem ganhado força por sua eficiência e facilidade de manutenção, especialmente em sistemas distribuídos.
-- O desenvolvimento ágil substituiu metodologias tradicionais como Waterfall, priorizando ciclos iterativos e colaborativos.
-- Inteligência Artificial e Aprendizado de Máquina estão redefinindo o desenvolvimento, com ferramentas que automatizam tarefas de codificação e testes.
-- Segurança em software é uma prioridade crescente, com práticas como DevSecOps integrando segurança ao ciclo de vida de desenvolvimento.
-- A computação em nuvem e os contêineres (ex.: Docker, Kubernetes) democratizaram o acesso a infraestrutura escalável, permitindo deploys mais rápidos e eficientes.
-- Desenvolvimento sustentável está ganhando relevância, com foco em otimização de recursos e uso responsável de energia.
+- **Linguagens de Programação**: Python e JavaScript são amplamente utilizados devido à sua versatilidade e grande comunidade. Rust está em alta por sua eficiência e segurança em sistemas críticos.
+- **Frameworks Modernos**: React, Angular e Vue.js dominam o front-end, enquanto frameworks como Django e Node.js são populares no back-end.
+- **DevOps**: A integração de desenvolvimento e operações é central para times ágeis, com ferramentas como Docker, Kubernetes, Jenkins e Terraform.
+- **Low-Code/No-Code**: Plataformas como Bubble e Webflow permitem que não programadores criem aplicações funcionais, reduzindo o tempo de desenvolvimento.
+- **Inteligência Artificial**: Ferramentas como [[Claude API e Anthropic SDK]] e ChatGPT API estão sendo integradas em aplicações para melhorar a automação e a experiência do usuário.
+- **Metodologias Ágeis**: Scrum e Kanban são amplamente adotados para gerenciar projetos, promovendo entregas incrementais e maior colaboração entre equipes.
 
 ## 🔗 Conexões
 - [[Claude API e Anthropic SDK]]
-- [[Pesquisa - Inteligência Artificial Generativa]]
-- [[Referência - Metodologias Ágeis]]
-- [[Referência - Computação em Nuvem e Contêineres]]
-- [[Pesquisa - Cibersegurança no Desenvolvimento de Software]]
+- [[Projeto - Sistema Chamados]]
 
 ## 📚 Fontes
-- [[Referência - Clean Code (Robert C. Martin)]]
-- [[Referência - The Pragmatic Programmer (Andrew Hunt e David Thomas)]]
-- [[Referência - Site Oficial do Docker]]
-- [[Referência - Artigo sobre DevSecOps (Medium)]]
+- [[Referência - Python Programming for Beginners]]
+- [[Referência - The Pragmatic Programmer]]
+- [[Referência - Clean Code]]
+- Artigo: "The State of Developer Ecosystem 2026" (JetBrains Report)
 
 ## 🚧 Lacunas
-- Como a computação quântica pode impactar os paradigmas atuais de programação?
-- Quais são as melhores práticas para integrar IA ao ciclo de desenvolvimento de software?
-- Como medir o impacto ambiental do desenvolvimento de software e criar métricas de sustentabilidade?
+- Quais serão as próximas grandes inovações em ferramentas e metodologias de desenvolvimento?
+- Como a evolução da IA impactará a substituição ou complementação do trabalho humano na programação?
+- Qual é o papel das plataformas low-code/no-code em projetos de larga escala e alta complexidade?
 ```
