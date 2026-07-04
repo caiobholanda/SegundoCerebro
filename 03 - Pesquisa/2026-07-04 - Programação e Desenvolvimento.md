@@ -3,7 +3,7 @@
 tipo: pesquisa
 criado: 2026-07-04
 atualizado: 2026-07-04
-pergunta-central: Quais são as melhores práticas e tendências atuais em programação e desenvolvimento de software?
+pergunta-central: Como a programação e o desenvolvimento podem ser otimizados para aumentar a produtividade e a qualidade do software?
 relacionado-a: []
 related: []
 tags: [pesquisa, dev, produtividade]
@@ -12,33 +12,31 @@ tags: [pesquisa, dev, produtividade]
 # Pesquisa - Programação e Desenvolvimento
 
 ## ❓ Pergunta central
-Quais são as melhores práticas e tendências atuais em programação e desenvolvimento de software?
+Como a programação e o desenvolvimento podem ser otimizados para aumentar a produtividade e a qualidade do software?
 
 ## 🎯 Síntese (3-5 linhas)
-A programação e o desenvolvimento de software evoluem constantemente, impulsionados por novas linguagens, frameworks e metodologias. Hoje, tendências como desenvolvimento ágil, DevOps, inteligência artificial e programação funcional estão moldando o setor. Além disso, a crescente importância de boas práticas, como testes automatizados, código limpo e design orientado ao domínio, está transformando a forma como sistemas são construídos.
+A programação e o desenvolvimento são áreas que demandam equilíbrio entre criatividade, lógica e eficiência. Abordagens como metodologias ágeis, uso de ferramentas de automação e boas práticas de codificação têm se mostrado essenciais para melhorar a produtividade e a qualidade do software. Além disso, a colaboração em equipe e o aprendizado contínuo são fundamentais para acompanhar as rápidas mudanças tecnológicas.
 
 ## 🔬 Detalhes
-- **Desenvolvimento Ágil**: Metodologias como Scrum e Kanban continuam sendo amplamente adotadas para promover ciclos curtos de desenvolvimento e entrega contínua de valor.
-- **DevOps**: A integração entre desenvolvimento e operações é uma prioridade, com ênfase na automação, CI/CD (integração e entrega contínuas) e infraestrutura como código.
-- **Programação Funcional**: Linguagens como Elixir, Scala e Clojure têm ganhado destaque por facilitar a criação de sistemas mais seguros e escaláveis.
-- **Inteligência Artificial no Desenvolvimento**: Ferramentas como [[Claude API e Anthropic SDK]] e GitHub Copilot estão transformando a forma como desenvolvedores escrevem código, acelerando o processo e reduzindo erros.
-- **Segurança no Desenvolvimento**: O conceito de DevSecOps busca integrar práticas de segurança desde o início do ciclo de vida do software, em vez de tratá-las como um processo separado.
-- **Design Orientado ao Domínio (DDD)**: Abordagens como DDD estão ganhando espaço para alinhar melhor o software às necessidades reais do negócio.
-- **Tecnologias emergentes**: Frameworks como React, Angular e Vue.js continuam dominando o desenvolvimento front-end, enquanto no back-end, Node.js e frameworks baseados em Python lideram.
+- **Metodologias Ágeis**: Frameworks como Scrum e Kanban ajudam a organizar o trabalho em ciclos curtos, promovendo entregas incrementais e maior flexibilidade para mudanças.
+- **Automação**: Ferramentas como CI/CD (Integração Contínua e Entrega Contínua) reduzem erros manuais e aceleram o ciclo de desenvolvimento.
+- **Boas Práticas de Codificação**: Padrões como SOLID, DRY (Don't Repeat Yourself) e KISS (Keep It Simple, Stupid) contribuem para códigos mais limpos, legíveis e fáceis de manter.
+- **Testes Automatizados**: Testes unitários, testes de integração e testes de aceitação garantem a qualidade do software e reduzem custos com manutenção.
+- **Colaboração e Comunicação**: Ferramentas como Git, Jira e Slack facilitam o trabalho em equipe e a gestão de projetos.
+- **Aprendizado Contínuo**: A rápida evolução das linguagens de programação, frameworks e ferramentas exige que desenvolvedores estejam sempre aprendendo novas tecnologias e melhores práticas.
 
 ## 🔗 Conexões
 - [[Claude API e Anthropic SDK]]
-- [[Projeto - Sistema Chamados]]
+- [[Pesquisa - Inteligência Artificial Generativa]]
+- [[Área - Desenvolvimento de Software]]
 
 ## 📚 Fontes
-- [[Referência - Clean Code (Robert C. Martin)]]
-- [[Referência - Site oficial do Scrum Guide]]
-- [[Referência - Artigo sobre DevOps na AWS]]
-- [[Referência - Livro: Domain-Driven Design (Eric Evans)]]
-- [[Referência - Documentação oficial do GitHub Copilot]]
+- [[Referência - Agile Manifesto]]
+- [[Referência - Livro Clean Code]]
+- [[Referência - The DevOps Handbook]]
 
 ## 🚧 Lacunas
-- Quais são as principais barreiras para a adoção de práticas como DevSecOps em empresas menores?
-- Como a inteligência artificial impactará a criação de novas linguagens de programação no futuro?
-- Qual é a relação entre programação funcional e eficiência em sistemas de alta concorrência?
+- Quais são as melhores práticas emergentes para lidar com a complexidade crescente dos sistemas modernos?
+- Como medir de forma eficaz a produtividade e a qualidade do código em equipes de desenvolvimento?
+- Quais habilidades serão mais importantes para desenvolvedores nos próximos 5 a 10 anos?
 ```
