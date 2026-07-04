@@ -1,10 +1,9 @@
-```markdown
 ---
 tipo: pesquisa
 criado: 2026-07-04
 atualizado: 2026-07-04
-pergunta-central: Quais são as tendências, desafios e oportunidades do mercado de TI no Brasil?
-relacionado-a: [economia, tecnologia, carreira]
+pergunta-central: Quais são as principais oportunidades e desafios do mercado de TI no Brasil atualmente?
+relacionado-a: []
 related: []
 tags: [pesquisa, mercado, carreira]
 ---
@@ -12,31 +11,29 @@ tags: [pesquisa, mercado, carreira]
 # Pesquisa - Mercado de TI no Brasil
 
 ## ❓ Pergunta central
-Quais são as tendências, desafios e oportunidades do mercado de TI no Brasil?
+Quais são as principais oportunidades e desafios do mercado de TI no Brasil atualmente?
 
 ## 🎯 Síntese (3-5 linhas)
-O mercado de TI no Brasil apresenta crescimento contínuo, impulsionado pela transformação digital, startups e adoção de tecnologias emergentes como inteligência artificial e computação em nuvem. Apesar disso, enfrenta desafios como a escassez de profissionais qualificados, desigualdade regional e a necessidade de políticas públicas que incentivem inovação e inclusão digital. O setor é promissor, mas requer investimentos em educação e infraestrutura.
+O mercado de TI no Brasil apresenta crescimento acelerado, impulsionado pela transformação digital e demanda por soluções tecnológicas em diversos setores. Contudo, enfrenta desafios como a escassez de profissionais qualificados, altos custos tributários e desigualdade regional. Áreas como segurança cibernética, inteligência artificial e desenvolvimento de software são destaques em termos de oportunidades.
 
 ## 🔬 Detalhes
-- O mercado de TI brasileiro cresceu cerca de 10% ao ano nos últimos anos, mesmo durante períodos de crise econômica.
-- Startups de tecnologia têm desempenhado um papel crucial na inovação, com destaque para fintechs e healthtechs.
-- A escassez de profissionais qualificados é um dos maiores gargalos, com um déficit estimado em mais de 400 mil vagas não preenchidas até 2025.
-- A transformação digital em empresas tradicionais tem sido um motor para a demanda por soluções em TI.
-- Tecnologias como inteligência artificial, computação em nuvem e big data estão entre as mais demandadas no mercado atual.
-- Há uma concentração de oportunidades em grandes centros urbanos, como São Paulo e Rio de Janeiro, o que reforça a desigualdade regional.
+- Segundo a Brasscom (Associação Brasileira das Empresas de Tecnologia da Informação e Comunicação), o mercado de TI brasileiro cresce em média 10% ao ano, superando a média global.
+- Há alta demanda por profissionais especializados em áreas como desenvolvimento de software, segurança da informação e ciência de dados.
+- A falta de mão de obra qualificada é um dos principais gargalos, com estimativas de que o Brasil forma apenas metade dos profissionais necessários para atender às vagas do setor.
+- Incentivos governamentais, como a Lei de Informática e programas de startups, têm fomentado o setor, mas enfrentam entraves burocráticos e regulatórios.
+- A concentração de empresas e oportunidades em grandes centros urbanos, como São Paulo e Rio de Janeiro, contribui para a desigualdade de acesso a empregos no setor.
+- A popularização de tecnologias emergentes como inteligência artificial, Internet das Coisas (IoT) e computação em nuvem está criando novas oportunidades de negócios e inovação no Brasil.
 
 ## 🔗 Conexões
 - [[Projeto - Sistema Chamados]]
-- [[Referência - Transformação Digital no Brasil]]
-- [[Pesquisa - Inteligência Artificial e o Futuro do Trabalho]]
+- [[Tendências em Inteligência Artificial no Brasil]]
 
 ## 📚 Fontes
-- [[Referência - Relatório sobre o mercado de TI no Brasil (2026)]]
-- [[Referência - Panorama das startups brasileiras]]
-- [[Referência - Estudo sobre a escassez de profissionais de TI]]
+- [[Referência - Brasscom: Mercado de TI no Brasil]]
+- [[Referência - Relatório Gartner sobre crescimento de TI]]
+- [[Referência - Artigo: Escassez de profissionais em TI no Brasil]]
 
 ## 🚧 Lacunas
-- Qual é o impacto das políticas públicas recentes no crescimento e inclusão digital no setor de TI?
-- Como o mercado de TI no Brasil está se posicionando frente à competição global?
-- Quais são as melhores práticas para reduzir a desigualdade regional no acesso e nas oportunidades em TI?
-```
+- Quais são as políticas públicas mais eficazes para reduzir a desigualdade regional no mercado de TI no Brasil?
+- Como as empresas brasileiras estão se preparando para a adoção de tecnologias emergentes como IA e blockchain?
+- Qual é o impacto da automação no mercado de trabalho de TI no Brasil?
