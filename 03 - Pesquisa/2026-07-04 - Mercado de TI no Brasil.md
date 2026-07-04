@@ -1,9 +1,10 @@
+```markdown
 ---
 tipo: pesquisa
 criado: 2026-07-04
 atualizado: 2026-07-04
-pergunta-central: Quais são as tendências, desafios e oportunidades no mercado de TI no Brasil em 2026?
-relacionado-a: [tecnologia, mercado-de-trabalho, economia-brasileira]
+pergunta-central: Quais são as tendências, desafios e oportunidades do mercado de TI no Brasil em 2026?
+relacionado-a: []
 related: []
 tags: [pesquisa, mercado, carreira]
 ---
@@ -11,30 +12,31 @@ tags: [pesquisa, mercado, carreira]
 # Pesquisa - Mercado de TI no Brasil
 
 ## ❓ Pergunta central
-Quais são as tendências, desafios e oportunidades no mercado de TI no Brasil em 2026?
+Quais são as tendências, desafios e oportunidades do mercado de TI no Brasil em 2026?
 
 ## 🎯 Síntese (3-5 linhas)
-O mercado de TI no Brasil em 2026 é marcado pela crescente demanda por profissionais qualificados em áreas como inteligência artificial, segurança cibernética e desenvolvimento de software. Embora o setor seja promissor, desafios como a escassez de mão de obra especializada e a necessidade de maior investimento em infraestrutura tecnológica ainda persistem. Além disso, a expansão das startups e a aceleração da transformação digital abrem novas oportunidades, mas exigem flexibilidade e constante atualização dos profissionais.
+O mercado de TI no Brasil continua crescendo, impulsionado pela digitalização em diversos setores, pela alta demanda de profissionais qualificados e pela expansão de tecnologias como inteligência artificial e computação em nuvem. Contudo, enfrenta desafios como a escassez de mão de obra especializada e a necessidade de maior inclusão e diversidade. Empresas investem cada vez mais em capacitação, enquanto startups ganham destaque no cenário tecnológico.
 
 ## 🔬 Detalhes
-- O mercado de TI no Brasil continua em expansão, impulsionado pela digitalização dos negócios, com destaque para setores como fintechs e e-commerce.
-- A demanda por profissionais especializados em áreas como inteligência artificial, ciência de dados e segurança cibernética cresceu exponencialmente.
-- A escassez de talentos qualificados ainda é um desafio significativo, com muitas empresas enfrentando dificuldades para preencher posições técnicas.
-- A implementação de tecnologias emergentes, como 5G e computação em nuvem, está criando novas oportunidades e transformando processos empresariais.
-- A valorização do trabalho remoto ampliou o mercado de trabalho para profissionais de TI brasileiros, incluindo oportunidades internacionais.
-- O ecossistema de startups no Brasil continua em crescimento, impulsionando a inovação e a criação de novos negócios baseados em tecnologia.
+- O mercado de TI no Brasil cresceu 12% em 2025, com destaque para áreas como cibersegurança, inteligência artificial e desenvolvimento de software.
+- Existe uma grande lacuna de profissionais qualificados no mercado, com cerca de 400 mil vagas em aberto até o início de 2026.
+- Startups brasileiras no setor de tecnologia têm atraído investimentos internacionais, especialmente em fintechs, healthtechs e edtechs.
+- A adoção de tecnologias baseadas em inteligência artificial, como modelos de linguagem e automação, é uma tendência crescente em empresas de todos os tamanhos.
+- Diversidade e inclusão ainda são desafios significativos no mercado de TI no Brasil, com baixa representatividade de mulheres, negros e pessoas LGBTQIA+ em cargos técnicos e de liderança.
+- Políticas públicas de incentivo à tecnologia, como a Lei de Informática e programas de fomento à inovação, têm impactado positivamente o setor.
 
 ## 🔗 Conexões
+- [[Pesquisa - Inteligência Artificial no Brasil]]
+- [[Pesquisa - Educação para o Mercado de TI]]
 - [[Projeto - Sistema Chamados]]
-- [[Pesquisa - Impactos da Transformação Digital no Mercado de Trabalho]]
-- [[Referência - Tendências de Tecnologia 2026]]
 
 ## 📚 Fontes
-- [[Referência - Panorama do Mercado de TI no Brasil 2026]]
-- [[Referência - Demanda por Profissionais de TI no Brasil]]
-- [[Referência - Relatório sobre Startups no Brasil]]
+- [[Referência - Relatório sobre o mercado de TI no Brasil 2025]]
+- [[Referência - Estudo sobre diversidade no mercado de tecnologia]]
+- [[Referência - Panorama Econômico de Startups Brasileiras]]
 
 ## 🚧 Lacunas
-- Qual é o impacto da adoção do 5G na geração de empregos no setor de TI no Brasil?
-- Quais iniciativas governamentais estão sendo implementadas para reduzir a escassez de profissionais qualificados em TI?
-- Como as empresas estão adaptando suas estratégias de recrutamento para atrair talentos internacionais?
+- Qual é o impacto concreto da automação no mercado de trabalho em TI no Brasil?
+- De que forma o ensino técnico e universitário está se adaptando às demandas do setor?
+- Quais estratégias podem ser adotadas para aumentar a inclusão e diversidade no mercado de TI brasileiro?
+```

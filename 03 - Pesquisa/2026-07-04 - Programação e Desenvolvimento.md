@@ -3,42 +3,42 @@
 tipo: pesquisa
 criado: 2026-07-04
 atualizado: 2026-07-04
-pergunta-central: Como as práticas modernas de programação e desenvolvimento estão evoluindo para abordar os desafios de produtividade e inovação?
-relacionado-a: [produtividade, tecnologia, software]
-related: [[Claude API e Anthropic SDK]]
+pergunta-central: Quais são as melhores práticas e tendências atuais em programação e desenvolvimento de software?
+relacionado-a: []
+related: []
 tags: [pesquisa, dev, produtividade]
 ---
 
 # Pesquisa - Programação e Desenvolvimento
 
 ## ❓ Pergunta central
-Como as práticas modernas de programação e desenvolvimento estão evoluindo para abordar os desafios de produtividade e inovação?
+Quais são as melhores práticas e tendências atuais em programação e desenvolvimento de software?
 
 ## 🎯 Síntese (3-5 linhas)
-A programação e o desenvolvimento têm evoluído rapidamente com o advento de metodologias ágeis, ferramentas baseadas em IA e práticas colaborativas como DevOps. A automação de tarefas repetitivas e o uso de linguagens de alto nível aceleram a produtividade, enquanto paradigmas como programação funcional e programação reativa oferecem novas abordagens para resolver problemas complexos. No entanto, desafios como gestão de complexidade, segurança e sustentabilidade no desenvolvimento ainda persistem.
+A programação e o desenvolvimento de software evoluem constantemente, impulsionados por novas linguagens, frameworks e metodologias. Hoje, tendências como desenvolvimento ágil, DevOps, inteligência artificial e programação funcional estão moldando o setor. Além disso, a crescente importância de boas práticas, como testes automatizados, código limpo e design orientado ao domínio, está transformando a forma como sistemas são construídos.
 
 ## 🔬 Detalhes
-- **Metodologias ágeis**: Abordagens como Scrum e Kanban priorizam ciclos iterativos curtos, entregas incrementais e resposta ágil a mudanças, aumentando a eficiência das equipes de desenvolvimento.
-- **Inteligência artificial no desenvolvimento**: Ferramentas como GitHub Copilot e ChatGPT estão transformando a codificação ao auxiliar na geração de código, revisão e testes, reduzindo o tempo de entrega.
-- **DevOps e CI/CD**: A integração contínua e a entrega contínua (CI/CD) promovem o lançamento frequente e estável de software, automatizando testes e deploys.
-- **Paradigmas modernos**: Programação funcional (ex.: Haskell, Scala) e reativa (ex.: RxJS) estão ganhando espaço como alternativas a paradigmas tradicionais, oferecendo maior modularidade e escalabilidade.
-- **Preocupações com segurança**: Com o crescimento da complexidade dos sistemas, práticas como DevSecOps estão sendo adotadas para integrar segurança ao ciclo de desenvolvimento.
-- **Sustentabilidade no código**: Desenvolvimento sustentável e código "verde" estão sendo discutidos para reduzir o impacto ambiental, com foco em eficiência energética e práticas de engenharia de software responsáveis.
+- **Desenvolvimento Ágil**: Metodologias como Scrum e Kanban continuam sendo amplamente adotadas para promover ciclos curtos de desenvolvimento e entrega contínua de valor.
+- **DevOps**: A integração entre desenvolvimento e operações é uma prioridade, com ênfase na automação, CI/CD (integração e entrega contínuas) e infraestrutura como código.
+- **Programação Funcional**: Linguagens como Elixir, Scala e Clojure têm ganhado destaque por facilitar a criação de sistemas mais seguros e escaláveis.
+- **Inteligência Artificial no Desenvolvimento**: Ferramentas como [[Claude API e Anthropic SDK]] e GitHub Copilot estão transformando a forma como desenvolvedores escrevem código, acelerando o processo e reduzindo erros.
+- **Segurança no Desenvolvimento**: O conceito de DevSecOps busca integrar práticas de segurança desde o início do ciclo de vida do software, em vez de tratá-las como um processo separado.
+- **Design Orientado ao Domínio (DDD)**: Abordagens como DDD estão ganhando espaço para alinhar melhor o software às necessidades reais do negócio.
+- **Tecnologias emergentes**: Frameworks como React, Angular e Vue.js continuam dominando o desenvolvimento front-end, enquanto no back-end, Node.js e frameworks baseados em Python lideram.
 
 ## 🔗 Conexões
-- [[Claude API e Anthropic SDK]] 
-- [[Pesquisa - Metodologias Ágeis]]
-- [[Referência - Clean Code]]
+- [[Claude API e Anthropic SDK]]
+- [[Projeto - Sistema Chamados]]
 
 ## 📚 Fontes
-- [[Referência - The Pragmatic Programmer]]
-- [[Referência - Clean Architecture]]
-- [[Referência - DevOps Handbook]]
-- Artigos da IEEE Software Magazine
-- Postagens no blog oficial do GitHub sobre Copilot e IA na programação
+- [[Referência - Clean Code (Robert C. Martin)]]
+- [[Referência - Site oficial do Scrum Guide]]
+- [[Referência - Artigo sobre DevOps na AWS]]
+- [[Referência - Livro: Domain-Driven Design (Eric Evans)]]
+- [[Referência - Documentação oficial do GitHub Copilot]]
 
 ## 🚧 Lacunas
-- Quais são as melhores práticas para integrar IA nos fluxos de trabalho de equipes de desenvolvimento?
-- Como medir o impacto ambiental do desenvolvimento de software e criar soluções mais sustentáveis?
-- Qual é o futuro das linguagens de programação em um cenário dominado por ferramentas de automação de código?
+- Quais são as principais barreiras para a adoção de práticas como DevSecOps em empresas menores?
+- Como a inteligência artificial impactará a criação de novas linguagens de programação no futuro?
+- Qual é a relação entre programação funcional e eficiência em sistemas de alta concorrência?
 ```
