@@ -1,9 +1,8 @@
-```markdown
 ---
 tipo: pesquisa
 criado: 2026-07-04
 atualizado: 2026-07-04
-pergunta-central: Quais são os avanços mais significativos em inteligência artificial nos últimos anos e quais implicações eles têm para a sociedade?
+pergunta-central: Quais são os avanços mais recentes em Inteligência Artificial e como eles estão impactando diferentes setores?
 relacionado-a: []
 related: [[Claude API e Anthropic SDK]], [[Pesquisa - Ética em IA]]
 tags: [pesquisa, ia]
@@ -12,30 +11,29 @@ tags: [pesquisa, ia]
 # Pesquisa - Inteligência Artificial — avanços
 
 ## ❓ Pergunta central
-Quais são os avanços mais significativos em inteligência artificial nos últimos anos e quais implicações eles têm para a sociedade?
+Quais são os avanços mais recentes em Inteligência Artificial e como eles estão impactando diferentes setores?
 
 ## 🎯 Síntese (3-5 linhas)
-Os avanços recentes em inteligência artificial incluem modelos de linguagem de grande escala, como GPT e Claude, sistemas de visão computacional, IA generativa e aplicações em áreas críticas como saúde, energia e transporte. Essas inovações oferecem potencial para resolver problemas globais, mas também levantam questões éticas e desafios sobre privacidade, viés algorítmico e impactos no mercado de trabalho.
+A Inteligência Artificial tem avançado rapidamente, com destaque para o desenvolvimento de modelos de linguagem generativa, melhorias em sistemas de visão computacional e maior acessibilidade a ferramentas de IA. Esses avanços estão transformando setores como saúde, educação, finanças e entretenimento, mas também levantam questões éticas e desafios regulatórios.
 
 ## 🔬 Detalhes
-- O desenvolvimento de modelos de linguagem de grande escala, como GPT-4 e Claude, revolucionou a forma como máquinas compreendem e geram texto, possibilitando interações mais humanas e soluções avançadas em tradução, codificação e suporte ao cliente.
-- A IA generativa, como DALL-E e MidJourney, democratizou a criação de arte, design e conteúdo, mas também trouxe preocupações sobre direitos autorais e uso impróprio.
-- Sistemas de visão computacional avançados agora permitem diagnósticos médicos mais rápidos e precisos, como detecção de câncer em estágios iniciais, além de aplicações em segurança e transporte autônomo.
-- O aprendizado por reforço profundo tem sido utilizado em sistemas complexos, como jogos e robótica, promovendo avanços em automação e otimização de processos industriais.
-- O uso de IA em pesquisas científicas acelerou a descoberta de novos medicamentos, materiais e soluções para problemas ambientais, como a previsão de mudanças climáticas.
-- Avanços na explicabilidade da IA têm sido desenvolvidos para lidar com a opacidade dos modelos, visando maior transparência e confiança em sistemas de decisão automatizados.
+- Modelos de linguagem como GPT-4.5 e Claude 3 estão cada vez mais sofisticados, capazes de realizar tarefas complexas de escrita, análise e até mesmo programação.
+- O uso de IA generativa na criação de imagens, como DALL·E e MidJourney, está revolucionando áreas como design, marketing e arte digital.
+- No setor de saúde, IA está sendo usada para diagnósticos precoces, desenvolvimento de medicamentos e personalização de tratamentos.
+- Veículos autônomos, impulsionados por avanços em visão computacional e aprendizado profundo, estão cada vez mais próximos de uma implementação em larga escala.
+- A IA está sendo integrada em ferramentas educacionais para personalizar o aprendizado e criar sistemas de tutoria adaptativos.
+- Preocupações éticas, como viés algorítmico, privacidade de dados e impactos no mercado de trabalho, estão no centro dos debates acerca da regulamentação da IA.
 
 ## 🔗 Conexões
 - [[Claude API e Anthropic SDK]]
 - [[Pesquisa - Ética em IA]]
 
 ## 📚 Fontes
-- [[Referência - GPT-4 e o futuro da IA]]
-- [[Referência - IA na medicina]]
-- [[Referência - Impactos sociais da inteligência artificial]]
+- [[Referência - OpenAI GPT-4.5: Funcionalidades e Aplicações]]
+- [[Referência - Avanços em Visão Computacional 2025]]
+- [[Referência - Relatório do Fórum Econômico Mundial sobre IA e Economia]]
 
 ## 🚧 Lacunas
-- Como mitigar efetivamente o viés algorítmico em modelos de IA?
-- Quais são os limites éticos e regulatórios necessários para o uso de IA generativa em áreas sensíveis?
-- De que forma o mercado de trabalho será transformado pela integração crescente de automação inteligente?
-```
+- Quais setores ainda apresentam barreiras significativas para a adoção de IA?
+- Como diferentes países estão abordando a regulamentação da IA?
+- Que impactos a IA pode ter em profissões criativas e no futuro do trabalho em geral?
