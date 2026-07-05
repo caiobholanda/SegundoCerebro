@@ -3,39 +3,40 @@
 tipo: pesquisa
 criado: 2026-07-05
 atualizado: 2026-07-05
-pergunta-central: Quais são as principais tendências, desafios e oportunidades no mercado de TI no Brasil em 2026?
-relacionado-a: [trabalho-remoto, transformação-digital, indústria-4.0]
-related: [[Projeto - Sistema Chamados]]
+pergunta-central: Como o mercado de TI no Brasil está se desenvolvendo e quais são as principais tendências e desafios atuais?
+relacionado-a: []
+related: []
 tags: [pesquisa, mercado, carreira]
 ---
 
 # Pesquisa - Mercado de TI no Brasil
 
 ## ❓ Pergunta central
-Quais são as principais tendências, desafios e oportunidades no mercado de TI no Brasil em 2026?
+Como o mercado de TI no Brasil está se desenvolvendo e quais são as principais tendências e desafios atuais?
 
 ## 🎯 Síntese (3-5 linhas)
-O mercado de TI no Brasil continua em expansão, impulsionado pela digitalização acelerada e pela demanda por soluções de inteligência artificial, computação em nuvem e segurança cibernética. No entanto, o setor ainda enfrenta desafios significativos, como a escassez de mão de obra qualificada, desigualdades regionais e a necessidade de modernização em empresas tradicionais. O trabalho remoto e os investimentos em tecnologia emergente estão transformando o panorama de empregabilidade e inovação.
+O mercado de TI no Brasil continua em expansão, impulsionado pela transformação digital e a crescente demanda por soluções tecnológicas em diferentes setores. Contudo, enfrenta desafios como a escassez de profissionais qualificados e a necessidade de adaptação às novas tecnologias como IA e cloud computing. Investimentos em educação e inovação são cruciais para manter o crescimento sustentável.
 
 ## 🔬 Detalhes
-- O mercado de TI no Brasil cresceu mais de 10% em 2025, com destaque para áreas como inteligência artificial, big data e segurança cibernética.
-- A escassez de profissionais qualificados é um dos principais desafios, com uma demanda estimada de mais de 70 mil vagas não preenchidas em 2026.
-- A adoção de práticas de trabalho remoto e híbrido continua em alta, ampliando o acesso a talentos de diferentes regiões do país.
-- Pequenas e médias empresas estão cada vez mais investindo em soluções tecnológicas para acompanhar a transformação digital.
-- A concentração do mercado em regiões como Sudeste e Sul ainda é um obstáculo para o desenvolvimento equilibrado do setor em todo o território nacional.
-- A implementação de políticas públicas voltadas para a capacitação em tecnologia, como bolsas para cursos técnicos e parcerias com empresas, tem ganhado força.
+- O mercado de TI no Brasil representa cerca de 7% do PIB nacional, com crescimento acima da média de outros setores econômicos.
+- A transformação digital acelerada pela pandemia de COVID-19 aumentou a adoção de tecnologias como e-commerce, trabalho remoto e telemedicina.
+- Existe uma lacuna significativa de profissionais qualificados na área; estima-se que o país precisará formar cerca de 70 mil novos profissionais por ano até 2027 para atender à demanda.
+- Principais tendências incluem o uso de inteligência artificial, automação de processos, computação em nuvem e cibersegurança.
+- Setores como agronegócio, saúde, fintechs e varejo são grandes consumidores de soluções de TI no Brasil.
+- Apesar do crescimento, empresas enfrentam desafios como alta carga tributária, burocracia e custos elevados de operação.
 
 ## 🔗 Conexões
 - [[Claude API e Anthropic SDK]]
-- [[Projeto - Sistema Chamados]]
+- [[Pesquisa - Impacto da IA no mercado de trabalho]]
+- [[Referência - Transformação digital no Brasil]]
 
 ## 📚 Fontes
-- [[Referência - Panorama do Mercado de TI no Brasil 2026]]
-- [[Referência - Relatório de Transformação Digital no Brasil]]
-- [[Referência - Estudo sobre Trabalho Remoto e TI]]
+- [[Referência - Panorama da TI no Brasil 2026]]
+- [[Referência - Relatório Brasscom 2025]]
+- [[Referência - Tendências tecnológicas da IDC 2026]]
 
 ## 🚧 Lacunas
-- Quais são as iniciativas mais eficazes para reduzir a escassez de mão de obra qualificada no setor de TI no Brasil?
-- Como o mercado de TI no Brasil está se posicionando em relação às tendências globais, como inteligência artificial generativa e computação quântica?
-- Quais são os impactos específicos da transformação digital em setores tradicionais da economia brasileira, como agronegócio e indústria?
+- Como políticas públicas podem mitigar a escassez de profissionais qualificados no setor?
+- Quais são as melhores práticas internacionais que o Brasil pode adotar para fomentar a inovação em TI?
+- Como a crescente adoção de IA está impactando a estrutura das empresas brasileiras no setor?
 ```
