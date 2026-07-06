@@ -3,7 +3,7 @@
 tipo: pesquisa
 criado: 2026-07-06
 atualizado: 2026-07-06
-pergunta-central: Como a programação e o desenvolvimento podem ser otimizados para aumentar a produtividade e a qualidade do código?
+pergunta-central: Quais os fundamentos e tendências atuais em programação e desenvolvimento de software?
 relacionado-a: []
 related: []
 tags: [pesquisa, dev, produtividade]
@@ -12,31 +12,30 @@ tags: [pesquisa, dev, produtividade]
 # Pesquisa - Programação e Desenvolvimento
 
 ## ❓ Pergunta central
-Como a programação e o desenvolvimento podem ser otimizados para aumentar a produtividade e a qualidade do código?
+Quais os fundamentos e tendências atuais em programação e desenvolvimento de software?
 
 ## 🎯 Síntese (3-5 linhas)
-A programação e o desenvolvimento são campos dinâmicos e centrais para a criação de soluções tecnológicas. A produtividade e a qualidade do código podem ser aprimoradas por meio do uso de metodologias ágeis, ferramentas de automação, boas práticas de design de software e aprendizado contínuo. O avanço de tecnologias como inteligência artificial também está revolucionando o setor, proporcionando novos paradigmas para escrita e revisão de código.
+Programação e desenvolvimento são pilares da tecnologia moderna, englobando desde conceitos básicos de lógica e algoritmos até tendências como inteligência artificial, desenvolvimento de software ágil e computação em nuvem. As linguagens de programação evoluem constantemente para atender às necessidades de eficiência, escalabilidade e acessibilidade. Adotar boas práticas e acompanhar as inovações é essencial para criar soluções eficazes e sustentáveis.
 
 ## 🔬 Detalhes
-- A adoção de metodologias ágeis, como Scrum e Kanban, facilita a gestão de projetos e melhora a colaboração entre equipes.
-- Ferramentas de automação, como CI/CD (Integração Contínua e Entrega Contínua), reduzem erros humanos e aceleram o ciclo de desenvolvimento.
-- Boas práticas de codificação, como Clean Code, ajudam a manter o código legível, sustentável e menos propenso a bugs.
-- Linguagens modernas, como Python, Rust e Go, estão ganhando espaço devido à sua eficiência e simplicidade.
-- A inteligência artificial, por meio de ferramentas como [[Claude API e Anthropic SDK]] e [[GitHub Copilot]], está auxiliando os desenvolvedores em tarefas como geração de código, depuração e refatoração.
-- O DevOps, que integra desenvolvimento e operações, promove a colaboração e automatização de processos, resultando em produtos de maior qualidade.
+- Programação é a prática de criar instruções para que computadores executem tarefas específicas.
+- As linguagens de programação são divididas em categorias como baixo nível (ex.: Assembly) e alto nível (ex.: Python, JavaScript).
+- Desenvolvimento ágil é uma abordagem popular que prioriza entregas rápidas e iterativas, com frameworks como Scrum e Kanban.
+- A inteligência artificial está transformando o desenvolvimento, com ferramentas que ajudam na automação de tarefas e geração de código.
+- A computação em nuvem facilita o desenvolvimento e a escalabilidade de aplicações ao eliminar a dependência de infraestrutura física.
+- O movimento de código aberto continua sendo uma peça-chave, promovendo colaboração em larga escala e acelerando a inovação tecnológica.
 
 ## 🔗 Conexões
 - [[Claude API e Anthropic SDK]]
-- [[GitHub Copilot]]
 - [[Projeto - Sistema Chamados]]
 
 ## 📚 Fontes
-- [[Referência - Clean Code]]
-- [[Referência - Livro DevOps Handbook]]
-- [[Referência - Metodologias Ágeis]]
+- [[Referência - Clean Code por Robert C. Martin]]
+- [[Referência - The Pragmatic Programmer por David Thomas e Andrew Hunt]]
+- [[Referência - Artigo - Tendências em Desenvolvimento de Software 2026]]
 
 ## 🚧 Lacunas
-- Quais são os limites éticos e técnicos do uso de IA no desenvolvimento de software?
-- Como medir de forma objetiva a produtividade e qualidade em equipes de desenvolvimento?
-- Quais são as melhores práticas para integrar linguagens de programação emergentes em fluxos de trabalho existentes?
+- Qual será o impacto de ferramentas de IA generativa na redução do tempo de desenvolvimento de software?
+- Quais são os melhores métodos para integrar princípios éticos em processos de desenvolvimento de software?
+- Como as linguagens de programação emergentes podem influenciar o mercado nos próximos 5 anos?
 ```
