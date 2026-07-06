@@ -1,54 +1,40 @@
+```markdown
 ---
 tipo: pesquisa
-status: em-andamento
 criado: 2026-07-06
 atualizado: 2026-07-06
-pergunta-central: Quais são as novidades do Claude Code CLI em julho 2026?
-relacionado-a: [Claude API e Anthropic SDK]
-related: ["[[2026-07-06 - Claude API e Anthropic SDK]]"]
-tags: [pesquisa, claude, dev, ia]
+pergunta-central: Como o Claude Code suporta interações via CLI e agentes autônomos para automação de fluxos de trabalho?
+relacionado-a: []
+related: [[Claude API e Anthropic SDK]]
+tags: [pesquisa, ia, dev, claude]
 ---
 
-# Pesquisa - Claude Code — CLI e agentes (2026-07-06)
+# Pesquisa - Claude Code — CLI e agentes
 
-## Síntese
+## ❓ Pergunta central
+Como o Claude Code suporta interações via CLI e agentes autônomos para automação de fluxos de trabalho?
 
-Julho 2026 traz correções relevantes em hooks e melhorias de confiabilidade no MCP. A referência oficial de hooks agora documenta **30 eventos** (era 27-28). Nova opção `alwaysLoad` para servidores MCP. Modelos padrão de organização agora configuráveis via console de admin.
+## 🎯 Síntese (3-5 linhas)
+O Claude Code, desenvolvido pela Anthropic, oferece uma interface de linha de comando (CLI) poderosa para interação com grandes modelos de linguagem. Ele também permite a criação de agentes autônomos que podem executar tarefas complexas, integrando-se a fluxos de trabalho existentes. Suas capacidades incluem suporte a prompts avançados, execução de scripts e integração com APIs externas, ampliando as funcionalidades de automação.
 
-## Novidades (Jul 2026)
+## 🔬 Detalhes
+- O Claude Code suporta interações via CLI, permitindo aos desenvolvedores testar e implementar prompts diretamente no terminal.
+- Ele é projetado para ser usado em conjunto com o Anthropic SDK, que facilita a integração do modelo Claude em aplicações personalizadas.
+- Os agentes autônomos criados com Claude podem monitorar eventos, executar ações programadas e interagir com outras ferramentas de software.
+- Suas funcionalidades incluem suporte a arquivos JSON para configuração, o que simplifica a personalização de fluxos de trabalho.
+- Oferece suporte para a execução de scripts Python diretamente via prompts, o que permite integrar lógica de negócio e automação avançada.
+- A segurança é uma prioridade, com controles explícitos para limitar as capacidades dos agentes e evitar execuções não intencionais.
 
-### Hooks
-- **Bug fix**: hooks com matchers separados por vírgula (ex: `"Bash,PowerShell"`) não estavam disparando — corrigido
-- Referência oficial documenta **30 hook events** (desde 01/jul/2026)
-- 5 hooks principais: `PreToolUse`, `PostToolUse`, `UserPromptSubmit`, `SessionStart`, `Stop`
-- Tools de MCP aparecem normalmente em `PreToolUse`/`PostToolUse` — mesmo comportamento que tools nativas
+## 🔗 Conexões
+- [[Claude API e Anthropic SDK]]
+- [[Projeto - Sistema Chamados]]
 
-### MCP (Model Context Protocol)
-- Nova opção `alwaysLoad` no config do servidor MCP: quando `true`, todos os tools daquele servidor pulam o `tool-search deferral` e ficam sempre disponíveis
-- MCP server errors com retry automático para erros de rede transitórios (com backoff curto)
+## 📚 Fontes
+- [[Referência - Anthropic Claude Docs]]
+- [[Referência - Automação com IA]]
 
-### Modelos de Organização
-- Admins podem configurar **modelo padrão da org** no console
-- Aparece como "Org default" (ou "Role default") em `/model` quando o usuário não escolheu um
-
-### Filosofia Hooks + MCP
-- MCP resolve o problema de alcançar fora do sandbox
-- Hooks resolvem o problema de governar o agente quando age de forma não supervisionada
-- Combinados: agente com ação ampla mas comportamento controlado
-
-## Lacunas
-
-- Novidades da `/goal` e Routines em julho não confirmadas
-- Status do Agent View (estava em Research Preview em mai/2026)
-
-## Conexões
-
-- [[2026-07-06 - Claude API e Anthropic SDK]]
-- [[_Skills/nota-diaria]]
-
-## Fontes
-
-- [Claude Code Updates July 2026 - Releasebot](https://releasebot.io/updates/anthropic/claude-code)
-- [Hooks reference - Claude Code Docs](https://code.claude.com/docs/en/hooks)
-- [Claude Code Hooks 2026 - MorphLLM](https://www.morphllm.com/claude-code-hooks)
-- [Hooks and MCP for Claude Code - GoPenAI](https://blog.gopenai.com/hooks-and-mcp-for-claude-code-7c535374cdf7)
+## 🚧 Lacunas
+- Quais são os principais casos de uso empresarial para agentes autônomos desenvolvidos com Claude Code?
+- Como o desempenho da CLI do Claude Code se compara a outras ferramentas similares no mercado?
+- Que boas práticas são recomendadas para garantir segurança ao usar agentes autônomos baseados em Claude?
+```

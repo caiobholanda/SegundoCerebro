@@ -1,55 +1,43 @@
+```markdown
 ---
 tipo: pesquisa
-status: em-andamento
 criado: 2026-07-06
 atualizado: 2026-07-06
-pergunta-central: Quais são os principais avanços em IA em julho 2026?
-relacionado-a: [Claude API e Anthropic SDK]
-related: ["[[2026-07-06 - Claude API e Anthropic SDK]]", "[[2026-07-06 - Programação e Desenvolvimento]]"]
+pergunta-central: Quais são os avanços mais significativos em inteligência artificial recentemente e quais impactos eles têm tido na sociedade?
+relacionado-a: []
+related: []
 tags: [pesquisa, ia]
 ---
 
-# Pesquisa - Inteligência Artificial — avanços (2026-07-06)
+# Pesquisa - Inteligência Artificial — avanços
 
-## Síntese
+## ❓ Pergunta central
+Quais são os avanços mais significativos em inteligência artificial recentemente e quais impactos eles têm tido na sociedade?
 
-Competição nos modelos de fronteira atingiu um "platô" — GPT-5.2, Claude Opus 4.5 e Gemini 3 Pro têm diferenças técnicas marginais. A briga agora é em **codificação agêntica** e **tarefas de longo horizonte**. OpenAI lançou GPT-5.4 (unificado) e GPT-5.3-Codex; Google respondeu com Gemini 3.5 Flash. Regulação EUA: governo americano iniciou revisão de modelos Google, Microsoft e xAI.
+## 🎯 Síntese (3-5 linhas)
+Os avanços recentes em IA incluem modelos de linguagem cada vez mais poderosos, como GPT-4, e a aplicação crescente de IA generativa em diversas indústrias. Além disso, há progressos notáveis em visão computacional, aprendizado por reforço e IA para descobertas científicas. Esses avanços estão transformando a forma como trabalhamos, nos comunicamos e resolvemos problemas complexos, mas também levantam questões éticas e regulatórias significativas.
 
-## Principais Lançamentos (mai–jul 2026)
+## 🔬 Detalhes
+- Modelos de linguagem como GPT-4 e Claude estão redefinindo a interação humano-máquina, permitindo diálogos mais naturais e maior compreensão contextual.
+- A IA generativa tem sido amplamente usada em setores criativos, como design, música, e produção de conteúdo, aumentando a produtividade e gerando novas possibilidades criativas.
+- Avanços em visão computacional estão permitindo desde diagnósticos médicos mais precisos até melhorias na automação de veículos autônomos.
+- O aprendizado por reforço tem avançado significativamente, permitindo que agentes de IA aprendam estratégias complexas, como no caso de jogos e robótica.
+- A IA está acelerando descobertas científicas, com aplicações que vão do desenvolvimento de novos medicamentos à previsão de mudanças climáticas.
+- A crescente sofisticação da IA levanta questões sobre ética, privacidade e o impacto no mercado de trabalho, exigindo regulações e novas abordagens para garantir o uso responsável dessas tecnologias.
 
-### OpenAI
-- **GPT-5.4**: unifica raciocínio + código agêntico + fluxos de trabalho profissionais em um modelo; executa pedidos com menos idas e vindas
-- **GPT-5.3-Codex**: ~25% mais rápido que predecessores; foca em geração de código + raciocínio + inteligência geral combinados; novos máximos em benchmarks de código
+## 🔗 Conexões
+- [[Claude API e Anthropic SDK]]
+- [[Pesquisa - Ética em Inteligência Artificial]]
+- [[Pesquisa - Impactos da Automação no Mercado de Trabalho]]
+- [[Referência - OpenAI e GPT-4]]
 
-### Google
-- **Gemini 3.5 Flash**: primeiro de uma série que combina "inteligência de fronteira + ação"; foco em codificação agêntica e tarefas de longo horizonte
-- Google I/O 2026: Sundar Pichai keynote — novidades de produto e IA integrada
+## 📚 Fontes
+- [[Referência - OpenAI: GPT-4]]
+- [[Referência - Artigo sobre IA generativa na indústria criativa]]
+- [[Referência - Avanços em visão computacional]]
 
-### Regulação
-- Governo americano iniciou revisão formal de modelos Google, Microsoft e xAI (mai/2026)
-- AI Act da UE em implementação progressiva
-
-## Tendências
-
-- **Platô da fronteira**: diferenças entre top models viram marginais — diferencial muda para velocidade, custo e integração
-- **Codificação agêntica**: todos os labs investindo pesado em agentes de código autônomos
-- **IA como infraestrutura**: deixou de ser feature, virou camada obrigatória em novos produtos
-
-## Lacunas
-
-- GPT-5.4 vs Claude Fable 5: benchmark independente ainda não publicado
-- Regulação US: escopo e critérios da revisão ainda não divulgados
-- Gemini 3.5 Flash pricing ainda não confirmado
-
-## Conexões
-
-- [[2026-07-06 - Claude API e Anthropic SDK]]
-- [[2026-07-06 - Programação e Desenvolvimento]]
-- [[2026-07-06 - Mercado de TI no Brasil]]
-
-## Fontes
-
-- [Google I/O 2026 - Sundar Pichai keynote](https://blog.google/innovation-and-ai/sundar-pichai-io-2026/)
-- [OpenAI Model Release Notes](https://help.openai.com/pt-br/articles/9624314-notas-de-lan%C3%A7amento-dos-modelos)
-- [Modelos Google/Microsoft/xAI sob revisão EUA - Público](https://www.publico.pt/2026/05/06/enter/noticia/modelos-google-microsoft-xai-passam-revistos-governo-americano-2173776)
-- [Qual a melhor IA em 2026 - Mindtek](https://www.mindtek.com.br/2026/05/qual-a-melhor-ia-2026/)
+## 🚧 Lacunas
+- Quais são as limitações atuais dos modelos de linguagem e como podem ser superadas?
+- Qual é o impacto de longo prazo da automação por IA em empregos de baixa e alta qualificação?
+- Como diferentes países estão avançando na regulamentação da IA para mitigar riscos?
+```

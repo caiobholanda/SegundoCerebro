@@ -1,55 +1,41 @@
+```markdown
 ---
 tipo: pesquisa
-status: em-andamento
 criado: 2026-07-06
 atualizado: 2026-07-06
-pergunta-central: Quais são as novidades da Claude API e modelos Anthropic em julho 2026?
-relacionado-a: [Claude Code e Claude.ai, Economia de Tokens em LLMs]
-related: ["[[2026-07-06 - Claude Code — CLI e agentes]]", "[[2026-07-06 - Economia de Tokens em LLMs]]"]
+pergunta-central: Como a Claude API e o Anthropic SDK podem ser utilizados para integrar modelos de linguagem em aplicações práticas?
+relacionado-a: []
+related: []
 tags: [pesquisa, ia, dev, claude]
 ---
 
-# Pesquisa - Claude API e Anthropic SDK (2026-07-06)
+# Pesquisa - Claude API e Anthropic SDK
 
-## Síntese
+## ❓ Pergunta central
+Como a Claude API e o Anthropic SDK podem ser utilizados para integrar modelos de linguagem em aplicações práticas?
 
-Dois novos modelos de topo lançados: **Claude Fable 5** (GA em 9/jun/2026) e **Claude Mythos 5** (acesso limitado). Ambos têm janela de 1M tokens e até 128k output, com **adaptive thinking** sempre ativo. Preço padrão $10/$50 por MTok — com promoção introdutória até 31/ago em $2/$10.
+## 🎯 Síntese (3-5 linhas)
+A Claude API, desenvolvida pela Anthropic, permite integrar modelos de linguagem avançados em diversas aplicações, oferecendo recursos como processamento de linguagem natural, análise de texto e geração de respostas contextuais. O Anthropic SDK fornece ferramentas para facilitar essa integração, com foco em segurança, privacidade e controle no uso da IA. Ambos são projetados para facilitar o desenvolvimento de soluções éticas e eficientes.
 
-## Novos Modelos
+## 🔬 Detalhes
+- A Claude API é uma interface de programação que permite interagir com os modelos de IA da Anthropic, como o modelo Claude, para tarefas de NLP (Natural Language Processing).
+- O Anthropic SDK oferece bibliotecas e ferramentas para desenvolvedores implementarem a Claude API com facilidade e segurança em projetos.
+- Os modelos Claude são projetados com base em princípios de alinhamento ético, priorizando respostas seguras e controladas.
+- A API suporta funcionalidades como análise de sentimento, resumo de texto, tradução e geração de respostas contextuais.
+- O SDK fornece suporte para linguagens de programação populares, como Python e JavaScript, permitindo integração com diversas plataformas.
+- A documentação da Anthropic enfatiza práticas de segurança, como limites de uso e monitoramento de conteúdo, para evitar abusos e garantir conformidade ética.
 
-| Modelo | Lançamento | Input (MTok) | Output (MTok) | Contexto |
-|---|---|---|---|---|
-| Claude Fable 5 | 09/jun/2026 | $10 | $50 | 1M tokens |
-| Claude Mythos 5 | jun/2026 | $10 | $50 | 1M tokens (limitado) |
-| Claude Opus 4.8 | 28/mai/2026 | $5 | $25 | — |
-| Claude Sonnet 4.6 | — | $3 | $15 | — |
-| Claude Haiku 4.5 | — | $1 | $5 | — |
+## 🔗 Conexões
+- [[Pesquisa - Modelos de linguagem e ética em IA]]
+- [[Referência - Documentação Claude API]]
+- [[Referência - Guia do Anthropic SDK]]
 
-- **Claude Fable 5**: GA, disponível na API para todos
-- **Claude Mythos 5**: Project Glasswing — disponibilidade limitada para clientes aprovados, mesmas specs do Fable 5
-- **Opus 4.8 Fast Mode**: $10/$50 por MTok (2x preço padrão)
-- **Promoção até 31/ago/2026**: Sonnet 4.6 com desconto introdutório $2/$10 → volta para $3/$15 em setembro
+## 📚 Fontes
+- [[Referência - Documentação oficial da Anthropic]]
+- [[Referência - Artigo sobre alinhamento ético na IA]]
 
-## Destaques Técnicos
-
-- Fable 5 e Mythos 5 têm **adaptive thinking** sempre ativo (sem flag de ativação)
-- Output máximo: 128k tokens por resposta
-- Janela de contexto: 1M tokens por padrão
-
-## Lacunas
-
-- Benchmarks comparativos Fable 5 vs GPT-5.4 vs Gemini 3.5 Flash ainda escassos
-- Disponibilidade do Project Glasswing para novos clientes não confirmada
-- Detalhes de pricing de batch para Fable 5
-
-## Conexões
-
-- [[2026-07-06 - Claude Code — CLI e agentes]]
-- [[2026-07-06 - Economia de Tokens em LLMs]]
-- [[2026-07-06 - Inteligência Artificial — avanços]]
-
-## Fontes
-
-- [Visão geral dos modelos - Claude Platform Docs](https://platform.claude.com/docs/pt-BR/about-claude/models/overview)
-- [Anthropic API Pricing in 2026 - Finout](https://www.finout.io/blog/anthropic-api-pricing)
-- [Claude API Cost 2026 - APIdog](https://apidog.com/blog/claude-api-cost/)
+## 🚧 Lacunas
+- Quais são os custos e o modelo de precificação da Claude API e do Anthropic SDK?
+- Exemplos práticos e estudos de caso de empresas que já utilizam a Claude API.
+- Limitações técnicas e restrições do SDK em cenários complexos.
+```

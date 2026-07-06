@@ -1,61 +1,41 @@
+```markdown
 ---
 tipo: pesquisa
-status: em-andamento
 criado: 2026-07-06
 atualizado: 2026-07-06
-pergunta-central: Quais são as novidades em deploy e infraestrutura cloud em julho 2026?
-relacionado-a: [Programação e Desenvolvimento]
-related: ["[[Projeto - Sistema Chamados]]", "[[2026-07-06 - Programação e Desenvolvimento]]"]
-tags: [pesquisa, dev, deploy, infraestrutura]
+pergunta-central: Como projetar e implementar uma infraestrutura cloud eficiente e escalável para suportar o processo de deploy contínuo?
+relacionado-a: []
+related: []
+tags: [pesquisa, dev, infra]
 ---
 
-# Pesquisa - Deploy e Infraestrutura Cloud (2026-07-06)
+# Pesquisa - Deploy e Infraestrutura Cloud
 
-## Síntese
+## ❓ Pergunta central
+Como projetar e implementar uma infraestrutura cloud eficiente e escalável para suportar o processo de deploy contínuo?
 
-Railway migra para infraestrutura própria (**Railway Metal**) e levantou $100M em jan/2026. Instabilidades durante a migração registradas em 2025-2026. Tendência consolidada: **Vercel para frontend + Railway para backend** — as plataformas deixaram de ser concorrentes diretos e viraram complementares.
+## 🎯 Síntese (3-5 linhas)
+O deploy em infraestrutura cloud envolve a utilização de serviços de computação em nuvem para hospedar, gerenciar e escalar aplicações. As práticas modernas incluem automação via pipelines CI/CD, uso de containers como Docker, orquestração com Kubernetes, e monitoramento contínuo. Escolher a nuvem certa (AWS, Azure, GCP) depende das necessidades específicas do projeto. A adoção de práticas como infraestrutura como código (IaC) e a implementação de controles de segurança robustos são cruciais para o sucesso.
 
-## Railway
+## 🔬 Detalhes
+- **Infraestrutura como Código (IaC)**: Ferramentas como Terraform e AWS CloudFormation permitem a definição e gestão de infraestrutura de forma programática, garantindo consistência e rastreabilidade.
+- **Orquestração de Containers**: Kubernetes é amplamente utilizado para gerenciar aplicações containerizadas, oferecendo escalabilidade automática e alta disponibilidade.
+- **Pipelines CI/CD**: Integração contínua (CI) e entrega contínua (CD) permitem que equipes automatizem testes, builds e deploys, reduzindo o tempo entre desenvolvimento e produção.
+- **Escolha do Provedor de Nuvem**: AWS, Google Cloud Platform e Microsoft Azure são os principais players, cada um com vantagens como escalabilidade, custo e serviços específicos.
+- **Monitoramento e Observabilidade**: Ferramentas como Prometheus, Grafana e Datadog ajudam a rastrear métricas e logs em tempo real, permitindo respostas rápidas a problemas.
+- **Segurança na Nuvem**: O uso de práticas como autenticação multifator, gestão de chaves e permissões baseadas em papéis (RBAC) é essencial para proteger aplicações e dados.
 
-- **Railway Metal**: migração da infraestrutura de Google Cloud para infra própria — promete mais controle e custo menor
-- **$100M Series B** (jan/2026) liderado por TQ Ventures
-- **2 milhões de desenvolvedores** ativos, crescendo 200k/mês
-- Suporta: containers longos, bancos de dados, volumes persistentes, cron jobs, object storage, workers
-- Deploy one-click para Next.js já disponível com SSR competitivo
-
-## Vercel
-
-- Expandiu para: storage nativo, cron jobs, serverless functions com lógica backend
-- Continua superior para: frontend, edge functions, preview deployments
-
-## Padrão de Mercado 2026
-
-```
-Frontend / SSR / Edge  →  Vercel
-Backend / APIs / DBs   →  Railway
-```
-Equipes SaaS usam os dois juntos — sem "vs", mas "e".
-
-## Atenção para sistema-chamados
-
-- Railway Metal ainda em migração: monitorar uptime
-- Deploy automático via GitHub Actions + `railway up` continua funcional
-- Object storage nativo do Railway pode substituir soluções externas no futuro
-
-## Lacunas
-
-- Preços do Railway Metal comparados ao Railway on GCP ainda não divulgados
-- SLA oficial da Railway Metal não publicado
-- Cloudflare Workers vs Railway Metal: benchmark de latência para Brasil sem dados
-
-## Conexões
-
+## 🔗 Conexões
+- [[Claude API e Anthropic SDK]]
 - [[Projeto - Sistema Chamados]]
-- [[2026-07-06 - Programação e Desenvolvimento]]
 
-## Fontes
+## 📚 Fontes
+- [[Referência - Infrastructure as Code (Kief Morris)]]
+- [[Referência - Kubernetes Patterns (Bilgin Ibryam)]]
+- [[Referência - Site Reliability Engineering (Google)]]
 
-- [Railway Review 2026 - Runzos](https://runzos.com/railway-review-2026/)
-- [Railway vs Vercel - Railway Docs](https://docs.railway.com/platform/compare-to-vercel)
-- [Deploying Full Stack Apps 2026 - Nucamp](https://www.nucamp.co/blog/deploying-full-stack-apps-in-2026-vercel-netlify-railway-and-cloud-options)
-- [Railway vs Cloudflare vs Vercel - Northflank](https://northflank.com/blog/railway-vs-cloudflare-vs-vercel)
+## 🚧 Lacunas
+- Quais são as melhores práticas para otimização de custos em infraestruturas cloud complexas?
+- Como garantir a conformidade regulatória em aplicações distribuídas globalmente na nuvem?
+- Quais são os principais desafios de segurança ao usar Kubernetes em produção?
+```
