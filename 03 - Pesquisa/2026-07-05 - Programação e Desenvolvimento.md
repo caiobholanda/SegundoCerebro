@@ -3,7 +3,7 @@
 tipo: pesquisa
 criado: 2026-07-05
 atualizado: 2026-07-05
-pergunta-central: Como a programação e o desenvolvimento evoluíram para atender às demandas modernas de tecnologia e produtividade?
+pergunta-central: Como a programação e o desenvolvimento impactam a inovação tecnológica e o avanço da sociedade no contexto atual?
 relacionado-a: []
 related: [[Claude API e Anthropic SDK]]
 tags: [pesquisa, dev, produtividade]
@@ -12,32 +12,31 @@ tags: [pesquisa, dev, produtividade]
 # Pesquisa - Programação e Desenvolvimento
 
 ## ❓ Pergunta central
-Como a programação e o desenvolvimento evoluíram para atender às demandas modernas de tecnologia e produtividade?
+Como a programação e o desenvolvimento impactam a inovação tecnológica e o avanço da sociedade no contexto atual?
 
 ## 🎯 Síntese (3-5 linhas)
-A programação e o desenvolvimento evoluíram significativamente com o advento de novas linguagens, frameworks e metodologias ágeis. Ferramentas de automação e inteligência artificial vêm ampliando a produtividade dos desenvolvedores, enquanto práticas como DevOps e CI/CD permitem entregas mais rápidas e confiáveis. A busca por código limpo, colaboração eficiente e segurança se mantém como pilares centrais.
+A programação é o alicerce do mundo digital, permitindo a criação de soluções que transformam indústrias e sociedades. Com o avanço da inteligência artificial, ferramentas de baixo código e a popularização da ciência de dados, o desenvolvimento está mais acessível e ágil. No entanto, a ética no código e a inclusão digital continuam sendo desafios cruciais.
 
 ## 🔬 Detalhes
-- A popularização de linguagens de alto nível, como Python e JavaScript, facilitou o aprendizado e a implementação de soluções rápidas.
-- Frameworks como React, Django e Flutter aceleram o desenvolvimento, permitindo foco na lógica de negócio em vez de reinventar a roda.
-- Metodologias ágeis, como Scrum e Kanban, transformaram a forma como equipes de desenvolvimento gerenciam projetos, promovendo entregas incrementais e feedback contínuo.
-- DevOps e práticas como integração contínua (CI) e entrega contínua (CD) reduziram o tempo entre o desenvolvimento e a entrega de software.
-- Ferramentas de automação, como Jenkins, Docker e Kubernetes, aumentaram a eficiência e a escalabilidade dos sistemas.
-- A inteligência artificial e o aprendizado de máquina estão sendo incorporados ao desenvolvimento, tanto em soluções finais quanto em ferramentas como GitHub Copilot e ChatGPT para suporte ao código.
-- A segurança e a privacidade ganharam maior atenção no ciclo de desenvolvimento, com a adoção de práticas como DevSecOps e auditorias automatizadas.
+- A programação é essencial para a automação de processos, aumentando a eficiência em setores como saúde, educação e logística.
+- Linguagens como Python e JavaScript dominam o mercado devido à sua flexibilidade e ampla adoção por comunidades globais.
+- O movimento de código aberto tem impulsionado a inovação colaborativa, com milhões de desenvolvedores contribuindo para projetos compartilhados.
+- Ferramentas de baixo código e no-code estão democratizando o acesso ao desenvolvimento, permitindo que não programadores criem soluções tecnológicas.
+- A inteligência artificial está redefinindo o papel dos programadores, automatizando tarefas repetitivas e exigindo novas habilidades, como a engenharia de prompts.
+- A ética no desenvolvimento de software é um tema crescente, especialmente no que se refere à privacidade, viés algorítmico e impacto ambiental.
 
 ## 🔗 Conexões
 - [[Claude API e Anthropic SDK]]
-- [[Referência - Metodologias Ágeis]]
-- [[Pesquisa - Futuro do Trabalho em Tecnologia]]
+- [[Projeto - Sistema Chamados]]
+- [[Pesquisa - Ética na Inteligência Artificial]]
 
 ## 📚 Fontes
-- [[Referência - Manifesto Ágil]]
-- [[Referência - DevOps e Cultura de Automação]]
-- [[Referência - Evolução das Linguagens de Programação]]
+- [[Referência - Clean Code (Robert C. Martin)]]
+- [[Referência - The Pragmatic Programmer]]
+- [[Referência - Documentação oficial do Python]]
 
 ## 🚧 Lacunas
-- Qual será o impacto a longo prazo da inteligência artificial na profissão de desenvolvedor?
-- Como novas linguagens de programação, como Rust, se posicionarão no mercado em relação às mais tradicionais?
-- Quais são as melhores práticas para equilibrar produtividade e segurança no desenvolvimento de software?
+- Como as ferramentas de IA generativa podem impactar o aprendizado de programação para iniciantes?
+- Quais são as melhores práticas para integrar ética no desenvolvimento de software?
+- Qual o papel da programação no combate à desigualdade digital em regiões subdesenvolvidas?
 ```
