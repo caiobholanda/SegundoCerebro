@@ -1,42 +1,61 @@
-```markdown
 ---
 tipo: pesquisa
+status: em-andamento
 criado: 2026-07-06
 atualizado: 2026-07-06
-pergunta-central: Quais são as melhores práticas e ferramentas para realizar deploys eficientes e gerenciar infraestrutura em cloud de forma escalável e segura?
-relacionado-a: []
-related: []
-tags: [pesquisa, dev, infra]
+pergunta-central: Quais são as novidades em deploy e infraestrutura cloud em julho 2026?
+relacionado-a: [Programação e Desenvolvimento]
+related: ["[[Projeto - Sistema Chamados]]", "[[2026-07-06 - Programação e Desenvolvimento]]"]
+tags: [pesquisa, dev, deploy, infraestrutura]
 ---
 
-# Pesquisa - Deploy e Infraestrutura Cloud
+# Pesquisa - Deploy e Infraestrutura Cloud (2026-07-06)
 
-## ❓ Pergunta central
-Quais são as melhores práticas e ferramentas para realizar deploys eficientes e gerenciar infraestrutura em cloud de forma escalável e segura?
+## Síntese
 
-## 🎯 Síntese (3-5 linhas)
-A infraestrutura cloud permite escalabilidade, flexibilidade e redução de custos operacionais. Os principais provedores, como AWS, Azure e Google Cloud, oferecem ferramentas robustas para deploys automatizados e gerenciamento de recursos. Práticas como Infrastructure as Code (IaC), CI/CD e uso de containers são essenciais para garantir eficiência, segurança e confiabilidade em ambientes cloud.
+Railway migra para infraestrutura própria (**Railway Metal**) e levantou $100M em jan/2026. Instabilidades durante a migração registradas em 2025-2026. Tendência consolidada: **Vercel para frontend + Railway para backend** — as plataformas deixaram de ser concorrentes diretos e viraram complementares.
 
-## 🔬 Detalhes
-- **Infrastructure as Code (IaC)**: Ferramentas como Terraform e AWS CloudFormation permitem gerenciar infraestrutura como código, garantindo reprodutibilidade e controle de versões.
-- **CI/CD**: Integração Contínua e Entrega Contínua ajudam a automatizar o processo de deploy, reduzindo erros humanos e acelerando o tempo de entrega.
-- **Containers e Orquestração**: Docker e Kubernetes são padrões de mercado para criar e gerenciar aplicações em contêineres, oferecendo portabilidade e resiliência.
-- **Monitoramento e Observabilidade**: Ferramentas como Prometheus, Grafana e New Relic são fundamentais para monitorar a saúde e desempenho das aplicações em cloud.
-- **Segurança na cloud**: Configurações de IAM (Identity and Access Management), uso de redes privadas virtuais (VPCs) e criptografia de dados em trânsito e em repouso são cruciais.
-- **Custo e escalabilidade**: Modelos de precificação como pay-as-you-go e autoscaling ajudam a otimizar custos e garantir que os recursos sejam utilizados de forma eficiente.
+## Railway
 
-## 🔗 Conexões
-- [[Projeto - Sistema Chamados]]
-- [[Pesquisa - Kubernetes e Orquestração de Containers]]
+- **Railway Metal**: migração da infraestrutura de Google Cloud para infra própria — promete mais controle e custo menor
+- **$100M Series B** (jan/2026) liderado por TQ Ventures
+- **2 milhões de desenvolvedores** ativos, crescendo 200k/mês
+- Suporta: containers longos, bancos de dados, volumes persistentes, cron jobs, object storage, workers
+- Deploy one-click para Next.js já disponível com SSR competitivo
 
-## 📚 Fontes
-- [[Referência - Terraform Documentation]]
-- [[Referência - AWS Well-Architected Framework]]
-- [[Referência - Kubernetes Official Docs]]
-- [[Referência - Livro - Site Reliability Engineering]]
+## Vercel
 
-## 🚧 Lacunas
-- Como balancear custos e desempenho em ambientes multi-cloud?
-- Quais são os desafios de segurança específicos para multitenancy em infraestrutura cloud?
-- Quais métricas são mais relevantes para monitorar a eficiência de deploys em ambientes cloud?
+- Expandiu para: storage nativo, cron jobs, serverless functions com lógica backend
+- Continua superior para: frontend, edge functions, preview deployments
+
+## Padrão de Mercado 2026
+
 ```
+Frontend / SSR / Edge  →  Vercel
+Backend / APIs / DBs   →  Railway
+```
+Equipes SaaS usam os dois juntos — sem "vs", mas "e".
+
+## Atenção para sistema-chamados
+
+- Railway Metal ainda em migração: monitorar uptime
+- Deploy automático via GitHub Actions + `railway up` continua funcional
+- Object storage nativo do Railway pode substituir soluções externas no futuro
+
+## Lacunas
+
+- Preços do Railway Metal comparados ao Railway on GCP ainda não divulgados
+- SLA oficial da Railway Metal não publicado
+- Cloudflare Workers vs Railway Metal: benchmark de latência para Brasil sem dados
+
+## Conexões
+
+- [[Projeto - Sistema Chamados]]
+- [[2026-07-06 - Programação e Desenvolvimento]]
+
+## Fontes
+
+- [Railway Review 2026 - Runzos](https://runzos.com/railway-review-2026/)
+- [Railway vs Vercel - Railway Docs](https://docs.railway.com/platform/compare-to-vercel)
+- [Deploying Full Stack Apps 2026 - Nucamp](https://www.nucamp.co/blog/deploying-full-stack-apps-in-2026-vercel-netlify-railway-and-cloud-options)
+- [Railway vs Cloudflare vs Vercel - Northflank](https://northflank.com/blog/railway-vs-cloudflare-vs-vercel)

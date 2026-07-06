@@ -1,40 +1,60 @@
-```markdown
 ---
 tipo: pesquisa
+status: em-andamento
 criado: 2026-07-06
 atualizado: 2026-07-06
-pergunta-central: Como otimizar a economia de tokens em modelos de linguagem de grande escala (LLMs) sem comprometer a qualidade e a precisão das respostas?
-relacionado-a: []
-related: [[Claude API e Anthropic SDK]], [[Pesquisa - Prompt Engineering]]
-tags: [pesquisa, ia, produtividade]
+pergunta-central: Quais são as melhores técnicas de economia de tokens em LLMs em 2026?
+relacionado-a: [Claude API e Anthropic SDK]
+related: ["[[2026-07-06 - Claude API e Anthropic SDK]]"]
+tags: [pesquisa, ia, dev, produtividade]
 ---
 
-# Pesquisa - Economia de Tokens em LLMs
+# Pesquisa - Economia de Tokens em LLMs (2026-07-06)
 
-## ❓ Pergunta central
-Como otimizar a economia de tokens em modelos de linguagem de grande escala (LLMs) sem comprometer a qualidade e a precisão das respostas?
+## Síntese
 
-## 🎯 Síntese (3-5 linhas)
-A economia de tokens em LLMs é crucial para reduzir custos e melhorar a eficiência no uso dessas ferramentas. Estratégias como o uso de prompts mais curtos e bem projetados, compressão de contexto e controle de comprimento de saída podem ajudar. Entretanto, equilibrar economia com a manutenção da qualidade da resposta ainda é um desafio técnico e criativo.
+Prompt caching continua sendo o maior diferencial de custo em 2026 — tokens cacheados custam 4-10x menos. Combinado com smart context engine e batch processing, é possível reduzir custos de API em **70-80%** sem perda de qualidade. Novidades: Anthropic **Memory tool** (beta, abr/2026) e **Dreaming** (anunciado mai/2026) para consolidação de contexto entre sessões de agentes.
 
-## 🔬 Detalhes
-- A economia de tokens é importante porque os custos de utilização de LLMs como GPT ou Claude geralmente são baseados no número de tokens processados.
-- Prompts bem projetados e com linguagem direta podem reduzir significativamente o uso de tokens, sem prejudicar a qualidade das respostas.
-- Técnicas como truncamento de contexto podem ser usadas para manter apenas as informações mais relevantes, evitando desperdício de tokens.
-- A escolha do comprimento da saída deve ser proporcional à necessidade do usuário, evitando respostas desnecessariamente longas.
-- Algumas implementações permitem o uso de modelos menores para tarefas específicas, reduzindo o consumo de tokens sem comprometer a funcionalidade.
-- Ferramentas de análise, como contadores de tokens, podem ajudar a medir e otimizar o consumo em diferentes cenários, permitindo ajustes em tempo real.
+## Técnicas Rankeadas por Impacto
 
-## 🔗 Conexões
-- [[Claude API e Anthropic SDK]]
-- [[Pesquisa - Prompt Engineering]]
+| Técnica | Economia estimada | Quando usar |
+|---|---|---|
+| Prompt Caching | Até 90% em tokens cacheados | System prompts longos, tool defs repetidas |
+| Smart Context Engine | 40–60% | Agentes com histórico longo |
+| Batch Processing | 50% | Workloads não sensíveis ao tempo |
+| Model Routing | 60–80% | Queries simples → modelo menor |
+| RAG (vs contexto longo) | Variável | Bases de conhecimento grandes |
+| LLMLingua-2 | Overhead <3s | Compressão de prompts legados |
 
-## 📚 Fontes
-- [[Referência - OpenAI API Documentation]]
-- [[Referência - Artigo sobre eficiência em LLMs]]
+**Economia combinada realista: 70-80%**
 
-## 🚧 Lacunas
-- Quais são os limites práticos de compressão de prompts antes de afetar negativamente a qualidade das respostas?
-- Quais técnicas de economia de tokens são mais aplicáveis a diferentes tipos de tarefas, como classificação, geração de texto ou tradução?
-- Como os avanços futuros em hardware e algoritmos podem impactar a necessidade de otimização de tokens?
-```
+## Novidades 2026
+
+- **Memory tool (Anthropic, beta abr/2026)**: agentes mantêm fatos em sistema de arquivos no servidor entre sessões — elimina necessidade de re-injetar contexto
+- **Dreaming (Anthropic, anunciado mai/2026)**: consolidação automática de informações entre sessões de agentes
+- Prompt caching: tokens cacheados = 4–10x mais baratos que tokens normais de input
+- Cache reads típicos: até 90% de desconto
+
+## Aplicação Prática (sistema-chamados)
+
+- System prompt estático com instruções fixas → usar cache prefix
+- Tool definitions (webhooks, endpoints) → colocar no bloco cacheado
+- Histórico de conversa longo → compactar com `/compact` antes dos 60%
+
+## Lacunas
+
+- Dreaming: sem documentação técnica pública até 06/jul/2026
+- Memory tool: limitações de tamanho do filesystem não divulgadas
+- Benchmark de LLMLingua-2 em português ainda escasso
+
+## Conexões
+
+- [[2026-07-06 - Claude API e Anthropic SDK]]
+- [[2026-07-06 - Claude Code — CLI e agentes]]
+
+## Fontes
+
+- [Prompt Caching in 2026 - Digital Applied](https://www.digitalapplied.com/blog/prompt-caching-2026-cut-llm-costs-engineering-guide)
+- [Cut Your LLM Token Bill 50-90% - The AI Corner](https://www.the-ai-corner.com/p/llm-token-cost-optimization-playbook-2026)
+- [LLM Token Optimization - Redis](https://redis.io/blog/llm-token-optimization-speed-up-apps/)
+- [Token Economics for Enterprise - Medium](https://medium.com/@adnanmasood/token-economics-llm-token-cost-optimization-for-enterprise-ai-workloads-7a47918b2f0d)

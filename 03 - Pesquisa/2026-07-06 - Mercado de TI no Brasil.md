@@ -1,42 +1,69 @@
-```markdown
 ---
 tipo: pesquisa
+status: em-andamento
 criado: 2026-07-06
 atualizado: 2026-07-06
-pergunta-central: Quais são as principais tendências e desafios do mercado de TI no Brasil em 2026?
-relacionado-a: []
-related: []
-tags: [pesquisa, mercado, carreira]
+pergunta-central: Qual é o estado do mercado de TI no Brasil em 2026?
+relacionado-a: [Programação e Desenvolvimento]
+related: ["[[2026-07-06 - Programação e Desenvolvimento]]", "[[2026-07-06 - Inteligência Artificial — avanços]]"]
+tags: [pesquisa, carreira, mercado-ti]
 ---
 
-# Pesquisa - Mercado de TI no Brasil
+# Pesquisa - Mercado de TI no Brasil (2026-07-06)
 
-## ❓ Pergunta central
-Quais são as principais tendências e desafios do mercado de TI no Brasil em 2026?
+## Síntese
 
-## 🎯 Síntese (3-5 linhas)
-O mercado de TI no Brasil continua em expansão, impulsionado pela transformação digital em setores como saúde, educação e finanças. Há uma alta demanda por profissionais qualificados, especialmente em áreas como inteligência artificial, segurança cibernética e desenvolvimento de software. Contudo, o déficit de talentos especializados e a burocracia no ambiente de negócios permanecem como obstáculos significativos.
+Mercado de TI no Brasil aquecido: déficit de vagas, salários em alta e 44% das empresas planejando ampliar equipes. IA + Cloud pagam 50% acima da média. Técnicos de TI têm salário médio R$3k, mas especialistas chegam a R$15k. Kubernetes/Docker são requisito em 70% das vagas sênior.
 
-## 🔬 Detalhes
-- O mercado de TI no Brasil está projetado para crescer cerca de 10% ao ano, segundo a Associação Brasileira das Empresas de Tecnologia da Informação e Comunicação (Brasscom).
-- As áreas mais demandadas incluem inteligência artificial, ciência de dados, segurança cibernética e desenvolvimento de software.
-- O déficit de profissionais qualificados no setor é significativo, com estimativas apontando para uma carência de 500 mil vagas não preenchidas até 2026.
-- Startups de tecnologia têm ganhado destaque, especialmente nos setores de fintechs, edtechs e healthtechs, que lideram a inovação no país.
-- A Lei Geral de Proteção de Dados (LGPD) continua a impactar profundamente o mercado, gerando demanda por especialistas em compliance e segurança da informação.
-- A infraestrutura de internet no Brasil, apesar de avanços recentes, ainda representa um desafio para a expansão de tecnologias como 5G e computação em nuvem.
+## Salários Médios 2026
 
-## 🔗 Conexões
-- [[Projeto - Sistema Chamados]]
-- [[Pesquisa - Transformação digital no Brasil]]
-- [[Referência - LGPD e impacto em TI]]
+| Cargo | Salário Médio |
+|---|---|
+| Média geral TI | R$ 7.666/mês |
+| Desenvolvedor de Software | R$ 8.200/mês |
+| Analista de Sistemas | R$ 7.900/mês |
+| Técnico de TI | R$ 3.014/mês |
+| IA/LLMs (Python, LangChain) | +50% da média |
+| Cloud + Cibersegurança | R$ 8.000–R$ 15.000 |
 
-## 📚 Fontes
-- [[Referência - Relatório Brasscom 2026]]
-- [[Referência - Artigo sobre déficit de profissionais de TI no Brasil]]
-- [[Referência - Impacto da LGPD no mercado de TI]]
+## Cargos com Maior Demanda
 
-## 🚧 Lacunas
-- Quais estratégias específicas estão sendo implementadas para mitigar o déficit de profissionais qualificados no Brasil?
-- Como as empresas brasileiras estão se adaptando às demandas regulatórias, como a LGPD?
-- Quais são os impactos reais do 5G na expansão das soluções tecnológicas no país?
-```
+1. Analista de Segurança da Informação
+2. Analista de Sistemas
+3. Arquiteto de Software
+4. Engenheiro de IA
+5. Desenvolvedor (Full-stack/Backend)
+6. Cientista de Dados
+7. Analista de Suporte TI
+
+## Habilidades que Pagam Mais
+
+- **IA e LLMs** (Python, LangChain, fine-tuning): +50% da média
+- **Cloud** (AWS lidera; Azure crescendo enterprise; GCP para IA nativa)
+- **Kubernetes + Docker**: requisito em 70% das vagas sênior
+- **TypeScript + Cibersegurança**: alta demanda
+- **Certificações técnicas**: +30% no 1º ano para profissionais com certificação relevante
+
+## Perspectivas
+
+- **44%** das empresas brasileiras planejam ampliar equipes de TI no próximo ano
+- **48%** dos gestores dispostos a pagar mais para candidatos com certificação/especialização
+- Deficit de vagas persiste — demanda supera oferta de profissionais qualificados
+
+## Para o Contexto do Usuário (Estagiário TI)
+
+- Foco em Cloud + IA/LLMs para aumento salarial expressivo
+- Kubernetes/Docker como próxima certificação estratégica
+- Trilha: Suporte TI → Dev (Node.js/TypeScript) → Cloud → Arquiteto
+
+## Conexões
+
+- [[2026-07-06 - Programação e Desenvolvimento]]
+- [[2026-07-06 - Inteligência Artificial — avanços]]
+
+## Fontes
+
+- [Mercado TI 2026 - Hub do Estudante](https://hubdoestudante.com.br/pages/guias/mercado-de-trabalho-ti-2026.html)
+- [Guia Salarial 2026 - Robert Half](https://www.roberthalf.com/br/pt/insights/guia-salarial/tecnologia)
+- [Tabela Salários TI 2026 - Nerdin](https://www.nerdin.com.br/plano_de_cargos_e_salarios_ti.php)
+- [Salários TI Brasil - Portal Ao Vivo](https://portalaovivo.com/salarios-medios-de-cargos-de-ti-no-brasil-em-2026/)

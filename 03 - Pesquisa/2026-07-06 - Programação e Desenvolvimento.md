@@ -1,43 +1,58 @@
-```markdown
 ---
 tipo: pesquisa
+status: em-andamento
 criado: 2026-07-06
 atualizado: 2026-07-06
-pergunta-central: Como os princípios e práticas modernas de programação e desenvolvimento podem impactar a produtividade e a inovação tecnológica?
-relacionado-a: []
-related: [[Claude API e Anthropic SDK]]
-tags: [pesquisa, dev, produtividade]
+pergunta-central: Quais são as tendências de programação e desenvolvimento em julho 2026?
+relacionado-a: [Inteligência Artificial — avanços, Deploy e Infraestrutura Cloud]
+related: ["[[2026-07-06 - Inteligência Artificial — avanços]]", "[[2026-07-06 - Deploy e Infraestrutura Cloud]]"]
+tags: [pesquisa, dev, programação]
 ---
 
-# Pesquisa - Programação e Desenvolvimento
+# Pesquisa - Programação e Desenvolvimento (2026-07-06)
 
-## ❓ Pergunta central
-Como os princípios e práticas modernas de programação e desenvolvimento podem impactar a produtividade e a inovação tecnológica?
+## Síntese
 
-## 🎯 Síntese (3-5 linhas)
-Programação e desenvolvimento são os motores da era digital, impactando desde startups até grandes corporações. O avanço de metodologias ágeis, ferramentas de automação e inteligência artificial tem transformado processos e acelerado a solução de problemas. Compreender os fundamentos e tendências do setor é essencial para inovar e se manter competitivo.
+TypeScript é a linguagem **mais usada no GitHub** (desde ago/2025) com mais de 1M novos contribuidores. Python lidera o TIOBE com 21.81% e domina o ecossistema de IA. IA generativa virou **padrão de mercado** — 1,1M repositórios públicos já usam SDK de LLM. React/Next.js + FastAPI dominam os frameworks mais demandados.
 
-## 🔬 Detalhes
-- A programação é um conjunto de práticas e linguagens utilizadas para criar software, enquanto o desenvolvimento engloba o processo completo, do design à implementação.
-- Metodologias ágeis, como Scrum e Kanban, promovem ciclos de desenvolvimento mais curtos e maior adaptabilidade às mudanças de requisitos.
-- Ferramentas de controle de versão, como Git, são essenciais para colaboração em equipe e gerenciamento de código em projetos complexos.
-- A automação de processos, incluindo CI/CD (Continuous Integration/Continuous Deployment), reduz o tempo de entrega e minimiza erros humanos.
-- Frameworks e bibliotecas, como React, Django ou TensorFlow, aumentam a produtividade, permitindo que desenvolvedores foquem em soluções específicas ao invés de reinventar a roda.
-- A integração de IA em ferramentas de programação, como o GitHub Copilot ou o Claude API, está revolucionando o setor, facilitando a geração de código, depuração e aprendizado.
+## Linguagens em Destaque
 
-## 🔗 Conexões
-- [[Claude API e Anthropic SDK]]
-- [[Pesquisa - Inteligência Artificial na Automação de Processos]]
-- [[Referência - Scrum e Kanban: Melhores Práticas]]
-- [[Projeto - Sistema Chamados]]
+| Linguagem | Destaque 2026 | Uso principal |
+|---|---|---|
+| Python | TIOBE #1 (21.81%) | IA/ML, backend, automação |
+| TypeScript | #1 GitHub (contribuidores) | Frontend, backend, tooling |
+| JavaScript | Onipresente no browser | Frontend, Node.js |
+| Go | Performance + simplicidade | APIs, microserviços, CLIs |
+| Rust | Segurança + performance | Systems, WASM, embedding |
 
-## 📚 Fontes
-- [[Referência - Livro: Clean Code]]
-- [[Referência - Artigo: The State of Developer Productivity in 2026]]
-- [[Referência - Django Documentation]]
+## Frameworks Mais Demandados
 
-## 🚧 Lacunas
-- Como a ascensão de IA no desenvolvimento impacta a ética e a responsabilidade no design de software?
-- Quais são as melhores práticas para integrar metodologias ágeis em equipes distribuídas globalmente?
-- Que novas linguagens de programação estão emergindo e como elas podem atender necessidades específicas?
-```
+- **Frontend/Full-stack**: React, Next.js
+- **Backend Python**: FastAPI, Django
+- **Backend Java**: Spring Boot
+- **PHP**: Laravel
+- **Prototipagem rápida**: Ruby on Rails
+
+## IA como Infraestrutura
+
+- 1,1M repositórios públicos usando SDK de LLM — **63% criados entre ago/2024 e ago/2025**
+- Ferramentas como Copilot, CodeWhisperer e Claude Code tornaram-se padrão no workflow
+- IA generativa deixou de ser novidade para virar requisito implícito em novos projetos
+
+## Tendências
+
+- WASM + Rust crescendo para código nativo no browser e edge
+- TypeScript ultrapassou Python no GitHub em aug/2025 — primeiro idioma a fazer isso
+- Go ganha espaço em APIs de alta performance e CLIs
+
+## Conexões
+
+- [[2026-07-06 - Inteligência Artificial — avanços]]
+- [[2026-07-06 - Deploy e Infraestrutura Cloud]]
+- [[2026-07-06 - Mercado de TI no Brasil]]
+
+## Fontes
+
+- [Top 20 linguagens 2026 - Nextage](https://nextage.com.br/blog/en/top-20-programming-languages/)
+- [10 Frameworks Dominating 2026 - Nextage](https://nextage.com.br/blog/en/10-frameworks-that-will-dominate-2026/)
+- [Most popular programming languages 2026 - Innowise](https://innowise.com/blog/top-proprogramming-languages/)
