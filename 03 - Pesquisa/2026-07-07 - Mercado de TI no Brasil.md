@@ -15,27 +15,27 @@ tags: [pesquisa, mercado, carreira]
 Quais são as principais tendências, desafios e oportunidades no mercado de TI no Brasil em 2026?
 
 ## 🎯 Síntese (3-5 linhas)
-O mercado de TI no Brasil continua em crescimento, impulsionado pela transformação digital, adoção de inteligência artificial e aumento na demanda por cibersegurança. A escassez de profissionais qualificados, entretanto, ainda é um desafio significativo. Startups de tecnologia estão em alta, especialmente nas áreas de fintechs e healthtechs, e há um movimento crescente de investimento em capacitação para suprir a demanda por talentos.
+O mercado de TI no Brasil está em crescimento contínuo, impulsionado por demandas de transformação digital e adoção de tecnologias emergentes como inteligência artificial e blockchain. Há escassez de profissionais qualificados, o que reforça a necessidade de investimentos em educação e capacitação. Desafios incluem instabilidade econômica e desigualdade de acesso à tecnologia, enquanto oportunidades estão concentradas em setores como fintechs, saúde digital e segurança cibernética.
 
 ## 🔬 Detalhes
-- O mercado de TI no Brasil movimentou mais de R$ 500 bilhões em 2025, segundo dados da ABES.
-- A transformação digital nas empresas é um dos principais motores do crescimento, especialmente no setor de e-commerce e serviços financeiros.
-- Inteligência artificial, machine learning e big data são áreas de destaque, com aumento de investimentos tanto por grandes empresas quanto por startups.
-- A escassez de profissionais qualificados em TI persiste, com um déficit estimado de 500 mil vagas até o final de 2026.
-- Fintechs e healthtechs lideram o cenário de startups, atraindo grande parte dos investimentos de venture capital no Brasil.
-- Regulações e políticas públicas, como a LGPD (Lei Geral de Proteção de Dados), continuam impactando o mercado, especialmente no que diz respeito à cibersegurança.
+- A demanda por profissionais de TI no Brasil cresce cerca de 10% ao ano, mas a formação de novos talentos não acompanha esse ritmo.
+- Setores como fintechs, agritech e saúde digital lideram a adoção de tecnologias disruptivas, impulsionando startups e inovação no mercado.
+- A inteligência artificial, especialmente com o avanço de modelos generativos, está transformando áreas como atendimento ao cliente, análise de dados e marketing.
+- O Brasil enfrenta desafios como desigualdade digital, com acesso limitado à tecnologia em regiões menos favorecidas.
+- A segurança cibernética tornou-se uma prioridade, com o aumento de ataques hackers e a maior conscientização sobre proteção de dados.
+- Políticas públicas de incentivo à inovação, como a Lei de Informática, têm impacto direto no investimento em tecnologia, mas ainda há espaço para maior eficiência e abrangência.
 
 ## 🔗 Conexões
-- [[Pesquisa - Inteligência Artificial no Brasil]]
+- [[Claude API e Anthropic SDK]]
 - [[Projeto - Sistema Chamados]]
 
 ## 📚 Fontes
-- [[Referência - Relatório ABES 2025]]
-- [[Referência - Panorama Startups Brasil 2026]]
-- [[Referência - Impacto da LGPD no Mercado de TI]]
+- [[Referência - Panorama do Mercado de TI no Brasil 2025]]
+- [[Referência - Relatório Gartner sobre tendências de TI 2026]]
+- [[Referência - Análise de Startups Brasileiras em TI]]
 
 ## 🚧 Lacunas
-- Como o mercado de TI no Brasil está se adaptando às novas tecnologias emergentes, como computação quântica?
-- Quais iniciativas educacionais podem ser mais eficazes para reduzir o déficit de profissionais de TI?
-- Qual é o impacto das startups brasileiras de TI no mercado internacional?
+- Como as empresas brasileiras estão abordando a escassez de talentos em TI?
+- Qual é o impacto da regulamentação de IA no Brasil na adoção de novas tecnologias?
+- Quais iniciativas podem reduzir a desigualdade digital nas regiões mais remotas do país?
 ```
