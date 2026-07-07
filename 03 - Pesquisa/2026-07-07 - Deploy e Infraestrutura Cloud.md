@@ -3,38 +3,39 @@
 tipo: pesquisa
 criado: 2026-07-07
 atualizado: 2026-07-07
-pergunta-central: Quais as melhores práticas e ferramentas para realizar deploy eficiente e gerenciar infraestrutura em ambientes de cloud computing?
-relacionado-a: [DevOps, computação em nuvem, automação]
-related: [[Projeto - Sistema Chamados]]
-tags: [pesquisa, dev, infra]
+pergunta-central: Quais as melhores práticas e ferramentas para deploy escalável e gestão de infraestrutura cloud em 2026?
+relacionado-a: []
+related: []
+tags: ["pesquisa", "dev", "infra"]
 ---
 
 # Pesquisa - Deploy e Infraestrutura Cloud
 
 ## ❓ Pergunta central
-Quais as melhores práticas e ferramentas para realizar deploy eficiente e gerenciar infraestrutura em ambientes de cloud computing?
+Quais as melhores práticas e ferramentas para deploy escalável e gestão de infraestrutura cloud em 2026?
 
 ## 🎯 Síntese (3-5 linhas)
-O deploy em cloud computing é um processo essencial para entregar aplicações e serviços de forma escalável e confiável. Ele envolve a automação de processos, a escolha de provedores adequados e o uso de ferramentas como Docker, Kubernetes e Terraform. Boas práticas incluem CI/CD, monitoramento contínuo e configuração como código para garantir consistência e eficiência. Ainda existem desafios relacionados à segurança e à otimização de custos.
+A infraestrutura cloud moderna exige ferramentas que suportem escalabilidade, observabilidade e automação. Tecnologias como Kubernetes, Terraform e CI/CD pipelines são indispensáveis. Além disso, práticas como IaC (Infrastructure as Code) e monitoramento contínuo garantem confiabilidade e eficiência. O uso de serviços gerenciados reduz a complexidade operacional, mas requer um balanceamento cuidadoso entre custo e controle.
 
 ## 🔬 Detalhes
-- **Automação**: Ferramentas como Jenkins, GitHub Actions e GitLab CI/CD são amplamente usadas para configurar pipelines de deploy automatizados.
-- **Contêineres**: Docker e Kubernetes são padrões de mercado para empacotamento, orquestração e escalabilidade de aplicações.
-- **Infraestrutura como Código (IaC)**: Ferramentas como Terraform, AWS CloudFormation e Ansible permitem gerenciar infraestrutura como se fosse código, garantindo versionamento e reprodutibilidade.
-- **Provedores de Cloud**: AWS, Google Cloud Platform e Microsoft Azure são os líderes de mercado, cada um com seus pontos fortes para diferentes cenários.
-- **Segurança**: É fundamental implementar políticas de segurança como gerenciamento de identidade e acesso (IAM), criptografia de dados e monitoramento contínuo.
-- **Monitoramento e Logs**: Ferramentas como Prometheus, Grafana e ELK Stack são cruciais para acompanhar a saúde das aplicações e diagnosticar problemas em tempo real.
+- Kubernetes continua sendo o padrão de facto para orquestração de contêineres, permitindo deploys escaláveis e alta disponibilidade.
+- Terraform e Pulumi lideram como ferramentas de IaC, simplificando a gestão e o provisionamento de infraestruturas multi-cloud.
+- CI/CD pipelines, através de ferramentas como GitHub Actions, GitLab CI e Jenkins, automatizam o deploy e garantem entregas contínuas.
+- Observabilidade é um pilar central, com ferramentas como Prometheus, Grafana e serviços como AWS CloudWatch para monitoramento e alertas.
+- O uso de serviços gerenciados (ex.: AWS Lambda, Google Cloud Run) reduz a carga operacional, mas exige bom planejamento de custos.
+- Segurança em cloud é essencial, com práticas como gestão de identidades (IAM), criptografia de dados e auditorias regulares.
 
 ## 🔗 Conexões
-- [[Projeto - Sistema Chamados]]
+- [[Pesquisa - Kubernetes e Orquestração de Contêineres]]
 - [[Claude API e Anthropic SDK]]
 
 ## 📚 Fontes
-- [[Referência - Site oficial do Kubernetes]]
-- [[Referência - Livro The DevOps Handbook]]
+- [[Referência - Kubernetes: The Complete Guide]]
+- [[Referência - Terraform Documentation]]
+- [[Referência - Observabilidade com Prometheus e Grafana]]
 
 ## 🚧 Lacunas
-- Quais critérios devem ser usados para escolher entre provedores de cloud em um projeto específico?
-- Como otimizar custos em ambientes multi-cloud sem comprometer a performance?
-- Quais as tendências emergentes em automação de deploy para os próximos cinco anos?
+- Como equilibrar custos e controle ao adotar serviços gerenciados de cloud?
+- Quais as tendências emergentes em segurança para infraestrutura cloud?
+- Como otimizar pipelines CI/CD para ambientes multi-cloud?
 ```
