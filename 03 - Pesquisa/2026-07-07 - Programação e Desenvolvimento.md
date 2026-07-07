@@ -1,41 +1,42 @@
+```markdown
 ---
 tipo: pesquisa
 criado: 2026-07-07
 atualizado: 2026-07-07
-pergunta-central: Como práticas modernas e ferramentas emergentes estão transformando o campo da programação e desenvolvimento?
+pergunta-central: Como a programação e o desenvolvimento evoluem para atender às demandas tecnológicas e sociais atuais?
 relacionado-a: []
-related: [[Claude API e Anthropic SDK]]
+related: []
 tags: [pesquisa, dev, produtividade]
 ---
 
 # Pesquisa - Programação e Desenvolvimento
 
 ## ❓ Pergunta central
-Como práticas modernas e ferramentas emergentes estão transformando o campo da programação e desenvolvimento?
+Como a programação e o desenvolvimento evoluem para atender às demandas tecnológicas e sociais atuais?
 
 ## 🎯 Síntese (3-5 linhas)
-O campo da programação e desenvolvimento está em constante evolução, impulsionado por ferramentas de IA, metodologias ágeis e práticas de DevOps. O foco está na automação, colaboração e na criação de software escalável e seguro. Ferramentas como GPTs e SDKs específicos estão revolucionando o fluxo de trabalho, enquanto paradigmas como a programação funcional e arquiteturas como microservices continuam moldando o setor.
+A programação e o desenvolvimento são pilares da inovação tecnológica. Com o avanço da inteligência artificial, da computação em nuvem e da automação, o setor de TI está se adaptando para atender a demandas crescentes por soluções escaláveis, acessíveis e éticas. Linguagens dinâmicas, metodologias ágeis e o foco em experiência do usuário são elementos-chave dessa evolução.
 
 ## 🔬 Detalhes
-- A automação com ferramentas de IA, como os LLMs (Large Language Models), está reduzindo o tempo gasto em tarefas repetitivas e aumentando a produtividade dos desenvolvedores.
-- Metodologias ágeis, como Scrum e Kanban, continuam sendo pilares para equipes organizadas e colaborativas, promovendo entregas mais rápidas e de maior qualidade.
-- Práticas de DevOps integram desenvolvimento e operações, garantindo ciclos de entrega contínua e maior resiliência do software.
-- Linguagens modernas como Rust estão ganhando relevância devido ao foco em segurança e performance, enquanto linguagens tradicionais como Python e Java continuam sendo amplamente utilizadas.
-- Arquiteturas baseadas em microservices oferecem maior escalabilidade e flexibilidade, mas trazem desafios em relação à orquestração e monitoramento.
-- O uso de plataformas low-code/no-code facilita o desenvolvimento por não programadores, democratizando o acesso à criação de software.
+- A evolução das linguagens de programação reflete a busca por maior produtividade, legibilidade e desempenho. Exemplos incluem o crescimento do uso de Python, Rust e Go.
+- A programação orientada a eventos e a arquiteturas baseadas em microsserviços estão moldando o desenvolvimento de sistemas modernos.
+- Ferramentas de automação e integração contínua (CI/CD) são essenciais para equipes de desenvolvimento que buscam eficiência e agilidade.
+- A inteligência artificial está influenciando significativamente o desenvolvimento de software, desde ferramentas de code completion baseadas em IA até frameworks para aprendizado de máquina.
+- A acessibilidade e a inclusão digital têm se tornado aspectos prioritários no desenvolvimento de software, com padrões como WCAG ganhando maior visibilidade.
+- A crescente preocupação com a ética no desenvolvimento e uso de software está guiando a adoção de práticas responsáveis e regulamentações globais.
 
 ## 🔗 Conexões
 - [[Claude API e Anthropic SDK]]
-- [[Pesquisa - Inteligência Artificial Generativa]]
+- [[Pesquisa - Ética em Inteligência Artificial]]
 - [[Projeto - Sistema Chamados]]
 
 ## 📚 Fontes
-- [[Referência - The Pragmatic Programmer]]
-- [[Referência - Clean Code]]
-- [[Referência - Site oficial do OpenAI]]
-- [[Referência - Artigo sobre DevOps na DZone]]
+- [[Referência - Livro Clean Code]]
+- [[Referência - Artigo sobre DevOps na AWS]]
+- [[Referência - Relatório Stack Overflow Developer Survey 2026]]
 
 ## 🚧 Lacunas
-- Quais são as limitações das ferramentas de IA no desenvolvimento de software e como mitigá-las?
-- Como as práticas de programação funcional podem ser integradas de forma mais ampla em sistemas corporativos?
-- Qual será o impacto de novas arquiteturas computacionais, como computação quântica, no desenvolvimento de software tradicional?
+- Como equilibrar inovação rápida com práticas éticas consistentes no desenvolvimento de software?
+- Qual o impacto de novas linguagens como Zig e Carbon no futuro da programação?
+- Como as metodologias ágeis continuarão a evoluir em equipes distribuídas globalmente?
+```
