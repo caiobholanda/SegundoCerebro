@@ -1,42 +1,43 @@
-```markdown
 ---
 tipo: pesquisa
+status: em-andamento
 criado: 2026-07-08
 atualizado: 2026-07-08
-pergunta-central: Quais foram os principais avanços recentes em inteligência artificial e como eles estão transformando diferentes indústrias?
+tags: [ia, tecnologia, tendencias]
+pergunta-central: Quais são os principais avanços e lançamentos de IA em julho de 2026?
 relacionado-a: []
-related: [[Claude API e Anthropic SDK]]
-tags: [pesquisa, ia]
+related: []
 ---
 
-# Pesquisa - Inteligência Artificial — avanços
+# Inteligência Artificial — Avanços — 2026-07-08
 
-## ❓ Pergunta central
-Quais foram os principais avanços recentes em inteligência artificial e como eles estão transformando diferentes indústrias?
+## Apple iOS 27 — Siri Generativa
 
-## 🎯 Síntese (3-5 linhas)
-A inteligência artificial (IA) teve avanços notáveis nos últimos anos, com destaque para modelos generativos, como o GPT-4 e Claude, a evolução em aprendizado por reforço e a integração em áreas como saúde, finanças e educação. A IA generativa está revolucionando processos criativos e a automação, enquanto soluções específicas estão aprimorando diagnósticos médicos, segurança cibernética e personalização de experiências. Ainda assim, desafios éticos e de regulamentação permanecem em foco.
+iOS 27 Beta 3 lançado com três pilares: reformulação completa da **Siri com IA generativa**, refinamentos do Liquid Glass e melhorias de qualidade de vida. Continuity 3.0 permite arrastar e soltar arquivos entre Mac e iPhone sem fio — mesmo para dezenas de GBs. Abrange iOS 27, macOS 27 Golden Gate, iPadOS 27, tvOS 27 e visionOS 27.
 
-## 🔬 Detalhes
-- Modelos generativos como GPT-4 e Claude estão redefinindo a criação de conteúdo, programação e interação humano-máquina.
-- IA aplicada à saúde tem avançado em diagnósticos por imagem, descoberta de medicamentos e personalização de tratamentos.
-- Aprendizado por reforço contínuo foi utilizado para resolver problemas complexos, como otimização de redes logísticas e simulações físicas avançadas.
-- A integração de IA em segurança cibernética tem permitido detecção proativa de ameaças e respostas em tempo real.
-- Ferramentas de IA para educação, como tutores virtuais e plataformas personalizadas, estão transformando o aprendizado.
-- Avanços na eficiência energética de modelos de IA têm reduzido o impacto ambiental de treinar grandes modelos.
+**iOS 26.6 Beta 4**: atualização focada em segurança contra ameaças cibernéticas alimentadas por IA generativa — evolução acelerada de ataques motivou release dedicado.
 
-## 🔗 Conexões
-- [[Claude API e Anthropic SDK]]
-- [[Referência - História da Inteligência Artificial]]
-- [[Projeto - Utilizar IA em gestão de projetos]]
+## Adoção Global de IA Generativa
 
-## 📚 Fontes
-- [[Referência - OpenAI GPT-4]]
-- [[Referência - Aplicações de IA na Saúde]]
-- [[Referência - Ética na Inteligência Artificial]]
+Conforme o AI Diffusion Report da Microsoft (Q1 2026): **17,8% da população mundial em idade ativa** já usa IA generativa. Maior salto trimestral registrado desde o lançamento do ChatGPT.
 
-## 🚧 Lacunas
-- Como regulamentações globais podem impactar o ritmo de avanços em IA?
-- Quais são os limites técnicos atuais para o desenvolvimento de IA geral?
-- Quais setores ainda estão subutilizando IA e por quê?
-```
+## Tendências Dominantes em 2026
+
+**Agentes de IA**: a maior novidade do ano. Sistemas que planejam tarefas, tomam decisões com base em contexto e executam fluxos de trabalho completos de forma autônoma. Adoção crescente em enterprise e desenvolvedores independentes.
+
+**IA Multimodal**: integração nativa de texto, imagem, áudio e vídeo em modelos unificados — deixou de ser diferencial para virar expectativa base.
+
+**IA Agêntica**: mercado projetado de US$8,5B (2026) → US$35B (2030).
+
+## Panorama Competitivo
+
+- ChatGPT: market share ~53,9% global
+- Claude: ~9,2%
+- Gemini 3.5 Flash: GA, 4× mais rápido, contexto 1M
+- GPT-5.6: preview limitado (~20 orgs)
+
+## Links
+
+- [iOS 27 Beta 3 com Siri AI — DFT Informática](https://news.dftinfo.com.br/2026/07/06/apple-atualizacao-de-sistema-ios-27-beta-3-chega-com-siri-ai/)
+- [iOS 26.6 Beta 4 — DFT Informática](https://news.dftinfo.com.br/2026/07/07/ios-266-beta-4-expoe-corrida-contra-ameacas-de-ia-e-refiname/)
+- [Tendências IA 2026 — Microsoft Source LATAM](https://news.microsoft.com/source/latam/features/noticias-da-microsoft/o-que-vem-por-ai-na-ia-7-tendencias-para-ficar-de-olho-em-2026/?lang=pt-br)

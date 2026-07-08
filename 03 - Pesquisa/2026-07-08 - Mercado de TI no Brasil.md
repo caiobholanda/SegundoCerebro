@@ -1,40 +1,56 @@
-```markdown
 ---
 tipo: pesquisa
+status: em-andamento
 criado: 2026-07-08
 atualizado: 2026-07-08
-pergunta-central: Quais são as tendências, desafios e oportunidades no mercado de TI no Brasil em 2026?
+tags: [mercado, ti, brasil, salarios, carreira]
+pergunta-central: Como está o mercado de TI no Brasil em julho de 2026?
 relacionado-a: []
 related: []
-tags: [pesquisa, mercado, carreira]
 ---
 
-# Pesquisa - Mercado de TI no Brasil
+# Mercado de TI no Brasil — 2026-07-08
 
-## ❓ Pergunta central
-Quais são as tendências, desafios e oportunidades no mercado de TI no Brasil em 2026?
+## Crescimento do Setor
 
-## 🎯 Síntese (3-5 linhas)
-O mercado de TI no Brasil continua em expansão, impulsionado pela transformação digital em diversos setores, o crescimento do e-commerce e a adoção de tecnologias emergentes como IA e blockchain. No entanto, enfrenta desafios significativos, como a escassez de mão de obra qualificada e desigualdades regionais de acesso à tecnologia. Empresas investem cada vez mais em capacitação interna e em modelos de trabalho híbrido.
+Mercado de TI brasileiro cresceu **18,5% em 2025**, acima da média global. Projeção de +16% para 2026. Faturamento: US$67,8 bilhões (2025).
 
-## 🔬 Detalhes
-- A demanda por profissionais de TI no Brasil segue alta, especialmente em áreas como desenvolvimento de software, segurança cibernética e ciência de dados.
-- A escassez de talentos qualificados é um dos principais gargalos, com mais de 400 mil vagas não preenchidas previstas até 2027.
-- O trabalho remoto e híbrido se consolidou como padrão, ampliando as oportunidades de atuação para profissionais fora dos grandes centros urbanos.
-- Startups de tecnologia e fintechs continuam a atrair investimentos significativos, com o Brasil liderando a América Latina nesse setor.
-- Políticas públicas, como o programa Brasil Mais Digital, estão sendo implementadas para ampliar o acesso à tecnologia e à capacitação em regiões menos atendidas.
-- Infraestrutura tecnológica ainda é um desafio em regiões mais afastadas, limitando o crescimento homogêneo do setor no país.
+44% das empresas planejam ampliar equipes de TI em 2026 — combinando contratação CLT, PJ e alocação.
 
-## 🔗 Conexões
-- [[Projeto - Planejamento de carreira em TI]]
-- [[Pesquisa - Inteligência Artificial no Brasil]]
+## Deficit de Talentos
 
-## 📚 Fontes
-- [[Referência - Relatório Mercado de TI Brasil 2026]]
-- [[Referência - Panorama Startups América Latina 2026]]
+Brasscom projeta necessidade de **800.000 novos profissionais** entre 2023–2027. Universidades formam apenas ~53k/ano — gap de 30,2%. O deficit é estrutural e persiste ao menos até 2028. Áreas mais escassas: IA/ML, Cibersegurança e Cloud.
 
-## 🚧 Lacunas
-- Qual o impacto real das políticas públicas no aumento da qualificação em TI no Brasil?
-- Como a adoção de IA e outras tecnologias emergentes está transformando setores tradicionais no Brasil?
-- Quais estratégias as empresas podem adotar para reduzir a lacuna de talentos no mercado de TI?
-```
+## Salários de Referência (2026)
+
+| Cargo | Faixa Salarial |
+|-------|---------------|
+| Técnico de TI | ~R$3.014/mês |
+| Dev Software (média) | R$6.000–12.000/mês |
+| IA/LLMs especialistas | +50% acima da média |
+| Cloud Architect | R$8.000–15.000/mês |
+| ML Engineer (Big Tech LATAM) | até R$30.000/mês |
+| Concursos públicos TI | até R$26.000/mês |
+
+## Tecnologias Mais Valorizadas
+
+1. **IA e LLMs** — +50% acima da média salarial
+2. **Cloud** (AWS lidera, Azure cresce 2º)
+3. **Cibersegurança** — demanda acima da oferta
+4. **Containers/Kubernetes** — requisito em 70%+ vagas sênior
+5. **TypeScript** — vagas +73% LinkedIn 2024–2026
+
+## Concursos Públicos em TI
+
+Concursos de TI ganharam força em 2026, com salários até R$26.000/mês. Banco do Brasil, Caixa, TCU e INSS entre os principais. Alternativa atrativa ao mercado privado para quem busca estabilidade.
+
+## Contexto Regulatório
+
+PL 2.338 (regulamentação de IA): votação final prevista para dezembro/2026. Penalidades de até R$50 milhões para infrações. Impacta empresas que operam com IA no Brasil — acompanhar desenvolvimento.
+
+## Links
+
+- [Mercado de trabalho em TI 2026 — Hub do Estudante](https://hubdoestudante.com.br/pages/guias/mercado-de-trabalho-ti-2026.html)
+- [Guia Salarial Tecnologia 2026 — Robert Half](https://www.roberthalf.com/br/pt/insights/guia-salarial/tecnologia)
+- [Salários TI 2026 — Green Tecnologia](https://www.green.com.br/blog/salarios-de-tecnologia/)
+- [Concursos TI 2026 — Jornal Passaporte](https://www.jornalpassaporte.com.br/2026/04/25/concursos-de-ti-ganham-forca-em-2026-e-oferecem-salarios-de-ate-r-26-mil/)

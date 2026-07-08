@@ -1,41 +1,50 @@
-```markdown
 ---
 tipo: pesquisa
+status: em-andamento
 criado: 2026-07-08
 atualizado: 2026-07-08
-pergunta-central: Como o Claude Code pode ser utilizado para criar agentes inteligentes via CLI de forma eficiente?
+tags: [ia, claude, dev, cli, agentes]
+pergunta-central: Quais são as atualizações do Claude Code CLI e do sistema de agentes em julho de 2026?
 relacionado-a: []
-related: [[Claude API e Anthropic SDK]]
-tags: [pesquisa, ia, dev, claude]
+related: []
 ---
 
-# Pesquisa - Claude Code — CLI e agentes
+# Claude Code — CLI e Agentes — 2026-07-08
 
-## ❓ Pergunta central
-Como o Claude Code pode ser utilizado para criar agentes inteligentes via CLI de forma eficiente?
+## Workflows Dinâmicos
 
-## 🎯 Síntese (3-5 linhas)
-Claude Code, desenvolvido pela Anthropic, oferece ferramentas para integrar modelos de linguagem por meio de CLI e APIs. Ele possibilita a criação de agentes inteligentes para tarefas específicas, com foco em segurança, alinhamento e eficiência no processamento de linguagem natural. Entender suas capacidades e limitações é essencial para implementações robustas.
+Adicionada configuração **"Dynamic workflow size"** em `/config` para controlar o número de agentes em workflows dinâmicos (small / medium / large). Permite calibrar custo × paralelismo em tarefas com múltiplos subagentes.
 
-## 🔬 Detalhes
-- O Claude Code é uma extensão das capacidades do modelo Claude, otimizado para integração com sistemas por meio de APIs e CLI.
-- Ele permite a criação de agentes personalizados que podem executar fluxos de trabalho definidos e interagir com sistemas existentes.
-- O foco principal da Anthropic é garantir alinhamento ético e segurança, mitigando respostas enviesadas ou prejudiciais.
-- Ferramentas CLI são úteis para desenvolvedores automatizarem processos e integrarem agentes em pipelines de software.
-- A documentação destaca boas práticas para configurar prompts e ajustar parâmetros, maximizando a precisão e a relevância das respostas.
-- A integração com outras ferramentas, como SDKs da Anthropic, amplia as capacidades do Claude Code em contextos de desenvolvimento avançado.
+## OpenTelemetry — Novos Atributos
 
-## 🔗 Conexões
-- [[Claude API e Anthropic SDK]]
-- [[Pesquisa - Modelos de linguagem para automação de tarefas]]
-- [[Referência - Ética em Inteligência Artificial]]
+Atributos OTel adicionados: `workflow.run_id` e `workflow.name` — rastreamento completo de atividade de agentes por sessão/workflow em plataformas de observabilidade.
 
-## 📚 Fontes
-- [[Referência - Documentação oficial do Claude Code]]
-- [[Referência - Artigo sobre agentes de IA no desenvolvimento de software]]
+## Modo de Permissão Manual como Padrão
 
-## 🚧 Lacunas
-- Como comparar a performance do Claude Code com outras ferramentas de CLI para IA, como OpenAI?
-- Quais são os casos de uso mais eficazes para agentes criados com o Claude Code?
-- Qual é o impacto do alinhamento ético na performance e flexibilidade dos agentes criados?
-```
+Permission mode **"Manual"** agora é o padrão em CLI, VS Code e JetBrains. Significa que cada ação de escrita/execução requer aprovação explícita — mais seguro para sessões não supervisionadas.
+
+## Correções de Confiabilidade (Julho)
+
+**Background agents**:
+- Agentes mostravam apenas "exit_with_message" ao falhar na inicialização → corrigido
+- Sessões de background ignoravam `effortLevel` nas configurações → corrigido
+- Agentes não reconheciam flag `disableMouse` em background → corrigido
+- Erro ao abrir chats de agentes em modo background → corrigido
+
+**Edição de arquivos**:
+- Falha ao editar arquivos em diretórios não-git com WorktreeCreate hooks → corrigido
+
+**AskUserQuestion**: não mais auto-continua sem interação do usuário.
+
+## Correções de Interface e Terminal
+
+- Conteúdo saltando ao rolar histórico → corrigido
+- Terminal piscando durante digitação em modo bash → corrigido
+- Problema com histórico de shell suggestions → corrigido
+- Melhorias no modo fullscreen
+
+## Links
+
+- [Claude Code Changelog — gradually.ai](https://www.gradually.ai/en/changelogs/claude-code/)
+- [Releases — GitHub anthropics/claude-code](https://github.com/anthropics/claude-code/releases)
+- [Claude Code Updates Julho 2026 — Releasebot](https://releasebot.io/updates/anthropic/claude-code)

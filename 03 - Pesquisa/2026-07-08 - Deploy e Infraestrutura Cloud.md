@@ -1,43 +1,51 @@
-```markdown
 ---
 tipo: pesquisa
+status: em-andamento
 criado: 2026-07-08
 atualizado: 2026-07-08
-pergunta-central: Como arquitetar e executar soluções de deploy eficientes e escaláveis utilizando infraestrutura cloud?
+tags: [deploy, cloud, infraestrutura, railway, vercel]
+pergunta-central: Quais são as novidades de deploy e infraestrutura cloud em julho de 2026?
 relacionado-a: []
 related: []
-tags: [pesquisa, dev, infra]
 ---
 
-# Pesquisa - Deploy e Infraestrutura Cloud
+# Deploy e Infraestrutura Cloud — 2026-07-08
 
-## ❓ Pergunta central
-Como arquitetar e executar soluções de deploy eficientes e escaláveis utilizando infraestrutura cloud?
+## Railway — Metal Rollout
 
-## 🎯 Síntese (3-5 linhas)
-Deploy e infraestrutura cloud são pilares fundamentais para qualquer aplicação moderna. A combinação de ferramentas de automação de deploy (como CI/CD) e provedores de nuvem (AWS, GCP, Azure) permite maior escalabilidade, resiliência e eficiência. Entender conceitos como infraestrutura como código (IaC), contêineres e orquestração (ex.: Kubernetes) é essencial para otimizar custos e garantir alta disponibilidade.
+Railway migrou do Google Cloud para infraestrutura própria chamada **Railway Metal**, com objetivo de mais controle e custo. A transição gerou instabilidade — outages em 2025 e 2026 durante a migração. Status atual: Q2 fundação estabelecida, Q3 maturação.
 
-## 🔬 Detalhes
-- **Infraestrutura como Código (IaC)**: Ferramentas como Terraform e AWS CloudFormation permitem que toda a configuração de infraestrutura seja declarativa e versionada, simplificando a replicação e manutenção.
-- **Contêineres e Orquestração**: Docker facilita a padronização de ambientes, enquanto Kubernetes gerencia o escalonamento e a alta disponibilidade de aplicações em contêineres.
-- **CI/CD Pipelines**: Integração contínua (CI) e entrega contínua (CD) automatizam testes, builds e deploys, reduzindo erros e acelerando ciclos de entrega.
-- **Provedores Cloud**: AWS, GCP e Azure oferecem serviços gerenciados para storage, computação, bancos de dados e redes, permitindo foco no desenvolvimento de aplicações, não na infraestrutura.
-- **Monitoramento e Observabilidade**: Ferramentas como Prometheus, Grafana, e AWS CloudWatch garantem visibilidade em tempo real para identificar e resolver problemas rapidamente.
-- **Custos e Escalabilidade**: Modelos de preços baseados em uso (pay-as-you-go) permitem controle de custos, enquanto recursos como auto-scaling ajustam automaticamente a infraestrutura à demanda.
+**Novidades recentes**:
+- HA Postgres via Patroni (lançado março/2026) — one-click
+- Private networking entre serviços out-of-the-box
+- DX amigável com MCP Server e Claude Code
+- Agentic provisioning via Stripe Projects CLI
+- Series B de $100M (jan/2026, TQ Ventures) — 2M devs, +200k/mês
 
-## 🔗 Conexões
-- [[Projeto - Sistema Chamados]]
-- [[Pesquisa - Kubernetes e Orquestração de Contêineres]]
-- [[Referência - Terraform]]
+## Vercel — Fluid Compute
 
-## 📚 Fontes
-- [[Referência - The Phoenix Project]]
-- [[Referência - Site Reliability Engineering (SRE) Guide]]
-- [[Referência - Documentação Oficial AWS]]
-- [[Referência - Kubernetes Official Documentation]]
+**Fluid Compute com Active CPU pricing**: cobrança apenas por CPU ativa — workloads de IA com I/O-bound e streaming têm reduções de **até 80%** na conta de functions. Ideal para apps com IA que ficam idle esperando LLM.
 
-## 🚧 Lacunas
-- Quais são as melhores práticas para otimizar custos em diferentes provedores de nuvem?
-- Como implementar uma estratégia de disaster recovery eficiente em ambientes multi-cloud?
-- Quais são as limitações e desafios de segurança no uso de contêineres e orquestradores como Kubernetes?
-```
+Vercel segue como padrão para frontend, Next.js e SSR — mas acumulou 4 aumentos de preço desde 2024, gerando busca por alternativas.
+
+## Comparativo Atual (mid-2026)
+
+| Plataforma | Ponto Forte | Ponto Fraco |
+|-----------|-------------|-------------|
+| Railway | DX máxima, backend simples | Outages durante migração Metal |
+| Vercel | Frontend/Next.js nativo | Preço subindo, billing complexo |
+| Fly.io | Mais regiões (35+), produção global | Networking inter-region cobrado desde fev/26 |
+| Render | Flat fee $25/mês + compute, sem per-seat | Menos maturidade em features |
+
+**Padrão 2026 para SaaS**: Vercel (frontend) + Railway (backend) — se tornaram complementares mais que concorrentes.
+
+## Deploy de AI Apps
+
+Railway publicou guia "Best Platforms to Deploy AI Apps in 2026": Railway lidera em simplicidade para backends IA; Fly.io para produção global distribuída; Vercel para frontends com IA integrada via Vercel AI SDK.
+
+## Links
+
+- [Railway review 2026 — Runzos](https://runzos.com/railway-review-2026/)
+- [Vercel vs Railway vs Fly.io — Medium/Navanath Jadhav](https://navanathjadhav.medium.com/i-deployed-the-same-app-to-vercel-railway-and-fly-io-cost-performance-compared-607dedd46ae6)
+- [Best Platforms to Deploy AI Apps 2026 — Railway Blog](https://blog.railway.com/p/best-platforms-deploy-ai-apps-2026)
+- [Fly.io vs Railway 2026 — The Software Scout](https://thesoftwarescout.com/fly-io-vs-railway-2026-which-developer-platform-should-you-deploy-on/)

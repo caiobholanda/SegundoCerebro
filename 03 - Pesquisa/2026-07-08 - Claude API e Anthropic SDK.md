@@ -1,42 +1,45 @@
-```markdown
 ---
 tipo: pesquisa
+status: em-andamento
 criado: 2026-07-08
 atualizado: 2026-07-08
-pergunta-central: Como a Claude API e o Anthropic SDK podem ser utilizados para construir aplicações avançadas de IA?
+tags: [ia, claude, api, anthropic]
+pergunta-central: Quais são as novidades da API do Claude e do Anthropic SDK em julho de 2026?
 relacionado-a: []
 related: []
-tags: [pesquisa, ia, dev, claude]
 ---
 
-# Pesquisa - Claude API e Anthropic SDK
+# Claude API e Anthropic SDK — 2026-07-08
 
-## ❓ Pergunta central
-Como a Claude API e o Anthropic SDK podem ser utilizados para construir aplicações avançadas de IA?
+## Sonnet 5 — Modelo Padrão (Promo até 31/ago)
 
-## 🎯 Síntese (3-5 linhas)
-A Claude API e o Anthropic SDK são ferramentas poderosas para integrar modelos de IA da Anthropic em aplicações customizadas. Elas oferecem suporte para geração de texto, compreensão de linguagem natural e outras funcionalidades avançadas, com foco em segurança e alinhamento ético. Sua arquitetura permite flexibilidade e escalabilidade, sendo ideais para desenvolvedores de IA.
+Claude Sonnet 5 continua como modelo padrão em todos os planos (Free/Pro/Max/Team/Enterprise). Preço promocional: **$2/$10 por MTok** até 31 de agosto; após isso, $3/$15. Contexto de 1M tokens, output de 128k.
 
-## 🔬 Detalhes
-- A Claude API foi desenvolvida pela Anthropic para oferecer acesso aos modelos de linguagem avançados da empresa, como o Claude.
-- O Anthropic SDK é um conjunto de ferramentas que facilita a integração da Claude API em diferentes aplicações e linguagens de programação.
-- O foco principal da Anthropic é criar modelos de IA alinhados com valores éticos, minimizando riscos associados ao uso de IA.
-- A API suporta tarefas como geração de texto, respostas a perguntas, análise de texto, sumarização e outras aplicações de processamento de linguagem natural (NLP).
-- O SDK oferece suporte a diversas linguagens de programação, incluindo Python e JavaScript, com documentação robusta e exemplos práticos.
-- A Anthropic prioriza a segurança e a transparência, fornecendo guidelines claras para o uso responsável de seus modelos em aplicações reais.
+## Fable 5 e Mythos 5 — Status
 
-## 🔗 Conexões
-- [[IA ética e segurança]]
-- [[Frameworks para desenvolvimento de IA]]
-- [[ChatGPT vs Claude - Comparação de Modelos]]
+- **Fable 5**: GA desde 1/jul, disponível na API, AWS Bedrock, Google Cloud e Microsoft Foundry. Preço: $10/$50 por MTok. Classificadores reforçados para bio/quím/ciberseg.
+- **Mythos 5**: disponibilidade limitada via Project Glasswing para clientes aprovados. Mesmos preços do Fable 5.
 
-## 📚 Fontes
-- [[Referência - Site oficial da Anthropic]]
-- [[Referência - Documentação da Claude API]]
-- [[Artigo - Comparação entre ferramentas de IA]]
+## Opus 4.8 e Fast Mode
 
-## 🚧 Lacunas
-- Quais são as limitações técnicas e éticas mais críticas da Claude API e do Anthropic SDK?
-- Como a Anthropic planeja evoluir a API e o SDK para suportar novos casos de uso e melhorias nos modelos de IA?
-- Há benchmarks comparativos entre Claude API e outras APIs de modelos de linguagem, como a OpenAI GPT?
-```
+- **Opus 4.8** (lançado 28/mai): $5/$25 por MTok. Fast Mode disponível em $10/$50.
+- **Fast Mode Opus 4.7**: **deprecado — remoção em 24/julho/2026**. Requisições com `speed: "fast"` retornarão erro após essa data. Migrar para Opus 4.8.
+
+## Claude GA no Microsoft Azure
+
+Claude disponível em GA no Microsoft Foundry/Azure com autenticação IAM nativa, billing integrado, data zone US e governance enterprise.
+
+## Preços de Referência (julho 2026)
+
+| Modelo | Input | Output |
+|--------|-------|--------|
+| Sonnet 5 (promo até 31/ago) | $2/MTok | $10/MTok |
+| Sonnet 5 (após 31/ago) | $3/MTok | $15/MTok |
+| Opus 4.8 | $5/MTok | $25/MTok |
+| Fable 5 / Mythos 5 | $10/MTok | $50/MTok |
+
+## Links
+
+- [Visão geral dos modelos — Anthropic Docs](https://platform.claude.com/docs/pt-BR/about-claude/models/overview)
+- [Preços da API Claude 2026 — APIdog](https://apidog.com/blog/claude-api-cost/)
+- [Guia completo de preços Anthropic 2026 — Finout](https://www.finout.io/blog/anthropic-api-pricing)

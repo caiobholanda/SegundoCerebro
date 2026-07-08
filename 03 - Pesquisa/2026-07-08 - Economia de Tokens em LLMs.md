@@ -1,44 +1,62 @@
-```markdown
 ---
 tipo: pesquisa
+status: em-andamento
 criado: 2026-07-08
 atualizado: 2026-07-08
-pergunta-central: Como otimizar o uso de tokens em modelos de linguagem de grande escala (LLMs) para aumentar eficiência e reduzir custos sem comprometer a performance?
-relacionado-a: [LLMs, NLP, eficiência]
-related: [[Claude API e Anthropic SDK]]
-tags: [pesquisa, ia, produtividade]
+tags: [ia, tokens, custo, otimizacao, llm]
+pergunta-central: Quais são as melhores estratégias de economia de tokens em LLMs em 2026?
+relacionado-a: []
+related: []
 ---
 
-# Pesquisa - Economia de Tokens em LLMs
+# Economia de Tokens em LLMs — 2026-07-08
 
-## ❓ Pergunta central
-Como otimizar o uso de tokens em modelos de linguagem de grande escala (LLMs) para aumentar eficiência e reduzir custos sem comprometer a performance?
+## Queda de Preço Histórica
 
-## 🎯 Síntese (3-5 linhas)
-A economia de tokens em LLMs é uma questão crucial para reduzir custos e melhorar a eficiência no uso de recursos computacionais. Estratégias incluem a compressão de prompts, reutilização de tokens por meio de embeddings e a adoção de técnicas de fine-tuning e quantização. Escolhas de arquitetura e desenvolvimento de prompts mais precisos são fundamentais para equilibrar custo e desempenho.
+Performance equivalente ao GPT-4 de 2022 agora custa **$0,40/MTok** versus $20/MTok no lançamento — queda de ~98% em 4 anos. Os provedores mais econômicos cobram entre $0,20 e $2,90/MTok dependendo do modelo.
 
-## 🔬 Detalhes
-- Tokens são a unidade básica de processamento em LLMs, representando fragmentos de palavras ou caracteres.
-- O custo operacional de um LLM é diretamente proporcional ao número de tokens processados, devido ao consumo de memória e capacidade computacional.
-- Técnicas como **Prompt Engineering** ajudam a reduzir o número de tokens ao criar entradas mais concisas e informativas.
-- **Fine-tuning** de modelos pré-treinados pode diminuir a necessidade de prompts extensos, ajustando o modelo para tarefas específicas.
-- A **quantização** reduz a precisão dos cálculos para otimizar o desempenho, mantendo uma perda mínima de qualidade.
-- Modelos como GPT e Claude oferecem diferentes estruturas de precificação baseadas em tokens consumidos durante a entrada e saída, incentivando a otimização ativa.
-- A reutilização de embeddings pode economizar tokens ao armazenar representações de frases ou palavras frequentemente usadas.
-- Ferramentas como [[Claude API e Anthropic SDK]] permitem monitorar e ajustar o consumo de tokens.
+## Estratégia Multi-LLM (Padrão 2026)
 
-## 🔗 Conexões
-- [[Claude API e Anthropic SDK]]
-- [[Pesquisa - Prompt Engineering e boas práticas]]
-- [[Pesquisa - Redução de custos em LLMs]]
+Times de IA maduros usam múltiplos modelos em roteamento inteligente:
+- **Modelo principal**: para tarefas críticas (OpenAI/Anthropic frontier)
+- **Backup**: Claude Sonnet 5 ou equivalente
+- **Tasks leves**: DeepSeek, modelos open-source
 
-## 📚 Fontes
-- [[Referência - Paper sobre eficiência em LLMs]]
-- [[Referência - Guia de Prompt Engineering]]
-- [[Referência - Blog OpenAI sobre preços de tokens]]
+Resultado: mesmo volume de chamadas por **$2,5k–5k/mês vs $13–25k** sem roteamento — economia de 60–90%.
 
-## 🚧 Lacunas
-- Quais são os limites da compressão de prompts sem prejudicar a qualidade das respostas?
-- Como a economia de tokens varia entre diferentes arquiteturas de LLMs (ex.: GPT vs Claude)?
-- É possível desenvolver ferramentas automatizadas que otimizem prompts em tempo real?
-```
+## Prompt Caching — Maior Alavanca
+
+Cache de prompts oferece **90% de desconto** nos tokens cacheados (Anthropic). Exemplo prático:
+- Base de conhecimento 2MB (250k tokens) × 1000 consultas/dia
+- Sem cache: ~$200k/mês
+- Com cache: ~$40/mês — economia de 99,98%
+
+Para alcançar boas taxas, reorganizar prompts para que o conteúdo estático (system prompt, docs) fique sempre no início, antes do conteúdo dinâmico.
+
+## Output Custa Mais — Sempre
+
+Output tokens custam **2–5× mais** que input (mediana 4×). Estratégias:
+- Limitar tamanho máximo de resposta via `max_tokens`
+- Usar formatos estruturados (YAML em vez de JSON: -50% tokens)
+- Pedir respostas concisas explicitamente no prompt
+
+## Custo Real para Devs
+
+Um engenheiro usando agentes AI em tempo integral gasta **$50–200/mês** em tokens em 2026. Combinando as estratégias: redução de 60–80% é realista.
+
+## Referência Rápida de Alavancas
+
+| Estratégia | Economia Típica |
+|-----------|----------------|
+| Prompt caching | 50–90% |
+| Multi-LLM routing | 60–90% |
+| Reduzir output tokens | 30–50% |
+| YAML vs JSON | ~50% em prompts estruturados |
+| Batch (50% off) | 50% (latência OK) |
+
+## Links
+
+- [Estratégia Multi-LLM 2026 — Segredo Tech](https://segredotech.com.br/estrategia-multi-llm-2026-rate-limits-custos/)
+- [Reduzir custos LLM — Glukhov.org](https://www.glukhov.org/llm-performance/cost-effective-llm-applications/)
+- [Otimização de custos de IA 2026 — TrueFoundry](https://www.truefoundry.com/blog/what-is-ai-cost-optimization)
+- [Provedores LLM mais baratos 2026 — SiliconFlow](https://www.siliconflow.com/articles/en/the-cheapest-LLM-API-provider)
