@@ -1,39 +1,43 @@
+```markdown
 ---
 tipo: pesquisa
 criado: 2026-07-09
 atualizado: 2026-07-09
-pergunta-central: Quais são as melhores práticas e tendências atuais em programação e desenvolvimento de software?
+pergunta-central: Quais são os principais paradigmas, ferramentas e práticas que definem a programação moderna, e como elas impactam o desenvolvimento de software?
 relacionado-a: []
-related: []
+related: [[Claude API e Anthropic SDK]]
 tags: [pesquisa, dev, produtividade]
 ---
 
 # Pesquisa - Programação e Desenvolvimento
 
 ## ❓ Pergunta central
-Quais são as melhores práticas e tendências atuais em programação e desenvolvimento de software?
+Quais são os principais paradigmas, ferramentas e práticas que definem a programação moderna, e como elas impactam o desenvolvimento de software?
 
 ## 🎯 Síntese (3-5 linhas)
-A programação e o desenvolvimento de software evoluem constantemente, impulsionados por novas linguagens, frameworks e metodologias. Práticas como o uso de arquiteturas escaláveis, metodologias ágeis, DevOps e foco em experiência do usuário têm se consolidado. Além disso, tendências como IA generativa, programação de baixo código/no-code e computação em nuvem estão moldando o futuro do setor.
+Programação e desenvolvimento são áreas que evoluem rapidamente, impulsionadas por mudanças tecnológicas e práticas emergentes como DevOps, programação funcional e desenvolvimento ágil. A integração de inteligência artificial e plataformas de baixo código também está transformando o ciclo de vida do software. Entender os paradigmas, linguagens e ferramentas modernas é essencial para se adaptar e aproveitar as oportunidades da indústria.
 
 ## 🔬 Detalhes
-- A adoção de metodologias ágeis e DevOps tem transformado a maneira como equipes de desenvolvimento colaboram e entregam software de qualidade de forma mais rápida.
-- A programação funcional tem ganhado espaço, principalmente em cenários que demandam alta performance, paralelismo e manutenibilidade.
-- Ferramentas low-code/no-code estão democratizando o desenvolvimento, permitindo que não programadores criem soluções básicas.
-- A computação em nuvem segue como padrão para a escalabilidade de aplicações, com serviços como AWS, Google Cloud e Azure dominando o mercado.
-- A inteligência artificial e aprendizado de máquina estão cada vez mais integrados ao desenvolvimento, tanto como ferramentas para auxiliar programadores quanto como tecnologias finais incorporadas em softwares.
-- A segurança no desenvolvimento (DevSecOps) está se tornando prioridade, com práticas que integram testes de segurança ao longo de todo o ciclo de vida do software.
+- **Paradigmas principais**: Programação imperativa, orientada a objetos, funcional e reativa. Cada paradigma tem aplicações e contextos específicos onde é mais eficaz.
+- **Linguagens populares**: Python, JavaScript, Java, C++, e Rust são amplamente utilizadas, cada uma com forças distintas em áreas como ciência de dados, web development e sistemas embarcados.
+- **Inteligência artificial**: Ferramentas como GPT e APIs como [[Claude API e Anthropic SDK]] estão sendo integradas ao desenvolvimento para automação, geração de código e análise.
+- **DevOps e práticas ágeis**: A colaboração entre desenvolvimento e operações acelera o ciclo de entrega e melhora a qualidade do software.
+- **Baixo código e plataformas no-code**: Estão democratizando o desenvolvimento, permitindo que usuários com pouca experiência técnica criem aplicações funcionais rapidamente.
+- **Segurança e escalabilidade**: Com o aumento de ataques cibernéticos e da demanda por sistemas escaláveis, práticas como revisão de código, testes contínuos e arquiteturas baseadas em microsserviços são essenciais.
 
 ## 🔗 Conexões
 - [[Claude API e Anthropic SDK]]
-- [[Projeto - Sistema Chamados]]
+- [[Pesquisa - Desenvolvimento Ágil]]
+- [[Pesquisa - Linguagens de Programação Modernas]]
 
 ## 📚 Fontes
-- [[Referência - Clean Code]]
-- [[Referência - DevOps Handbook]]
-- [[Referência - Artigo sobre Low-Code e No-Code]]
+- [[Referência - Clean Code por Robert C. Martin]]
+- [[Referência - The Pragmatic Programmer por Andrew Hunt e David Thomas]]
+- [[Referência - Documentação oficial Python]]
+- [[Referência - Stack Overflow Developer Survey 2026]]
 
 ## 🚧 Lacunas
-- Quais serão os impactos a longo prazo da adoção de IA generativa no processo de desenvolvimento?
-- Como equilibrar o uso de ferramentas low-code/no-code com a necessidade de soluções mais personalizadas?
-- Quais são as melhores estratégias para integrar segurança ao ciclo de vida do desenvolvimento de software?
+- Como as ferramentas de IA podem evoluir para substituir partes do ciclo de desenvolvimento, sem comprometer a qualidade?
+- Quais são os principais desafios éticos associados ao uso de IA em programação?
+- Como medir e melhorar a produtividade de equipes de desenvolvimento em diferentes contextos?
+```
