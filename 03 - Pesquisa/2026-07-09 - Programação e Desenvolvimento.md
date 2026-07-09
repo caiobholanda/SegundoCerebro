@@ -3,39 +3,40 @@
 tipo: pesquisa
 criado: 2026-07-09
 atualizado: 2026-07-09
-pergunta-central: Como a programação e o desenvolvimento evoluem para atender às demandas tecnológicas e sociais atuais?
+pergunta-central: Como a programação está evoluindo para atender às demandas de um mundo cada vez mais interconectado e automatizado?
 relacionado-a: []
-related: []
+related: [[Claude API e Anthropic SDK]]
 tags: [pesquisa, dev, produtividade]
 ---
 
 # Pesquisa - Programação e Desenvolvimento
 
 ## ❓ Pergunta central
-Como a programação e o desenvolvimento evoluem para atender às demandas tecnológicas e sociais atuais?
+Como a programação está evoluindo para atender às demandas de um mundo cada vez mais interconectado e automatizado?
 
 ## 🎯 Síntese (3-5 linhas)
-A programação e o desenvolvimento têm se adaptado rapidamente às mudanças tecnológicas e sociais, impulsionados por tendências como inteligência artificial, computação em nuvem e metodologias ágeis. O foco está em criar soluções escaláveis, acessíveis e sustentáveis, enquanto se busca maior colaboração entre equipes e a automação de processos repetitivos. A educação e a acessibilidade em programação também são pilares dessa evolução.
+A programação está se tornando mais acessível e colaborativa, com linguagens de alto nível e ferramentas de integração contínua. A automação e a inteligência artificial estão redefinindo a forma como os sistemas são projetados e mantidos, enquanto os frameworks e bibliotecas aceleram o desenvolvimento. A segurança e a ética no desenvolvimento de software também estão ganhando mais relevância.
 
 ## 🔬 Detalhes
-- Programação evoluiu de linguagens de baixo nível para linguagens de alto nível que priorizam legibilidade e produtividade.
-- Metodologias ágeis, como Scrum e Kanban, tornaram-se padrão para gerenciar equipes de desenvolvimento.
-- Ferramentas de versionamento, como Git, democratizaram a colaboração em projetos de software.
-- Inteligência artificial e aprendizado de máquina estão moldando o futuro da programação, com ferramentas como ChatGPT e GitHub Copilot auxiliando desenvolvedores.
-- Arquiteturas modernas, como microsserviços e serverless, permitem maior escalabilidade e eficiência no desenvolvimento.
-- A educação em programação está mais acessível, com plataformas como freeCodeCamp, Codecademy e cursos online em massa (MOOCs).
+- **Crescimento das ferramentas de no-code/low-code**: democratizam o acesso ao desenvolvimento e são essenciais para prototipagem rápida.
+- **Inteligência Artificial**: tecnologias como aprendizado de máquina e geração de código automatizado estão transformando o ciclo de desenvolvimento.
+- **Metodologias Ágeis**: continuam sendo a base para equipes de desenvolvimento, com foco em entregas iterativas e maior colaboração.
+- **Segurança no desenvolvimento**: práticas de DevSecOps integram segurança ao pipeline de desenvolvimento desde o início.
+- **Programação distribuída**: a popularidade de microserviços e arquiteturas baseadas em contêineres reflete a necessidade de escalabilidade.
+- **Ética e impacto social**: debates sobre viés em algoritmos e sustentabilidade no desenvolvimento de software estão influenciando decisões técnicas.
 
 ## 🔗 Conexões
 - [[Claude API e Anthropic SDK]]
 - [[Projeto - Sistema Chamados]]
+- [[Referência - DevSecOps e segurança no ciclo de vida do software]]
 
 ## 📚 Fontes
-- [[Referência - Clean Code (Robert C. Martin)]]
-- [[Referência - Ágil e Scrum para Leigos]]
-- [[Referência - DevOps Handbook]]
+- [[Referência - Evolução da Programação no Contexto da IA]]
+- [[Referência - Metodologias Ágeis no Desenvolvimento de Software]]
+- [[Referência - Ferramentas Low-Code e No-Code]]
 
 ## 🚧 Lacunas
-- Como as ferramentas de IA podem impactar negativamente o emprego de desenvolvedores em longo prazo?
-- Quais são as barreiras para a adoção global de práticas modernas, como DevOps, em países em desenvolvimento?
-- Como equilibrar inovação tecnológica com sustentabilidade ambiental no desenvolvimento de software?
+- Quais são as implicações éticas mais urgentes do uso de IA na programação?
+- Como as ferramentas de no-code/low-code impactarão o papel dos desenvolvedores no longo prazo?
+- Quais linguagens de programação têm maior potencial de crescimento nos próximos anos?
 ```
