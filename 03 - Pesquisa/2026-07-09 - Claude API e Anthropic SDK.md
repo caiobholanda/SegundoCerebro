@@ -1,40 +1,56 @@
-```markdown
 ---
 tipo: pesquisa
 criado: 2026-07-09
 atualizado: 2026-07-09
-pergunta-central: Quais são as capacidades, limitações e melhores práticas para integrar a Claude API e o Anthropic SDK em projetos de IA?
-relacionado-a: []
-related: []
+pergunta-central: Quais são as novidades da Claude API e Anthropic SDK em julho de 2026?
+relacionado-a: [claude-code, ia, dev]
 tags: [pesquisa, ia, dev, claude]
 ---
 
-# Pesquisa - Claude API e Anthropic SDK
+# Pesquisa - Claude API e Anthropic SDK — 2026-07-09
 
 ## ❓ Pergunta central
-Quais são as capacidades, limitações e melhores práticas para integrar a Claude API e o Anthropic SDK em projetos de IA?
+Quais são as novidades da Claude API e Anthropic SDK em julho de 2026?
 
-## 🎯 Síntese (3-5 linhas)
-A Claude API e o Anthropic SDK oferecem ferramentas robustas para integrar modelos de linguagem avançados em aplicações. A API permite acesso direto às capacidades do modelo Claude, enquanto o SDK simplifica o desenvolvimento e a integração com bibliotecas personalizadas. No entanto, é fundamental compreender suas limitações em termos de personalização, custos e requisitos éticos.
+## 🎯 Síntese
+Julho traz consolidação da linha Claude 5 como padrão, com Sonnet 5 no Claude Code (promo $2/$10 até 31/ago), Opus 4.8 e Haiku 4.5 disponíveis na Messages API. Enterprise recebe analytics enriquecidas por usuário/grupo. Fast Mode Opus 4.7 será removido em 24/jul. Managed Agents ganha cron nativo e sandboxes auto-hospedados.
 
 ## 🔬 Detalhes
-- A **Claude API** é projetada para oferecer acesso aos modelos de linguagem da Anthropic, com foco em respostas seguras, úteis e alinhadas a valores éticos.
-- O **Anthropic SDK** é uma biblioteca que facilita a integração da API, incluindo ferramentas para gerenciamento de sessões, monitoramento de uso e ajuste de parâmetros.
-- A API suporta vários casos de uso, como geração de texto, análise de linguagem natural, e automação de processos, mas pode ter limitações em domínios altamente específicos.
-- Um diferencial da Anthropic é o foco em IA responsável, com políticas claras para evitar o uso indevido dos modelos e minimizar respostas problemáticas.
-- A **documentação oficial** da API e do SDK é bem detalhada e fornece exemplos práticos de implementação em linguagens como Python e JavaScript.
-- Considerações importantes incluem custos de uso, que variam com base no volume de chamadas à API, e a necessidade de conformidade com as políticas de uso da Anthropic.
+
+### Modelos Disponíveis
+- **Opus 4.8** e **Haiku 4.5** disponíveis na Messages API para coding, agentic work e reasoning complexo
+- **Sonnet 5** como modelo padrão no Claude Code — contexto nativo 1M tokens, 128k output
+- Sonnet 5 pricing promocional: **$2/$10 MTok** até 31/ago/2026 → $3/$15 em setembro
+
+### Deprecações
+- **Fast Mode Opus 4.7** depreciado — remoção em **24/jul/2026**
+- Após remoção, requests com `speed: "fast"` para `claude-opus-4-7` retornam erro
+
+### Enterprise & Analytics
+- Dashboard admin mostra uso e custo por **grupo e por usuário**
+- Exibe artefatos criados, arquivos editados, skills e connectors usados ao lado do custo
+- Novos **spend alerts** e model-level entitlements
+
+### Rate Limits & Tiers
+- Rate limits de Sonnet e Haiku agora **iguais ao Opus** em todos os tiers
+- Tiers consolidados em 3: **Start → Build → Scale**
+
+### Managed Agents
+- **Deployments agendados** via cron nativo — sem precisar de scheduler próprio
+- **Sandboxes auto-hospedados** disponíveis como alternativa à infra da Anthropic para execução de tools
 
 ## 🔗 Conexões
-- [[Pesquisa - Modelos de linguagem natural]]
-- [[Projeto - Sistema Chamados]]
+- [[2026-07-09 - Claude Code — CLI e agentes]]
+- [[2026-07-09 - Economia de Tokens em LLMs]]
+- [[2026-07-08 - Claude API e Anthropic SDK]]
 
 ## 📚 Fontes
-- [[Referência - Documentação Oficial da Claude API]]
-- [[Referência - Guia de boas práticas Anthropic SDK]]
+- [Claude Updates - July 2026 - Releasebot](https://releasebot.io/updates/anthropic/claude)
+- [Claude Platform Docs - Release Notes](https://platform.claude.com/docs/en/release-notes/overview)
+- [Introducing Claude Opus 4.8 - Anthropic](https://www.anthropic.com/news/claude-opus-4-8)
+- [Anthropic Release Notes - July 2026](https://releasebot.io/updates/anthropic)
 
 ## 🚧 Lacunas
-- Quais são os benchmarks de desempenho do Claude em comparação com outros modelos, como GPT-4?
-- Quais exemplos práticos bem-sucedidos existem de empresas que usaram o Anthropic SDK?
-- Como otimizar custos ao usar a Claude API em larga escala?
-```
+- Pricing definitivo do Haiku 4.5 após período promocional
+- Detalhes técnicos dos sandboxes auto-hospedados (requisitos, limites)
+- Data de GA definitiva para Managed Agents cron além de beta

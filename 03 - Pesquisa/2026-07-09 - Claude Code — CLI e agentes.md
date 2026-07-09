@@ -1,41 +1,54 @@
-```markdown
 ---
 tipo: pesquisa
 criado: 2026-07-09
 atualizado: 2026-07-09
-pergunta-central: Como o Claude Code pode ser utilizado em conjunto com CLI e agentes para automação e integração de fluxos de trabalho?
-relacionado-a: []
-related: [[Claude API e Anthropic SDK]]
+pergunta-central: Quais são as novidades do Claude Code CLI e sistema de agentes em julho de 2026?
+relacionado-a: [claude-api, ia, dev]
 tags: [pesquisa, ia, dev, claude]
 ---
 
-# Pesquisa - Claude Code — CLI e agentes
+# Pesquisa - Claude Code — CLI e agentes — 2026-07-09
 
 ## ❓ Pergunta central
-Como o Claude Code pode ser utilizado em conjunto com CLI e agentes para automação e integração de fluxos de trabalho?
+Quais são as novidades do Claude Code CLI e sistema de agentes em julho de 2026?
 
-## 🎯 Síntese (3-5 linhas)
-O Claude Code pode ser integrado à interface de linha de comando (CLI) para executar automações, gerenciar fluxos de trabalho e interagir com sistemas complexos. Ele possibilita a criação de agentes especializados que interpretam comandos, executam tarefas e retornam resultados, promovendo eficiência e escalabilidade. A combinação de IA com CLI amplia as possibilidades de personalização e simplificação de operações.
+## 🎯 Síntese
+Claude Code avança na profundidade agêntica: sub-agents podem gerar seus próprios sub-agents (até 5 níveis de chain), agent view exibe PRs vinculados e headlines legíveis, e a nova configuração de "Dynamic workflow size" orienta o escalonamento. Correções importantes em segurança (bloqueio de adulteração de transcript) e performance (updater -400 MB RAM).
 
 ## 🔬 Detalhes
-- O Claude Code fornece uma API que permite criar agentes de IA capazes de interpretar comandos e interagir diretamente com sistemas baseados em CLI.
-- A integração com CLI é útil para desenvolvedores que desejam automatizar tarefas repetitivas sem a necessidade de interfaces gráficas.
-- Agentes Claude podem ser configurados para executar comandos do sistema, manipular arquivos e acessar dados em tempo real.
-- A flexibilidade do Claude Code permite que os agentes sejam treinados para se adaptar a fluxos de trabalho específicos, incluindo integração com ferramentas como Git, Docker e SSH.
-- A segurança é um aspecto crítico na interação entre Claude e CLI, exigindo autenticação robusta e controle de permissões.
-- Exemplos de uso incluem automação de deploys, análise de logs, execução de scripts e respostas a consultas baseadas em dados locais.
+
+### Agentes Hierárquicos
+- **Sub-agents recursivos**: sub-agents podem spawnar seus próprios sub-agents
+- Background chains limitadas a **5 níveis de profundidade**
+- Habilita tarefas complexas e aninhadas de forma autônoma
+
+### Agent View Melhorado
+- Sessões que editam, mergeiam, comentam ou fazem push em PRs existentes **linkam o PR** no painel `claude agents`
+- Linhas exibem **estado colorido** + **headline** gerada pelo classificador (não mais raw tool call text)
+
+### Dynamic Workflow Size
+- Nova configuração em `/config` — opções: **small / medium / large** (contagem de agentes)
+- É uma **diretriz**, não um cap forçado
+
+### Performance & Segurança
+- Auto-update: binários agora streamados para disco (antes: buffered em memória) → reduz RAM pico em **~400 MB**
+- Auto mode: nova regra bloqueia **adulteração de arquivos de transcript de sessão**
+
+### Correções
+- Fix: agentes em background que apareciam como "failed" ou "completed" após `SendMessage` para resumir
+- Agentes que editam/mergeiam/comentam em PRs existentes agora vinculam corretamente no painel
 
 ## 🔗 Conexões
-- [[Claude API e Anthropic SDK]]
-- [[Projeto - Sistema Chamados]]
+- [[2026-07-09 - Claude API e Anthropic SDK]]
+- [[2026-07-08 - Claude Code — CLI e agentes]]
 
 ## 📚 Fontes
-- [[Referência - Documentação oficial Anthropic]]
-- [[Referência - Exemplos de automação com IA]]
-- [[Referência - Artigo sobre integração de IA e CLI]]
+- [Claude Code Updates - July 2026 - Releasebot](https://releasebot.io/updates/anthropic/claude-code)
+- [Claude Code Changelog](https://code.claude.com/docs/en/changelog)
+- [Claude Code Changelog - Gradually](https://www.gradually.ai/en/changelogs/claude-code/)
+- [Claude Code Features Guide 2026 - Toolsbase](https://toolsbase.dev/en/reference/claude-code-features)
 
 ## 🚧 Lacunas
-- Quais são as melhores práticas para garantir segurança ao usar Claude integrado a sistemas críticos via CLI?
-- Como medir a eficiência e o impacto real de agentes Claude em fluxos de trabalho corporativos?
-- Existem limitações técnicas específicas para certos sistemas operacionais ou linguagens ao integrar Claude com CLI?
-```
+- Documentação completa dos 5 níveis de chain — quando é que o limite pode ser aumentado?
+- Métricas reais de ganho de produtividade com sub-agents recursivos
+- Como o "Dynamic workflow size" interage com o budget de tokens e de tempo?
