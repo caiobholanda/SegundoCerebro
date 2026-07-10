@@ -3,38 +3,39 @@
 tipo: pesquisa
 criado: 2026-07-09
 atualizado: 2026-07-09
-pergunta-central: Quais são os principais desafios e oportunidades no mercado de TI no Brasil atualmente?
+pergunta-central: Quais são as principais tendências, desafios e oportunidades no mercado de TI no Brasil em 2026?
 relacionado-a: []
-related: [[Claude API e Anthropic SDK]], [[Projeto - Sistema Chamados]]
+related: []
 tags: [pesquisa, mercado, carreira]
 ---
 
 # Pesquisa - Mercado de TI no Brasil
 
 ## ❓ Pergunta central
-Quais são os principais desafios e oportunidades no mercado de TI no Brasil atualmente?
+Quais são as principais tendências, desafios e oportunidades no mercado de TI no Brasil em 2026?
 
 ## 🎯 Síntese (3-5 linhas)
-O mercado de TI no Brasil continua em expansão, impulsionado pela transformação digital e pela demanda por soluções tecnológicas em diversos setores. Apesar disso, enfrenta desafios como a escassez de profissionais qualificados e a necessidade de adaptação às tendências globais, como IA e cloud computing. O setor oferece oportunidades significativas para empresas e profissionais que investem em inovação e capacitação.
+O mercado de TI no Brasil está em constante crescimento, impulsionado pela transformação digital, adoção de tecnologias emergentes e demanda por profissionais qualificados. Há uma lacuna significativa entre oferta e demanda de talentos, com destaque para áreas como segurança cibernética, inteligência artificial e desenvolvimento de software. No entanto, desafios como a alta carga tributária, falta de infraestrutura em algumas regiões e a necessidade de maior inserção de diversidade no setor permanecem.
 
 ## 🔬 Detalhes
-- O Brasil é um dos maiores mercados de TI da América Latina, representando cerca de 40% do faturamento da região.
-- A demanda por profissionais qualificados em áreas como desenvolvimento de software, segurança cibernética e análise de dados supera a oferta disponível.
-- A adoção de tecnologias como inteligência artificial, blockchain e computação em nuvem tem acelerado no país, criando novas demandas e nichos.
-- Startups de tecnologia têm se destacado, especialmente nos segmentos de fintechs, edtechs e healthtechs.
-- Políticas de incentivo governamental e investimentos estrangeiros têm ajudado no crescimento do setor, mas burocracias e tributações ainda são barreiras significativas.
-- O trabalho remoto e híbrido, impulsionado pela pandemia, tem alterado a dinâmica do recrutamento e da retenção de talentos em TI.
+- O Brasil é o maior mercado de TI da América Latina, representando cerca de 40% do total da região.
+- A transformação digital nas empresas brasileiras acelerou após a pandemia de COVID-19, aumentando a demanda por soluções de cloud computing, big data e automação.
+- Profissões como desenvolvedores full stack, especialistas em segurança cibernética e cientistas de dados estão entre as mais requisitadas.
+- A escassez de profissionais qualificados é uma barreira significativa: estima-se que o país precise formar 70 mil profissionais de TI por ano para atender à demanda, mas forma apenas cerca de 46 mil.
+- Startups de tecnologia têm desempenhado um papel fundamental no ecossistema de inovação, com fintechs e agritechs liderando o crescimento.
+- Incentivos fiscais, como a Lei da Informática, têm ajudado a atrair investimentos para o setor, mas a carga tributária ainda é um obstáculo para muitas empresas.
 
 ## 🔗 Conexões
-- [[Claude API e Anthropic SDK]]
 - [[Projeto - Sistema Chamados]]
+- [[Referência - Transformação Digital no Brasil]]
 
 ## 📚 Fontes
-- [[Referência - Panorama da TI no Brasil 2026]]
-- [[Referência - Tendências Globais em Tecnologia]]
+- [[Referência - Panorama do Mercado de TI no Brasil 2026]]
+- [[Referência - Relatório sobre Startups e Inovação no Brasil]]
+- [[Referência - Educação e Formação de Profissionais de TI no Brasil]]
 
 ## 🚧 Lacunas
-- Quais regiões do Brasil têm maior potencial de crescimento no mercado de TI?
-- Qual é o impacto de políticas educacionais e de qualificação profissional na redução da escassez de talentos?
-- Como o mercado de TI brasileiro pode se posicionar melhor no cenário global frente às gigantes tecnológicas?
+- Qual o impacto das novas regulamentações de IA na atuação das empresas de TI no Brasil?
+- Como a infraestrutura tecnológica de regiões menos desenvolvidas pode ser melhorada para apoiar o crescimento do setor?
+- Quais estratégias podem ser adotadas para aumentar a inclusão e diversidade no mercado de TI brasileiro?
 ```
