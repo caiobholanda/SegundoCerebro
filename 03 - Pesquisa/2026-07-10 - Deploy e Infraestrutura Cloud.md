@@ -3,40 +3,39 @@
 tipo: pesquisa
 criado: 2026-07-10
 atualizado: 2026-07-10
-pergunta-central: Quais são as melhores práticas para realizar deploy e gerenciar infraestrutura em ambientes de cloud modernos?
+pergunta-central: Como criar e gerenciar uma infraestrutura de deploy eficiente e escalável na nuvem?
 relacionado-a: []
-related: [[Projeto - Sistema Chamados]]
+related: []
 tags: [pesquisa, dev, infra]
 ---
 
 # Pesquisa - Deploy e Infraestrutura Cloud
 
 ## ❓ Pergunta central
-Quais são as melhores práticas para realizar deploy e gerenciar infraestrutura em ambientes de cloud modernos?
+Como criar e gerenciar uma infraestrutura de deploy eficiente e escalável na nuvem?
 
 ## 🎯 Síntese (3-5 linhas)
-O deploy e a infraestrutura em cloud são essenciais para aplicações escaláveis e resilientes. Compreender estratégias como infraestrutura como código (IaC), automação, monitoramento e o uso de containers são fundamentais para garantir eficiência e segurança. A escolha adequada de provedores e ferramentas, bem como o gerenciamento de custos, são fatores-chave para o sucesso.
+A infraestrutura cloud permite implementar e escalar aplicações de forma ágil, utilizando ferramentas como contêineres, pipelines CI/CD, e serviços gerenciados. Escolher o provedor correto, garantir redundância e segurança, e otimizar custos são aspectos críticos. Automação e monitoramento contínuo são essenciais para sustentar operações em produção.
 
 ## 🔬 Detalhes
-- **Infraestrutura como Código (IaC)**: Ferramentas como Terraform e AWS CloudFormation permitem gerenciar recursos de forma programática, garantindo consistência e reprodutibilidade.
-- **Contêineres e Orquestração**: Docker e Kubernetes são padrões de mercado para deploy de aplicações com isolamento e escalabilidade.
-- **CICD (Integração e Entrega Contínua)**: Pipelines automatizados como GitHub Actions ou GitLab CI/CD agilizam deploys e minimizam erros humanos.
-- **Monitoramento e Observabilidade**: Ferramentas como Prometheus, Grafana e Datadog ajudam a identificar problemas em tempo real, garantindo alta disponibilidade.
-- **Gerenciamento de custos**: Plataformas como AWS, Azure e Google Cloud oferecem ferramentas como AWS Cost Explorer para controle financeiro e otimização.
-- **Segurança**: Práticas como gerenciamento de identidade (IAM), políticas de acesso restritas e uso de VPCs (Virtual Private Clouds) são essenciais para proteger dados e serviços.
+- **Provedores principais**: AWS, Azure e Google Cloud dominam o mercado, oferecendo uma ampla gama de serviços como computação, armazenamento e redes.
+- **Contêineres e Kubernetes**: Docker e Kubernetes são padrões de fato para orquestração de contêineres, permitindo isolamento e escalabilidade.
+- **Pipelines CI/CD**: Integração e entrega contínuas automatizam o processo de deploy, reduzindo erros manuais e acelerando o time-to-market.
+- **Infraestrutura como Código (IaC)**: Ferramentas como Terraform e AWS CloudFormation possibilitam a configuração e gestão da infraestrutura de forma declarativa.
+- **Monitoramento e Logs**: Soluções como Prometheus, Grafana e CloudWatch ajudam a rastrear desempenho, uso de recursos e detectar problemas rapidamente.
+- **Segurança**: Implementar autenticação multifator (MFA), gerenciamento de chaves e controle de acesso baseado em papéis (RBAC) são práticas recomendadas.
 
 ## 🔗 Conexões
+- [[Projeto - Sistema Chamados]]
 - [[Claude API e Anthropic SDK]]
-- [[Pesquisa - Arquitetura de Software Moderna]]
-- [[Referência - Kubernetes para Iniciantes]]
 
 ## 📚 Fontes
-- [[Referência - Livro Terraform Up & Running]]
-- [[Referência - Documentação Oficial do Docker]]
-- [[Referência - Kubernetes: The Complete Guide]]
+- [[Referência - Livro Kubernetes Up and Running]]
+- [[Referência - AWS Well-Architected Framework]]
+- [[Referência - Guia Oficial Terraform]]
 
 ## 🚧 Lacunas
-- Como otimizar pipelines CICD para diferentes linguagens e frameworks?
-- Quais são as estratégias mais eficazes para reduzir custos em aplicações que utilizam múltiplos provedores cloud?
-- Como integrar práticas de segurança avançadas com IaC, sem comprometer a agilidade dos deploys?
+- Quais são as melhores práticas para otimização de custos em diferentes provedores de cloud?
+- Como escolher entre soluções gerenciadas e autogerenciadas para bancos de dados na nuvem?
+- Qual o impacto da adoção de arquiteturas serverless em termos de custo, desempenho e manutenção?
 ```

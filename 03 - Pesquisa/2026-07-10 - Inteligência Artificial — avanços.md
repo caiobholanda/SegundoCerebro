@@ -1,41 +1,40 @@
-```markdown
 ---
 tipo: pesquisa
 criado: 2026-07-10
 atualizado: 2026-07-10
-pergunta-central: Quais são os avanços mais impactantes da inteligência artificial atualmente, e como estão transformando diferentes setores?
+pergunta-central: Quais os avanços mais significativos em inteligência artificial nos últimos anos e como eles estão moldando o futuro?
 relacionado-a: []
-related: [[Claude API e Anthropic SDK]], [[Pesquisa - Ética na IA]]
+related: [[Claude API e Anthropic SDK]]
 tags: [pesquisa, ia]
 ---
 
 # Pesquisa - Inteligência Artificial — avanços
 
 ## ❓ Pergunta central
-Quais são os avanços mais impactantes da inteligência artificial atualmente, e como estão transformando diferentes setores?
+Quais os avanços mais significativos em inteligência artificial nos últimos anos e como eles estão moldando o futuro?
 
 ## 🎯 Síntese (3-5 linhas)
-Nos últimos anos, a inteligência artificial tem avançado em áreas como aprendizado profundo, processamento de linguagem natural e geração de conteúdo. Tecnologias como modelos generativos (ex.: GPT-4) e IA explicável estão revolucionando setores como saúde, educação e negócios. No entanto, desafios éticos e técnicos ainda persistem, exigindo regulamentações e maior transparência.
+Nos últimos anos, a inteligência artificial tem avançado rapidamente, impactando áreas como saúde, transporte e criatividade. Tecnologias como modelos de linguagem de grande escala (LLMs), aprendizado por reforço e sistemas de IA generativa abriram novas possibilidades, mas também levantaram questões éticas. A integração com outras áreas, como computação quântica e robótica, promete expandir ainda mais as aplicações no futuro próximo.
 
 ## 🔬 Detalhes
-- Modelos de linguagem natural, como GPT-4 e Claude, estão refinando interações humano-máquina com comunicação mais natural e eficiente.
-- IA generativa permite a criação de imagens, vídeos, música e textos de alta qualidade, impulsionando setores criativos e educacionais.
-- Avanços em aprendizado profundo melhoram diagnósticos médicos, como detecção precoce de doenças ao analisar imagens radiológicas.
-- Veículos autônomos estão utilizando IA avançada para navegação em ambientes urbanos complexos, reduzindo acidentes e otimizando transportes.
-- IA explicável e interpretável torna os modelos mais transparentes, facilitando sua aplicação em setores críticos como saúde e justiça.
-- A integração da IA em sistemas de recomendação está revolucionando o comércio eletrônico, personalizando a experiência do consumidor.
+- O desenvolvimento de modelos de linguagem de grande escala, como GPT-4 e Claude, trouxe avanços significativos em geração de texto, tradução e compreensão de linguagem natural.
+- Sistemas de aprendizado por reforço têm sido usados para resolver problemas complexos, como estratégias em jogos (ex.: AlphaZero no xadrez) e otimização de processos industriais.
+- A IA generativa, como DALL·E e MidJourney, tem revolucionado áreas criativas, permitindo a geração de imagens, música e até vídeos a partir de descrições textuais.
+- A integração entre IA e biotecnologia resultou em avanços notáveis, como a aceleração no desenvolvimento de medicamentos, incluindo o uso de IA para prever estruturas de proteínas (ex.: AlphaFold).
+- A criação de sistemas autônomos, como veículos autônomos e drones, está transformando setores como transporte e logística.
+- A combinação de IA com computação quântica está em fase inicial, mas promete resolver problemas matemáticos e de otimização que os computadores clássicos não conseguem.
 
 ## 🔗 Conexões
 - [[Claude API e Anthropic SDK]]
-- [[Pesquisa - Ética na IA]]
+- [[Pesquisa - Ética em inteligência artificial]]
+- [[Referência - AlphaFold e biotecnologia]]
 
 ## 📚 Fontes
-- [[Referência - OpenAI GPT-4]]
-- [[Referência - Pesquisa em IA da Google DeepMind]]
-- [[Referência - Aplicações médicas da IA]]
+- [[Referência - GPT-4 e modelos de linguagem]]
+- [[Referência - IA generativa e criatividade]]
+- [[Referência - Aplicações de IA no setor de saúde]]
 
 ## 🚧 Lacunas
-- Quais são os impactos a longo prazo dos modelos generativos na economia e na sociedade?
-- Como os avanços em IA explicável podem mitigar preconceitos algorítmicos?
-- Quais são as implicações éticas do uso de IA em sistemas de vigilância e segurança?
-```
+- Qual o impacto a longo prazo da IA generativa na economia criativa e nos empregos humanos?
+- Como a integração de IA com computação quântica pode transformar áreas específicas, como cibersegurança?
+- Quais são as melhores práticas para regulamentar o uso ético de IA em aplicações sensíveis?
