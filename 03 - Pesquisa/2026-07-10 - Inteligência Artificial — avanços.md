@@ -1,8 +1,9 @@
+```markdown
 ---
 tipo: pesquisa
 criado: 2026-07-10
 atualizado: 2026-07-10
-pergunta-central: Quais os avanços mais significativos em inteligência artificial nos últimos anos e como eles estão moldando o futuro?
+pergunta-central: Quais são os avanços mais impactantes na Inteligência Artificial em 2026 e como eles estão moldando diversos setores?
 relacionado-a: []
 related: [[Claude API e Anthropic SDK]]
 tags: [pesquisa, ia]
@@ -11,30 +12,31 @@ tags: [pesquisa, ia]
 # Pesquisa - Inteligência Artificial — avanços
 
 ## ❓ Pergunta central
-Quais os avanços mais significativos em inteligência artificial nos últimos anos e como eles estão moldando o futuro?
+Quais são os avanços mais impactantes na Inteligência Artificial em 2026 e como eles estão moldando diversos setores?
 
 ## 🎯 Síntese (3-5 linhas)
-Nos últimos anos, a inteligência artificial tem avançado rapidamente, impactando áreas como saúde, transporte e criatividade. Tecnologias como modelos de linguagem de grande escala (LLMs), aprendizado por reforço e sistemas de IA generativa abriram novas possibilidades, mas também levantaram questões éticas. A integração com outras áreas, como computação quântica e robótica, promete expandir ainda mais as aplicações no futuro próximo.
+Em 2026, a Inteligência Artificial continua avançando em áreas como modelos generativos, aprendizado profundo e integração em sistemas autônomos. A adoção de IA tem transformado setores como saúde, educação e logística, enquanto questões éticas e regulamentações ganham destaque para garantir o uso responsável dessas tecnologias.
 
 ## 🔬 Detalhes
-- O desenvolvimento de modelos de linguagem de grande escala, como GPT-4 e Claude, trouxe avanços significativos em geração de texto, tradução e compreensão de linguagem natural.
-- Sistemas de aprendizado por reforço têm sido usados para resolver problemas complexos, como estratégias em jogos (ex.: AlphaZero no xadrez) e otimização de processos industriais.
-- A IA generativa, como DALL·E e MidJourney, tem revolucionado áreas criativas, permitindo a geração de imagens, música e até vídeos a partir de descrições textuais.
-- A integração entre IA e biotecnologia resultou em avanços notáveis, como a aceleração no desenvolvimento de medicamentos, incluindo o uso de IA para prever estruturas de proteínas (ex.: AlphaFold).
-- A criação de sistemas autônomos, como veículos autônomos e drones, está transformando setores como transporte e logística.
-- A combinação de IA com computação quântica está em fase inicial, mas promete resolver problemas matemáticos e de otimização que os computadores clássicos não conseguem.
+- Modelos de linguagem generativa, como o GPT-4 e sucessores, estão cada vez mais precisos e integrados em soluções empresariais.
+- IA aplicada em diagnósticos médicos permite identificar doenças raras com maior precisão e rapidez.
+- Sistemas autônomos, como veículos sem motorista, estão em fase de testes avançados em cidades inteligentes.
+- Tecnologias de IA estão ajudando a personalizar o aprendizado em instituições educacionais, adaptando currículos ao ritmo de cada aluno.
+- Avanços em IA generativa impulsionam a criação de arte e conteúdo digital, gerando discussões sobre direitos autorais e originalidade.
+- Políticas públicas e regulamentações globais estão sendo desenvolvidas para mitigar riscos éticos e garantir transparência no uso da IA.
 
 ## 🔗 Conexões
 - [[Claude API e Anthropic SDK]]
-- [[Pesquisa - Ética em inteligência artificial]]
-- [[Referência - AlphaFold e biotecnologia]]
+- [[Pesquisa - Ética na Inteligência Artificial]]
+- [[Referência - Impactos da IA na Educação]]
 
 ## 📚 Fontes
-- [[Referência - GPT-4 e modelos de linguagem]]
-- [[Referência - IA generativa e criatividade]]
-- [[Referência - Aplicações de IA no setor de saúde]]
+- [[Referência - OpenAI GPT-4 Whitepaper]]
+- [[Referência - Relatório da OMS sobre IA na Saúde]]
+- [[Referência - Tendências em IA 2026]]
 
 ## 🚧 Lacunas
-- Qual o impacto a longo prazo da IA generativa na economia criativa e nos empregos humanos?
-- Como a integração de IA com computação quântica pode transformar áreas específicas, como cibersegurança?
-- Quais são as melhores práticas para regulamentar o uso ético de IA em aplicações sensíveis?
+- Quais são os impactos ambientais do crescimento dos modelos de IA e como eles podem ser mitigados?
+- Como os avanços em IA podem ser usados para melhorar a acessibilidade digital?
+- Quais são os desafios mais urgentes na regulamentação de IA em nível global?
+```
