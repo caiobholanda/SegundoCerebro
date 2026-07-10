@@ -3,39 +3,39 @@
 tipo: pesquisa
 criado: 2026-07-10
 atualizado: 2026-07-10
-pergunta-central: Como criar e gerenciar uma infraestrutura eficiente e escalável para deploys em cloud?
+pergunta-central: Quais são as melhores práticas e ferramentas atuais para deploy e gerenciamento de infraestrutura cloud escalável e segura?
 relacionado-a: []
-related: []
+related: [[Claude API e Anthropic SDK]]
 tags: [pesquisa, dev, infra]
 ---
 
 # Pesquisa - Deploy e Infraestrutura Cloud
 
 ## ❓ Pergunta central
-Como criar e gerenciar uma infraestrutura eficiente e escalável para deploys em cloud?
+Quais são as melhores práticas e ferramentas atuais para deploy e gerenciamento de infraestrutura cloud escalável e segura?
 
 ## 🎯 Síntese (3-5 linhas)
-Deploy e infraestrutura cloud são pilares da computação moderna, permitindo que aplicações sejam disponibilizadas de forma confiável, segura e escalável. A escolha da arquitetura apropriada (como serverless, containers ou VMs), aliada ao uso de ferramentas de automação e boas práticas de segurança, é essencial para maximizar eficiência e minimizar custos. O monitoramento contínuo e a adaptação são igualmente cruciais para suportar demandas variáveis.
+Deploy e gerenciamento de infraestrutura cloud são pilares essenciais para sistemas modernos. As práticas mais recomendadas incluem o uso de pipelines CI/CD, infraestrutura como código (IaC) para consistência, observabilidade robusta e a adoção de arquiteturas serverless ou baseadas em containers para escalabilidade. Ferramentas como Terraform, Kubernetes e AWS CloudFormation são amplamente utilizadas para automatizar e orquestrar esses processos.
 
 ## 🔬 Detalhes
-- **Modelos de Deploy**: Os principais modelos incluem serverless (ex.: AWS Lambda), containers (ex.: Docker, Kubernetes) e máquinas virtuais (ex.: EC2).
-- **Infraestrutura como Código (IaC)**: Ferramentas como Terraform e AWS CloudFormation permitem gerenciar infraestrutura como código, facilitando replicabilidade e controle de versão.
-- **Automação de CI/CD**: Ferramentas como GitHub Actions, Jenkins e GitLab CI/CD permitem integração e entrega contínuas, reduzindo tempo de deploy e erros manuais.
-- **Escalabilidade**: Horizontal (adicionar mais máquinas) e vertical (aumentar capacidade de máquinas existentes) são estratégias para lidar com crescimento de demanda.
-- **Segurança**: Práticas como controle de acesso baseado em funções (RBAC), uso de VPNs e criptografia de dados são fundamentais para proteger a infraestrutura.
-- **Custos**: Monitorar e otimizar o uso de recursos (ex.: instâncias spot, desligar recursos ociosos) é essencial para controlar gastos em cloud.
+- **Infraestrutura como Código (IaC):** Ferramentas como Terraform e AWS CloudFormation permitem gerenciar infraestrutura de forma declarativa, garantindo consistência e rastreabilidade.
+- **Pipelines CI/CD:** Automatizar builds, testes e deploys com ferramentas como GitHub Actions, GitLab CI/CD, Jenkins ou CircleCI é essencial para reduzir erros e acelerar entregas.
+- **Orquestração com Kubernetes:** Kubernetes é a solução padrão para gerenciar containers em produção, oferecendo escalabilidade automática, recuperação de falhas e otimização de recursos.
+- **Uso de Serverless:** Plataformas como AWS Lambda e Google Cloud Functions permitem execução de código sob demanda, reduzindo custos e aumentando a eficiência.
+- **Observabilidade:** Monitoramento com Prometheus, Grafana, e serviços de logging (como ELK Stack ou AWS CloudWatch) é crucial para identificar e mitigar problemas rapidamente.
+- **Segurança na Cloud:** Implementação de práticas como autenticação de dois fatores (2FA), controle de acessos via IAM (Identity Access Management) e criptografia de dados em trânsito e em repouso.
 
 ## 🔗 Conexões
 - [[Claude API e Anthropic SDK]]
 - [[Projeto - Sistema Chamados]]
 
 ## 📚 Fontes
-- [[Referência - AWS Well-Architected Framework]]
-- [[Referência - Livro Infrastructure as Code (Kief Morris)]]
-- [[Referência - Artigo Kubernetes para iniciantes]]
+- [[Referência - Terraform Documentation]]
+- [[Referência - Kubernetes Fundamentals]]
+- [[Referência - AWS CloudFormation Best Practices]]
 
 ## 🚧 Lacunas
-- Como calcular o custo-benefício entre diferentes provedores de cloud (AWS, Azure, GCP)?
-- Quais critérios usar para decidir entre containers e serverless em projetos específicos?
-- Quais são as melhores práticas para gerenciar logs e monitoramento em ambientes multi-cloud?
+- Quais são os desafios mais recentes enfrentados ao gerenciar infraestrutura multi-cloud?
+- Como integrar ferramentas de observabilidade em arquiteturas híbridas (on-premise + cloud)?
+- Quais são os custos reais de adoção de serverless em projetos de grande escala?
 ```
