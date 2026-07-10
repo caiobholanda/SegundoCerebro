@@ -1,40 +1,40 @@
-```markdown
 ---
 tipo: pesquisa
 criado: 2026-07-10
 atualizado: 2026-07-10
-pergunta-central: Quais são as principais tendências e desafios do mercado de TI no Brasil em 2026?
+pergunta-central: Quais são as tendências e desafios do mercado de TI no Brasil em 2026?
 relacionado-a: []
-related: [[Projeto - Sistema Chamados]]
+related: []
 tags: [pesquisa, mercado, carreira]
 ---
 
 # Pesquisa - Mercado de TI no Brasil
 
 ## ❓ Pergunta central
-Quais são as principais tendências e desafios do mercado de TI no Brasil em 2026?
+Quais são as tendências e desafios do mercado de TI no Brasil em 2026?
 
 ## 🎯 Síntese (3-5 linhas)
-O mercado de TI no Brasil segue em crescimento acelerado, impulsionado pela demanda por transformação digital e tecnologias emergentes como inteligência artificial e computação em nuvem. Apesar do aumento na oferta de vagas, há um déficit significativo de profissionais qualificados. Além disso, questões regulatórias e a infraestrutura limitada continuam sendo desafios importantes.
+O mercado de TI no Brasil é um dos que mais cresce, impulsionado pela transformação digital e avanços em áreas como inteligência artificial, computação em nuvem e segurança cibernética. Apesar disso, enfrenta desafios como a escassez de mão de obra qualificada e a necessidade de políticas públicas mais robustas para fomentar a inovação e infraestrutura tecnológica. Startups e empresas consolidadas estão investindo em soluções para setores como agronegócio, saúde e finanças.
 
 ## 🔬 Detalhes
-- O mercado de TI representa cerca de 8% do PIB brasileiro, com projeção de crescimento contínuo nos próximos anos.
-- Inteligência artificial, automação e análise de dados são áreas de grande demanda, atraindo investimentos significativos.
-- A escassez de profissionais qualificados é um dos maiores desafios, com estimativas de que faltam mais de 400 mil especialistas na área.
-- Empresas estão buscando alternativas como capacitação interna e parceria com instituições educacionais para preencher as lacunas de habilidades.
-- Startups de tecnologia desempenham um papel crucial no ecossistema, especialmente em fintechs e healthtechs.
-- Questões como segurança cibernética e compliance regulatório estão ganhando relevância, especialmente com a LGPD em vigor.
+- O mercado de TI no Brasil deve crescer cerca de 7% em 2026, segundo projeções da Associação Brasileira das Empresas de Tecnologia da Informação e Comunicação (Brasscom).
+- A demanda por profissionais qualificados continua a superar a oferta, com um déficit estimado de 500 mil vagas até 2030.
+- Setores como fintechs, healthtechs e agritechs estão em alta e atraem investimentos nacionais e internacionais.
+- O avanço da inteligência artificial e do aprendizado de máquina está gerando novas oportunidades, mas também exigindo maior capacitação técnica.
+- A adoção da computação em nuvem cresceu significativamente, com 90% das empresas brasileiras já utilizando algum tipo de serviço na nuvem.
+- Problemas estruturais como a baixa conectividade em áreas remotas e a falta de incentivos fiscais ainda limitam o pleno desenvolvimento do setor.
 
 ## 🔗 Conexões
-- [[Claude API e Anthropic SDK]]
-- [[Área - Carreira em TI]]
+- [[Pesquisa - Transformação Digital no Brasil]]
+- [[Referência - Brasscom Relatório 2025]]
+- [[Projeto - Sistema Chamados]]
 
 ## 📚 Fontes
-- [[Referência - Panorama do mercado de TI no Brasil 2026]]
-- [[Referência - Relatório sobre impacto da LGPD no mercado de tecnologia]]
+- [[Referência - Brasscom Relatório 2025]]
+- [[Referência - Relatório ABES 2026]]
+- [[Referência - Panorama Setorial TI Sebrae]]
 
 ## 🚧 Lacunas
-- Qual é o impacto do ensino híbrido e remoto na formação de novos profissionais de TI?
-- Como as empresas brasileiras estão se adaptando às tecnologias emergentes, como IA generativa e blockchain?
-- Quais são os efeitos da globalização no mercado de trabalho em TI no Brasil, especialmente na exportação de serviços?
-```
+- Quais serão os impactos exatos da regulamentação da inteligência artificial no Brasil?
+- Como ampliar o acesso à internet e infraestrutura tecnológica fora dos grandes centros?
+- Quais são os planos futuros de grandes empresas de TI no Brasil para fomentar a capacitação de novos profissionais?
