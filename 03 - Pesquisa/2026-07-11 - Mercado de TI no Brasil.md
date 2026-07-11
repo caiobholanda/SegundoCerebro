@@ -3,38 +3,38 @@
 tipo: pesquisa
 criado: 2026-07-11
 atualizado: 2026-07-11
-pergunta-central: Quais são as principais tendências e desafios do mercado de TI no Brasil atualmente?
+pergunta-central: Qual é o panorama atual do mercado de TI no Brasil e quais tendências estão moldando seu futuro?
 relacionado-a: []
-related: []
+related: [[Projeto - Sistema Chamados]]
 tags: [pesquisa, mercado, carreira]
 ---
 
 # Pesquisa - Mercado de TI no Brasil
 
 ## ❓ Pergunta central
-Quais são as principais tendências e desafios do mercado de TI no Brasil atualmente?
+Qual é o panorama atual do mercado de TI no Brasil e quais tendências estão moldando seu futuro?
 
 ## 🎯 Síntese (3-5 linhas)
-O mercado de TI no Brasil continua em expansão, impulsionado pela transformação digital e pela adoção de tecnologias emergentes. No entanto, enfrenta desafios como a alta demanda por profissionais qualificados, a necessidade de adaptação às regulamentações de proteção de dados e a desigualdade no acesso à tecnologia em diferentes regiões do país. Startups e o setor de outsourcing seguem como vetores de crescimento.
+O mercado de TI no Brasil vem crescendo exponencialmente, impulsionado pela demanda por transformação digital em diversos setores. Entretanto, enfrenta desafios como a escassez de mão de obra qualificada e a necessidade de maior investimento em educação tecnológica. As tendências incluem a adoção de IA, computação em nuvem e expansão de startups voltadas para soluções digitais inovadoras.
 
 ## 🔬 Detalhes
-- O setor de TI no Brasil cresceu cerca de 10% ao ano nos últimos cinco anos, impulsionado por demandas de transformação digital em empresas de todos os portes.
-- A Lei Geral de Proteção de Dados (LGPD) tem impactado as práticas de segurança e governança de dados, criando novas oportunidades e demandas no mercado de compliance.
-- Existe um déficit de profissionais qualificados no mercado, com uma estimativa de 500 mil vagas não preenchidas até 2026.
-- Startups brasileiras de tecnologia têm atraído investimentos significativos, com o Brasil sendo o principal polo de startups da América Latina.
-- O mercado de outsourcing de TI continua crescendo, com empresas internacionais buscando parceiros no Brasil devido à combinação de custo competitivo e talento técnico.
-- Setores como fintechs, healthtechs e edtechs lideram a inovação tecnológica no país, enquanto tecnologias como inteligência artificial e cloud computing são tendências-chave.
+- O mercado de TI brasileiro movimentou mais de R$ 300 bilhões em 2025, representando um aumento de 12% em relação ao ano anterior.
+- A demanda por profissionais qualificados ultrapassa a oferta, com um déficit estimado de 100 mil vagas anuais.
+- Setores como saúde, educação e agronegócio estão entre os que mais buscam soluções tecnológicas no Brasil.
+- A computação em nuvem e serviços relacionados lideram o crescimento no país, com mais empresas migrando para soluções escaláveis e seguras.
+- Startups de tecnologia têm recebido recordes de investimentos, principalmente nas áreas de fintechs, edtechs e agritechs.
+- A adoção de inteligência artificial está em alta, com aplicações em automação, análise de dados e atendimento ao cliente.
 
 ## 🔗 Conexões
-- [[Projeto - Sistema Chamados]]
 - [[Claude API e Anthropic SDK]]
+- [[Pesquisa - Transformação Digital no Brasil]]
 
 ## 📚 Fontes
-- [[Referência - Panorama do Mercado de TI no Brasil 2026]]
-- [[Referência - Impactos da LGPD no Setor de TI]]
+- [[Referência - Panorama do Mercado de TI no Brasil 2025]]
+- [[Referência - Relatório de Startups no Brasil]]
 
 ## 🚧 Lacunas
-- Qual é o impacto da desigualdade regional no acesso a oportunidades de carreira em TI no Brasil?
-- Como pequenas e médias empresas estão adotando tecnologias emergentes como IA e automação?
-- Quais políticas públicas estão sendo implementadas para reduzir o déficit de profissionais qualificados no setor?
+- Quais políticas públicas podem ser implementadas para reduzir o déficit de profissionais qualificados em TI no Brasil?
+- Como o mercado de trabalho de TI no Brasil está se adaptando às novas tecnologias emergentes, como computação quântica?
+- Quais são os impactos das regulamentações nacionais e globais no desenvolvimento de empresas de tecnologia no Brasil?
 ```
