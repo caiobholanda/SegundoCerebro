@@ -1,8 +1,9 @@
+```markdown
 ---
 tipo: pesquisa
 criado: 2026-07-11
 atualizado: 2026-07-11
-pergunta-central: Qual é o panorama atual e as tendências do mercado de TI no Brasil?
+pergunta-central: Quais são as tendências, desafios e oportunidades no mercado de TI no Brasil em 2026?
 relacionado-a: []
 related: []
 tags: [pesquisa, mercado, carreira]
@@ -11,28 +12,30 @@ tags: [pesquisa, mercado, carreira]
 # Pesquisa - Mercado de TI no Brasil
 
 ## ❓ Pergunta central
-Qual é o panorama atual e as tendências do mercado de TI no Brasil?
+Quais são as tendências, desafios e oportunidades no mercado de TI no Brasil em 2026?
 
 ## 🎯 Síntese (3-5 linhas)
-O mercado de TI no Brasil cresce consistentemente, impulsionado pela transformação digital, expansão de startups e aumento da demanda por soluções tecnológicas em setores como saúde, educação e finanças. Apesar disso, há um déficit de profissionais qualificados. Tendências como inteligência artificial, computação em nuvem e segurança cibernética estão moldando o futuro do setor.
+O mercado de TI no Brasil continua em expansão, impulsionado pela crescente digitalização dos negócios e pela adoção de novas tecnologias como IA e computação em nuvem. Contudo, desafios como a escassez de profissionais qualificados e a desigualdade de acesso à tecnologia ainda persistem. Áreas como segurança cibernética, desenvolvimento de software e análise de dados têm alta demanda, enquanto iniciativas de educação e inclusão digital se tornam essenciais para sustentar o crescimento do setor.
 
 ## 🔬 Detalhes
-- A indústria de TI no Brasil apresentou crescimento constante, mesmo durante crises econômicas, devido à digitalização de empresas e serviços.
-- Há um déficit de profissionais qualificados; estima-se que até 2026, mais de 400 mil vagas podem ficar abertas devido à falta de mão de obra especializada.
-- Setores como fintechs, healthtechs e edtechs têm liderado a inovação no país, com investimentos crescentes.
-- Adoção de inteligência artificial, Internet das Coisas (IoT) e computação em nuvem são as principais áreas de destaque no mercado nacional.
-- O trabalho remoto tornou-se uma constante no setor de TI, permitindo que profissionais brasileiros atuem para empresas internacionais sem sair do país.
-- Programas de capacitação e parcerias público-privadas têm surgido para suprir a demanda por qualificação na área.
+- A demanda por profissionais de TI no Brasil cresceu exponencialmente, com destaque para áreas como desenvolvimento de software, análise de dados, segurança cibernética e inteligência artificial.
+- Empresas brasileiras estão investindo cada vez mais em transformação digital, adotando tecnologias como computação em nuvem, automação de processos e big data.
+- Apesar do crescimento, existe um déficit significativo de mão de obra qualificada, estimado em cerca de 400 mil vagas abertas na área até 2026.
+- Startups de tecnologia continuam a proliferar no Brasil, com foco em fintechs, edtechs e healthtechs, atraindo investimentos significativos.
+- A desigualdade no acesso à internet e à educação tecnológica limita o crescimento do setor em regiões menos desenvolvidas do país.
+- Políticas públicas e parcerias entre empresas e instituições de ensino têm ganhado espaço para tentar reduzir o gap de habilidades e promover a inclusão digital no mercado de trabalho.
 
 ## 🔗 Conexões
-- [[Pesquisa - Educação e capacitação tecnológica no Brasil]]
+- [[Pesquisa - Futuro do trabalho e automação]]
 - [[Projeto - Sistema Chamados]]
 
 ## 📚 Fontes
-- [[Referência - Relatório sobre o mercado de TI no Brasil 2026]]
-- [[Referência - Estudo sobre déficit de profissionais em TI no Brasil]]
+- [[Referência - Estudo sobre o mercado de TI no Brasil (2025)]]
+- [[Referência - Relatório Anual de TI - Associação Brasileira de Empresas de Tecnologia (ABES)]]
+- [[Referência - Impacto da automação no mercado de trabalho brasileiro (2026)]]
 
 ## 🚧 Lacunas
-- Quais políticas públicas podem ser implementadas para reduzir o déficit de profissionais de TI no Brasil?
-- Qual é o impacto da desvalorização cambial na competitividade internacional do mercado brasileiro de TI?
-- Como as pequenas e médias empresas estão se adaptando à transformação digital no Brasil?
+- Qual é o impacto da crescente automação no mercado de TI brasileiro e quais áreas podem ser mais afetadas?
+- Como políticas públicas específicas podem acelerar a redução da desigualdade no acesso à tecnologia e à educação em TI?
+- Quais são as estratégias mais eficazes para empresas enfrentarem a escassez de profissionais qualificados no Brasil?
+```
