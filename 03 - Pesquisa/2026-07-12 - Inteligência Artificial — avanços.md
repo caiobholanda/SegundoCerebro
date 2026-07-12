@@ -1,40 +1,43 @@
+```markdown
 ---
 tipo: pesquisa
 criado: 2026-07-12
 atualizado: 2026-07-12
-pergunta-central: Quais são os avanços mais significativos em inteligência artificial e como eles estão moldando diferentes setores?
+pergunta-central: Quais têm sido os avanços mais significativos em inteligência artificial nos últimos anos e como eles estão moldando o futuro?
 relacionado-a: []
-related: []
-tags: ["pesquisa", "ia"]
+related: [[Claude API e Anthropic SDK]]
+tags: [pesquisa, ia]
 ---
 
 # Pesquisa - Inteligência Artificial — avanços
 
 ## ❓ Pergunta central
-Quais são os avanços mais significativos em inteligência artificial e como eles estão moldando diferentes setores?
+Quais têm sido os avanços mais significativos em inteligência artificial nos últimos anos e como eles estão moldando o futuro?
 
 ## 🎯 Síntese (3-5 linhas)
-Os avanços recentes em inteligência artificial incluem modelos de linguagem cada vez mais sofisticados, como os baseados em arquitetura Transformer, o uso de IA generativa para criação de conteúdo e o fortalecimento de aplicações em áreas como saúde, segurança e transporte. Apesar disso, questões éticas, de regulação e impacto social continuam sendo desafios críticos. O ritmo acelerado de desenvolvimento promete reconfigurar a forma como interagimos com a tecnologia.
+Nos últimos anos, a inteligência artificial evoluiu rapidamente, com avanços notáveis em modelos de linguagem, aprendizado profundo e inteligência artificial generativa. Ferramentas como GPT e Claude redefiniram a interação humano-máquina, enquanto progressos em áreas como visão computacional e aprendizado por reforço estão transformando indústrias. No entanto, desafios éticos e técnicos ainda precisam ser enfrentados para garantir um futuro sustentável e seguro.
 
 ## 🔬 Detalhes
-- Modelos de linguagem como GPT-4 e Claude 2 estabeleceram novos padrões para compreensão e geração de texto natural.
-- IA generativa, como DALL·E e MidJourney, revolucionou a criação artística e a produção de mídia.
-- Aplicações em saúde incluem diagnósticos assistidos por IA e análise de genomas para medicina personalizada.
-- Veículos autônomos, como os desenvolvidos pela Tesla e Waymo, estão avançando com algoritmos mais precisos de visão computacional.
-- Grandes empresas estão integrando IA em fluxos de trabalho para automação de processos, como atendimento ao cliente e análise de dados.
-- Apesar dos avanços, há preocupações com viés algorítmico, perda de empregos e a necessidade de regulamentação ética.
+- Modelos de linguagem como GPT-4 e Claude têm avançado significativamente, permitindo interações mais humanas e compreensão mais profunda de contextos complexos.
+- A IA generativa tem revolucionado setores criativos, desde a produção de arte e música até a redação de textos e programação.
+- Aprendizado por reforço tem sido utilizado para resolver problemas complexos, como na robótica e em jogos estratégicos (ex.: AlphaGo e AlphaStar).
+- Avanços em visão computacional têm possibilitado aplicações práticas como carros autônomos, reconhecimento facial e diagnóstico médico por imagens.
+- Integração de IA com tecnologias emergentes, como computação quântica, está sendo explorada para resolver problemas computacionais de alta complexidade.
+- Cresce a preocupação com ética na IA, incluindo viés algorítmico, privacidade de dados e os impactos sociais da automação em larga escala.
 
 ## 🔗 Conexões
 - [[Claude API e Anthropic SDK]]
-- [[Pesquisa - Ética em Inteligência Artificial]]
-- [[Referência - OpenAI e o futuro da IA]]
+- [[Pesquisa - Ética em inteligência artificial]]
+- [[Pesquisa - Aprendizado de máquina e suas aplicações]]
+- [[Referência - OpenAI e o impacto do GPT-4]]
 
 ## 📚 Fontes
-- [[Referência - Livro Artificial Intelligence: A Guide to Intelligent Systems]]
-- [[Referência - Artigo sobre IA generativa na saúde]]
-- [[Referência - Estudo de caso Tesla e veículos autônomos]]
+- [[Referência - OpenAI e o impacto do GPT-4]]
+- [[Referência - Relatório 2025 sobre IA da Stanford University]]
+- [[Referência - Livro - Artificial Intelligence: A Guide to Intelligent Systems]]
 
 ## 🚧 Lacunas
-- Como regulamentar o uso de IA de forma global e eficiente?
-- Quais serão os impactos de longo prazo da IA generativa em profissões criativas?
-- Como garantir que o progresso em IA seja inclusivo e beneficie populações desfavorecidas?
+- Como a regulação internacional pode acompanhar o ritmo dos avanços em inteligência artificial?
+- Quais são os limites técnicos atuais para modelos generativos e como superá-los?
+- Como o público em geral está se adaptando às mudanças trazidas pela IA em suas vidas cotidianas?
+```
