@@ -3,7 +3,7 @@
 tipo: pesquisa
 criado: 2026-07-12
 atualizado: 2026-07-12
-pergunta-central: Quais são as principais tendências e desafios do mercado de TI no Brasil em 2026?
+pergunta-central: Quais são as principais tendências, desafios e oportunidades no mercado de TI no Brasil em 2026?
 relacionado-a: []
 related: []
 tags: [pesquisa, mercado, carreira]
@@ -12,32 +12,29 @@ tags: [pesquisa, mercado, carreira]
 # Pesquisa - Mercado de TI no Brasil
 
 ## ❓ Pergunta central
-Quais são as principais tendências e desafios do mercado de TI no Brasil em 2026?
+Quais são as principais tendências, desafios e oportunidades no mercado de TI no Brasil em 2026?
 
 ## 🎯 Síntese (3-5 linhas)
-O mercado de TI no Brasil segue em expansão, impulsionado pela transformação digital, pelo crescimento das startups e pela demanda por tecnologias como IA, segurança cibernética e computação em nuvem. Entretanto, enfrenta desafios como a escassez de profissionais qualificados, o custo elevado de infraestrutura e a adaptação às regulamentações específicas do país. Investimentos em educação e inovação são cruciais para sustentar o crescimento.
+O mercado de TI no Brasil está em expansão, impulsionado pela transformação digital e pela demanda por automação e inteligência artificial. Há uma alta demanda por profissionais qualificados, mas ainda existem desafios relacionados à formação, inclusão e infraestrutura tecnológica. Setores como fintechs, e-commerce e cibersegurança apresentam grande potencial de crescimento.
 
 ## 🔬 Detalhes
-- O mercado de TI no Brasil cresceu 10% em 2025, com destaque para inteligência artificial e computação em nuvem.
-- Startups brasileiras atraíram mais de R$ 15 bilhões em investimentos no último ano, especialmente na área de fintechs e healthtechs.
-- Existe um déficit de 400 mil profissionais qualificados na área de TI, indicando a necessidade de maior investimento em formação.
-- Regulamentações como a LGPD (Lei Geral de Proteção de Dados) são um desafio para empresas que buscam operar dentro da lei.
-- O setor público tem investido em transformação digital, com iniciativas como gov.br e digitalização de serviços.
-- A adoção de tecnologias sustentáveis e eficientes é uma tendência crescente, especialmente em grandes corporações que buscam reduzir sua pegada de carbono.
+- O Brasil é o maior mercado de TI da América Latina, representando cerca de 40% do faturamento do setor na região.
+- A transformação digital nas empresas brasileiras foi acelerada pela pandemia, aumentando a demanda por soluções em nuvem, inteligência artificial e automação.
+- Há déficit de profissionais qualificados em áreas como ciência de dados, cibersegurança e desenvolvimento de software.
+- Fintechs e startups de tecnologia têm se destacado, com o Brasil concentrando o maior número de unicórnios da América Latina.
+- Questões como inclusão digital e desigualdade de acesso à tecnologia ainda são desafios significativos no país.
+- Programas de capacitação e parcerias entre empresas e instituições educacionais têm surgido como resposta ao gap de habilidades no mercado.
 
 ## 🔗 Conexões
-- [[Claude API e Anthropic SDK]]
-- [[Referência - LGPD no Brasil]]
 - [[Projeto - Sistema Chamados]]
+- [[Referência - Transformação Digital no Brasil]]
 
 ## 📚 Fontes
-- [[Referência - Panorama da TI no Brasil 2025]]
-- [[Referência - Relatório Startups Latam 2026]]
-- [[Referência - Capacitação de profissionais em TI]]
-- [[Referência - Impacto da LGPD no setor tecnológico]]
+- [[Referência - Panorama do Mercado de TI no Brasil]]
+- [[Referência - Relatório sobre Fintechs e Startups]]
 
 ## 🚧 Lacunas
-- Qual o impacto socioeconômico da automação no mercado de TI brasileiro?
-- Como o Brasil pode reduzir o déficit de profissionais de TI no médio e longo prazo?
-- Quais são os setores mais promissores para startups brasileiras além de fintechs e healthtechs?
+- Como o avanço da IA generativa impactará o mercado de trabalho em TI no Brasil nos próximos 5 anos?
+- Quais são os principais desafios para melhorar a inclusão digital em áreas remotas do Brasil?
+- Como políticas públicas podem incentivar a formação de profissionais para suprir o déficit no setor de TI?
 ```
