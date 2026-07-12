@@ -3,39 +3,38 @@
 tipo: pesquisa
 criado: 2026-07-12
 atualizado: 2026-07-12
-pergunta-central: Quais os principais desafios e tendências do mercado de TI no Brasil atualmente?
+pergunta-central: Quais são as principais tendências, desafios e oportunidades no mercado de TI no Brasil em 2026?
 relacionado-a: []
-related: [[Projeto - Sistema Chamados]]
+related: []
 tags: [pesquisa, mercado, carreira]
 ---
 
 # Pesquisa - Mercado de TI no Brasil
 
 ## ❓ Pergunta central
-Quais os principais desafios e tendências do mercado de TI no Brasil atualmente?
+Quais são as principais tendências, desafios e oportunidades no mercado de TI no Brasil em 2026?
 
 ## 🎯 Síntese (3-5 linhas)
-O mercado de TI no Brasil apresenta crescimento acelerado impulsionado pela transformação digital, com alta demanda por profissionais especializados. As áreas de cibersegurança, inteligência artificial e desenvolvimento de software lideram as oportunidades. No entanto, desafios como falta de qualificação técnica e desigualdade regional ainda limitam o setor.
+O mercado de TI no Brasil continua crescendo, impulsionado pela transformação digital, adoção de IA e expansão das startups. Contudo, enfrenta desafios como a falta de profissionais qualificados e a alta carga tributária. Áreas como segurança cibernética, computação em nuvem e desenvolvimento de software seguem como os setores mais promissores para investimentos e carreiras.
 
 ## 🔬 Detalhes
-- O mercado de TI no Brasil movimenta bilhões de reais anualmente, sendo um dos setores mais promissores da economia.
-- A transformação digital e a automação têm impulsionado a demanda por profissionais em áreas como desenvolvimento de software, análise de dados e cibersegurança.
-- Há uma escassez de profissionais qualificados, com muitas empresas reportando dificuldades em preencher vagas técnicas.
-- São Paulo e regiões do Sul concentram a maior parte das oportunidades, deixando outras regiões em desvantagem.
-- Empresas estão cada vez mais investindo em soluções de inteligência artificial e computação em nuvem.
-- O setor também enfrenta desafios regulatórios e tributários, que afetam startups e grandes empresas de tecnologia.
+- O mercado de tecnologia no Brasil deve continuar crescendo, com previsão de aumento de demanda por profissionais de TI em mais de 20% até 2030.
+- A carência de profissionais qualificados é um dos maiores desafios, com mais de 400 mil vagas previstas para ficarem abertas até 2027 por falta de mão de obra qualificada.
+- Adoção acelerada de tecnologias como inteligência artificial, blockchain e Internet das Coisas (IoT) está remodelando o mercado e criando novas oportunidades de negócios.
+- Startups de TI seguem em destaque, com o Brasil ocupando a liderança na América Latina em número de unicórnios (startups avaliadas em mais de US$ 1 bilhão).
+- A alta carga tributária e a burocracia ainda são entraves significativos para empresas de tecnologia, especialmente para pequenas e médias empresas.
+- Áreas como segurança cibernética, desenvolvimento de software e computação em nuvem são as mais promissoras, devido à crescente digitalização de processos empresariais.
 
 ## 🔗 Conexões
+- [[Projeto - Sistema Chamados]]
 - [[Claude API e Anthropic SDK]]
-- [[Área - Carreira e Profissões]]
-- [[Pesquisa - Inteligência Artificial no Brasil]]
 
 ## 📚 Fontes
-- [[Referência - Panorama do mercado de TI no Brasil em 2026]]
-- [[Referência - Relatório anual da ABES]]
+- [[Referência - Relatório Mercado de TI Brasil 2026]]
+- [[Referência - Panorama Startups Brasil]]
 
 ## 🚧 Lacunas
-- Quais são as políticas públicas para apoiar o desenvolvimento do setor de TI no Brasil?
-- Como a desigualdade regional pode ser reduzida no mercado de TI nacional?
-- Quais são as perspectivas de longo prazo para profissões de TI diante do avanço da inteligência artificial generativa?
+- Quais estratégias podem ser adotadas para suprir a falta de profissionais qualificados no mercado de TI brasileiro?
+- Como o cenário regulatório pode ser aprimorado para facilitar o crescimento de empresas de tecnologia no Brasil?
+- Qual o impacto a longo prazo da adoção de IA no mercado de trabalho em TI no Brasil?
 ```
