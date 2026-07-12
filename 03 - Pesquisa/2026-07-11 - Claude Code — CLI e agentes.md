@@ -1,4 +1,4 @@
-```markdown
+```yaml
 ---
 tipo: pesquisa
 criado: 2026-07-11
