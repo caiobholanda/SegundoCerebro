@@ -3,40 +3,43 @@
 tipo: pesquisa
 criado: 2026-07-11
 atualizado: 2026-07-11
-pergunta-central: Quais são as melhores práticas para deploy e gerenciamento de infraestrutura em cloud?
-relacionado-a: [DevOps, Cloud Computing, Automação]
-related: [[Projeto - Sistema Chamados]]
-tags: [pesquisa, dev, infra]
+pergunta-central: Quais são as novidades e estado atual das plataformas de deploy cloud em julho de 2026?
+relacionado-a: []
+related: []
+tags: [pesquisa, dev, deploy, cloud, infraestrutura]
 ---
 
 # Pesquisa - Deploy e Infraestrutura Cloud
 
 ## ❓ Pergunta central
-Quais são as melhores práticas para deploy e gerenciamento de infraestrutura em cloud?
+Quais são as novidades e estado atual das plataformas de deploy cloud em julho de 2026?
 
 ## 🎯 Síntese (3-5 linhas)
-O deploy e a gestão de infraestrutura em cloud são fundamentais para a escalabilidade, resiliência e eficiência de aplicações modernas. Práticas como o uso de IaC (Infrastructure as Code), automação de pipelines CI/CD, observabilidade e escolha adequada de provedores de nuvem são essenciais para um ambiente bem-sucedido. Além disso, a segurança e o controle de custos são desafios constantes que demandam atenção contínua.
+Railway emerge como padrão para projetos indie/small SaaS com custo de $7-15/mês, e agora tem MCP server nativo que permite agentes como Claude gerenciar projetos, vars, deploys e logs. Vercel acumulou 4 aumentos de preço desde 2024 mas mantém liderança em frontend. Fly.io adicionou billing em inter-region networking (fev) e volume snapshots (jan), aumentando custo real.
 
 ## 🔬 Detalhes
-- **Infrastructure as Code (IaC)**: Ferramentas como Terraform e AWS CloudFormation permitem gerenciar infraestrutura como código, garantindo consistência e versionamento.
-- **Pipelines CI/CD**: Integração e entrega contínua, com ferramentas como Jenkins, GitLab CI/CD ou GitHub Actions, automatizam o deploy e reduzem erros humanos.
-- **Provedores de Cloud**: AWS, Google Cloud e Azure são os principais players, cada um com suas vantagens e peculiaridades dependendo do caso de uso.
-- **Escalabilidade**: A utilização de serviços como Kubernetes para orquestrar contêineres facilita a adaptação a demandas variáveis.
-- **Segurança na Cloud**: Políticas de IAM (Identity and Access Management), criptografia de dados e monitoramento contínuo são práticas indispensáveis.
-- **Controle de custos**: Monitorar o uso de recursos e adotar estratégias como instâncias spot pode reduzir significativamente os gastos.
-- **Observabilidade**: Ferramentas como Prometheus, Grafana e AWS CloudWatch são cruciais para monitorar a saúde do sistema e identificar problemas rapidamente.
+- **Railway MCP server**: Claude, Cursor e qualquer agente MCP pode criar projetos, gerenciar variáveis, disparar deploys e ler logs sem scraping de dashboard — integração nativa com AI workflows
+- **Railway guia AI apps 2026**: publicou guia específico para deploy de aplicações de IA em 2026
+- **Vercel Fluid Compute**: Active CPU pricing paga por tempo de CPU em execução ativa, não wall-clock — economiza ~80% em funções idle esperando resposta de LLM
+- **Vercel pricing**: 4 aumentos de preço desde 2024; custo real varia muito ($20-200/mês indie SaaS dependendo do uso)
+- **Fly.io billing expansões**: inter-region private networking cobrado a Machine rates (fev/2026); volume snapshots cobrados desde jan/2026 — custo sobe $10-20/mês para stacks típicas
+- **Custo comparativo indie SaaS** (1 web service + 1 worker + Postgres, tráfego moderado):
+  - Railway/Render: ~$7-15/mês
+  - Fly.io: ~$10-20/mês (com IPv4 + snapshots)
+  - Vercel: $20-200/mês (altamente variável)
+- **Padrão 2026**: Vercel (frontend Next.js) + Railway (backend) usado em conjunto; Railway ganhou suporte Next.js one-click deploy SSR
 
 ## 🔗 Conexões
-- [[Projeto - Sistema Chamados]]
-- [[Claude API e Anthropic SDK]]
+- [[2026-07-11 - Programação e Desenvolvimento]]
+- [[2026-07-11 - Claude API e Anthropic SDK]]
 
 ## 📚 Fontes
-- [[Referência - Terraform Documentation]]
-- [[Referência - AWS Well-Architected Framework]]
-- [[Referência - Livro - Kubernetes Patterns]]
+- [PaaS Comparison 2026: Railway, Render, Fly.io vs Vercel - BirJob](https://www.birjob.com/blog/paas-comparison-railway-render-fly-vercel-2026)
+- [Best Platforms to Deploy AI Apps 2026 - Railway Blog](https://blog.railway.com/p/best-platforms-deploy-ai-apps-2026)
+- [Fly.io vs Railway 2026 - Software Scout](https://thesoftwarescout.com/fly-io-vs-railway-2026-which-developer-platform-should-you-deploy-on/)
 
 ## 🚧 Lacunas
-- Quais são as diferenças mais impactantes entre os provedores de nuvem no suporte a arquiteturas serverless?
-- Quais são as melhores estratégias para garantir a portabilidade ao alternar entre provedores de nuvem?
-- Como otimizar o uso de serviços de observabilidade em termos de custo e desempenho?
+- Railway Metal rollout Q3 — qual o impacto de performance vs era GCP?
+- AWS App Runner em maintenance — o que foi anunciado como substituto oficial além de ECS Express Mode?
+- Vercel Services (lançado 1/jul) — maturidade atual e casos de uso reais?
 ```

@@ -3,40 +3,43 @@
 tipo: pesquisa
 criado: 2026-07-11
 atualizado: 2026-07-11
-pergunta-central: Como a economia de tokens afeta a eficiência e os custos de operação de LLMs?
+pergunta-central: Como está a economia de tokens em LLMs em julho de 2026 e quais estratégias reduzem custos?
 relacionado-a: []
-related: [[Claude API e Anthropic SDK]]
-tags: [pesquisa, ia, produtividade]
+related: []
+tags: [pesquisa, ia, dev, tokens, custos]
 ---
 
 # Pesquisa - Economia de Tokens em LLMs
 
 ## ❓ Pergunta central
-Como a economia de tokens afeta a eficiência e os custos de operação de LLMs?
+Como está a economia de tokens em LLMs em julho de 2026 e quais estratégias reduzem custos?
 
 ## 🎯 Síntese (3-5 linhas)
-A economia de tokens em LLMs está diretamente relacionada ao custo computacional e à escalabilidade desses modelos. Gerenciar eficientemente o uso de tokens pode reduzir custos operacionais e aumentar a performance, enquanto mantém a qualidade das respostas. Estratégias como truncamento de contexto, otimização de prompts e compressão de modelos são fundamentais para equilibrar custo-benefício.
+O spread de preços entre modelos chegou a 140x ($0,035 → $5+/MTok entrada) em julho de 2026, com output custando 3-8x mais que input. Preços caíram ~80% de 2025 para 2026. A combinação de prompt caching (~90% off), model routing (75-85% redução) e semantic caching (~73% redução) permite economias de 70-85% para quem implementa corretamente. Token efficiency deixou de ser otimização e virou requisito de negócio.
 
 ## 🔬 Detalhes
-- Tokens representam as menores unidades de texto que os modelos de linguagem processam, como palavras ou partes de palavras.
-- O custo de uso de LLMs geralmente é baseado no número de tokens processados, abrangendo tanto os tokens de entrada quanto os de saída.
-- Contextos longos, que utilizam muitos tokens, podem aumentar significativamente os custos, mas também permitem respostas mais contextualizadas.
-- Estratégias de economia de tokens incluem a otimização de prompts para reduzir tokens irrelevantes, resultando em menor custo sem sacrificar a qualidade.
-- Métodos como truncamento de contexto podem ajudar a manter o número de tokens em níveis gerenciáveis, mas requerem cuidado para não excluir informações essenciais.
-- Abordagens como compressão de modelos e uso de embeddings mais eficientes também contribuem para a economia de tokens.
+- **Spread de preços**: 140x entre modelos — Amazon Nova Micro $0,035 → Claude Fable 5/Mythos 5 $10; GPT-5.5 Pro $30 input/MTok
+- **Output vs input**: output custa 3-8x mais que input (mediana 4-5x); planejar volume de output é crítico
+- **DeepSeek V3.2**: $0,14/$0,28 MTok — qualidade rivaliza frontier a ~28x menos que Claude Opus
+- **Queda de preços**: ~80% de redução entre início de 2025 e início de 2026; competição continua pressionando
+- **Prompt caching**: ~90% off em leituras do cache (Anthropic); DeepSeek V4 atinge ~98% — maior alavanca individual
+- **Model routing (RouteLLM)**: 95% da qualidade frontier enviando apenas 14-26% das calls ao modelo forte → 75-85% de redução de custo no tráfego roteado
+- **Semantic caching (Redis LangCache)**: ~73% redução em workloads com alta repetição; hits retornam em ms vs segundos de inferência
+- **Context compression**: limitar retrieval a 2-3 chunks curtos ou truncar seções irrelevantes pode cortar tokens de entrada em >50% sem perda de precisão
+- **Batch API**: 50% desconto para workloads não urgentes (Anthropic)
 
 ## 🔗 Conexões
-- [[Claude API e Anthropic SDK]]
-- [[Pesquisa - Eficiência em LLMs]]
-- [[Referência - OpenAI Pricing e Cálculo de Tokens]]
+- [[2026-07-11 - Claude API e Anthropic SDK]]
+- [[2026-07-11 - Inteligência Artificial — avanços]]
 
 ## 📚 Fontes
-- [[Referência - OpenAI Pricing e Cálculo de Tokens]]
-- [[Referência - Pesquisa sobre Context Window em LLMs]]
-- [[Referência - Estratégias para Otimização de Prompts]]
+- [LLM Token Optimization 2026 - Redis](https://redis.io/blog/llm-token-optimization-speed-up-apps/)
+- [How to Cut LLM Token Costs 2026 - Wavect](https://wavect.io/blog/reduce-llm-token-costs-2026/)
+- [LLM API Pricing Comparison Jul 2026 - CostGoat](https://costgoat.com/compare/llm-api)
+- [Token Economics - Medium/Adnan Masood](https://medium.com/@adnanmasood/token-economics-llm-token-cost-optimization-for-enterprise-ai-workloads-7a47918b2f0d)
 
 ## 🚧 Lacunas
-- Como balancear de forma ideal a profundidade do contexto com a limitação de tokens?
-- Quais são as melhores práticas para implementar compressão de modelos sem perda significativa de qualidade?
-- Quais inovações futuras podem reduzir ainda mais os custos relacionados ao uso de tokens em LLMs?
+- RouteLLM — qual a latência adicional do roteamento vs chamada direta?
+- Semantic caching — funciona bem com prompts altamente variáveis (vault pessoal)?
+- DeepSeek V3.2 tem data privacy adequada para dados sensíveis de empresa?
 ```

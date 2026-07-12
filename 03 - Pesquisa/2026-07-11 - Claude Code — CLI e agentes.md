@@ -3,40 +3,42 @@
 tipo: pesquisa
 criado: 2026-07-11
 atualizado: 2026-07-11
-pergunta-central: Como o Claude Code utiliza CLI e agentes para interagir e automatizar fluxos de trabalho no Obsidian?
+pergunta-central: Quais são as principais atualizações do Claude Code CLI em julho de 2026?
 relacionado-a: []
-related: [[Claude API e Anthropic SDK]]
-tags: [pesquisa, ia, dev, claude]
+related: []
+tags: [pesquisa, ia, dev, claude, cli]
 ---
 
 # Pesquisa - Claude Code — CLI e agentes
 
 ## ❓ Pergunta central
-Como o Claude Code utiliza CLI e agentes para interagir e automatizar fluxos de trabalho no Obsidian?
+Quais são as principais atualizações do Claude Code CLI em julho de 2026?
 
 ## 🎯 Síntese (3-5 linhas)
-O Claude Code integra-se com o Obsidian utilizando interfaces de linha de comando (CLI) e agentes especializados para executar tarefas específicas dentro do ambiente de notas markdown. Essas ferramentas permitem automações avançadas, como geração de textos, análise de lacunas e organização sistemática do conhecimento, ampliando as capacidades do usuário e otimizando o gerenciamento de informações.
+Julho traz Claude Sonnet 5 como modelo padrão no Claude Code (1M ctx, promo $2/$10). As correções se concentram em confiabilidade: regras condicionais via symlinks, plan mode com read-only automático, hooks SessionStart em sessões headless, e melhora no UX de retry de API. Syntax highlighting ganhou upgrade para highlight.js 11 com melhor precisão em code blocks, diffs e file previews.
 
 ## 🔬 Detalhes
-- Claude Code é uma aplicação de IA que se conecta ao Obsidian para criar, organizar e processar notas e projetos.
-- A integração por CLI (Command Line Interface) permite a execução de comandos programáticos, facilitando a interação direta entre o usuário e o sistema.
-- Agentes são scripts especializados que realizam tarefas autônomas, como atualização de notas, criação de resumos e identificação de conexões entre conteúdos.
-- A comunicação entre Claude Code e o Obsidian geralmente ocorre via APIs, como o Anthropic SDK, que permite acesso ao modelo de linguagem.
-- O uso de agentes reduz drasticamente o tempo necessário para tarefas repetitivas, como a categorização de notas ou a análise de lacunas no conhecimento.
-- A CLI pode ser utilizada para ativar agentes, criar novas notas a partir de templates e até mesmo realizar backup ou exportação de dados do vault.
+- **Sonnet 5 como padrão**: 1M context window, preço promo até 31/ago
+- **Login-expiry warnings**: aviso antecipado quando sessão expira
+- **Badges de status**: agent status e manual mode mais visíveis no UI
+- **Fix .claude/rules/ via symlinks**: regras condicionais não carregavam quando arquivo de destino era symlink — corrigido
+- **Plan mode + read-only**: plan mode agora permite automaticamente chamadas read-only ao iniciar sessão em plan mode
+- **highlight.js 11**: melhor precisão em syntax highlighting para code blocks, diffs e previews
+- **API retry UX**: motivo do erro exibido após 2ª tentativa; link para status page substituindo spinner quando API está sobrecarregada
+- **Hook SessionStart headless**: fix para hook events não streamando em sessões headless (causava idle-reap prematuro em workers remotos)
+- **Background sessions**: melhorias gerais de confiabilidade para sessões em background e operações remotas
 
 ## 🔗 Conexões
-- [[Claude API e Anthropic SDK]]
-- [[Projeto - Sistema Chamados]]
-- [[Pesquisa - Automação de fluxos de trabalho no Obsidian]]
+- [[2026-07-11 - Claude API e Anthropic SDK]]
+- [[2026-07-11 - Inteligência Artificial — avanços]]
 
 ## 📚 Fontes
-- [[Referência - Obsidian Help]]
-- [[Referência - Anthropic API Documentation]]
-- [[Referência - Automação com CLI e IA]]
+- [Claude Code Updates July 2026 - Releasebot](https://releasebot.io/updates/anthropic/claude-code)
+- [What's new - Claude Code Docs](https://code.claude.com/docs/en/whats-new)
+- [Claude Code Changelog July 2026](https://www.gradually.ai/en/changelogs/claude-code/)
 
 ## 🚧 Lacunas
-- Quais são os limites técnicos do uso de CLI e agentes no Claude Code para tarefas complexas?
-- Como otimizar o desempenho dos agentes para lidar com vaults de grande escala?
-- Quais são as melhores práticas para segurança ao usar APIs e CLI em sistemas integrados como Obsidian?
+- Dynamic Workflows chegou a GA em julho ou ainda é research preview?
+- Managed Agents cron — disponível para todos os tiers ou só Enterprise?
+- Worktree isolation — alguma novidade específica em julho?
 ```
