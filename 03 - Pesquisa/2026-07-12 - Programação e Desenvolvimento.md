@@ -1,42 +1,40 @@
-```markdown
 ---
 tipo: pesquisa
 criado: 2026-07-12
 atualizado: 2026-07-12
-pergunta-central: Quais são as melhores práticas e tendências atuais em programação e desenvolvimento para criar software eficiente e escalável?
+pergunta-central: Quais são as principais tendências e boas práticas em programação e desenvolvimento de software atualmente?
 relacionado-a: []
-related: [[Claude API e Anthropic SDK]], [[Pesquisa - Inteligência Artificial Generativa]]
+related: [[Claude API e Anthropic SDK]]
 tags: [pesquisa, dev, produtividade]
 ---
 
 # Pesquisa - Programação e Desenvolvimento
 
 ## ❓ Pergunta central
-Quais são as melhores práticas e tendências atuais em programação e desenvolvimento para criar software eficiente e escalável?
+Quais são as principais tendências e boas práticas em programação e desenvolvimento de software atualmente?
 
 ## 🎯 Síntese (3-5 linhas)
-Programação e desenvolvimento evoluem rapidamente, impulsionados por novas tecnologias, frameworks e metodologias. As tendências atuais incluem o uso crescente de inteligência artificial, desenvolvimento orientado a eventos, e ferramentas low-code/no-code. Além disso, práticas como DevOps, automação de testes e arquitetura de microsserviços são chave para criar sistemas robustos e escaláveis.
+A programação e o desenvolvimento de software estão evoluindo rapidamente com o avanço de tecnologias como inteligência artificial, desenvolvimento low-code/no-code e metodologias ágeis. A adoção de práticas como DevOps, integração contínua e entrega contínua (CI/CD) está se tornando padrão. Além disso, a importância da acessibilidade, segurança e sustentabilidade no design de software continua a crescer, alinhada às demandas sociais e ambientais.
 
 ## 🔬 Detalhes
-- **Inteligência Artificial:** O uso de IA, especialmente modelos generativos como [[Claude API e Anthropic SDK]], está transformando o desenvolvimento de software com automação de tarefas e personalização avançada.
-- **DevOps e CI/CD:** Integração contínua e entrega contínua são fundamentais para manter alta produtividade e reduzir o tempo de desenvolvimento sem comprometer a qualidade.
-- **Arquitetura de Microsserviços:** Divide aplicativos em serviços menores e independentes, facilitando escalabilidade e manutenção.
-- **Programação Funcional:** Ganha espaço por sua capacidade de reduzir efeitos colaterais e facilitar a manutenção de código, especialmente em sistemas complexos.
-- **Segurança e Privacidade:** Com o aumento de ataques cibernéticos, práticas como segurança no design e validação contínua de vulnerabilidades são indispensáveis.
-- **Low-code/No-code:** Democratiza o desenvolvimento, permitindo que usuários sem habilidades avançadas criem soluções úteis, mas apresenta desafios em termos de flexibilidade e personalização.
-- **Desenvolvimento orientado a eventos:** Oferece maior eficiência em sistemas que dependem de interações assíncronas, como aplicações em tempo real.
+- A inteligência artificial e o aprendizado de máquina estão sendo amplamente integrados ao desenvolvimento de software, tanto para criar soluções inteligentes quanto para melhorar a produtividade dos desenvolvedores.
+- Ferramentas low-code e no-code estão possibilitando que usuários sem conhecimentos técnicos avancem no desenvolvimento de aplicações simples, democratizando a criação de software.
+- Metodologias ágeis, como Scrum e Kanban, continuam sendo amplamente adotadas para melhorar a flexibilidade e a velocidade de desenvolvimento em equipes.
+- A prática de DevOps, combinando desenvolvimento e operações, está promovendo uma cultura de colaboração e eficiência, com foco em automação e monitoramento contínuo.
+- A segurança no desenvolvimento de software está se tornando uma prioridade, com práticas como DevSecOps sendo integradas desde o início do ciclo de vida do desenvolvimento.
+- Sustentabilidade digital está emergindo como uma nova preocupação, com desenvolvedores buscando criar soluções que minimizem o impacto ambiental, como otimização de código para reduzir consumo de recursos.
 
 ## 🔗 Conexões
 - [[Claude API e Anthropic SDK]]
-- [[Pesquisa - Inteligência Artificial Generativa]]
+- [[Pesquisa - Inteligência Artificial na Programação]]
+- [[Projeto - Sistema Chamados]]
 
 ## 📚 Fontes
-- [[Referência - Clean Architecture, por Robert C. Martin]]
-- [[Referência - Site oficial do Anthropic SDK]]
-- [[Referência - Artigo: Tendências em Desenvolvimento de Software 2026]]
+- [[Referência - DevOps para Iniciantes]]
+- [[Referência - Metodologias Ágeis e Scrum]]
+- [[Referência - O Impacto da Inteligência Artificial no Desenvolvimento de Software]]
 
 ## 🚧 Lacunas
-- Como medir a efetividade e impacto real do uso de IA em projetos de desenvolvimento?
-- Quais são os melhores frameworks para implementar arquiteturas de microsserviços em diferentes linguagens?
-- Como balancear a flexibilidade e escalabilidade no uso de ferramentas low-code/no-code?
-```
+- Quais ferramentas específicas de low-code/no-code estão mais promissoras atualmente?
+- Como medir a sustentabilidade de um software de forma prática?
+- Quais são as principais barreiras para adoção de práticas como DevSecOps em pequenas empresas?
