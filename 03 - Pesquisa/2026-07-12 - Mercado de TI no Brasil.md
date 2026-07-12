@@ -3,7 +3,7 @@
 tipo: pesquisa
 criado: 2026-07-12
 atualizado: 2026-07-12
-pergunta-central: Quais são as principais tendências, desafios e oportunidades no mercado de TI no Brasil em 2026?
+pergunta-central: Quais são as principais tendências e desafios do mercado de TI no Brasil em 2026?
 relacionado-a: []
 related: []
 tags: [pesquisa, mercado, carreira]
@@ -12,29 +12,32 @@ tags: [pesquisa, mercado, carreira]
 # Pesquisa - Mercado de TI no Brasil
 
 ## ❓ Pergunta central
-Quais são as principais tendências, desafios e oportunidades no mercado de TI no Brasil em 2026?
+Quais são as principais tendências e desafios do mercado de TI no Brasil em 2026?
 
 ## 🎯 Síntese (3-5 linhas)
-O mercado de TI no Brasil continua crescendo, impulsionado pela transformação digital, adoção de IA e expansão das startups. Contudo, enfrenta desafios como a falta de profissionais qualificados e a alta carga tributária. Áreas como segurança cibernética, computação em nuvem e desenvolvimento de software seguem como os setores mais promissores para investimentos e carreiras.
+O mercado de TI no Brasil segue em expansão, impulsionado pela transformação digital, pelo crescimento das startups e pela demanda por tecnologias como IA, segurança cibernética e computação em nuvem. Entretanto, enfrenta desafios como a escassez de profissionais qualificados, o custo elevado de infraestrutura e a adaptação às regulamentações específicas do país. Investimentos em educação e inovação são cruciais para sustentar o crescimento.
 
 ## 🔬 Detalhes
-- O mercado de tecnologia no Brasil deve continuar crescendo, com previsão de aumento de demanda por profissionais de TI em mais de 20% até 2030.
-- A carência de profissionais qualificados é um dos maiores desafios, com mais de 400 mil vagas previstas para ficarem abertas até 2027 por falta de mão de obra qualificada.
-- Adoção acelerada de tecnologias como inteligência artificial, blockchain e Internet das Coisas (IoT) está remodelando o mercado e criando novas oportunidades de negócios.
-- Startups de TI seguem em destaque, com o Brasil ocupando a liderança na América Latina em número de unicórnios (startups avaliadas em mais de US$ 1 bilhão).
-- A alta carga tributária e a burocracia ainda são entraves significativos para empresas de tecnologia, especialmente para pequenas e médias empresas.
-- Áreas como segurança cibernética, desenvolvimento de software e computação em nuvem são as mais promissoras, devido à crescente digitalização de processos empresariais.
+- O mercado de TI no Brasil cresceu 10% em 2025, com destaque para inteligência artificial e computação em nuvem.
+- Startups brasileiras atraíram mais de R$ 15 bilhões em investimentos no último ano, especialmente na área de fintechs e healthtechs.
+- Existe um déficit de 400 mil profissionais qualificados na área de TI, indicando a necessidade de maior investimento em formação.
+- Regulamentações como a LGPD (Lei Geral de Proteção de Dados) são um desafio para empresas que buscam operar dentro da lei.
+- O setor público tem investido em transformação digital, com iniciativas como gov.br e digitalização de serviços.
+- A adoção de tecnologias sustentáveis e eficientes é uma tendência crescente, especialmente em grandes corporações que buscam reduzir sua pegada de carbono.
 
 ## 🔗 Conexões
-- [[Projeto - Sistema Chamados]]
 - [[Claude API e Anthropic SDK]]
+- [[Referência - LGPD no Brasil]]
+- [[Projeto - Sistema Chamados]]
 
 ## 📚 Fontes
-- [[Referência - Relatório Mercado de TI Brasil 2026]]
-- [[Referência - Panorama Startups Brasil]]
+- [[Referência - Panorama da TI no Brasil 2025]]
+- [[Referência - Relatório Startups Latam 2026]]
+- [[Referência - Capacitação de profissionais em TI]]
+- [[Referência - Impacto da LGPD no setor tecnológico]]
 
 ## 🚧 Lacunas
-- Quais estratégias podem ser adotadas para suprir a falta de profissionais qualificados no mercado de TI brasileiro?
-- Como o cenário regulatório pode ser aprimorado para facilitar o crescimento de empresas de tecnologia no Brasil?
-- Qual o impacto a longo prazo da adoção de IA no mercado de trabalho em TI no Brasil?
+- Qual o impacto socioeconômico da automação no mercado de TI brasileiro?
+- Como o Brasil pode reduzir o déficit de profissionais de TI no médio e longo prazo?
+- Quais são os setores mais promissores para startups brasileiras além de fintechs e healthtechs?
 ```
