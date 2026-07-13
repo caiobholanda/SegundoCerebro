@@ -3,7 +3,7 @@
 tipo: pesquisa
 criado: 2026-07-13
 atualizado: 2026-07-13
-pergunta-central: Como a programação e o desenvolvimento evoluíram para atender às demandas tecnológicas atuais e futuras?
+pergunta-central: Quais são os fundamentos essenciais e as direções emergentes em programação e desenvolvimento atualmente?
 relacionado-a: []
 related: [[Claude API e Anthropic SDK]]
 tags: [pesquisa, dev, produtividade]
@@ -12,30 +12,33 @@ tags: [pesquisa, dev, produtividade]
 # Pesquisa - Programação e Desenvolvimento
 
 ## ❓ Pergunta central
-Como a programação e o desenvolvimento evoluíram para atender às demandas tecnológicas atuais e futuras?
+Quais são os fundamentos essenciais e as direções emergentes em programação e desenvolvimento atualmente?
 
 ## 🎯 Síntese (3-5 linhas)
-A programação e o desenvolvimento têm evoluído rapidamente devido à necessidade de criar soluções mais eficientes, escaláveis e acessíveis. Tecnologias como inteligência artificial, computação em nuvem e desenvolvimento low-code estão transformando o modo como sistemas são projetados e operados. Além disso, as práticas de desenvolvimento ágil e DevOps estão redefinindo os processos de criação e entrega de software.
+Programação e desenvolvimento são pilares da inovação tecnológica, abrangendo desde linguagens clássicas como Python e Java até paradigmas modernos como programação funcional. Atualmente, temas como desenvolvimento ágil, inteligência artificial, computação em nuvem e automação de processos lideram o setor, enquanto práticas como DevOps e arquitetura serverless estão redefinindo a forma como os sistemas são projetados e mantidos.
 
 ## 🔬 Detalhes
-- **Inteligência artificial**: A integração de IA em ferramentas e frameworks está automatizando tarefas complexas, como debugging e geração de código.
-- **Computação em nuvem**: Plataformas como AWS, Azure e Google Cloud facilitam o desenvolvimento, implantação e escalabilidade de aplicações.
-- **Low-code/no-code**: Esses paradigmas permitem que pessoas sem conhecimento avançado em programação criem aplicações funcionais, democratizando o desenvolvimento.
-- **DevOps**: A cultura DevOps promove a colaboração entre desenvolvedores e equipes de operações, acelerando ciclos de desenvolvimento e deployment.
-- **Linguagens de programação**: Novas linguagens, como Rust e Kotlin, estão ganhando popularidade por oferecerem maior segurança e desempenho.
-- **Frameworks e bibliotecas**: Ferramentas como React, Angular e Django simplificam o desenvolvimento de aplicações complexas e responsivas.
+- **Paradigmas de Programação**: Programação procedural, orientada a objetos, funcional e reativa continuam a ser estudados e aplicados em diferentes contextos.
+- **Linguagens de Programação**: Python, JavaScript, Rust e Go são populares por sua versatilidade e desempenho em diferentes áreas, como web, IA e sistemas embarcados.
+- **Metodologias Ágeis**: Scrum e Kanban são amplamente adotados para aumentar a eficiência e a colaboração em equipes de desenvolvimento.
+- **DevOps**: Integração contínua e entrega contínua (CI/CD) aceleram ciclos de desenvolvimento e garantem maior qualidade nos produtos.
+- **Inteligência Artificial e Aprendizado de Máquina**: Ferramentas como TensorFlow e PyTorch possibilitam o desenvolvimento de modelos avançados de IA.
+- **Computação em Nuvem**: Plataformas como AWS, Azure e GCP suportam escalabilidade e soluções de infraestrutura flexíveis.
+- **Segurança e Privacidade**: Práticas como DevSecOps, autenticação multifatorial e criptografia são essenciais para garantir sistemas robustos.
+- **Tendências emergentes**: Arquitetura serverless, edge computing e programação para dispositivos IoT estão ganhando atenção.
 
 ## 🔗 Conexões
 - [[Claude API e Anthropic SDK]]
-- [[Pesquisa - Inteligência Artificial e Machine Learning]]
+- [[Pesquisa - Tendências em Inteligência Artificial]]
+- [[Referência - Design de Software Orientado a Domínio]]
 
 ## 📚 Fontes
-- [[Referência - História da Programação]]
-- [[Referência - DevOps e Transformação Ágil]]
-- [[Referência - Computação em Nuvem]]
+- [[Referência - Clean Code de Robert C. Martin]]
+- [[Referência - The Pragmatic Programmer]]
+- [[Referência - Cloud Computing Patterns]]
 
 ## 🚧 Lacunas
-- Quais serão as próximas grandes disrupções tecnológicas que afetarão a programação e o desenvolvimento?
-- Como o desenvolvimento vai se adaptar às crescentes preocupações com segurança cibernética e privacidade?
-- Qual o impacto do aumento da acessibilidade de ferramentas low-code/no-code no mercado de trabalho dos programadores?
+- Qual será o impacto do avanço de inteligência artificial generativa no design de sistemas?
+- Como novas linguagens de programação, como Zig e Julia, podem impactar o desenvolvimento de software?
+- Quais práticas de segurança são mais eficazes para proteger sistemas baseados em arquitetura serverless?
 ```
