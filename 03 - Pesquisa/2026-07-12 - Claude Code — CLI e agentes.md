@@ -3,43 +3,40 @@
 tipo: pesquisa
 criado: 2026-07-12
 atualizado: 2026-07-12
-pergunta-central: Como o Claude Code pode ser utilizado para criar agentes eficientes via CLI e quais são as melhores práticas para isso?
-relacionado-a: [Claude API e Anthropic SDK, Automação com chatbots, Inteligência Artificial]
-related: [[Claude API e Anthropic SDK]]
-tags: [pesquisa, ia, dev, claude]
+pergunta-central: Quais são as novidades do Claude Code CLI e agentes em julho de 2026?
+relacionado-a: []
+related: []
+tags: [pesquisa, claude-code, dev, automacao]
 ---
 
 # Pesquisa - Claude Code — CLI e agentes
 
 ## ❓ Pergunta central
-Como o Claude Code pode ser utilizado para criar agentes eficientes via CLI e quais são as melhores práticas para isso?
+Quais são as novidades do Claude Code CLI e agentes em julho de 2026?
 
-## 🎯 Síntese
-Claude Code permite criar agentes inteligentes que operam via CLI, oferecendo flexibilidade e automação em tarefas complexas. Utiliza a API da Anthropic para maximizar o desempenho e personalização. As melhores práticas incluem a adoção de padrões para comandos, tratamentos de erros robustos e integração com ferramentas de automação. A utilização estratégica do modelo de linguagem é essencial para garantir eficiência e precisão.
+## 🎯 Síntese (3-5 linhas)
+Julho de 2026 traz um navegador integrado ao Claude Code Desktop — com sandbox isolado que permite ao Claude acessar qualquer página web além das previews locais. O comando /doctor evoluiu de leitor de relatório para ferramenta ativa de diagnóstico e correção. Autenticação MCP foi simplificada via `claude mcp login/logout` direto no CLI. Bugs críticos de agentes background e Windows foram corrigidos.
 
 ## 🔬 Detalhes
-- Claude Code é uma interface que conecta aplicações ao modelo Claude, desenvolvido pela Anthropic, permitindo interações programáveis e personalizadas.
-- Ele pode ser utilizado para criar agentes que operam via CLI, facilitando automações e processos programáticos em diversos ambientes.
-- A integração com a Claude API é o ponto central do Claude Code, permitindo que desenvolvedores enviem prompts, recebam respostas e configurem parâmetros do modelo.
-- Melhores práticas incluem a criação de uma estrutura de comandos bem definida, com sintaxe clara e consistente, para que o agente responda de forma previsível.
-- Tratamentos de erros são críticos: o agente deve ser capaz de lidar com entradas inesperadas ou malformadas, fornecendo feedback útil ao usuário.
-- A integração com outras ferramentas, como cron jobs ou sistemas de monitoramento, pode ampliar o alcance e aplicabilidade dos agentes CLI.
-- A segurança e a privacidade devem ser consideradas ao configurar o Claude Code, especialmente ao lidar com dados sensíveis.
-- Ao utilizar modelos de linguagem generativos, é importante implementar mecanismos para revisão de respostas e verificação de precisão.
-- Claude Code é ideal para tarefas repetitivas, como consultas a APIs, geração de relatórios e análise de dados em tempo real.
-- A documentação e suporte da Anthropic fornecem insights valiosos sobre como otimizar o uso da API e do SDK associado.
+- **Navegador integrado (Desktop)**: Claude Code acessa qualquer site, interage com páginas (docs, designs, páginas externas) da mesma forma que previews locais; sandbox isolado com sessões de navegação configuráveis; classificadores de segurança revisam ações em sites externos
+- **Claude Sonnet 5 como padrão**: 1M tokens de contexto nativo; comandos bash agora acionam Claude para responder à saída automaticamente
+- **/doctor ativo**: agora diagnóstica E corrige problemas (antes era relatório read-only); verifica saúde da instalação, skills não utilizados, servidores MCP e plugins vs custo de contexto
+- **`claude mcp login <n>` / `claude mcp logout <n>`**: autenticação de servidores MCP direto no CLI sem abrir o menu interativo /mcp
+- **Fix crítico Windows**: arquivo de saída não é mais substituído por vazio após /clear
+- **Fix agentes background**: corrigidos crashes de inicialização
+- **Fix scroll**: conteúdo não pula mais ao rolar histórico de transcrição longo
 
 ## 🔗 Conexões
-- [[Claude API e Anthropic SDK]]
-- [[Automação com Chatbots]]
-- [[Inteligência Artificial Generativa]]
+- [[2026-07-12 - Claude API e Anthropic SDK]]
+- [[2026-07-12 - Economia de Tokens em LLMs]]
 
 ## 📚 Fontes
-- [[Referência - Anthropic Claude Documentation]]
-- [[Referência - CLI Design Principles]]
+- [Claude Code Updates July 2026 - Releasebot](https://releasebot.io/updates/anthropic/claude-code)
+- [Claude Code Changelog July 2026 - gradually.ai](https://www.gradually.ai/en/changelogs/claude-code/)
+- [Claude AI Gets Another Boost in VS Code 1.128 - Visual Studio Magazine](https://visualstudiomagazine.com/articles/2026/07/08/claude-ai-gets-yet-another-boost-in-vs-code-1-128.aspx)
 
 ## 🚧 Lacunas
-- Como adaptar Claude Code para casos específicos de uso em diferentes nichos de mercado?
-- Quais são as limitações atuais do Claude Code em comparação com outras soluções de CLI baseadas em IA?
-- Como melhorar a personalização e o contexto na interação entre o agente CLI e o usuário final?
+- O navegador integrado ficará disponível no CLI (não só Desktop)?
+- /doctor consegue corrigir problemas de MCP automaticamente?
+- Managed Agents scheduling (beta público) tem data de GA prevista?
 ```

@@ -3,42 +3,40 @@
 tipo: pesquisa
 criado: 2026-07-12
 atualizado: 2026-07-12
-pergunta-central: Como a Claude API e o Anthropic SDK podem ser utilizados para integrar inteligência artificial em aplicações de forma eficiente e ética?
+pergunta-central: Quais são as novidades da Claude API e Anthropic SDK em julho de 2026?
 relacionado-a: []
-related: [[Claude.md]]
+related: []
 tags: [pesquisa, ia, dev, claude]
 ---
 
 # Pesquisa - Claude API e Anthropic SDK
 
 ## ❓ Pergunta central
-Como a Claude API e o Anthropic SDK podem ser utilizados para integrar inteligência artificial em aplicações de forma eficiente e ética?
+Quais são as novidades da Claude API e Anthropic SDK em julho de 2026?
 
 ## 🎯 Síntese (3-5 linhas)
-A Claude API e o Anthropic SDK são ferramentas desenvolvidas pela Anthropic para facilitar a integração de inteligência artificial em aplicações. A abordagem foca em segurança e alinhamento ético, permitindo implementar soluções robustas sem comprometer a privacidade ou causar danos. Esses recursos oferecem modos de interação customizáveis e são projetados para evitar comportamentos indesejáveis dos modelos.
+Julho de 2026 traz melhorias na gestão de API keys (expiração configurável no Console com alertas por e-mail), analytics enterprise mais ricos (uso por grupo/usuário + artefatos + custo), e a integração Claude in Chrome chegando ao GA para usuários Anthropic direct. O Microsoft Foundry agora oferece Opus 4.8 e Haiku 4.5 via Messages API. Um novo recurso "Monthly Recap" (Settings > Reflect) mostra tópicos, dia mais ativo e pico de uso — beta nos planos Free/Pro/Max.
 
 ## 🔬 Detalhes
-- A Claude API permite interagir com modelos de linguagem avançados, incluindo geração de texto, análise semântica e síntese de informações.
-- O Anthropic SDK fornece bibliotecas e ferramentas para integrar os modelos diretamente em software, com suporte para múltiplas linguagens de programação.
-- Ambos foram projetados com princípios de segurança e ética como prioridades, mitigando riscos de geração de conteúdo prejudicial ou enviesado.
-- Anthropic utiliza técnicas como RLHF (Reinforcement Learning from Human Feedback) para treinar seus modelos, garantindo maior controle e alinhamento aos objetivos do usuário.
-- A documentação da API é clara e inclui exemplos práticos para desenvolvedores implementarem soluções com rapidez.
-- Possuem funcionalidades específicas para configurar limites, como restrições de respostas para evitar saídas não seguras ou inadequadas.
-- O foco em escalabilidade permite que empresas integrem os modelos em sistemas de alta demanda sem perda de performance.
-- O SDK e API estão em constante evolução, com atualizações regulares para acompanhar avanços em IA e feedback dos usuários.
+- **API Keys com expiração**: agora configurável no Claude Console (preset, duração customizada ou nunca); alertas por e-mail antes do vencimento para chaves com vida ≥7 dias
+- **Analytics Enterprise**: dashboard mostra uso e custo por grupo e por usuário; exibe artefatos criados, arquivos editados, skills e conectores com custo ao lado; model-level entitlements e spend alerts
+- **Microsoft Foundry GA**: Claude Opus 4.8 e Haiku 4.5 disponíveis via Messages API no Azure para coding, agentic work e raciocínio complexo
+- **Claude in Chrome GA**: Claude Code consegue abrir abas, clicar, preencher formulários e testar apps no browser via extensão — disponível para usuários Anthropic direct
+- **Monthly Recap (beta)**: em Settings > Reflect, mostra tópicos, dia mais ativo, hora de pico e observações sobre o uso — planos Free, Pro e Max
+- **Claude Sonnet 5**: continua como modelo padrão ($2/$10 MTok promo até 31/ago → $3/$15 em set); 1M ctx, 128k output
 
 ## 🔗 Conexões
-- [[Claude.md]]
+- [[2026-07-12 - Claude Code — CLI e agentes]]
+- [[2026-07-12 - Economia de Tokens em LLMs]]
 - [[Projeto - Sistema Chamados]]
-- [[Pesquisa - Ética em IA]]
 
 ## 📚 Fontes
-- [[Referência - Anthropic: Documentação oficial da Claude API]]
-- [[Referência - RLHF (Reinforcement Learning from Human Feedback)]]
-- [[Referência - Segurança em sistemas de IA]]
+- [Anthropic Release Notes July 2026 - Releasebot](https://releasebot.io/updates/anthropic)
+- [Claude Updates July 2026 - Releasebot](https://releasebot.io/updates/anthropic/claude)
+- [Models overview - Claude Platform Docs](https://platform.claude.com/docs/en/about-claude/models/overview)
 
 ## 🚧 Lacunas
-- Como a Claude API se compara diretamente com outras APIs como OpenAI GPT-4 em termos de desempenho e custo?
-- Quais são os casos de uso concretos implementados com sucesso por empresas usando o Anthropic SDK?
-- Como a Anthropic está planejando evoluir seus modelos para lidar com desafios futuros relacionados à ética e segurança em IA?
+- Monthly Recap será expandido para planos Team/Enterprise?
+- Quais modelos chegam ao Microsoft Foundry nos próximos meses (Fable 5, Sonnet 5)?
+- API key expiration estará disponível também para service account keys?
 ```
