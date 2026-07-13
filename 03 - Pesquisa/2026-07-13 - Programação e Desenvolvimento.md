@@ -3,7 +3,7 @@
 tipo: pesquisa
 criado: 2026-07-13
 atualizado: 2026-07-13
-pergunta-central: Como evoluir habilidades em programação e desenvolvimento para atender às demandas do mercado atual e futuro?
+pergunta-central: Como a evolução das ferramentas e práticas na programação está moldando o futuro do desenvolvimento de software?
 relacionado-a: []
 related: []
 tags: [pesquisa, dev, produtividade]
@@ -12,31 +12,30 @@ tags: [pesquisa, dev, produtividade]
 # Pesquisa - Programação e Desenvolvimento
 
 ## ❓ Pergunta central
-Como evoluir habilidades em programação e desenvolvimento para atender às demandas do mercado atual e futuro?
+Como a evolução das ferramentas e práticas na programação está moldando o futuro do desenvolvimento de software?
 
 ## 🎯 Síntese (3-5 linhas)
-A programação é uma habilidade essencial em um mundo cada vez mais digital. Com a constante evolução da tecnologia, dominar linguagens como Python, JavaScript e frameworks modernos, além de práticas como DevOps e segurança cibernética, é crucial. Soft skills, como colaboração e resolução de problemas, também são vitais para o sucesso nesse campo. O aprendizado contínuo e a adaptação ao mercado são diferenciais importantes.
+A programação e o desenvolvimento de software evoluíram rapidamente nas últimas décadas devido ao surgimento de novas linguagens, frameworks e ferramentas de automação. A integração de inteligência artificial e práticas como DevOps estão revolucionando a indústria, permitindo maior eficiência e colaboração. Além disso, há um foco crescente em acessibilidade, segurança e sustentabilidade no desenvolvimento de software.
 
 ## 🔬 Detalhes
-- **Linguagens mais demandadas**: Python, JavaScript e Rust estão no topo devido à sua versatilidade e eficiência.
-- **Tendências emergentes**: Inteligência artificial, desenvolvimento de software low-code/no-code e computação quântica estão moldando o futuro da programação.
-- **Metodologias ágeis**: Práticas como Scrum e Kanban continuam fundamentais para equipes de desenvolvimento.
-- **DevOps e CI/CD**: A integração de desenvolvimento e operações é essencial para entregas de software mais rápidas e confiáveis.
-- **Segurança no código**: A crescente ameaça de ciberataques exige que desenvolvedores integrem segurança ao ciclo de vida do desenvolvimento.
-- **Soft skills**: Comunicação, aprendizado contínuo e colaboração são tão importantes quanto habilidades técnicas.
+- A popularidade de linguagens de alto nível, como Python e JavaScript, cresce devido à sua simplicidade e flexibilidade.
+- Frameworks como React, Angular e Django agilizam o desenvolvimento de aplicações web, reduzindo o tempo para entrega de produtos.
+- Práticas ágeis e metodologias como Scrum e Kanban tornaram o desenvolvimento mais iterativo e colaborativo, com entregas rápidas e incrementais.
+- Ferramentas de CI/CD (Integração Contínua/Entrega Contínua) têm acelerado o processo de entrega de software, reduzindo erros e aumentando a confiabilidade.
+- A inteligência artificial está sendo usada para automação de código, testes e até mesmo para sugerir soluções de problemas através de ferramentas como o GitHub Copilot.
+- Há uma demanda crescente por software acessível e inclusivo, com foco em design universal para atender a um público mais amplo.
 
 ## 🔗 Conexões
 - [[Claude API e Anthropic SDK]]
-- [[Pesquisa - Inteligência Artificial Generativa]]
 - [[Projeto - Sistema Chamados]]
 
 ## 📚 Fontes
-- [[Referência - Stack Overflow Developer Survey 2026]]
 - [[Referência - Livro Clean Code]]
-- [[Referência - Relatório Gartner sobre Tendências Tecnológicas]]
+- [[Referência - Artigo sobre DevOps na Forbes]]
+- [[Referência - Documentação oficial React.js]]
 
 ## 🚧 Lacunas
-- Qual será o impacto da computação quântica no desenvolvimento de software tradicional?
-- Como as ferramentas de IA podem automatizar ainda mais o trabalho do desenvolvedor?
-- Quais serão as novas competências exigidas em 2030 no campo de programação?
+- Quais são os impactos de longo prazo da automação por IA no mercado de trabalho de desenvolvedores?
+- Como as práticas de desenvolvimento podem ser adaptadas para reduzir a pegada de carbono de softwares?
+- Qual é o futuro das linguagens de programação em relação à computação quântica?
 ```
