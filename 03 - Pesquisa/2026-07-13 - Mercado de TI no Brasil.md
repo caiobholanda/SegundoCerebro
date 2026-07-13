@@ -3,38 +3,39 @@
 tipo: pesquisa
 criado: 2026-07-13
 atualizado: 2026-07-13
-pergunta-central: Quais são as tendências e desafios do mercado de TI no Brasil em 2026?
+pergunta-central: Quais são as tendências, desafios e oportunidades do mercado de TI no Brasil em 2026?
 relacionado-a: []
-related: [[Claude API e Anthropic SDK]], [[Projeto - Sistema Chamados]]
+related: []
 tags: [pesquisa, mercado, carreira]
 ---
 
 # Pesquisa - Mercado de TI no Brasil
 
 ## ❓ Pergunta central
-Quais são as tendências e desafios do mercado de TI no Brasil em 2026?
+Quais são as tendências, desafios e oportunidades do mercado de TI no Brasil em 2026?
 
 ## 🎯 Síntese (3-5 linhas)
-O mercado de TI no Brasil em 2026 continua em expansão, impulsionado pela demanda por soluções digitais em setores como saúde, finanças e varejo. A busca por profissionais qualificados segue intensa, mas enfrenta desafios como a escassez de mão de obra especializada e a adaptação às rápidas mudanças tecnológicas. Além disso, o crescimento de áreas como inteligência artificial e cibersegurança destaca-se como oportunidades promissoras.
+O mercado de TI no Brasil em 2026 continua em expansão, impulsionado pela transformação digital em setores como saúde, educação e comércio. A demanda por profissionais qualificados supera a oferta, criando desafios para empresas e oportunidades para talentos especializados. A inteligência artificial e a cibersegurança são áreas de destaque, enquanto a desigualdade no acesso à tecnologia ainda é um obstáculo a ser superado.
 
 ## 🔬 Detalhes
-- O Brasil é o maior mercado de TI da América Latina, com crescimento acelerado em serviços de nuvem, infraestrutura e desenvolvimento de software.
-- A escassez de profissionais qualificados é um problema persistente, especialmente em áreas como engenharia de dados, cibersegurança e inteligência artificial.
-- Empresas brasileiras estão investindo fortemente em transformação digital, com foco em otimizar processos e melhorar a experiência do cliente.
-- Soluções baseadas em inteligência artificial e machine learning estão sendo adotadas em setores como saúde (diagnóstico automatizado) e varejo (análise preditiva de consumo).
-- Startups de tecnologia continuam a atrair investimentos, especialmente nas áreas de fintechs, healthtechs e edtechs.
-- Desafios persistem na regulamentação de dados (LGPD) e no fortalecimento da infraestrutura digital, especialmente em regiões menos desenvolvidas.
+- O setor de TI no Brasil cresceu consistentemente nos últimos anos, com uma taxa prevista de 7,5% ao ano até 2028.
+- A carência de profissionais qualificados continua sendo um problema significativo, com uma projeção de 400 mil vagas abertas até o final de 2026.
+- As áreas de maior demanda incluem desenvolvimento de software, cibersegurança, inteligência artificial, análise de dados e computação em nuvem.
+- Startups brasileiras de tecnologia estão ganhando relevância internacional, com investimentos recordes em fintechs e edtechs.
+- A desigualdade no acesso à internet e à educação tecnológica ainda limita o potencial de expansão do mercado em regiões menos desenvolvidas.
+- Existe uma tendência crescente de adoção de trabalho remoto e modelos híbridos no setor de TI, ampliando o acesso a talentos em regiões remotas.
 
 ## 🔗 Conexões
-- [[Claude API e Anthropic SDK]]
-- [[Projeto - Sistema Chamados]]
+- [[Pesquisa - Inteligência Artificial no Brasil]]
+- [[Roteiro - Como começar uma carreira em tecnologia]]
 
 ## 📚 Fontes
-- [[Referência - Panorama do mercado de TI no Brasil 2026]]
-- [[Referência - Relatório sobre escassez de profissionais em TI]]
+- [[Referência - Relatório Mercado de TI Brasil 2026]]
+- [[Referência - Panorama de Startups no Brasil]]
+- [[Referência - Análise do Setor de Cibersegurança (2026)]]
 
 ## 🚧 Lacunas
-- Qual é o impacto do cenário econômico brasileiro na contratação e retenção de talentos em TI?
-- Quais estratégias estão sendo usadas por empresas brasileiras para lidar com a escassez de mão de obra qualificada?
-- Como o Brasil está se posicionando globalmente em relação ao avanço em inteligência artificial e cibersegurança?
+- Qual é o papel do governo brasileiro na promoção da educação tecnológica e inclusão digital?
+- Como o mercado de TI no Brasil pode se tornar mais competitivo globalmente?
+- Quais são as estratégias mais eficazes para reduzir a escassez de profissionais qualificados no setor?
 ```
