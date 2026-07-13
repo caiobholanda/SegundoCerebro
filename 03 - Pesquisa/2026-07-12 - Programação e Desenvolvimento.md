@@ -3,40 +3,41 @@
 tipo: pesquisa
 criado: 2026-07-12
 atualizado: 2026-07-12
-pergunta-central: Como as práticas modernas de programação e desenvolvimento estão moldando a eficiência e a qualidade do software?
+pergunta-central: Quais são os princípios fundamentais e as principais tendências em programação e desenvolvimento hoje?
 relacionado-a: []
-related: []
+related: [[Claude API e Anthropic SDK]]
 tags: [pesquisa, dev, produtividade]
 ---
 
 # Pesquisa - Programação e Desenvolvimento
 
 ## ❓ Pergunta central
-Como as práticas modernas de programação e desenvolvimento estão moldando a eficiência e a qualidade do software?
+Quais são os princípios fundamentais e as principais tendências em programação e desenvolvimento hoje?
 
 ## 🎯 Síntese (3-5 linhas)
-A programação e o desenvolvimento de software evoluíram significativamente com a adoção de metodologias ágeis, automação e inteligência artificial. O foco atual está na entrega contínua, colaboração entre equipes e na qualidade do código. Ferramentas de versionamento, como Git, e plataformas de integração contínua, como Jenkins e GitHub Actions, desempenham um papel central. No entanto, a adoção de práticas modernas ainda enfrenta desafios culturais e técnicos em muitas equipes.
+A programação e o desenvolvimento de software continuam a evoluir, impulsionados por avanços em inteligência artificial, desenvolvimento ágil e práticas de DevOps. As linguagens e frameworks modernos buscam maior produtividade, colaboração e acessibilidade. Tendências como low-code/no-code, computação em nuvem e desenvolvimento orientado a eventos estão moldando o futuro do setor, enquanto princípios como código limpo e design centrado no usuário permanecem essenciais.
 
 ## 🔬 Detalhes
-- **Metodologias Ágeis**: Práticas como Scrum e Kanban aceleram o ciclo de desenvolvimento, promovendo entregas frequentes e feedbacks rápidos.
-- **CI/CD (Integração e Entrega Contínuas)**: Ferramentas como Jenkins, GitHub Actions e GitLab CI permitem automação de testes e deploys, reduzindo erros humanos.
-- **Programação orientada a testes (TDD)**: Escrever testes antes do código ajuda a garantir a qualidade e a funcionalidade do software.
-- **Arquiteturas modernas**: O uso de microsserviços e arquiteturas serverless está crescendo, permitindo maior escalabilidade e manutenção.
-- **Inteligência Artificial**: Ferramentas como o [[Claude API e Anthropic SDK]] e [[ChatGPT]] estão sendo usadas para gerar e revisar código, aumentando a produtividade.
-- **Desafios Culturais**: A resistência a mudanças e a falta de treinamento são barreiras para a adoção de novas práticas, especialmente em equipes tradicionais.
+- **Princípios fundamentais**: Práticas como código limpo (Clean Code), modularidade, reutilização e documentação clara ainda são cruciais para o desenvolvimento sustentável.
+- **Tendências em IA**: Ferramentas como GitHub Copilot e Claude API estão transformando o processo de codificação ao automatizar tarefas repetitivas e sugerir soluções inteligentes.
+- **Low-code/no-code**: Plataformas como Bubble e Webflow estão democratizando o acesso ao desenvolvimento de software, permitindo que não-programadores criem aplicações complexas.
+- **DevOps e automação**: A integração contínua/entrega contínua (CI/CD) e ferramentas como Jenkins e Docker aceleram o ciclo de desenvolvimento e melhoram a qualidade.
+- **Desenvolvimento para dispositivos móveis**: Frameworks cross-platform como Flutter e React Native permitem criar aplicativos para iOS e Android a partir de uma única base de código.
+- **Segurança e privacidade**: Com o aumento nas ameaças cibernéticas, práticas como DevSecOps estão se tornando padrão para integrar segurança desde o início do ciclo de desenvolvimento.
 
 ## 🔗 Conexões
 - [[Claude API e Anthropic SDK]]
-- [[Pesquisa - Inteligência Artificial e Automação]]
-- [[Guia - Melhores práticas em desenvolvimento ágil]]
+- [[Pesquisa - Tendências em Inteligência Artificial]]
+- [[Pesquisa - DevOps e Automação]]
 
 ## 📚 Fontes
-- [[Referência - Clean Code]]
-- [[Referência - The DevOps Handbook]]
-- [[Referência - Continuous Delivery (Jez Humble)]]
+- [[Referência - Clean Code (Robert C. Martin)]]
+- [[Referência - The Phoenix Project (Gene Kim, Kevin Behr, George Spafford)]]
+- [[Referência - Site oficial do GitHub Copilot]]
+- [[Referência - Documentação do Flutter]]
 
 ## 🚧 Lacunas
-- Como medir com precisão o impacto da inteligência artificial na produtividade dos desenvolvedores?
-- Quais são as melhores práticas para a transição de equipes tradicionais para metodologias ágeis?
-- Quais são as limitações da automação em pipelines de CI/CD e como superá-las?
+- Como as ferramentas de inteligência artificial podem impactar negativamente a criatividade dos desenvolvedores?
+- Quais são as melhores práticas para equilibrar a adoção de low-code/no-code com a necessidade de código customizado?
+- Quais serão os impactos futuros da computação quântica no desenvolvimento de software?
 ```
