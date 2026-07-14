@@ -3,7 +3,7 @@
 tipo: pesquisa
 criado: 2026-07-14
 atualizado: 2026-07-14
-pergunta-central: Como as tendências atuais em programação e desenvolvimento podem impactar a produtividade e o futuro da tecnologia?
+pergunta-central: Quais são os principais conceitos, práticas e tendências em programação e desenvolvimento hoje?
 relacionado-a: []
 related: []
 tags: [pesquisa, dev, produtividade]
@@ -12,30 +12,32 @@ tags: [pesquisa, dev, produtividade]
 # Pesquisa - Programação e Desenvolvimento
 
 ## ❓ Pergunta central
-Como as tendências atuais em programação e desenvolvimento podem impactar a produtividade e o futuro da tecnologia?
+Quais são os principais conceitos, práticas e tendências em programação e desenvolvimento hoje?
 
 ## 🎯 Síntese (3-5 linhas)
-A programação e o desenvolvimento têm evoluído rapidamente com o avanço de tecnologias como inteligência artificial, desenvolvimento ágil, e plataformas low-code/no-code. Essas mudanças estão moldando a forma como os desenvolvedores criam e entregam soluções, aumentando a produtividade, democratizando o acesso à tecnologia e permitindo inovações mais rápidas. No entanto, isso também traz desafios relacionados à escalabilidade, segurança e ética.
+Programação e desenvolvimento são áreas em constante evolução, impulsionadas por novas linguagens, frameworks e metodologias. Hoje, tendências como a inteligência artificial, desenvolvimento low-code/no-code e práticas DevOps dominam o cenário. Além disso, habilidades como programação funcional, uso de contêineres e aprendizado contínuo são cruciais para desenvolvedores. A busca por eficiência e escalabilidade guia grande parte das inovações.
 
 ## 🔬 Detalhes
-- **Inteligência Artificial (IA)**: Ferramentas como GitHub Copilot e ChatGPT estão automatizando partes do processo de codificação, aumentando a eficiência, mas levantando questões sobre dependência e qualidade do código.
-- **Low-code/No-code**: Essas plataformas permitem que não desenvolvedores criem aplicações, reduzindo a barreira técnica, mas podem limitar a personalização e a escalabilidade de projetos.
-- **Desenvolvimento Ágil**: Métodos ágeis, como Scrum e Kanban, continuam sendo amplamente adotados, focando na entrega incremental de valor e na adaptação às mudanças de requisitos.
-- **DevOps e CI/CD**: Integração contínua e entrega contínua (CI/CD) têm se tornado padrão, permitindo ciclos de lançamento mais rápidos e maior confiabilidade.
-- **Segurança no Desenvolvimento**: A crescente complexidade dos sistemas e a interconexão aumentam os desafios de segurança, demandando maior atenção para práticas como DevSecOps.
-- **Tendências Futuras**: A programação quântica e as crescentes capacidades da computação em nuvem estão expandindo os limites do que é possível, mas também exigem novas habilidades e ferramentas.
+- A programação funcional tem ganhado destaque, especialmente com linguagens como Haskell, Scala e a adoção de paradigmas funcionais em JavaScript (ex: React).
+- O DevOps é uma abordagem padrão em muitas empresas, integrando times de desenvolvimento e operações para automação e entrega contínua.
+- Ferramentas low-code e no-code democratizam o desenvolvimento, permitindo que não programadores criem soluções funcionais.
+- Contêineres (como Docker) e orquestração (como Kubernetes) são essenciais para aplicações escaláveis e portáveis.
+- Inteligência Artificial está moldando o desenvolvimento, com frameworks como TensorFlow e PyTorch e avanços em ferramentas de geração de código.
+- Métodos ágeis continuam sendo amplamente usados, mas com evoluções como DevSecOps, que integra segurança já no ciclo de desenvolvimento.
 
 ## 🔗 Conexões
 - [[Claude API e Anthropic SDK]]
-- [[Pesquisa - Inteligência Artificial Generativa]]
+- [[Pesquisa - Desenvolvimento Ágil]]
+- [[Referência - Programação Funcional]]
+- [[Área - Inteligência Artificial]]
 
 ## 📚 Fontes
-- [[Referência - Livro Clean Code]]
-- [[Referência - Artigo sobre Low-code e No-code Tools]]
-- [[Referência - Guia de DevOps da AWS]]
+- [[Referência - Clean Code (Robert C. Martin)]]
+- [[Referência - Site oficial do Kubernetes]]
+- [[Referência - Livro Grokking Algorithms]]
 
 ## 🚧 Lacunas
-- Como equilibrar a adoção de ferramentas low-code/no-code e a necessidade de personalização e flexibilidade?
-- Quais são os impactos éticos e sociais a longo prazo da automação no desenvolvimento de software?
-- Em que estágio está a programação quântica e como ela afetará o desenvolvimento tradicional?
+- Impacto a longo prazo do desenvolvimento low-code/no-code na profissão de programador.
+- Como a programação quântica pode se integrar ao ecossistema atual de desenvolvimento.
+- Melhorias possíveis na integração entre IA e ferramentas de desenvolvimento para automação mais avançada.
 ```
