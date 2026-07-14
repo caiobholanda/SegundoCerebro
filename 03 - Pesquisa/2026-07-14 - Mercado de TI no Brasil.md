@@ -15,28 +15,28 @@ tags: [pesquisa, mercado, carreira]
 Quais são as principais tendências, desafios e oportunidades no mercado de TI no Brasil em 2026?
 
 ## 🎯 Síntese (3-5 linhas)
-O mercado de TI no Brasil continua em crescimento, impulsionado pela transformação digital acelerada em setores como saúde, educação e varejo. Há uma grande demanda por profissionais qualificados, especialmente em áreas como desenvolvimento de software, segurança cibernética e inteligência artificial. No entanto, a falta de mão de obra qualificada e os desafios regulatórios permanecem como barreiras importantes para o avanço do setor.
+O mercado de TI no Brasil continua em expansão, impulsionado pela aceleração digital, pelo aumento da demanda por soluções de inteligência artificial e pela necessidade de segurança cibernética. Contudo, o setor enfrenta desafios como a escassez de profissionais qualificados e a necessidade de políticas públicas que apoiem a inovação tecnológica. Empresas estão investindo em capacitação e parcerias para suprir a demanda de talentos.
 
 ## 🔬 Detalhes
-- O mercado de TI no Brasil cresceu cerca de 10% ao ano em média nos últimos 5 anos, mesmo durante períodos de instabilidade econômica.
-- A demanda por profissionais de tecnologia no Brasil ultrapassa em mais de 150 mil vagas a oferta anual de formados, segundo dados recentes do setor.
-- Áreas como segurança cibernética, inteligência artificial, ciência de dados e desenvolvimento de software são as mais promissoras e apresentam maior escassez de profissionais.
-- O aumento do home office e do trabalho remoto ampliou a competição internacional por talentos brasileiros, com empresas estrangeiras contratando diretamente no país.
-- Desafios regulatórios, como a LGPD (Lei Geral de Proteção de Dados), demandam investimentos em compliance e reestruturação de processos, impactando empresas de TI.
-- Startups e fintechs continuam a ser motores de inovação no setor, recebendo grande parte dos investimentos de venture capital no país.
+- O mercado de TI no Brasil deve crescer cerca de 10% em 2026, segundo estimativas da ABES (Associação Brasileira das Empresas de Software).
+- Áreas como inteligência artificial, ciência de dados e cibersegurança continuam sendo as mais promissoras, com alta demanda por profissionais especializados.
+- A escassez de mão de obra qualificada é um problema crítico, com um déficit projetado para mais de 400 mil vagas até o final de 2026.
+- Startups têm tido papel relevante, especialmente no setor de fintechs e healthtechs, consolidando o Brasil como um dos maiores hubs de inovação da América Latina.
+- O governo brasileiro tem investido em iniciativas como o Programa Brasil Mais Digital para fomentar a capacitação em tecnologia e inovação.
+- A internacionalização das empresas de TI brasileiras é uma tendência crescente, com muitas buscando expandir para mercados da América do Norte e Europa.
 
 ## 🔗 Conexões
-- [[Pesquisa - Educação tecnológica no Brasil]]
-- [[Projeto - Construção de um curso de programação]]
-- [[Referência - LGPD e impacto no mercado de TI]]
+- [[Pesquisa - Futuro da Inteligência Artificial no Brasil]]
+- [[Área - Desenvolvimento de Software]]
+- [[Referência - Panorama da Indústria de TI no Brasil]]
 
 ## 📚 Fontes
-- [[Referência - Relatório Mercado de TI Brasil 2026]]
-- [[Referência - Artigo sobre a falta de profissionais de TI no Brasil]]
-- [[Referência - Análise de investimentos em startups brasileiras]]
+- [[Referência - Relatório ABES 2026]]
+- [[Referência - Panorama da Indústria de Startups no Brasil]]
+- [[Referência - Programa Brasil Mais Digital]]
 
 ## 🚧 Lacunas
-- Como políticas públicas podem reduzir o déficit de profissionais qualificados em TI?
-- Quais setores mais se beneficiaram da transformação digital no Brasil e por quê?
-- Qual o impacto do avanço da inteligência artificial no emprego de profissionais de TI no Brasil?
+- Qual o impacto da regulação governamental no crescimento do setor de TI no Brasil em 2026?
+- Quais são as estratégias mais eficazes para mitigar a escassez de talentos em TI no Brasil?
+- Como a expansão internacional das empresas de TI brasileiras está sendo recebida nos mercados externos?
 ```
