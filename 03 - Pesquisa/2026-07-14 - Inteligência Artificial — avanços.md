@@ -1,9 +1,8 @@
-```markdown
 ---
 tipo: pesquisa
 criado: 2026-07-14
 atualizado: 2026-07-14
-pergunta-central: Quais são os avanços mais recentes e significativos na área de Inteligência Artificial, e como eles estão impactando diferentes setores?
+pergunta-central: Quais são os avanços mais significativos na área de inteligência artificial nos últimos anos e como eles impactam a sociedade?
 relacionado-a: []
 related: []
 tags: [pesquisa, ia]
@@ -12,31 +11,29 @@ tags: [pesquisa, ia]
 # Pesquisa - Inteligência Artificial — avanços
 
 ## ❓ Pergunta central
-Quais são os avanços mais recentes e significativos na área de Inteligência Artificial, e como eles estão impactando diferentes setores?
+Quais são os avanços mais significativos na área de inteligência artificial nos últimos anos e como eles impactam a sociedade?
 
 ## 🎯 Síntese (3-5 linhas)
-Os avanços recentes em IA incluem a evolução de modelos de linguagem como GPT e Claude, melhorias em aprendizado profundo, e aplicações práticas em saúde, finanças e indústrias criativas. Além disso, o aumento das capacidades de IA generativa e a integração com dispositivos IoT estão transformando a forma como interagimos com a tecnologia. Esses avanços trazem tanto oportunidades quanto desafios éticos, regulatórios e técnicos.
+A inteligência artificial tem avançado rapidamente em diversas frentes, como modelos de linguagem de grande escala, aprendizado por reforço, IA generativa e aplicações em saúde, educação e sustentabilidade. Esses progressos estão transformando indústrias, promovendo maior eficiência e inovação, mas também levantam questões éticas sobre privacidade, viés e impacto no mercado de trabalho.
 
 ## 🔬 Detalhes
-- Modelos de linguagem de última geração, como GPT-4 e Claude, estão revolucionando a interação humano-máquina, permitindo aplicações em áreas como atendimento ao cliente, educação e produção de conteúdo.
-- IA generativa está sendo usada para criar imagens, vídeos, música e até mesmo design de produtos, expandindo os limites da criatividade e inovação.
-- Aprendizado por reforço profundo (Deep Reinforcement Learning) tem se destacado em aplicações complexas, como jogos, robótica e otimização de processos industriais.
-- A aplicação de IA na área da saúde, como diagnósticos assistidos por máquina, análise de imagens médicas e descoberta de medicamentos, está acelerando avanços significativos no tratamento de doenças.
-- Integrações de IA com dispositivos IoT estão criando sistemas inteligentes para cidades, casas e indústrias, aprimorando a eficiência e a sustentabilidade.
-- A questão ética tem ganhado destaque, com discussões sobre transparência, viés algorítmico e regulamentação da IA para garantir uso responsável.
+- Modelos de linguagem de grande escala, como o [[GPT-4]], têm demonstrado capacidades impressionantes em compreensão e geração de texto humano.
+- Avanços em aprendizado por reforço profundo permitiram conquistas em jogos complexos, como o AlphaGo da [[DeepMind]], que superou campeões mundiais de Go.
+- IA generativa tem sido amplamente utilizada para criar imagens, vídeos, música e até mesmo código, com ferramentas como [[DALL·E]] e [[GitHub Copilot]].
+- Na saúde, IA está sendo usada para diagnósticos mais rápidos e precisos, como na detecção precoce de câncer e no desenvolvimento de medicamentos personalizados.
+- No setor de sustentabilidade, algoritmos de IA estão otimizando redes de energia e promovendo soluções para monitoramento ambiental.
+- Apesar dos avanços, desafios éticos persistem, como a ampliação de vieses em algoritmos e o impacto no mercado de trabalho devido à automação.
 
 ## 🔗 Conexões
 - [[Claude API e Anthropic SDK]]
-- [[Pesquisa - Ética na Inteligência Artificial]]
-- [[Projeto - Sistema Chamados]]
+- [[Referência - Ética em IA]]
+- [[Pesquisa - Modelos de linguagem de grande escala]]
 
 ## 📚 Fontes
-- [[Referência - OpenAI GPT-4 Whitepaper]]
-- [[Referência - Livro - Artificial Intelligence: A Guide to Intelligent Systems]]
-- [[Referência - Artigo - O impacto da IA na saúde]]
+- [[Referência - Artigo sobre IA generativa]]
+- [[Referência - Livro sobre DeepMind e AlphaGo]]
 
 ## 🚧 Lacunas
-- Como os avanços em computação quântica podem impactar o futuro da IA?
-- Quais estratégias estão sendo desenvolvidas para mitigar o viés algorítmico em modelos de IA?
-- Quais são as próximas tendências tecnológicas em IA que podem emergir nos próximos 5 anos?
-```
+- Quais são os limites técnicos atuais dos modelos de IA e como estão sendo superados?
+- Como regulamentações em diferentes países estão abordando os desafios éticos da IA?
+- Qual é o impacto real da automação baseada em IA no mercado de trabalho global?
