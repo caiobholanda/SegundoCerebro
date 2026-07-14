@@ -3,40 +3,41 @@
 tipo: pesquisa
 criado: 2026-07-14
 atualizado: 2026-07-14
-pergunta-central: Quais são as principais práticas e ferramentas que tornam o processo de programação e desenvolvimento mais eficiente e sustentável?
+pergunta-central: Qual o panorama atual das principais práticas e tendências em programação e desenvolvimento de software?
 relacionado-a: []
-related: [[Claude API e Anthropic SDK]]
+related: []
 tags: [pesquisa, dev, produtividade]
 ---
 
 # Pesquisa - Programação e Desenvolvimento
 
 ## ❓ Pergunta central
-Quais são as principais práticas e ferramentas que tornam o processo de programação e desenvolvimento mais eficiente e sustentável?
+Qual o panorama atual das principais práticas e tendências em programação e desenvolvimento de software?
 
 ## 🎯 Síntese (3-5 linhas)
-Programação e desenvolvimento são processos centrais para criar tecnologias que solucionam problemas e geram valor. A eficiência nesse campo depende de boas práticas como uso de metodologias ágeis, versionamento de código, colaboração eficaz e escolha de ferramentas adequadas. Além disso, o aprendizado contínuo e a adaptação às novas tecnologias são cruciais para manter a relevância no mercado.
+Programação e desenvolvimento continuam evoluindo rapidamente, sendo impulsionados por novas tecnologias, metodologias ágeis e o crescimento da inteligência artificial. A automação, o uso de frameworks robustos e a popularização de ferramentas low-code/no-code estão democratizando o acesso ao desenvolvimento. Além disso, práticas como DevOps e o foco em acessibilidade e sustentabilidade estão transformando a forma como sistemas são projetados e entregues.
 
 ## 🔬 Detalhes
-- **Metodologias ágeis**: Frameworks como Scrum e Kanban permitem maior flexibilidade e adaptação às mudanças durante o desenvolvimento de software.
-- **Versionamento de código**: Ferramentas como Git garantem que diferentes versões de um código possam ser gerenciadas de forma segura e colaborativa.
-- **Automatização de testes**: Frameworks como Selenium e Jest aumentam a confiabilidade do software e reduzem o tempo de revisão manual.
-- **Integração e entrega contínua (CI/CD)**: Práticas que permitem deploys frequentes e automatizados, utilizando ferramentas como Jenkins e GitHub Actions.
-- **Colaboração e comunicação**: Plataformas como GitHub, GitLab e Slack facilitam o trabalho em equipe e a troca de informações entre desenvolvedores.
-- **Aprendizado contínuo**: A evolução de linguagens e frameworks exige que os desenvolvedores estejam sempre atualizados e dispostos a aprender novas tecnologias.
+- **Inteligência Artificial**: Ferramentas como [[Claude API e Anthropic SDK]] e [[ChatGPT-4]] estão sendo integradas ao fluxo de desenvolvimento para acelerar a codificação e testes.
+- **Metodologias Ágeis**: Scrum, Kanban e SAFe continuam sendo amplamente adotadas para aumentar a eficiência das equipes de desenvolvimento.
+- **Low-Code/No-Code**: Plataformas como [[Bubble]] e [[Webflow]] permitem que usuários não técnicos participem do desenvolvimento, reduzindo barreiras de entrada.
+- **DevOps e Automação**: A integração contínua (CI) e entrega contínua (CD) são padrões essenciais para equipes ágeis, promovendo ciclos de desenvolvimento mais rápidos.
+- **Acessibilidade**: Há uma ênfase crescente em criar software acessível, considerando diretrizes como WCAG 2.1.
+- **Sustentabilidade no código**: Práticas de eficiência energética e uso responsável de recursos computacionais estão ganhando destaque na comunidade de desenvolvimento.
 
 ## 🔗 Conexões
 - [[Claude API e Anthropic SDK]]
-- [[Pesquisa - Inteligência Artificial no Desenvolvimento de Software]]
-- [[Projeto - Sistema Chamados]]
+- [[Inteligência Artificial no Mercado de Trabalho]]
+- [[Ferramentas Low-Code e No-Code]]
+- [[DevOps - Guia Prático]]
 
 ## 📚 Fontes
-- [[Referência - Livro Clean Code]]
-- [[Referência - Artigo sobre Metodologias Ágeis]]
-- [[Referência - Documentação oficial do GitHub]]
+- [[Referência - Clean Code (Robert C. Martin)]]
+- [[Referência - Site oficial do WCAG 2.1]]
+- [[Referência - Relatório State of DevOps 2025]]
 
 ## 🚧 Lacunas
-- Quais são as tendências futuras para automação no desenvolvimento de software?
-- Como garantir a sustentabilidade do código ao longo de ciclos de atualização e manutenção?
-- Quais são as melhores práticas para balancear velocidade de desenvolvimento com qualidade do produto final?
+- Quais serão as implicações éticas do uso de IA na criação de software?
+- Como a automação pode impactar o papel dos programadores tradicionais a longo prazo?
+- Quais são as melhores práticas para incorporar sustentabilidade no desenvolvimento de software?
 ```
