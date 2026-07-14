@@ -15,28 +15,27 @@ tags: [pesquisa, mercado, carreira]
 Quais são as principais tendências e desafios do mercado de TI no Brasil em 2026?
 
 ## 🎯 Síntese (3-5 linhas)
-O mercado de TI no Brasil continua em expansão, impulsionado pela transformação digital, inteligência artificial e demanda por profissionais qualificados. Apesar do crescimento, o setor enfrenta desafios como desigualdade regional, escassez de talentos e adaptação às novas regulamentações de IA. Startups e empresas de tecnologia lideram a inovação, enquanto o mercado de trabalho valoriza habilidades como desenvolvimento de software, ciência de dados e segurança cibernética.
+O mercado de TI no Brasil continua em expansão, com alta demanda por profissionais qualificados em áreas como desenvolvimento de software, segurança cibernética e inteligência artificial. Apesar disso, o setor enfrenta desafios como a escassez de talentos especializados, a necessidade de maior inclusão e diversidade, e a adaptação às rápidas mudanças tecnológicas. Incentivos governamentais e iniciativas educacionais têm desempenhado papel essencial para suprir essa demanda.
 
 ## 🔬 Detalhes
-- O Brasil é o maior mercado de TI da América Latina, representando cerca de 40% do total da região.
-- O setor cresce em média 10% ao ano, impulsionado por demanda corporativa por soluções digitais e serviços em nuvem.
-- As áreas de maior destaque incluem inteligência artificial, ciência de dados, segurança cibernética e desenvolvimento de software.
-- A escassez de profissionais qualificados é um dos maiores desafios, com estimativas de 500 mil vagas abertas até 2030.
-- Grandes centros urbanos, como São Paulo e Curitiba, concentram a maior parte das oportunidades, mas há esforços para descentralizar o setor.
-- A regulamentação da inteligência artificial e LGPD (Lei Geral de Proteção de Dados) estão moldando o mercado, exigindo adaptações das empresas.
+- O setor de TI no Brasil cresceu significativamente nos últimos anos, com previsão de expansão acima da média global até 2030.
+- A transformação digital impulsionada pela pandemia acelerou a adoção de tecnologias como computação em nuvem, IA e automação em grandes empresas e PMEs.
+- Há uma carência de profissionais qualificados, especialmente em áreas como desenvolvimento de software, ciência de dados, segurança cibernética e DevOps.
+- Empresas têm adotado estratégias de upskilling e reskilling para formar internamente seus talentos e mitigar a escassez de mão de obra especializada.
+- Há um movimento crescente por maior diversidade e inclusão no setor, mas os números ainda são desiguais em relação à presença de mulheres, negros e pessoas LGBTQIA+.
+- Políticas públicas, como as de incentivos fiscais para startups e programas de capacitação, começam a mostrar resultados, mas ainda enfrentam desafios de implementação e alcance.
 
 ## 🔗 Conexões
-- [[Claude API e Anthropic SDK]]
-- [[Projeto - Sistema Chamados]]
-- [[Pesquisa - Impacto da LGPD no Brasil]]
+- [[Pesquisa - Impacto da IA no Mercado de Trabalho]]
+- [[Referência - Relatório Future of Jobs WEF 2025]]
 
 ## 📚 Fontes
-- [[Referência - Panorama Mercado TI Brasil 2026]]
+- [[Referência - Panorama do Mercado de TI no Brasil (ABES)]]
 - [[Referência - Relatório Gartner sobre TI na América Latina]]
-- [[Referência - Estudo sobre escassez de talentos em TI]]
+- [[Referência - Artigo - Escassez de Talentos em TI (Exame)]]
 
 ## 🚧 Lacunas
-- Como iniciativas de inclusão digital podem ajudar a descentralizar o mercado de TI no Brasil?
-- Quais impactos a regulamentação de IA pode trazer para pequenas e médias empresas?
-- Quais são os melhores modelos de capacitação para preencher a lacuna de talentos no setor?
+- Quais são as iniciativas mais eficazes para aumentar a inclusão e diversidade no mercado de TI brasileiro?
+- Como a integração entre academia e empresas pode ser aprimorada para atender à demanda por profissionais especializados?
+- Qual o impacto das recentes mudanças na legislação trabalhista sobre a contratação no setor de TI no Brasil?
 ```

@@ -3,39 +3,39 @@
 tipo: pesquisa
 criado: 2026-07-14
 atualizado: 2026-07-14
-pergunta-central: Quais são os princípios fundamentais e as tendências atuais que moldam o campo de programação e desenvolvimento?
+pergunta-central: Como a evolução das práticas de programação está moldando o futuro do desenvolvimento de software?
 relacionado-a: []
-related: [[Claude API e Anthropic SDK]], [[Pesquisa - Inteligência Artificial e Machine Learning]]
+related: []
 tags: [pesquisa, dev, produtividade]
 ---
 
 # Pesquisa - Programação e Desenvolvimento
 
 ## ❓ Pergunta central
-Quais são os princípios fundamentais e as tendências atuais que moldam o campo de programação e desenvolvimento?
+Como a evolução das práticas de programação está moldando o futuro do desenvolvimento de software?
 
 ## 🎯 Síntese (3-5 linhas)
-Programação e desenvolvimento são pilares da tecnologia moderna, permitindo a criação de sistemas que automatizam processos, resolvem problemas e impulsionam inovações. Com o avanço de linguagens de programação e frameworks, além da crescente adoção de inteligência artificial, o campo está em constante evolução. A busca por maior produtividade e eficiência tem impulsionado práticas como DevOps, programação funcional e desenvolvimento ágil.
+A programação e o desenvolvimento de software estão em constante transformação, acompanhando a evolução tecnológica e as demandas do mercado. Novas linguagens, metodologias ágeis e ferramentas automatizadas estão permitindo maior produtividade e colaboração entre equipes. Além disso, a inteligência artificial e o desenvolvimento de software low-code estão tornando o processo mais acessível e eficiente.
 
 ## 🔬 Detalhes
-- Programação é a prática de escrever instruções para computadores executarem tarefas específicas, enquanto desenvolvimento abrange o processo completo de criar softwares funcionais.
-- Linguagens populares incluem Python, JavaScript, Java, C++, e mais recentemente, Rust, devido ao seu foco em segurança e performance.
-- Paradigmas de programação, como orientado a objetos, funcional e procedural, oferecem diferentes abordagens para resolver problemas.
-- DevOps e CI/CD são práticas que integram desenvolvimento e operações, promovendo entregas rápidas e confiáveis.
-- Frameworks como React, Angular, Django e Flask aceleram o desenvolvimento ao fornecer estruturas pré-definidas.
-- Tendências emergentes incluem programação em low-code/no-code, uso de inteligência artificial para geração de código, e foco em sustentabilidade e eficiência energética no desenvolvimento.
+- A evolução das linguagens de programação, como o crescimento do Python e o aumento do interesse por Rust, reflete a busca por simplicidade e segurança.
+- Metodologias ágeis, como Scrum e Kanban, têm se consolidado como padrões para gerenciamento de projetos de software.
+- O advento de ferramentas no-code e low-code está democratizando o acesso ao desenvolvimento, permitindo que não programadores criem soluções digitais.
+- Inteligência artificial está sendo integrada ao processo de desenvolvimento, desde assistentes de codificação (ex.: GitHub Copilot) até testes automatizados.
+- DevOps e CI/CD (Continuous Integration/Continuous Deployment) estão promovendo ciclos de desenvolvimento mais rápidos e confiáveis.
+- A segurança no desenvolvimento de software (DevSecOps) está ganhando destaque, com práticas que integram segurança desde o início do processo.
 
 ## 🔗 Conexões
 - [[Claude API e Anthropic SDK]]
-- [[Pesquisa - Inteligência Artificial e Machine Learning]]
+- [[Pesquisa - Inteligência Artificial no Desenvolvimento de Software]]
+- [[Projeto - Sistema Chamados]]
 
 ## 📚 Fontes
-- [[Referência - Clean Code]]
-- [[Referência - The Pragmatic Programmer]]
-- [[Referência - Artigos sobre DevOps e CI/CD]]
+- [[Referência - Clean Code, Robert C. Martin]]
+- [[Referência - The Pragmatic Programmer, Andy Hunt e Dave Thomas]]
 
 ## 🚧 Lacunas
-- Quais são os desafios éticos e sociais associados ao uso de IA na programação?
-- Como novas linguagens como Rust e Julia estão impactando o mercado de desenvolvimento?
-- Quais são as melhores práticas para equilibrar eficiência energética e performance no desenvolvimento de software?
+- Qual será o impacto a longo prazo da popularização de ferramentas low-code/no-code na profissão de desenvolvedor?
+- Como as práticas de DevOps podem ser ainda mais integradas a equipes multiculturais e distribuídas?
+- Quais são as implicações éticas do uso de IA para gerar código e soluções automatizadas?
 ```
