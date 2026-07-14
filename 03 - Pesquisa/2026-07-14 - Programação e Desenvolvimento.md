@@ -3,7 +3,7 @@
 tipo: pesquisa
 criado: 2026-07-14
 atualizado: 2026-07-14
-pergunta-central: Qual o panorama atual das principais práticas e tendências em programação e desenvolvimento de software?
+pergunta-central: Como as melhores práticas em programação e desenvolvimento podem acelerar a entrega de software de qualidade?
 relacionado-a: []
 related: []
 tags: [pesquisa, dev, produtividade]
@@ -12,32 +12,31 @@ tags: [pesquisa, dev, produtividade]
 # Pesquisa - Programação e Desenvolvimento
 
 ## ❓ Pergunta central
-Qual o panorama atual das principais práticas e tendências em programação e desenvolvimento de software?
+Como as melhores práticas em programação e desenvolvimento podem acelerar a entrega de software de qualidade?
 
 ## 🎯 Síntese (3-5 linhas)
-Programação e desenvolvimento continuam evoluindo rapidamente, sendo impulsionados por novas tecnologias, metodologias ágeis e o crescimento da inteligência artificial. A automação, o uso de frameworks robustos e a popularização de ferramentas low-code/no-code estão democratizando o acesso ao desenvolvimento. Além disso, práticas como DevOps e o foco em acessibilidade e sustentabilidade estão transformando a forma como sistemas são projetados e entregues.
+Programação e desenvolvimento vão além de escrever código; envolvem planejamento, colaboração e uso de ferramentas modernas para resolver problemas de forma eficiente. Métodos ágeis, princípios de design limpo e observabilidade têm revolucionado a indústria, permitindo ciclos de entrega mais rápidos e produtos mais confiáveis. O equilíbrio entre inovação e manutenção é essencial para o sucesso a longo prazo.
 
 ## 🔬 Detalhes
-- **Inteligência Artificial**: Ferramentas como [[Claude API e Anthropic SDK]] e [[ChatGPT-4]] estão sendo integradas ao fluxo de desenvolvimento para acelerar a codificação e testes.
-- **Metodologias Ágeis**: Scrum, Kanban e SAFe continuam sendo amplamente adotadas para aumentar a eficiência das equipes de desenvolvimento.
-- **Low-Code/No-Code**: Plataformas como [[Bubble]] e [[Webflow]] permitem que usuários não técnicos participem do desenvolvimento, reduzindo barreiras de entrada.
-- **DevOps e Automação**: A integração contínua (CI) e entrega contínua (CD) são padrões essenciais para equipes ágeis, promovendo ciclos de desenvolvimento mais rápidos.
-- **Acessibilidade**: Há uma ênfase crescente em criar software acessível, considerando diretrizes como WCAG 2.1.
-- **Sustentabilidade no código**: Práticas de eficiência energética e uso responsável de recursos computacionais estão ganhando destaque na comunidade de desenvolvimento.
+- **Práticas Ágeis**: Métodos como Scrum e Kanban ajudam equipes a iterar rapidamente, coletar feedback frequente e ajustar suas entregas às necessidades do cliente.
+- **Clean Code**: Escrever código limpo e legível facilita a manutenção, reduz erros e encurta o onboarding de novos desenvolvedores.
+- **Automação**: CI/CD (Integração Contínua e Entrega Contínua) automatiza testes, builds e deploys, acelerando ciclos de desenvolvimento.
+- **DevOps**: A integração entre desenvolvimento e operações promove colaboração, segurança e confiabilidade em produção.
+- **Observabilidade**: Ferramentas como Prometheus e Grafana ajudam a monitorar sistemas em tempo real, reduzindo o tempo de identificação e resolução de problemas.
+- **Inteligência Artificial**: Ferramentas como [[Claude API e Anthropic SDK]] e GitHub Copilot aumentam a produtividade ao sugerir códigos, realizar revisões e até mesmo gerar documentação.
 
 ## 🔗 Conexões
 - [[Claude API e Anthropic SDK]]
-- [[Inteligência Artificial no Mercado de Trabalho]]
-- [[Ferramentas Low-Code e No-Code]]
-- [[DevOps - Guia Prático]]
+- [[Pesquisa - Melhores práticas em DevOps]]
+- [[Referência - Clean Code (Robert C. Martin)]]
 
 ## 📚 Fontes
 - [[Referência - Clean Code (Robert C. Martin)]]
-- [[Referência - Site oficial do WCAG 2.1]]
-- [[Referência - Relatório State of DevOps 2025]]
+- [[Referência - The Phoenix Project (Gene Kim, Kevin Behr, George Spafford)]]
+- [[Referência - Accelerate (Nicole Forsgren, Jez Humble, Gene Kim)]]
 
 ## 🚧 Lacunas
-- Quais serão as implicações éticas do uso de IA na criação de software?
-- Como a automação pode impactar o papel dos programadores tradicionais a longo prazo?
-- Quais são as melhores práticas para incorporar sustentabilidade no desenvolvimento de software?
+- Quais são os principais desafios para equipes pequenas adotarem práticas avançadas de DevOps e automação?
+- Como balancear a implementação de novas tecnologias (como IA) com a necessidade de segurança e conformidade?
+- Quais são os melhores indicadores para medir a produtividade em equipes de desenvolvimento?
 ```
