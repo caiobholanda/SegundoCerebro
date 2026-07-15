@@ -1,41 +1,40 @@
-```markdown
 ---
 tipo: pesquisa
 criado: 2026-07-15
 atualizado: 2026-07-15
-pergunta-central: Como a programação e o desenvolvimento podem ser otimizados para atender às demandas crescentes de performance e escalabilidade?
+pergunta-central: Como a programação e o desenvolvimento evoluem para atender às demandas emergentes da tecnologia e da sociedade?
 relacionado-a: []
-related: [[Claude API e Anthropic SDK]]
+related: []
 tags: [pesquisa, dev, produtividade]
 ---
 
 # Pesquisa - Programação e Desenvolvimento
 
 ## ❓ Pergunta central
-Como a programação e o desenvolvimento podem ser otimizados para atender às demandas crescentes de performance e escalabilidade?
+Como a programação e o desenvolvimento evoluem para atender às demandas emergentes da tecnologia e da sociedade?
 
 ## 🎯 Síntese (3-5 linhas)
-Programação e desenvolvimento são pilares da inovação tecnológica, permitindo criar soluções digitais que atendam às necessidades de negócios e consumidores. A evolução contínua de ferramentas, linguagens e frameworks tem tornado possível o desenvolvimento mais rápido, eficiente e escalável. No entanto, os desafios relacionados à performance, segurança e adaptação às novas tecnologias permanecem centrais para profissionais da área.
+A programação é o alicerce para a criação de soluções tecnológicas e está em constante evolução para acompanhar tendências como inteligência artificial, computação em nuvem e desenvolvimento ágil. Ferramentas modernas e linguagens emergentes estão otimizando a produtividade dos desenvolvedores, enquanto frameworks e metodologias promovem a colaboração e entrega contínua. A interdisciplinaridade é uma força crescente na área, unindo tecnologia a setores como saúde, meio ambiente e educação.
 
 ## 🔬 Detalhes
-- Programação envolve a criação de instruções para que computadores executem tarefas específicas, utilizando linguagens como Python, JavaScript e Rust.
-- Desenvolvimento de software abrange processos mais amplos, incluindo planejamento, design, codificação, testes e manutenção de sistemas.
-- Frameworks modernos como React e Django facilitam o desenvolvimento de aplicações web robustas e escaláveis.
-- Práticas de DevOps integram desenvolvimento e operações, acelerando o ciclo de entrega de software e melhorando a colaboração entre equipes.
-- Metodologias ágeis, como Scrum e Kanban, são usadas para gerenciar projetos de desenvolvimento, priorizando flexibilidade e entrega incremental.
-- Performance e segurança são preocupações críticas: otimizações como uso de algoritmos eficientes e criptografia avançada são essenciais para atender às demandas atuais.
+- A popularização de linguagens como Python e JavaScript foi impulsionada por sua simplicidade e versatilidade.
+- O paradigma de desenvolvimento ágil transformou a forma como equipes entregam software, priorizando ciclos curtos e feedback constante.
+- Frameworks como React e Django aceleram o desenvolvimento, oferecendo estruturas pré-construídas para aplicações.
+- A integração de ferramentas de CI/CD (integração e entrega contínuas) como Jenkins e GitHub Actions garante maior eficiência e menos erros no desenvolvimento.
+- A programação está cada vez mais acessível devido à proliferação de plataformas de aprendizado online e iniciativas de código aberto.
+- Inteligência artificial e aprendizado de máquina estão redefinindo o desenvolvimento de software, com frameworks como TensorFlow e PyTorch facilitando a implementação de modelos complexos.
 
 ## 🔗 Conexões
 - [[Claude API e Anthropic SDK]]
-- [[Pesquisa - Inteligência Artificial no Desenvolvimento de Software]]
+- [[Pesquisa - Metodologias Ágeis]]
+- [[Pesquisa - Inteligência Artificial]]
+- [[Referência - Python e o crescimento da linguagem]]
 
 ## 📚 Fontes
-- [[Referência - Clean Code por Robert C. Martin]]
-- [[Referência - The Pragmatic Programmer por Andrew Hunt e David Thomas]]
-- [[Referência - Artigos sobre DevOps e Metodologias Ágeis]]
+- [[Referência - Livro Clean Code]]
+- [[Referência - Artigo sobre DevOps e CI/CD]]
 
 ## 🚧 Lacunas
-- Qual é o impacto real da inteligência artificial na automação do desenvolvimento de software?
-- Como linguagens emergentes, como Rust e Julia, podem substituir ou complementar linguagens tradicionais?
-- Quais são as implicações éticas e de segurança no uso de IA para programação?
-```
+- Quais são as linguagens de programação emergentes que podem liderar o mercado nos próximos 5 anos?
+- Como a programação está sendo adaptada para interagir com tecnologias quânticas?
+- De que forma a ética está sendo integrada no processo de desenvolvimento de IA e software em geral?
