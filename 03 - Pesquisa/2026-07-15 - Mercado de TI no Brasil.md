@@ -15,27 +15,28 @@ tags: [pesquisa, mercado, carreira]
 Quais são as tendências, desafios e oportunidades no mercado de TI no Brasil em 2026?
 
 ## 🎯 Síntese (3-5 linhas)
-O mercado de TI no Brasil está em expansão, impulsionado pela transformação digital e pela crescente demanda por soluções tecnológicas em setores como fintechs, agritech e saúde. Porém, há desafios como a escassez de mão de obra qualificada e a necessidade de políticas públicas que incentivem a inovação. Além disso, tecnologias emergentes, como IA generativa e computação quântica, abrem novas oportunidades.
+O mercado de TI no Brasil continua a crescer, impulsionado pela transformação digital e pela adoção de tecnologias emergentes como inteligência artificial, computação em nuvem e cibersegurança. Apesar disso, o setor enfrenta desafios como a escassez de profissionais qualificados e a necessidade de adaptação às demandas globais. Áreas como desenvolvimento de software, análise de dados e segurança cibernética apresentam grande potencial de carreira.
 
 ## 🔬 Detalhes
-- O mercado de TI no Brasil deve crescer cerca de 10% em 2026, consolidando-se como um dos setores mais dinâmicos da economia.
-- A demanda por desenvolvedores de software, especialistas em segurança cibernética e cientistas de dados continua alta, com salários competitivos.
-- A escassez de profissionais qualificados é um gargalo significativo, com um déficit estimado de 500 mil vagas não preenchidas.
-- As fintechs lideram a adoção de tecnologia no Brasil, mas agritechs e startups de saúde também estão em ascensão.
-- IA generativa, como GPT, está sendo integrada em soluções empresariais, mas levanta questões éticas e regulatórias.
-- Há um crescimento no número de programas de capacitação, como bootcamps e parcerias entre empresas e universidades, para suprir a carência de profissionais.
+- A transformação digital no Brasil está acelerando, com empresas investindo em automação, inteligência artificial (IA) e Internet das Coisas (IoT).
+- O setor de TI é um dos que mais cresce na economia brasileira, representando uma porcentagem significativa do PIB nacional.
+- Há uma demanda crescente por profissionais qualificados, especialmente em áreas como desenvolvimento de software, engenharia de dados e cibersegurança.
+- A escassez de mão de obra capacitada ainda é um problema. Segundo especialistas, o Brasil precisará formar mais de 400 mil novos profissionais de TI até 2027 para atender à demanda.
+- O trabalho remoto no setor de tecnologia tornou-se uma prática consolidada, permitindo maior acesso a oportunidades internacionais para talentos brasileiros.
+- Startups e empresas de tecnologia têm desempenhado um papel central na inovação e no empreendedorismo, especialmente em setores como fintechs e healthtechs.
 
 ## 🔗 Conexões
-- [[Claude API e Anthropic SDK]]
 - [[Projeto - Sistema Chamados]]
+- [[Pesquisa - Transformação Digital]]
+- [[Pesquisa - Inteligência Artificial no Brasil]]
 
 ## 📚 Fontes
-- [[Referência - Panorama do mercado de tecnologia no Brasil 2026]]
-- [[Referência - Relatório Anual da Associação Brasileira de Startups]]
-- [[Referência - Tendências em IA no mercado brasileiro]]
+- [[Referência - Panorama do Mercado de TI no Brasil 2026]]
+- [[Referência - Relatório Anual de Tecnologia no Brasil]]
+- [[Referência - Artigo: Escassez de Profissionais de TI]]
 
 ## 🚧 Lacunas
-- Quais políticas públicas podem ser implementadas para reduzir a escassez de profissionais de TI no Brasil?
-- Qual o impacto da automação e da IA generativa no mercado de trabalho brasileiro nos próximos 5 anos?
-- Como as startups fora dos grandes centros urbanos podem superar barreiras de acesso a capital e infraestrutura tecnológica?
+- Quais são as políticas públicas mais eficazes para mitigar a escassez de mão de obra no setor de TI?
+- Como as empresas brasileiras podem se posicionar melhor no mercado global de tecnologia?
+- Qual o impacto ambiental do crescimento do setor de TI no Brasil?
 ```
