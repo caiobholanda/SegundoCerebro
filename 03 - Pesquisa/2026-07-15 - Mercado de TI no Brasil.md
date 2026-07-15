@@ -3,7 +3,7 @@
 tipo: pesquisa
 criado: 2026-07-15
 atualizado: 2026-07-15
-pergunta-central: Quais são as principais tendências e desafios do mercado de TI no Brasil atualmente?
+pergunta-central: Quais são as tendências, desafios e oportunidades no mercado de TI no Brasil em 2026?
 relacionado-a: []
 related: []
 tags: [pesquisa, mercado, carreira]
@@ -12,29 +12,30 @@ tags: [pesquisa, mercado, carreira]
 # Pesquisa - Mercado de TI no Brasil
 
 ## ❓ Pergunta central
-Quais são as principais tendências e desafios do mercado de TI no Brasil atualmente?
+Quais são as tendências, desafios e oportunidades no mercado de TI no Brasil em 2026?
 
 ## 🎯 Síntese (3-5 linhas)
-O mercado de TI no Brasil continua em expansão, impulsionado pela transformação digital e pela demanda por inovação. Áreas como segurança cibernética, inteligência artificial e desenvolvimento de software estão em alta. No entanto, há desafios relacionados à formação de profissionais qualificados e à adaptação às mudanças regulatórias no setor. 
+O mercado de TI no Brasil está em expansão, impulsionado pela transformação digital e pela crescente demanda por soluções tecnológicas em setores como fintechs, agritech e saúde. Porém, há desafios como a escassez de mão de obra qualificada e a necessidade de políticas públicas que incentivem a inovação. Além disso, tecnologias emergentes, como IA generativa e computação quântica, abrem novas oportunidades.
 
 ## 🔬 Detalhes
-- O mercado de TI no Brasil cresceu significativamente nos últimos anos, com destaque para startups e empresas de tecnologia que atraem investimentos internacionais.
-- A transformação digital está impulsionando a demanda por soluções em nuvem, análise de dados e automação de processos.
-- Segurança cibernética está entre as áreas mais críticas devido ao aumento de ataques e às exigências de conformidade regulatória.
-- Há um déficit de profissionais qualificados, especialmente em áreas como ciência de dados e inteligência artificial.
-- Empresas estão investindo em programas de capacitação e bootcamps para suprir a falta de mão de obra especializada.
-- A Lei Geral de Proteção de Dados (LGPD) tem impactado o setor, forçando empresas a adaptarem suas operações para garantir conformidade.
+- O mercado de TI no Brasil deve crescer cerca de 10% em 2026, consolidando-se como um dos setores mais dinâmicos da economia.
+- A demanda por desenvolvedores de software, especialistas em segurança cibernética e cientistas de dados continua alta, com salários competitivos.
+- A escassez de profissionais qualificados é um gargalo significativo, com um déficit estimado de 500 mil vagas não preenchidas.
+- As fintechs lideram a adoção de tecnologia no Brasil, mas agritechs e startups de saúde também estão em ascensão.
+- IA generativa, como GPT, está sendo integrada em soluções empresariais, mas levanta questões éticas e regulatórias.
+- Há um crescimento no número de programas de capacitação, como bootcamps e parcerias entre empresas e universidades, para suprir a carência de profissionais.
 
 ## 🔗 Conexões
 - [[Claude API e Anthropic SDK]]
 - [[Projeto - Sistema Chamados]]
 
 ## 📚 Fontes
-- [[Referência - Relatório Mercado de TI no Brasil 2026]]
-- [[Referência - Impactos da LGPD no setor de TI]]
+- [[Referência - Panorama do mercado de tecnologia no Brasil 2026]]
+- [[Referência - Relatório Anual da Associação Brasileira de Startups]]
+- [[Referência - Tendências em IA no mercado brasileiro]]
 
 ## 🚧 Lacunas
-- Quais são os impactos das políticas públicas recentes no mercado de TI brasileiro?
-- Qual é a perspectiva de crescimento para pequenas empresas de TI fora dos grandes centros urbanos?
-- Como a adoção de tecnologias emergentes, como blockchain e IA generativa, está moldando o mercado no Brasil?
+- Quais políticas públicas podem ser implementadas para reduzir a escassez de profissionais de TI no Brasil?
+- Qual o impacto da automação e da IA generativa no mercado de trabalho brasileiro nos próximos 5 anos?
+- Como as startups fora dos grandes centros urbanos podem superar barreiras de acesso a capital e infraestrutura tecnológica?
 ```
