@@ -1,40 +1,42 @@
+```markdown
 ---
 tipo: pesquisa
 criado: 2026-07-15
 atualizado: 2026-07-15
-pergunta-central: Qual é o papel da programação e do desenvolvimento no avanço da tecnologia e na transformação digital?
+pergunta-central: Quais são as práticas, ferramentas e tendências mais relevantes em programação e desenvolvimento atualmente?
 relacionado-a: []
 related: []
-tags: ["pesquisa", "dev", "produtividade"]
+tags: [pesquisa, dev, produtividade]
 ---
 
 # Pesquisa - Programação e Desenvolvimento
 
 ## ❓ Pergunta central
-Qual é o papel da programação e do desenvolvimento no avanço da tecnologia e na transformação digital?
+Quais são as práticas, ferramentas e tendências mais relevantes em programação e desenvolvimento atualmente?
 
 ## 🎯 Síntese (3-5 linhas)
-A programação e o desenvolvimento são pilares da tecnologia moderna, permitindo a criação de soluções que impactam diversos setores, desde saúde até entretenimento. Com o avanço das linguagens de programação, frameworks e práticas ágeis, o desenvolvimento tornou-se mais acessível e colaborativo. No entanto, a necessidade de balancear inovação com ética, acessibilidade e sustentabilidade permanece como um desafio crucial.
+A programação e o desenvolvimento continuam a evoluir rapidamente, impulsionados por novas tecnologias como IA generativa, frameworks de desenvolvimento ágeis e a crescente demanda por soluções baseadas em cloud. Métodos como DevOps e práticas como CI/CD se consolidaram como pilares da eficiência. Além disso, novas linguagens e paradigmas, como programação funcional e low-code/no-code, estão redefinindo a forma como os desenvolvedores trabalham.
 
 ## 🔬 Detalhes
-- A programação é a base para a criação de software, aplicativos e sistemas que automatizam processos e solucionam problemas complexos.
-- Linguagens como Python, JavaScript e Java dominam o mercado devido à sua versatilidade e ampla comunidade de suporte.
-- Práticas ágeis, como Scrum e Kanban, tornaram o desenvolvimento mais adaptável às mudanças e centrado no cliente.
-- Frameworks modernos, como React e Django, aceleram o desenvolvimento ao fornecer estruturas pré-definidas e eficientes.
-- O desenvolvimento de software se conecta diretamente à transformação digital, permitindo que empresas inovem e permaneçam competitivas.
-- Ética no desenvolvimento é um tema crescente, abordando questões como viés algorítmico, privacidade de dados e impacto social.
+- A IA generativa, como o [[Claude API e Anthropic SDK]], está transformando a maneira como programadores criam e otimizam código.
+- Frameworks modernos como React, Vue e Next.js continuam sendo amplamente adotados para desenvolvimento front-end.
+- DevOps é um padrão consolidado, com práticas como CI/CD (Integração e Entrega Contínuas) acelerando os ciclos de desenvolvimento e implantação.
+- Ferramentas de gerenciamento de código, como [[GitHub]] e GitLab, são indispensáveis para colaboração em equipe e versionamento.
+- A ascensão do low-code/no-code democratiza o desenvolvimento, permitindo que não programadores criem aplicações funcionais.
+- Linguagens como Python, JavaScript e Rust continuam sendo populares, enquanto novas linguagens estão emergindo para resolver problemas específicos.
 
 ## 🔗 Conexões
 - [[Claude API e Anthropic SDK]]
-- [[Pesquisa - Ética em Inteligência Artificial]]
-- [[Projeto - Sistema Chamados]]
+- [[Ferramentas de produtividade para desenvolvedores]]
+- [[Referência - Livro - Clean Code]]
 
 ## 📚 Fontes
-- [[Referência - Clean Code (Robert C. Martin)]]
-- [[Referência - The Pragmatic Programmer (Andrew Hunt, David Thomas)]]
-- [[Referência - Site oficial React.js]]
+- [[Referência - Artigo - O estado do desenvolvimento de software em 2026]]
+- [[Referência - Livro - DevOps Handbook]]
+- [[Referência - Relatório - Stack Overflow Developer Survey 2026]]
 
 ## 🚧 Lacunas
-- Quais são as melhores práticas para garantir acessibilidade em aplicações modernas?
-- Como lidar com os desafios éticos associados ao desenvolvimento de softwares baseados em IA?
-- De que forma o avanço em computação quântica impactará o futuro da programação?
+- Quais são as principais barreiras para a adoção de IA generativa no desenvolvimento de software?
+- Como frameworks de desenvolvimento futuros podem melhorar ainda mais a experiência dos desenvolvedores?
+- Quais setores estão mais propensos a adotar soluções low-code/no-code e por quê?
+```
