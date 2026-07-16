@@ -1,42 +1,54 @@
-```markdown
----
+﻿---
 tipo: pesquisa
 criado: 2026-07-15
 atualizado: 2026-07-15
-pergunta-central: Quais são os avanços recentes mais significativos em inteligência artificial e como eles estão moldando o futuro?
-relacionado-a: []
-related: [[Claude API e Anthropic SDK]]
+pergunta-central: Quais são os principais lançamentos e avanços em IA em julho de 2026?
+relacionado-a: [Claude API e Anthropic SDK, Economia de Tokens em LLMs]
+related: []
 tags: [pesquisa, ia]
 ---
 
-# Pesquisa - Inteligência Artificial — avanços
+# Inteligência Artificial — avanços (2026-07-15)
 
 ## ❓ Pergunta central
-Quais são os avanços recentes mais significativos em inteligência artificial e como eles estão moldando o futuro?
+Quais são os principais lançamentos e avanços em IA em julho de 2026?
 
-## 🎯 Síntese (3-5 linhas)
-Os avanços recentes em inteligência artificial incluem grandes modelos de linguagem como GPT e Claude, sistemas de IA generativa que revolucionam a criatividade e produtividade, e aplicações emergentes em áreas como saúde, finanças e sustentabilidade. Tecnologias como aprendizado por reforço e sistemas de IA ética também estão ganhando destaque, ampliando o impacto da IA em questões sociais e econômicas. A busca por transparência e explicabilidade continua sendo um desafio central para o futuro.
+## 🎯 Síntese
+Julho de 2026 marcou uma virada de paradigma: de "melhor benchmark vence" para "melhor adequação vence" (preço + velocidade + acesso cotidiano). Em menos de 48h chegaram Grok 4.5, GPT-5.6 (família Sol/Terra/Luna) e Muse Spark 1.1. Agentes autônomos deixam de responder comandos e passam a executar tarefas complexas de ponta a ponta.
 
 ## 🔬 Detalhes
-- Modelos de linguagem de grande escala, como GPT-4 e Claude, oferecem capacidades avançadas de processamento de linguagem natural, permitindo comunicações mais humanas e maior eficiência em diversas aplicações.
-- IA generativa revolucionou setores criativos com a geração de imagens, vídeos e música, além de uso em design e prototipagem de produtos.
-- Avanços em aprendizado por reforço produziram agentes mais robustos para jogos, robótica e otimização de sistemas complexos.
-- Sistemas de IA para diagnóstico médico agora conseguem detectar doenças em estágios iniciais, como câncer, com precisão sem precedentes.
-- A integração de IA com IoT (Internet das Coisas) está permitindo a criação de cidades inteligentes, com melhor gestão de energia e recursos.
-- Desafios éticos e de viés em IA estão sendo abordados por meio de frameworks de IA responsável, com foco em transparência, justiça e responsabilidade.
+
+### Novos modelos lançados
+- **8/jul** — Grok 4.5 (xAI)
+- **9/jul** — GPT-5.6 (OpenAI) — família de 3 modelos:
+  - **Sol**: raciocínio de alto nível + codificação (~$5/MTok entrada)
+  - **Terra**: qualidade GPT-5.5 pela metade do custo
+  - **Luna**: rápido e barato, uso cotidiano
+- **9/jul** — Muse Spark 1.1 (Meta) — 1M ctx, computer-use desktop/browser/mobile, subagentes paralelos
+
+### Paradigma de seleção
+- Antes: "melhor benchmark vence"
+- Agora: **"melhor adequação vence"** — preço, velocidade, acesso e uso cotidiano pesam tanto quanto pontuações brutas
+
+### Aplicações práticas emergentes
+- **Saúde**: IA detecta hemorragias cerebrais em segundos via CT em tempo real, alertando equipes clínicas instantaneamente
+- **Agentes autônomos**: evolução de assistentes para executores de tarefas completas com menor intervenção humana
+
+### Tendências estruturais
+- Mercado de agentes autônomos: US$8,5B → $35B até 2030
+- Adoção generativa global: 17,8% da população mundial (Q1 2026); 26+ países acima de 30%
+- Multi-model routing consolidado como padrão maduro
 
 ## 🔗 Conexões
-- [[Claude API e Anthropic SDK]]
-- [[Pesquisa - Ética em inteligência artificial]]
-- [[Pesquisa - Aprendizado de máquina e suas aplicações]]
+- [[2026-07-15 - Claude API e Anthropic SDK]]
+- [[2026-07-15 - Economia de Tokens em LLMs]]
+- [[2026-07-15 - Programação e Desenvolvimento]]
 
 ## 📚 Fontes
-- [[Referência - OpenAI GPT-4]]
-- [[Referência - Aplicações médicas de IA em 2026]]
-- [[Referência - IA e cidades inteligentes]]
+- [July 2026 AI Mega-Update — AIapps](https://www.aiapps.com/blog/july-ai-mega-update-major-breakthroughs-launches/)
+- [Top AI News for July 2026 — AIapps](https://www.aiapps.com/blog/top-ai-news-july-breakthroughs-launches-trends/)
+- [3 novos modelos em 48h — Exame](https://exame.com/inteligencia-artificial/3-novos-modelos-de-ia-de-ponta-chegam-em-48-horas-eis-tudo-que-voce-precisa-saber/)
 
 ## 🚧 Lacunas
-- Quais são os impactos sociais de longo prazo do uso de IA em profissões criativas e industriais?
-- Como regulamentar de forma eficaz o uso de IA, garantindo inovação e segurança?
-- Quais são as limitações técnicas e éticas dos modelos de IA generativa atuais?
-```
+- Qual modelo da família GPT-5.6 oferece melhor custo-benefício para agentic coding?
+- Como Muse Spark 1.1 se compara ao Claude Code em tarefas de computer-use?

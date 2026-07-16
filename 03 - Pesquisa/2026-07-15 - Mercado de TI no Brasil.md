@@ -1,41 +1,70 @@
-```markdown
----
+﻿---
 tipo: pesquisa
 criado: 2026-07-15
 atualizado: 2026-07-15
-pergunta-central: Quais são as tendências, desafios e oportunidades do mercado de TI no Brasil em 2026?
-relacionado-a: []
+pergunta-central: Como está o mercado de TI no Brasil em julho de 2026?
+relacionado-a: [Programação e Desenvolvimento]
 related: []
-tags: [pesquisa, mercado, carreira]
+tags: [pesquisa, mercado-ti, brasil, salarios]
 ---
 
-# Pesquisa - Mercado de TI no Brasil
+# Mercado de TI no Brasil (2026-07-15)
 
 ## ❓ Pergunta central
-Quais são as tendências, desafios e oportunidades do mercado de TI no Brasil em 2026?
+Como está o mercado de TI no Brasil em julho de 2026, em termos de vagas, salários e tendências?
 
-## 🎯 Síntese (3-5 linhas)
-O mercado de TI no Brasil segue em crescimento acelerado, impulsionado pela transformação digital e pela adoção de tecnologias emergentes como IA, cloud computing e segurança cibernética. No entanto, desafios como a escassez de profissionais qualificados e a desigualdade de acesso à tecnologia ainda precisam ser superados para que o setor alcance todo o seu potencial. Investimentos em educação e políticas públicas são essenciais para sustentar o avanço.
+## 🎯 Síntese
+O setor cresceu 18,5% em 2025 (vs média global 14,1%) e projeta +16% em 2026, com faturamento de US$67,8bi. Salário médio em TI alcançou R$7.666/mês. Top áreas: CyberSec, Redes/Infra e Dev de Software. IA/LLMs pagam +50% acima da média. Déficit estrutural persiste: 53k formados/ano vs 159k demandados.
 
 ## 🔬 Detalhes
-- O setor de TI no Brasil cresceu acima da média global, com destaque para o aumento da demanda por soluções de cloud computing, inteligência artificial e automação.
-- A escassez de profissionais qualificados é um gargalo significativo, com uma estimativa de déficit de mais de 400 mil especialistas até 2027.
-- O home office e o trabalho remoto, acelerados pela pandemia, continuam sendo uma tendência forte, ampliando a competição por talentos no mercado global.
-- Startups brasileiras de tecnologia têm atraído investimentos recordes, com fintechs e healthtechs liderando o cenário de inovação.
-- A segurança cibernética se tornou uma prioridade, especialmente após o aumento de ataques cibernéticos em grandes empresas e instituições públicas.
-- A inclusão digital e o acesso à tecnologia ainda são desafios em regiões menos desenvolvidas, limitando o crescimento homogêneo do setor no país.
+
+### Números macro
+- Faturamento 2025: **US$67,8 bilhões** (+18,5% — acima da média global de 14,1%)
+- Projeção 2026: **+16%**
+- Vagas abertas 2025–2026: **629k+** (+9,5% vs ano anterior)
+- 44% das empresas planejam ampliar equipes de TI
+
+### Salários (julho 2026)
+| Área | Faixa |
+|------|-------|
+| Média TI | R$7.666/mês |
+| Dev de Software | ~R$8.200/mês |
+| IA/ML | R$18k–40k/mês |
+| Cloud Architect | R$20k–35k/mês |
+| CyberSeg | R$15k–28k/mês |
+| Concursos TI | até R$19.700/mês |
+
+- **+50% salário** para profissionais com foco em IA/LLMs
+- **48% dos gestores** oferecem mais por certificações
+
+### Áreas com maior demanda
+1. Segurança da Informação
+2. Redes e Infraestrutura
+3. Desenvolvimento de Software e Aplicações
+
+### Habilidades mais valorizadas
+- IA e LLMs (+50% salário)
+- Cloud — AWS lidera em adoção
+- Containers/orquestração (Kubernetes): requisito em **70% das vagas sênior**
+
+### Desafio estrutural
+- Déficit: **53k formados/ano** vs **159k demandados/ano**
+- ~800k profissionais necessários até 2027
+- 30,2% de déficit percentual
+
+### Regulação
+- **PL 2.338** (Lei Geral de IA): votação prevista para **dezembro de 2026**
 
 ## 🔗 Conexões
-- [[Pesquisa - Crescimento do trabalho remoto no Brasil]]
-- [[Projeto - Sistema Chamados]]
+- [[2026-07-15 - Programação e Desenvolvimento]]
+- [[2026-07-14 - Mercado de TI no Brasil]]
 
 ## 📚 Fontes
-- [[Referência - Panorama do Mercado de TI no Brasil (2026)]]
-- [[Referência - Relatório Anual ABES 2026]]
-- [[Referência - Desafios da Educação em TI no Brasil]]
+- [Guia Salarial 2026 — Robert Half](https://www.roberthalf.com/br/pt/insights/guia-salarial/tecnologia)
+- [Mercado TI Brasil 2026 — Hub do Estudante](https://hubdoestudante.com.br/pages/guias/mercado-de-trabalho-ti-2026.html)
+- [Concursos TI salários até R$19,7k — Tecflow](https://tecflow.com.br/2026/07/14/concursos-ti-salarios-ate-19-7-mil-lista-completa-vagas-previstas/)
+- [Guia salarial áreas TI 2026 — SindPD](https://sindpd.org.br/2025/11/12/guia-salarial-areas-ti-vagas-2026/)
 
 ## 🚧 Lacunas
-- Quais são as melhores práticas globais para lidar com a escassez de profissionais de TI e como elas podem ser aplicadas ao Brasil?
-- Qual é o impacto de políticas públicas recentes no fomento à inovação tecnológica no Brasil?
-- Como o mercado de TI brasileiro pode contribuir para reduzir a desigualdade social e digital no país?
-```
+- Quais certificações específicas geram maior aumento salarial no Brasil em 2026?
+- O PL 2.338 impactará contratação de profissionais de IA?

@@ -1,41 +1,62 @@
-```markdown
----
+﻿---
 tipo: pesquisa
 criado: 2026-07-15
 atualizado: 2026-07-15
-pergunta-central: Como a Claude API e o Anthropic SDK podem ser utilizados para integrar inteligência artificial em aplicações modernas?
-relacionado-a: []
+pergunta-central: Quais são as principais novidades da Claude API e Anthropic SDK em julho de 2026?
+relacionado-a: [Claude Code — CLI e agentes, Economia de Tokens em LLMs]
 related: []
-tags: [pesquisa, ia, dev, claude]
+tags: [pesquisa, claude-api, anthropic, ia]
 ---
 
-# Pesquisa - Claude API e Anthropic SDK
+# Claude API e Anthropic SDK (2026-07-15)
 
 ## ❓ Pergunta central
-Como a Claude API e o Anthropic SDK podem ser utilizados para integrar inteligência artificial em aplicações modernas?
+Quais são as principais novidades da Claude API e do ecossistema Anthropic SDK em julho de 2026?
 
-## 🎯 Síntese (3-5 linhas)
-A Claude API, desenvolvida pela Anthropic, oferece uma interface poderosa para integrar modelos de linguagem avançados em aplicações. Com foco em segurança, controle e personalização, o Anthropic SDK simplifica a interação com a API, permitindo que desenvolvedores implementem soluções baseadas em IA de forma eficiente e segura. O suporte para ajustes personalizados e a ênfase em práticas éticas destacam essa ferramenta no ecossistema de IA.
+## 🎯 Síntese
+Julho consolidou a expansão enterprise da Anthropic: analytics por grupo/usuário, GA no Azure via Microsoft Foundry, rate limits unificados (Sonnet/Haiku agora igualam Opus), novo beta header de memória, suporte a code_execution em 7 linguagens, e lançamento do Claude for Teachers para educadores K-12 nos EUA.
 
 ## 🔬 Detalhes
-- A Claude API é projetada para interagir com modelos de linguagem de IA, como o Claude, voltados para diálogos e geração de texto.
-- O Anthropic SDK serve como uma biblioteca para facilitar o uso da Claude API, oferecendo suporte a linguagens de programação como Python.
-- A API permite ajustes personalizados para diferentes casos de uso, como atendimento ao cliente, análise de texto, geração de conteúdo e muito mais.
-- A Anthropic prioriza a segurança e a ética em suas ferramentas, incluindo sistemas de controle para limitar usos prejudiciais da IA.
-- A integração da Claude API é baseada em chamadas REST, tornando-a compatível com a maioria dos frameworks e plataformas de desenvolvimento.
-- A documentação oficial inclui exemplos, guias de iniciação rápida e boas práticas para maximizar a eficácia da implementação.
+
+### Enterprise Analytics
+- Dashboard admin: uso e custo por **grupo** e por **usuário**
+- Outputs exibidos: artifacts criados, arquivos editados, skills e connectors utilizados — ao lado do custo
+- Spend alerts configuráveis
+
+### Microsoft Foundry (Azure) — GA
+- Claude disponível nativamente no Azure via Microsoft Foundry
+- Identity, billing e governance Azure-nativos + suporte a US data zone
+- Modelos disponíveis: **Opus 4.8** e **Haiku 4.5** (Messages API)
+- Casos de uso: coding, agentic work, complex reasoning
+
+### Rate Limits — Consolidação
+- Claude Sonnet e Claude Haiku agora **igualam Claude Opus** em todos os tiers
+- Tiers consolidados: **Start**, **Build**, **Scale** (antes havia mais subdivisões)
+
+### Novos recursos SDK
+- **Beta header** `agent-memory-2026-07-22`:
+  - Muda comportamento de listagem de memórias (ordem estável, ignora `order_by`/`order`)
+  - SDKs atualizados para enviar o header por padrão
+- **code_execution_20260120**: suporte em Python, TypeScript, Go, Java, Ruby, PHP e C#
+  - REPL state persistence
+  - Versão mínima para tool calling programático
+
+### Claude for Teachers
+- Educadores K-12 verificados nos EUA ganham acesso gratuito a ferramentas premium
+- Teaching skills + biblioteca de skills pedagógicas
+- Conteúdo mapeado a padrões acadêmicos de todos os 50 estados
 
 ## 🔗 Conexões
-- [[Projeto - Sistema Chamados]]
-- [[Pesquisa - Ética em IA]]
-- [[Pesquisa - APIs REST para IA]]
+- [[2026-07-15 - Claude Code — CLI e agentes]]
+- [[2026-07-15 - Economia de Tokens em LLMs]]
+- [[2026-07-14 - Claude API e Anthropic SDK]]
 
 ## 📚 Fontes
-- [[Referência - Documentação Oficial da Claude API]]
-- [[Referência - Whitepaper Anthropic sobre Ética em IA]]
+- [Claude Developer Platform Updates July 2026 — Releasebot](https://releasebot.io/updates/anthropic/claude-developer-platform)
+- [Anthropic Release Notes July 2026 — Releasebot](https://releasebot.io/updates/anthropic)
+- [Claude Agent SDK 2026 — Totalum Blog](https://www.totalum.app/blog/claude-agent-sdk-totalum-2026)
+- [Agent SDK overview — Claude Code Docs](https://code.claude.com/docs/en/agent-sdk/overview)
 
 ## 🚧 Lacunas
-- Quais são os custos associados ao uso da Claude API em diferentes escalas de operação?
-- Como o Anthropic SDK se compara a outras bibliotecas similares no mercado, como o OpenAI SDK?
-- Quais são os exemplos práticos mais inovadores de uso da Claude API em produção?
-```
+- Claude for Teachers chegará ao Brasil/LATAM?
+- Quais são os limites de rate no tier Start vs Build vs Scale após consolidação?

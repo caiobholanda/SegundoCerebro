@@ -1,41 +1,74 @@
-```markdown
----
+﻿---
 tipo: pesquisa
 criado: 2026-07-15
 atualizado: 2026-07-15
-pergunta-central: Como otimizar o processo de deploy e gerenciar infraestrutura na nuvem de forma eficiente e escalável?
-relacionado-a: []
+pergunta-central: Qual é o estado atual das principais plataformas de deploy em julho de 2026?
+relacionado-a: [Programação e Desenvolvimento]
 related: []
-tags: [pesquisa, dev, infra]
+tags: [pesquisa, deploy, cloud, infraestrutura]
 ---
 
-# Pesquisa - Deploy e Infraestrutura Cloud
+# Deploy e Infraestrutura Cloud (2026-07-15)
 
 ## ❓ Pergunta central
-Como otimizar o processo de deploy e gerenciar infraestrutura na nuvem de forma eficiente e escalável?
+Qual é o estado atual das principais plataformas de deploy (Railway, Vercel, Fly.io) em julho de 2026 e qual escolher?
 
-## 🎯 Síntese (3-5 linhas)
-A automação e a utilização de ferramentas como IaC (Infraestrutura como Código) e CI/CD são essenciais para otimizar o deploy e a gestão de infraestrutura na nuvem. Além disso, a escolha da arquitetura correta (como microserviços ou serverless) e a utilização de provedores confiáveis de cloud impactam diretamente a escalabilidade e a eficiência dos sistemas. Monitoramento contínuo e práticas de segurança robustas são indispensáveis.
+## 🎯 Síntese
+O trio Railway/Fly.io/Vercel mantém posições distintas: Railway para DX máxima e prototipagem (mas em migração turbulenta do GCP), Fly.io para produção global (maturou com GPU, K8s, scale-to-zero), Vercel para Next.js/frontend com CDN premium. Recomendação prática: Railway → prototipagem, Fly.io → produção, Vercel → frontend/Next.js.
 
 ## 🔬 Detalhes
-- Infraestrutura como Código (IaC) com ferramentas como Terraform e AWS CloudFormation permite configurar e gerenciar recursos de forma declarativa e reprodutível.
-- Pipelines CI/CD (Integração Contínua e Entrega Contínua) automatizam o deploy, reduzindo erros manuais e garantindo entregas mais rápidas.
-- A escolha entre arquiteturas monolíticas, baseadas em contêineres, ou serverless impacta a escalabilidade, custo e manutenção.
-- Provedores de nuvem como AWS, Azure e Google Cloud oferecem serviços gerenciados que podem simplificar o gerenciamento e aumentar a confiabilidade.
-- Monitoramento contínuo, com ferramentas como Prometheus, Grafana ou Datadog, é crucial para identificar gargalos, prever falhas e escalar recursos dinamicamente.
-- Segurança na nuvem deve incluir práticas como controle de acesso com IAM, criptografia de dados e auditorias regulares.
+
+### Railway
+- **2M devs**, 200k novos usuários/mês
+- Financiamento: $24M Series A (2022) + **$100M Series B** (jan/2026) = $124M total
+- Migração do GCP para **Railway Metal** (infra própria): Q2 fundação, Q3 maturação
+- Outages durante a migração abalaram confiança em produção
+- Auto-detecta linguagem (Node, Python, Go, Ruby, Rust, Docker) — zero config
+- Melhor DX do mercado: `<1min` deploy sem Dockerfile
+- Custo: **$7–15/mês** para apps típicos
+
+### Fly.io
+- Maturou significativamente em 2026:
+  - GPU: **A100s e L40S**
+  - **Kubernetes** suportado
+  - **Object storage** nativo
+  - **Scale-to-zero**
+  - Managed Postgres
+- Melhor custo-benefício para produção global
+- Custo: **$10–20/mês** (apps típicos)
+- Free tier removido permanentemente (2024)
+- Cobrança inter-region networking (fev/2026) + volume snapshots (jan/2026)
+
+### Vercel
+- Imbatível para **Next.js** (SSR, RSC, edge functions)
+- CDN global de alta performance
+- **4 aumentos de preço** desde 2024 — premium real
+- Custo: **$20–200/mês** (varia com tráfego)
+- Vercel Services lançado (1/jul) — microsserviços + Vercel Connect agent stack
+
+### AWS App Runner
+- Em **maintenance** desde 30/abr/2026 — não aceita novos clientes
+- Migração recomendada: **ECS Express Mode**
+
+### Quando usar cada um
+| Cenário | Plataforma |
+|---------|-----------|
+| Prototipagem/side project | Railway |
+| Produção global | Fly.io |
+| Next.js / frontend com CDN | Vercel |
+| Backend Node/Python simples | Railway ou Fly.io |
+| Apps com GPU/ML | Fly.io |
 
 ## 🔗 Conexões
-- [[Claude API e Anthropic SDK]]
-- [[Projeto - Sistema Chamados]]
+- [[2026-07-15 - Programação e Desenvolvimento]]
+- [[2026-07-14 - Deploy e Infraestrutura Cloud]]
 
 ## 📚 Fontes
-- [[Referência - Livro: Terraform Up and Running]]
-- [[Referência - Artigo: Best Practices for CI/CD Pipelines]]
-- [[Referência - Guia oficial do AWS CloudFormation]]
+- [Railway Review 2026 — runzos.com](https://runzos.com/railway-review-2026/)
+- [Fly.io vs Railway 2026 — The Software Scout](https://thesoftwarescout.com/fly-io-vs-railway-2026-which-developer-platform-should-you-deploy-on/)
+- [Deploy comparado: Vercel, Railway, Fly.io — Medium](https://navanathjadhav.medium.com/i-deployed-the-same-app-to-vercel-railway-and-fly-io-cost-performance-compared-607dedd46ae6)
+- [Best Platforms to Deploy AI Apps 2026 — Railway Blog](https://blog.railway.com/p/best-platforms-deploy-ai-apps-2026)
 
 ## 🚧 Lacunas
-- Como comparar custo-benefício entre provedores de cloud computing (AWS, Azure, GCP) para diferentes casos de uso?
-- Quais são as práticas mais inovadoras para garantir segurança em ambientes multi-cloud?
-- Como integrar práticas de observabilidade em pipelines CI/CD para antecipar problemas em produção?
-```
+- Railway Metal está estável o suficiente para produção já em jul/2026?
+- Fly.io Kubernetes é gerenciado (como EKS) ou self-managed?
