@@ -3,40 +3,41 @@
 tipo: pesquisa
 criado: 2026-07-16
 atualizado: 2026-07-16
-pergunta-central: Como as melhores práticas em programação e desenvolvimento podem impactar a produtividade e a qualidade de software?
+pergunta-central: Como as práticas modernas de programação e desenvolvimento estão moldando o futuro da tecnologia?
 relacionado-a: []
-related: [[Projeto - Sistema Chamados]]
+related: []
 tags: [pesquisa, dev, produtividade]
 ---
 
 # Pesquisa - Programação e Desenvolvimento
 
 ## ❓ Pergunta central
-Como as melhores práticas em programação e desenvolvimento podem impactar a produtividade e a qualidade de software?
+Como as práticas modernas de programação e desenvolvimento estão moldando o futuro da tecnologia?
 
 ## 🎯 Síntese (3-5 linhas)
-Programação e desenvolvimento são atividades fundamentais para criar soluções tecnológicas. A aplicação de boas práticas, como metodologias ágeis, uso de padrões de design, e automação de processos, pode aumentar a eficiência, reduzir erros e melhorar a qualidade do código. Além disso, a colaboração e o aprendizado contínuo são essenciais para acompanhar um campo em constante evolução.
+Programação e desenvolvimento evoluíram de maneira significativa nas últimas décadas, impulsionados por novas linguagens, metodologias ágeis e ferramentas de automação. Hoje, a colaboração em projetos open source, a ascensão de frameworks e o aprendizado de máquinas estão redefinindo o que significa criar software. Com a integração de IA, o futuro aponta para maior eficiência e acessibilidade no desenvolvimento de soluções tecnológicas.
 
 ## 🔬 Detalhes
-- **Boas práticas**: Adotar padrões de design sólidos, como MVC e arquitetura limpa, melhora a legibilidade e manutenção do código.
-- **Metodologias ágeis**: Scrum e Kanban promovem ciclos de desenvolvimento rápidos e iterativos, adaptando-se a mudanças e melhorando a entrega contínua.
-- **Automação**: Ferramentas de CI/CD reduzem o tempo entre codificação e implantação, além de minimizar erros humanos.
-- **Teste de software**: Testes unitários, de integração e end-to-end são fundamentais para garantir a confiabilidade e funcionalidade do sistema.
-- **Documentação**: Documentar o código e processos é crucial para facilitar o entendimento entre equipes e garantir consistência ao longo do tempo.
-- **Colaboração e comunicação**: Ferramentas como Git e plataformas de gestão como Jira ou Trello ajudam equipes a trabalharem de forma mais coesa.
+- **Linguagens de Programação Modernas**: Linguagens como Python e Rust ganharam popularidade por sua simplicidade e performance, enquanto JavaScript e seus frameworks continuam dominando o desenvolvimento web.
+- **Metodologias Ágeis**: Práticas como Scrum e Kanban têm permitido maior adaptabilidade em projetos, promovendo entregas contínuas e maior colaboração entre equipes.
+- **DevOps e Integração Contínua**: A integração de práticas de DevOps e CI/CD (Continuous Integration/Continuous Deployment) reduziu o tempo entre desenvolvimentos e entregas, além de aumentar a qualidade do software.
+- **Programação Funcional e Modularidade**: O paradigma funcional tem sido cada vez mais adotado devido à sua clareza e facilidade de manutenção, principalmente em sistemas complexos.
+- **Impacto da Inteligência Artificial**: Ferramentas como GitHub Copilot e ChatGPT estão otimizando o desenvolvimento, auxiliando na escrita de código e resolução de problemas.
+- **Colaboração em Projetos Open Source**: A comunidade open source tem desempenhado um papel crucial na inovação tecnológica, com projetos como Linux, TensorFlow e Kubernetes liderando essa frente.
 
 ## 🔗 Conexões
 - [[Claude API e Anthropic SDK]]
-- [[Pesquisa - Metodologias Ágeis]]
-- [[Projeto - Sistema Chamados]]
+- [[Área - Desenvolvimento de Software]]
+- [[Pesquisa - Inteligência Artificial Generativa]]
 
 ## 📚 Fontes
-- [[Referência - Clean Code (Robert C. Martin)]]
-- [[Referência - Scrum: A Arte de Fazer o Dobro do Trabalho na Metade do Tempo (Jeff Sutherland)]]
-- [[Referência - Continuous Delivery (Jez Humble)]]
+- [[Referência - Livro Clean Code (Robert C. Martin)]]
+- [[Referência - Artigo sobre DevOps (DevOps Institute)]]
+- [[Referência - Documentação oficial de Python]]
+- [[Referência - Repositório TensorFlow no GitHub]]
 
 ## 🚧 Lacunas
-- Como a inteligência artificial pode transformar o processo de programação e desenvolvimento?
-- Quais são os impactos do uso de práticas de DevOps em empresas de pequeno porte?
-- Quais novas metodologias estão surgindo para substituir ou complementar o Scrum e o Kanban?
+- Quais são as limitações éticas e práticas da aplicação de IA no desenvolvimento de software?
+- Como a programação quântica pode impactar o futuro do desenvolvimento?
+- De que forma as metodologias ágeis podem ser adaptadas para projetos menores ou individuais?
 ```
