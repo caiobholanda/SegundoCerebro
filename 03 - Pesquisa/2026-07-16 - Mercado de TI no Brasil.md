@@ -1,8 +1,9 @@
+```markdown
 ---
 tipo: pesquisa
 criado: 2026-07-16
 atualizado: 2026-07-16
-pergunta-central: Quais são as principais tendências, desafios e oportunidades no mercado de TI no Brasil em 2026?
+pergunta-central: Quais são os principais fatores que impulsionam o mercado de TI no Brasil e quais os desafios enfrentados pelo setor?
 relacionado-a: []
 related: []
 tags: [pesquisa, mercado, carreira]
@@ -11,29 +12,31 @@ tags: [pesquisa, mercado, carreira]
 # Pesquisa - Mercado de TI no Brasil
 
 ## ❓ Pergunta central
-Quais são as principais tendências, desafios e oportunidades no mercado de TI no Brasil em 2026?
+Quais são os principais fatores que impulsionam o mercado de TI no Brasil e quais os desafios enfrentados pelo setor?
 
 ## 🎯 Síntese (3-5 linhas)
-O mercado de TI no Brasil segue em crescimento acelerado, impulsionado pela transformação digital e pela demanda por soluções tecnológicas. Áreas como segurança cibernética, inteligência artificial e computação em nuvem lideram a procura por profissionais qualificados. Contudo, o setor enfrenta desafios, incluindo a escassez de mão de obra especializada e a necessidade de políticas públicas que fomentem a inovação.
+O mercado de TI no Brasil é um dos mais promissores da América Latina, impulsionado pelo crescimento da transformação digital e pela demanda por soluções tecnológicas em diversos setores. No entanto, enfrenta desafios como a escassez de profissionais qualificados, alta tributação e infraestrutura desigual no país. Ainda assim, há potencial significativo para inovação e expansão.
 
 ## 🔬 Detalhes
-- O setor de TI no Brasil registrou crescimento médio anual acima de 10% nos últimos anos, com expectativa de manter esse ritmo até 2030.
-- Profissões em alta incluem desenvolvedores backend/frontend, cientistas de dados, engenheiros de IA e especialistas em cibersegurança.
-- A escassez de profissionais qualificados continua sendo um desafio, com uma lacuna estimada de mais de 400 mil vagas não preenchidas em 2026.
-- A adoção da computação em nuvem cresceu 35% no último ano, com empresas buscando maior escalabilidade e redução de custos.
-- Startups de tecnologia e fintechs têm impulsionado inovações no setor, mas enfrentam instabilidade econômica e regulamentações desafiadoras.
-- Políticas públicas como a Lei Geral de Proteção de Dados (LGPD) têm impactado significativamente projetos de TI, exigindo maior atenção à conformidade.
+- O setor de TI no Brasil representa cerca de 7% do PIB nacional, destacando-se como um dos mais relevantes para a economia.
+- A demanda por profissionais qualificados em TI tem crescido exponencialmente, mas há déficit de mão de obra especializada, com previsão de até 500 mil vagas não preenchidas até 2030.
+- A transformação digital acelerada pela pandemia de COVID-19 impulsionou a adoção de tecnologias como cloud computing, inteligência artificial e cibersegurança.
+- Startups brasileiras têm ganhado destaque global, com diversas empresas atingindo o status de "unicórnio" (valor de mercado superior a 1 bilhão de dólares).
+- O setor enfrenta desafios como alta carga tributária, burocracia e desigualdade na distribuição de infraestrutura tecnológica entre as regiões do país.
+- Políticas públicas como o Marco Legal das Startups e incentivos fiscais podem ser cruciais para fomentar ainda mais o crescimento do setor.
 
 ## 🔗 Conexões
-- [[Pesquisa - Inteligência Artificial no Brasil]]
-- [[Referência - LGPD e seu impacto no setor de tecnologia]]
+- [[Projeto - Sistema Chamados]]
+- [[Pesquisa - Tendências em Inteligência Artificial]]
+- [[Pesquisa - Automação no mercado de trabalho]]
 
 ## 📚 Fontes
 - [[Referência - Panorama do Mercado de TI no Brasil 2026]]
-- [[Referência - Relatório Anual da Associação Brasileira de Empresas de TI (ABES)]]
-- [[Referência - Transformação Digital e Tendências Tecnológicas no Brasil]]
+- [[Referência - Relatório sobre Transformação Digital no Brasil]]
+- [[Referência - Desafios e Oportunidades no Setor de TI]]
 
 ## 🚧 Lacunas
-- Quais iniciativas educacionais têm maior impacto na formação de profissionais de TI no Brasil?
-- Como pequenas e médias empresas brasileiras estão se adaptando à transformação digital?
-- Quais são os efeitos de políticas públicas recentes sobre o crescimento das startups de TI?
+- Qual é o impacto específico das políticas públicas recentes no mercado de TI brasileiro?
+- Como as empresas brasileiras estão enfrentando a escassez de mão de obra qualificada em TI?
+- Quais são os setores mais promissores em termos de crescimento tecnológico no Brasil?
+```
