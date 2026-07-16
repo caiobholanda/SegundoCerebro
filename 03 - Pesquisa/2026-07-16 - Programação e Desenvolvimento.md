@@ -3,40 +3,40 @@
 tipo: pesquisa
 criado: 2026-07-16
 atualizado: 2026-07-16
-pergunta-central: Quais são as principais práticas, linguagens e ferramentas que otimizam o processo de programação e desenvolvimento em 2026?
+pergunta-central: Como a interdisciplinaridade e as práticas modernas estão moldando o campo de Programação e Desenvolvimento?
 relacionado-a: []
 related: []
-tags: [pesquisa, dev, produtividade]
+tags: ["pesquisa", "dev", "produtividade"]
 ---
 
 # Pesquisa - Programação e Desenvolvimento
 
 ## ❓ Pergunta central
-Quais são as principais práticas, linguagens e ferramentas que otimizam o processo de programação e desenvolvimento em 2026?
+Como a interdisciplinaridade e as práticas modernas estão moldando o campo de Programação e Desenvolvimento?
 
 ## 🎯 Síntese (3-5 linhas)
-Em 2026, a programação e o desenvolvimento continuam a evoluir com práticas ágeis, linguagens como Python, JavaScript e Rust, e ferramentas de colaboração como GitHub Copilot e novas plataformas de IA generativa. A integração de DevOps, automação de testes e métodos de desenvolvimento orientados por dados são essenciais para aumentar a produtividade e a qualidade do software.
+Programação e Desenvolvimento são campos em constante evolução, impulsionados por avanços tecnológicos e novas abordagens como DevOps, metodologias ágeis e inteligência artificial. A integração de áreas como design, psicologia e ciência de dados tem ampliado o impacto do desenvolvimento de software, tornando-o mais centrado no usuário e eficiente. Ferramentas modernas como frameworks de código aberto e plataformas de automação têm democratizado o acesso à programação.
 
 ## 🔬 Detalhes
-- Linguagens como Python e JavaScript permanecem dominantes devido à sua flexibilidade e ampla adoção, enquanto Rust ganha popularidade por sua segurança e performance.
-- Ferramentas de IA, como [[Claude API e Anthropic SDK]] e GitHub Copilot, estão transformando o desenvolvimento, ajudando a automatizar tarefas repetitivas e fornecendo sugestões de código avançadas.
-- O uso de plataformas de desenvolvimento low-code/no-code está crescendo, permitindo que indivíduos com menos experiência técnica criem aplicações funcionais.
-- Práticas ágeis continuam sendo fundamentais, com metodologias como Scrum e Kanban amplamente utilizadas para gerenciar equipes e projetos.
-- DevOps é essencial para integrar desenvolvimento e operações, com ferramentas como Docker, Kubernetes e Jenkins liderando o mercado.
-- Testes automatizados e práticas como TDD (Test-Driven Development) são cruciais para garantir a qualidade e reduzir erros em ambientes complexos.
+- A programação está cada vez mais orientada a frameworks e bibliotecas, acelerando o desenvolvimento ao reutilizar código.
+- Metodologias ágeis, como Scrum e Kanban, têm transformado a forma como equipes colaboram, promovendo entregas contínuas e adaptáveis.
+- A adoção de DevOps está diminuindo a distância entre desenvolvimento e operações, com foco em automação e integração contínua.
+- Linguagens como Python e JavaScript continuam dominando, mas há um crescimento no uso de linguagens como Rust e Go devido a suas eficiências em performance e segurança.
+- Ferramentas baseadas em IA, como copilotos de código e ferramentas de debug automatizado, estão aumentando a produtividade dos desenvolvedores.
+- O foco em UX/UI está redefinindo o papel do desenvolvedor, exigindo maior compreensão de design e comportamento humano.
 
 ## 🔗 Conexões
 - [[Claude API e Anthropic SDK]]
-- [[Referência - GitHub Copilot]]
+- [[Pesquisas sobre Inteligência Artificial]]
 - [[Projeto - Sistema Chamados]]
 
 ## 📚 Fontes
-- [[Referência - GitHub Copilot]]
-- [[Referência - Práticas Ágeis em Desenvolvimento]]
-- [[Referência - Rust: Linguagem do Futuro]]
+- [[Referência - Livro Clean Code]]
+- [[Referência - Artigo sobre Metodologias Ágeis]]
+- [[Referência - Relatório GitHub State of the Octoverse 2025]]
 
 ## 🚧 Lacunas
-- Como as ferramentas de IA generativa podem ser usadas de forma ética no desenvolvimento de software?
-- Qual é o impacto de plataformas low-code/no-code na demanda por desenvolvedores tradicionais?
-- Como práticas de segurança estão evoluindo para acompanhar o crescimento de linguagens como Rust?
+- Como as práticas de desenvolvimento nativas para IA estão evoluindo e como isso impacta o mercado?
+- Quais são as melhores práticas para integrar segurança (DevSecOps) em pipelines de desenvolvimento modernos?
+- Como a interdisciplinaridade pode ser aplicada de forma mais prática no ensino de programação?
 ```
