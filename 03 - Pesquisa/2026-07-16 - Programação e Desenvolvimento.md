@@ -3,7 +3,7 @@
 tipo: pesquisa
 criado: 2026-07-16
 atualizado: 2026-07-16
-pergunta-central: Como as práticas modernas de programação e desenvolvimento podem melhorar a produtividade e a qualidade do software?
+pergunta-central: Como a programação e o desenvolvimento de software continuam a evoluir em termos de metodologias, ferramentas e impacto na sociedade?
 relacionado-a: []
 related: []
 tags: [pesquisa, dev, produtividade]
@@ -12,30 +12,32 @@ tags: [pesquisa, dev, produtividade]
 # Pesquisa - Programação e Desenvolvimento
 
 ## ❓ Pergunta central
-Como as práticas modernas de programação e desenvolvimento podem melhorar a produtividade e a qualidade do software?
+Como a programação e o desenvolvimento de software continuam a evoluir em termos de metodologias, ferramentas e impacto na sociedade?
 
 ## 🎯 Síntese (3-5 linhas)
-Programação e desenvolvimento evoluíram significativamente com o surgimento de metodologias ágeis, ferramentas de automação, e práticas como DevOps. A integração de inteligência artificial está transformando a forma como desenvolvedores escrevem, testam e implantam código. O foco atual está em aumentar a eficiência, reduzir erros e melhorar a colaboração entre equipes.
+A programação e o desenvolvimento de software evoluem constantemente, impulsionados por avanços em inteligência artificial, metodologias ágeis e ferramentas de automação. O impacto do software vai além da indústria tecnológica, moldando setores como saúde, educação e sustentabilidade. A acessibilidade à programação também cresce com plataformas low-code e no-code, democratizando a criação de soluções digitais.
 
 ## 🔬 Detalhes
-- **Metodologias Ágeis**: Scrum e Kanban promovem ciclos curtos de desenvolvimento e entregas contínuas, permitindo maior adaptabilidade às mudanças.
-- **DevOps**: Integração de desenvolvimento e operações acelera a entrega de software, automatizando testes, CI/CD e monitoramento.
-- **Inteligência Artificial no Código**: Ferramentas como [[GitHub Copilot]] e modelos de linguagem otimizam a escrita de código e a identificação de bugs.
-- **Microserviços**: Arquitetura que divide sistemas complexos em componentes menores e independentes, facilitando a escalabilidade e manutenção.
-- **Práticas de Teste**: Automação de testes (unitários, integração e end-to-end) é essencial para garantir a qualidade do software em ambientes ágeis.
-- **Ferramentas de Colaboração**: Plataformas como [[Jira]], [[Trello]] e [[Slack]] permitem melhor comunicação e gestão de tarefas em equipes remotas.
+- A programação tradicional está sendo complementada por plataformas low-code e no-code, permitindo que não-programadores criem soluções digitais simples.
+- Métodos ágeis, como Scrum e Kanban, continuam a dominar o gerenciamento de projetos de software, promovendo ciclos de desenvolvimento curtos e iterativos.
+- O uso de inteligência artificial no desenvolvimento está em expansão, com ferramentas como [[ChatGPT]] e [[Claude]] ajudando a gerar código e encontrar soluções.
+- Linguagens de programação modernas, como [[Rust]] e [[Go]], estão ganhando espaço devido ao foco em segurança, desempenho e simplicidade.
+- O uso de contêineres, orquestradores como [[Kubernetes]], e computação em nuvem estão transformando a forma de implementar e escalar aplicações.
+- Ética na programação é um tema central, com discussões sobre a responsabilidade dos desenvolvedores em relação ao impacto social e ambiental dos softwares que criam.
 
 ## 🔗 Conexões
 - [[Claude API e Anthropic SDK]]
-- [[Projeto - Sistema Chamados]]
+- [[Pesquisa - Metodologias Ágeis]]
+- [[Pesquisa - Inteligência Artificial Generativa]]
+- [[Pesquisa - Ética na Tecnologia]]
 
 ## 📚 Fontes
-- [[Referência - Manifesto Ágil]]
-- [[Referência - Livro - Accelerate: The Science of Lean Software and DevOps]]
-- [[Referência - GitHub Copilot Documentation]]
+- [[Referência - Agile Manifesto]]
+- [[Referência - Livro Clean Code]]
+- [[Referência - Kubernetes Documentation]]
 
 ## 🚧 Lacunas
-- Quais são os impactos a longo prazo do uso intensivo de IA na programação?
-- Como as novas ferramentas de programação afetam a curva de aprendizado para novos desenvolvedores?
-- Quais são as melhores práticas emergentes para integração de segurança (DevSecOps) no ciclo de desenvolvimento?
+- Como as plataformas low-code e no-code impactarão o mercado de trabalho para programadores?
+- O que falta para que a ética na programação seja integrada de forma mais ampla nos currículos acadêmicos e nas práticas corporativas?
+- Quais são os limites das ferramentas de IA no desenvolvimento de software e como elas podem ser superados?
 ```
