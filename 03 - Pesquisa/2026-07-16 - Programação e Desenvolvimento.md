@@ -1,43 +1,39 @@
-```markdown
 ---
 tipo: pesquisa
 criado: 2026-07-16
 atualizado: 2026-07-16
-pergunta-central: Como a programação e o desenvolvimento de software continuam a evoluir em termos de metodologias, ferramentas e impacto na sociedade?
+pergunta-central: Como as melhores práticas e ferramentas de programação podem otimizar o desenvolvimento de software para resolver problemas complexos de forma eficiente?
 relacionado-a: []
-related: []
+related: [[Claude API e Anthropic SDK]]
 tags: [pesquisa, dev, produtividade]
 ---
 
 # Pesquisa - Programação e Desenvolvimento
 
 ## ❓ Pergunta central
-Como a programação e o desenvolvimento de software continuam a evoluir em termos de metodologias, ferramentas e impacto na sociedade?
+Como as melhores práticas e ferramentas de programação podem otimizar o desenvolvimento de software para resolver problemas complexos de forma eficiente?
 
 ## 🎯 Síntese (3-5 linhas)
-A programação e o desenvolvimento de software evoluem constantemente, impulsionados por avanços em inteligência artificial, metodologias ágeis e ferramentas de automação. O impacto do software vai além da indústria tecnológica, moldando setores como saúde, educação e sustentabilidade. A acessibilidade à programação também cresce com plataformas low-code e no-code, democratizando a criação de soluções digitais.
+Programação é a base para resolver problemas computacionais. Com o avanço de ferramentas como IDEs, frameworks e IA generativa, o desenvolvimento tornou-se mais ágil, mas exige conhecimento sólido de princípios como modularidade, testes automatizados e design orientado a objetos. A escolha das ferramentas e práticas certas pode aumentar significativamente a produtividade e reduzir erros no código.
 
 ## 🔬 Detalhes
-- A programação tradicional está sendo complementada por plataformas low-code e no-code, permitindo que não-programadores criem soluções digitais simples.
-- Métodos ágeis, como Scrum e Kanban, continuam a dominar o gerenciamento de projetos de software, promovendo ciclos de desenvolvimento curtos e iterativos.
-- O uso de inteligência artificial no desenvolvimento está em expansão, com ferramentas como [[ChatGPT]] e [[Claude]] ajudando a gerar código e encontrar soluções.
-- Linguagens de programação modernas, como [[Rust]] e [[Go]], estão ganhando espaço devido ao foco em segurança, desempenho e simplicidade.
-- O uso de contêineres, orquestradores como [[Kubernetes]], e computação em nuvem estão transformando a forma de implementar e escalar aplicações.
-- Ética na programação é um tema central, com discussões sobre a responsabilidade dos desenvolvedores em relação ao impacto social e ambiental dos softwares que criam.
+- **Princípios de Design**: Modularidade, DRY (Don't Repeat Yourself) e KISS (Keep It Simple, Stupid) são fundamentais para manter o código limpo e escalável.
+- **Ferramentas modernas**: IDEs (como Visual Studio Code e JetBrains), gerenciadores de pacotes (npm, pip) e sistemas de versionamento (Git) são essenciais para um fluxo de trabalho eficiente.
+- **Testes automatizados**: Testes unitários, de integração e de aceitação minimizam regressões e garantem a qualidade do software.
+- **Programação orientada a objetos (POO)**: Permite encapsular funcionalidades e facilita a reutilização e manutenção do código.
+- **Metodologias ágeis**: Scrum e Kanban são amplamente usados para organizar o desenvolvimento de software em ciclos iterativos e entregas incrementais.
+- **Impacto da IA no desenvolvimento**: Soluções como [[Claude API e Anthropic SDK]] e GitHub Copilot estão revolucionando a forma como os desenvolvedores escrevem e revisam código.
 
 ## 🔗 Conexões
 - [[Claude API e Anthropic SDK]]
-- [[Pesquisa - Metodologias Ágeis]]
-- [[Pesquisa - Inteligência Artificial Generativa]]
-- [[Pesquisa - Ética na Tecnologia]]
+- [[Projeto - Sistema Chamados]]
 
 ## 📚 Fontes
-- [[Referência - Agile Manifesto]]
-- [[Referência - Livro Clean Code]]
-- [[Referência - Kubernetes Documentation]]
+- [[Referência - Clean Code de Robert C. Martin]]
+- [[Referência - Blog oficial do GitHub]]
+- [[Referência - Documentação oficial do Scrum Guide]]
 
 ## 🚧 Lacunas
-- Como as plataformas low-code e no-code impactarão o mercado de trabalho para programadores?
-- O que falta para que a ética na programação seja integrada de forma mais ampla nos currículos acadêmicos e nas práticas corporativas?
-- Quais são os limites das ferramentas de IA no desenvolvimento de software e como elas podem ser superados?
-```
+- Como balancear o uso de IA no desenvolvimento com a necessidade de aprendizado e domínio técnico dos programadores?
+- Quais são os impactos de novos paradigmas, como a programação funcional, em relação à POO no cenário atual?
+- Como medir de forma objetiva a produtividade em equipes de desenvolvimento ágil?
