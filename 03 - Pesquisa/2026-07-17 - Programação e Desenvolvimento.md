@@ -1,42 +1,40 @@
-```markdown
 ---
 tipo: pesquisa
 criado: 2026-07-17
 atualizado: 2026-07-17
-pergunta-central: Como a evolução das ferramentas e paradigmas de programação está moldando o futuro do desenvolvimento de software?
+pergunta-central: Como a programação e o desenvolvimento evoluíram para atender às demandas modernas de tecnologia e mercado?
 relacionado-a: []
-related: [[Claude API e Anthropic SDK]]
+related: [[Projeto - Sistema Chamados]]
 tags: [pesquisa, dev, produtividade]
 ---
 
 # Pesquisa - Programação e Desenvolvimento
 
 ## ❓ Pergunta central
-Como a evolução das ferramentas e paradigmas de programação está moldando o futuro do desenvolvimento de software?
+Como a programação e o desenvolvimento evoluíram para atender às demandas modernas de tecnologia e mercado?
 
 ## 🎯 Síntese (3-5 linhas)
-A programação e o desenvolvimento de software continuam a evoluir com o surgimento de novas linguagens, ferramentas e paradigmas, como programação funcional e desenvolvimento orientado por IA. O futuro aponta para maior automação, acessibilidade para não programadores e ênfase em práticas sustentáveis e éticas no código. Entender essas tendências é essencial para se manter relevante no mercado.
+A programação e o desenvolvimento têm se adaptado rapidamente às necessidades do mercado, com a introdução de linguagens mais acessíveis, ferramentas de automação e práticas ágeis. O foco está em entregar valor de forma rápida e eficiente, enquanto frameworks e plataformas low-code/no-code democratizam o acesso ao desenvolvimento. O futuro aponta para maior integração de inteligência artificial e automação inteligente na criação de software.
 
 ## 🔬 Detalhes
-- **Linguagens emergentes**: Linguagens como Rust e Julia estão ganhando espaço devido ao foco em segurança e desempenho, respectivamente.
-- **Desenvolvimento orientado por IA**: Ferramentas como o GitHub Copilot e os modelos da Anthropic estão transformando a maneira como desenvolvedores escrevem código, reduzindo tarefas repetitivas.
-- **Programação funcional**: Paradigmas como imutabilidade e funções puras estão sendo adotados em linguagens populares como Python e JavaScript, devido à sua capacidade de lidar com complexidade e paralelismo.
-- **Integração com DevOps**: Métodos ágeis e práticas de integração contínua/desenvolvimento contínuo (CI/CD) estão se tornando padrão no mercado.
-- **Programação low-code/no-code**: Essas plataformas estão democratizando o desenvolvimento, permitindo que usuários sem experiência técnica criem aplicativos funcionais.
-- **Preocupações éticas**: O desenvolvimento de software está cada vez mais focado em questões como privacidade, segurança e impacto social, especialmente com a proliferação de sistemas baseados em IA.
+- **Evolução das linguagens**: Linguagens como Python e JavaScript ganharam destaque por sua simplicidade e versatilidade, enquanto Rust e Go estão emergindo para suprir novas demandas em performance e segurança.
+- **Práticas ágeis**: Metodologias como Scrum e Kanban priorizam entregas rápidas, colaboração e adaptação constante, alinhando desenvolvimento às necessidades do cliente.
+- **Low-code e no-code**: Ferramentas como Bubble e OutSystems permitem o desenvolvimento de aplicações por usuários com pouco conhecimento técnico, acelerando processos e reduzindo custos.
+- **DevOps e CI/CD**: Integração contínua e entrega contínua (CI/CD) tornaram-se essenciais para manter a qualidade e velocidade no ciclo de desenvolvimento.
+- **Impacto da IA**: Ferramentas como [[ChatGPT]] e Copilot auxiliam desenvolvedores na escrita de código, otimizando tempo e reduzindo erros.
+- **Foco em cibersegurança**: Com o aumento das ameaças, frameworks e práticas de segurança, como DevSecOps, estão sendo incorporados ao ciclo de desenvolvimento desde o início.
 
 ## 🔗 Conexões
 - [[Claude API e Anthropic SDK]]
-- [[Pesquisa - Inteligência Artificial Generativa]]
+- [[Referência - Livro Clean Code]]
 - [[Projeto - Sistema Chamados]]
 
 ## 📚 Fontes
-- [[Referência - Clean Code (Robert C. Martin)]]
-- [[Referência - Blog do GitHub Copilot]]
-- [[Referência - Documentação Oficial do Rust]]
+- [[Referência - Livro Clean Code]]
+- [[Referência - Site ThoughtWorks Radar]]
+- [[Referência - Artigo DevOps na Prática]]
 
 ## 🚧 Lacunas
-- Como os desenvolvedores podem equilibrar a automação com a criatividade no desenvolvimento?
-- Quais são os limites éticos no uso de IA para gerar código?
-- Como medir efetivamente o impacto de novas ferramentas no fluxo de trabalho e produtividade?
-```
+- Como linguagens emergentes como Zig e Julia podem impactar o futuro do desenvolvimento?
+- Quais são os desafios éticos do uso de inteligência artificial na programação?
+- Como as práticas de desenvolvimento podem se adaptar para lidar com a crescente complexidade de sistemas distribuídos?
