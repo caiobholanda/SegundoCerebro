@@ -3,7 +3,7 @@
 tipo: pesquisa
 criado: 2026-07-18
 atualizado: 2026-07-18
-pergunta-central: Quais são as melhores práticas e tendências atuais no campo da programação e desenvolvimento?
+pergunta-central: Como a programação e o desenvolvimento de software estão evoluindo frente às novas ferramentas e metodologias emergentes?
 relacionado-a: []
 related: []
 tags: [pesquisa, dev, produtividade]
@@ -12,31 +12,31 @@ tags: [pesquisa, dev, produtividade]
 # Pesquisa - Programação e Desenvolvimento
 
 ## ❓ Pergunta central
-Quais são as melhores práticas e tendências atuais no campo da programação e desenvolvimento?
+Como a programação e o desenvolvimento de software estão evoluindo frente às novas ferramentas e metodologias emergentes?
 
 ## 🎯 Síntese (3-5 linhas)
-Programação e desenvolvimento continuam evoluindo rapidamente, com foco em metodologias ágeis, colaboração em equipe, frameworks eficientes e ferramentas de automação. Tecnologias como inteligência artificial, desenvolvimento low-code e infraestrutura como código estão moldando o futuro do setor. A busca por qualidade de código e segurança também permanece essencial para entregar soluções robustas.
+A programação e o desenvolvimento de software estão em constante transformação, impulsionados por avanços como inteligência artificial, desenvolvimento low-code/no-code e práticas ágeis. Esses fatores estão reduzindo barreiras técnicas, aumentando a produtividade e democratizando o acesso à criação de software. No entanto, ainda há desafios relacionados à qualidade, segurança e ética no desenvolvimento.
 
 ## 🔬 Detalhes
-- **Metodologias ágeis**: Scrum e Kanban continuam sendo amplamente adotados para gerenciamento de projetos, promovendo iteração rápida e entrega incremental de software.
-- **Desenvolvimento orientado a testes (TDD)**: Ganha força como prática para garantir código mais confiável e com menos bugs.
-- **Inteligência Artificial**: Ferramentas como [[Claude API e Anthropic SDK]] estão sendo usadas para automação de tarefas repetitivas e suporte ao desenvolvimento.
-- **Low-code e no-code**: Plataformas como [[Bubble]] e [[OutSystems]] democratizam o desenvolvimento, permitindo que usuários não técnicos criem aplicações.
-- **Infraestrutura como código (IaC)**: Ferramentas como [[Terraform]] e [[Ansible]] simplificam a gestão de infraestrutura, promovendo consistência e escalabilidade.
-- **DevOps e CI/CD**: Integração contínua e entrega contínua são essenciais para agilidade no lançamento de software, reduzindo o tempo entre desenvolvimento e produção.
+- A popularização de ferramentas low-code e no-code tem permitido que profissionais não técnicos criem soluções funcionais, mas ainda existem limitações para projetos mais complexos.
+- A inteligência artificial, como modelos de linguagem (ex.: GPT-4), está sendo usada para gerar código, revisar e até mesmo projetar sistemas inteiros, economizando tempo e esforço.
+- Metodologias ágeis, como Scrum e Kanban, continuam a ser a base para a organização de equipes, mas estão evoluindo para se adaptar a equipes híbridas e remotas.
+- O paradigma DevOps integra desenvolvimento e operações, promovendo ciclos de entrega contínua e maior alinhamento entre equipes.
+- Linguagens de programação como Python, JavaScript e Rust continuam a dominar devido à sua versatilidade e comunidade ativa.
+- Ética e sustentabilidade têm ganhado espaço no debate sobre desenvolvimento, especialmente em questões relacionadas ao impacto ambiental e aos vieses em algoritmos.
 
 ## 🔗 Conexões
 - [[Claude API e Anthropic SDK]]
-- [[Referência - Terraform e automação de infraestrutura]]
-- [[Pesquisa - Metodologias ágeis no desenvolvimento de software]]
+- [[Projeto - Sistema Chamados]]
+- [[Referência - Metodologias Ágeis]]
 
 ## 📚 Fontes
-- [[Referência - Livro "Clean Code" de Robert C. Martin]]
-- [[Referência - Site oficial do Terraform]]
-- [[Referência - Artigo "Future of Low-Code Development" da TechCrunch]]
+- [[Referência - Revolução Low-Code]]
+- [[Referência - Inteligência Artificial no Desenvolvimento]]
+- [[Referência - Práticas Ágeis Modernas]]
 
 ## 🚧 Lacunas
-- Como a ética no uso de inteligência artificial pode ser incorporada no ciclo de desenvolvimento?
-- Quais são os desafios específicos do desenvolvimento low-code para sistemas complexos?
-- Como práticas de DevOps podem ser adaptadas para equipes pequenas ou startups?
+- Quais são os impactos a longo prazo do uso massivo de IA no desenvolvimento de software?
+- Como abordar as limitações de segurança em ferramentas low-code/no-code?
+- De que forma a sustentabilidade pode ser integrada de forma prática no ciclo de vida do desenvolvimento de software?
 ```

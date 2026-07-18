@@ -3,39 +3,38 @@
 tipo: pesquisa
 criado: 2026-07-18
 atualizado: 2026-07-18
-pergunta-central: Quais são as principais tendências, desafios e oportunidades no mercado de TI no Brasil em 2026?
-relacionado-a: [tecnologia, economia, profissões]
+pergunta-central: Quais são as tendências, desafios e oportunidades no mercado de TI no Brasil em 2026?
+relacionado-a: []
 related: []
-tags: [pesquisa, mercado, carreira]
+tags: ["pesquisa", "mercado", "carreira"]
 ---
 
 # Pesquisa - Mercado de TI no Brasil
 
 ## ❓ Pergunta central
-Quais são as principais tendências, desafios e oportunidades no mercado de TI no Brasil em 2026?
+Quais são as tendências, desafios e oportunidades no mercado de TI no Brasil em 2026?
 
 ## 🎯 Síntese (3-5 linhas)
-O mercado de TI no Brasil continua em expansão, impulsionado pela transformação digital e pelo crescimento de setores como fintechs, healthtechs e agritechs. A demanda por profissionais qualificados supera a oferta, destacando vagas em áreas como desenvolvimento de software, ciência de dados e cibersegurança. Apesar do cenário promissor, desafios como desigualdade de acesso à tecnologia e falta de políticas públicas para formação profissional ainda persistem.
+O mercado de TI no Brasil continua em expansão, impulsionado pela transformação digital e pela crescente demanda por soluções em nuvem e inteligência artificial. Porém, enfrenta desafios como a escassez de mão de obra qualificada e a necessidade de políticas públicas que fomentem a inovação. Áreas como cibersegurança, desenvolvimento de software e análise de dados destacam-se como as mais promissoras.
 
 ## 🔬 Detalhes
-- O Brasil é o maior mercado de TI na América Latina, representando cerca de 40% do setor na região.
-- A transformação digital das empresas foi acelerada pela pandemia, e a adoção de tecnologias como inteligência artificial, cloud computing e IoT continua em alta.
-- As fintechs brasileiras têm atraído investimentos internacionais significativos, consolidando o país como um hub de inovação financeira.
-- Há um déficit estimado de 500 mil profissionais de tecnologia no Brasil, evidenciando a necessidade de qualificação e formação de novos talentos.
-- Áreas como cibersegurança, inteligência artificial e big data estão entre as mais demandadas, com salários atrativos.
-- Desafios incluem a desigualdade de acesso à tecnologia nas regiões mais remotas e a necessidade de políticas educacionais que promovam a inclusão digital.
+- O setor de TI no Brasil cresceu cerca de 10% em 2025, segundo a Associação Brasileira das Empresas de Tecnologia da Informação e Comunicação (Brasscom).
+- Existe uma demanda crescente por profissionais especializados em áreas como cibersegurança, inteligência artificial, ciência de dados e desenvolvimento de software.
+- A transformação digital nas empresas brasileiras está sendo acelerada por fatores como a pandemia e a competitividade global.
+- A falta de mão de obra qualificada é um dos maiores desafios do setor, com um déficit estimado de 500 mil profissionais até 2030.
+- Políticas públicas e incentivos fiscais para startups e inovação tecnológica têm sido discutidos para estimular o crescimento do setor.
+- Empresas brasileiras estão investindo em programas de capacitação e parcerias com universidades para formar talentos localmente.
 
 ## 🔗 Conexões
-- [[Pesquisa - Inteligência Artificial no Brasil]]
 - [[Projeto - Sistema Chamados]]
+- [[Claude API e Anthropic SDK]]
 
 ## 📚 Fontes
-- [[Referência - Panorama do Mercado de TI no Brasil 2026]]
-- [[Referência - Crescimento das Fintechs no Brasil]]
-- [[Referência - Formação de Profissionais de TI no Brasil]]
+- [[Referência - Brasscom Relatório Mercado TI 2025]]
+- [[Referência - Estudo Transformação Digital Brasil]]
 
 ## 🚧 Lacunas
-- Quais são as políticas públicas mais recentes voltadas para a inclusão digital e formação em TI no Brasil?
-- Como as pequenas e médias empresas estão se adaptando à transformação digital no cenário brasileiro?
-- Qual é o impacto da inteligência artificial no mercado de trabalho de TI no Brasil?
+- Qual o impacto específico do 5G no mercado brasileiro de TI?
+- Como as políticas públicas podem ser mais eficazes para solucionar a questão da falta de mão de obra?
+- Quais são os principais players internacionais que estão investindo no Brasil e como isso afeta o mercado local?
 ```
