@@ -1,9 +1,8 @@
-```markdown
 ---
 tipo: pesquisa
 criado: 2026-07-17
 atualizado: 2026-07-17
-pergunta-central: Como a programação e o desenvolvimento impactam a inovação tecnológica e a produtividade humana?
+pergunta-central: Como a evolução das práticas de programação e desenvolvimento impacta a produtividade e a qualidade de software?
 relacionado-a: []
 related: []
 tags: [pesquisa, dev, produtividade]
@@ -12,31 +11,30 @@ tags: [pesquisa, dev, produtividade]
 # Pesquisa - Programação e Desenvolvimento
 
 ## ❓ Pergunta central
-Como a programação e o desenvolvimento impactam a inovação tecnológica e a produtividade humana?
+Como a evolução das práticas de programação e desenvolvimento impacta a produtividade e a qualidade de software?
 
 ## 🎯 Síntese (3-5 linhas)
-A programação é a base da transformação digital e do avanço tecnológico. Ela permite criar soluções que automatizam processos, aumentam a eficiência e abrem novas possibilidades para a inovação. Com metodologias ágeis e ferramentas modernas, o desenvolvimento de software se tornou mais colaborativo e iterativo, permitindo responder rapidamente às demandas do mercado. No entanto, a complexidade crescente das tecnologias requer constante atualização de habilidades.
+A programação e o desenvolvimento têm evoluído rapidamente, com novas linguagens, ferramentas e metodologias surgindo regularmente. Práticas como DevOps, programação funcional e uso de IA estão transformando a forma como software é projetado, implementado e mantido. A produtividade está cada vez mais ligada à automação, colaboração e ao aprendizado contínuo.
 
 ## 🔬 Detalhes
-- Programação é a prática de escrever instruções que computadores podem entender e executar, utilizando linguagens como Python, JavaScript e C++.
-- O desenvolvimento ágil tornou-se o padrão para equipes de software, promovendo entregas rápidas e feedback contínuo.
-- Frameworks e bibliotecas como React, Django e TensorFlow aceleram o desenvolvimento ao fornecer soluções pré-construídas para tarefas comuns.
-- A automação de processos por meio de scripts e APIs aumentou drasticamente a produtividade em diversos setores.
-- Inteligência Artificial e Machine Learning dependem de programação sofisticada, permitindo avanços em áreas como saúde, transporte e finanças.
-- A demanda por desenvolvedores continua a crescer, destacando a importância de aprender novas linguagens e práticas, como DevOps e segurança cibernética.
+- **Programação funcional**: Cresce sua adoção devido à ênfase em imutabilidade e funções puras, que reduzem erros e aumentam a previsibilidade.
+- **DevOps**: Integração contínua e entrega contínua (CI/CD) estão acelerando ciclos de desenvolvimento, permitindo lançamentos mais frequentes e confiáveis.
+- **Automação com IA**: Ferramentas como [[Claude API e Anthropic SDK]] e GitHub Copilot estão otimizando tarefas repetitivas e auxiliando desenvolvedores na escrita de código.
+- **Metodologias ágeis**: Scrum, Kanban e Lean continuam a ser amplamente utilizadas para melhorar a colaboração e a adaptabilidade das equipes de desenvolvimento.
+- **Qualidade de software**: Testes automatizados e análise estática de código são fundamentais para garantir a qualidade em sistemas cada vez mais complexos.
+- **Sustentabilidade em software**: Há um movimento crescente em direção a práticas de desenvolvimento que minimizam impactos ambientais, como eficiência energética de código.
 
 ## 🔗 Conexões
 - [[Claude API e Anthropic SDK]]
-- [[Pesquisa - Tendências em Inteligência Artificial]]
-- [[Projeto - Sistema Chamados]]
+- [[Referência - Metodologias Ágeis]]
+- [[Referência - Linguagens de Programação Modernas]]
 
 ## 📚 Fontes
-- [[Referência - Clean Code por Robert C. Martin]]
-- [[Referência - The Pragmatic Programmer por Andrew Hunt e David Thomas]]
-- [[Referência - Artigo sobre Metodologias Ágeis (2025)]]
+- [[Referência - Clean Code]]
+- [[Referência - DevOps Handbook]]
+- [[Referência - Trends in Software Development]]
 
 ## 🚧 Lacunas
-- Quais serão as próximas grandes tendências em linguagens de programação?
-- Como a inteligência artificial pode impactar o papel do desenvolvedor humano no futuro?
-- Quais são as melhores práticas para gerenciar a complexidade crescente no desenvolvimento de software?
-```
+- Quais são as melhores práticas para medir objetivamente a produtividade em equipes de desenvolvimento?
+- Como a adoção de IA no desenvolvimento de software impactará a demanda por habilidades tradicionais de programação?
+- Quais os impactos de práticas sustentáveis no ciclo de vida de desenvolvimento de software?
