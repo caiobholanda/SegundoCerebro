@@ -3,39 +3,40 @@
 tipo: pesquisa
 criado: 2026-07-18
 atualizado: 2026-07-18
-pergunta-central: Como a programação e o desenvolvimento podem se tornar mais acessíveis e sustentáveis no futuro?
+pergunta-central: Quais são as melhores práticas e tendências atuais no campo da programação e desenvolvimento?
 relacionado-a: []
-related: [[Claude API e Anthropic SDK]]
+related: []
 tags: [pesquisa, dev, produtividade]
 ---
 
 # Pesquisa - Programação e Desenvolvimento
 
 ## ❓ Pergunta central
-Como a programação e o desenvolvimento podem se tornar mais acessíveis e sustentáveis no futuro?
+Quais são as melhores práticas e tendências atuais no campo da programação e desenvolvimento?
 
 ## 🎯 Síntese (3-5 linhas)
-Programação e desenvolvimento são fundamentais para a transformação digital, mas enfrentam desafios de acessibilidade, sustentabilidade e adaptação às novas tecnologias. Ferramentas de IA, metodologias ágeis e abordagens como "low-code" estão tornando o desenvolvimento mais inclusivo e acelerando a inovação. Contudo, questões como o impacto ambiental e a necessidade de qualificação contínua ainda precisam ser endereçadas.
+Programação e desenvolvimento continuam evoluindo rapidamente, com foco em metodologias ágeis, colaboração em equipe, frameworks eficientes e ferramentas de automação. Tecnologias como inteligência artificial, desenvolvimento low-code e infraestrutura como código estão moldando o futuro do setor. A busca por qualidade de código e segurança também permanece essencial para entregar soluções robustas.
 
 ## 🔬 Detalhes
-- **Acessibilidade**: Ferramentas de "low-code" e "no-code" estão permitindo que pessoas sem formação técnica contribuam para o desenvolvimento de software.
-- **Automação pelo uso de IA**: Modelos como [[Claude API e Anthropic SDK]] e [[ChatGPT]] estão otimizando tarefas de codificação, reduzindo o tempo necessário para desenvolvimento e testes.
-- **Metodologias ágeis**: Práticas como Scrum e Kanban continuam sendo cruciais para melhorar a produtividade e a colaboração entre equipes.
-- **DevOps e CI/CD**: Integração contínua e entrega contínua minimizam falhas e aceleram o ciclo de vida do software.
-- **Sustentabilidade**: Há um foco crescente em criar sistemas mais eficientes e reduzir o desperdício de recursos computacionais.
-- **Educação em programação**: Plataformas como [[freeCodeCamp]] e [[Khan Academy]] estão democratizando o acesso ao aprendizado de programação.
+- **Metodologias ágeis**: Scrum e Kanban continuam sendo amplamente adotados para gerenciamento de projetos, promovendo iteração rápida e entrega incremental de software.
+- **Desenvolvimento orientado a testes (TDD)**: Ganha força como prática para garantir código mais confiável e com menos bugs.
+- **Inteligência Artificial**: Ferramentas como [[Claude API e Anthropic SDK]] estão sendo usadas para automação de tarefas repetitivas e suporte ao desenvolvimento.
+- **Low-code e no-code**: Plataformas como [[Bubble]] e [[OutSystems]] democratizam o desenvolvimento, permitindo que usuários não técnicos criem aplicações.
+- **Infraestrutura como código (IaC)**: Ferramentas como [[Terraform]] e [[Ansible]] simplificam a gestão de infraestrutura, promovendo consistência e escalabilidade.
+- **DevOps e CI/CD**: Integração contínua e entrega contínua são essenciais para agilidade no lançamento de software, reduzindo o tempo entre desenvolvimento e produção.
 
 ## 🔗 Conexões
 - [[Claude API e Anthropic SDK]]
-- [[Projeto - Sistema Chamados]]
+- [[Referência - Terraform e automação de infraestrutura]]
+- [[Pesquisa - Metodologias ágeis no desenvolvimento de software]]
 
 ## 📚 Fontes
-- [[Referência - Automação com IA no desenvolvimento]]
-- [[Referência - Metodologias Ágeis e DevOps]]
-- [[Referência - Sustentabilidade em TI]]
+- [[Referência - Livro "Clean Code" de Robert C. Martin]]
+- [[Referência - Site oficial do Terraform]]
+- [[Referência - Artigo "Future of Low-Code Development" da TechCrunch]]
 
 ## 🚧 Lacunas
-- Quais serão os impactos a longo prazo da automação por IA nas profissões de desenvolvimento?
-- Como equilibrar inovação tecnológica com sustentabilidade ambiental no setor de TI?
-- Quais habilidades serão essenciais para desenvolvedores em um cenário dominado por ferramentas de IA?
+- Como a ética no uso de inteligência artificial pode ser incorporada no ciclo de desenvolvimento?
+- Quais são os desafios específicos do desenvolvimento low-code para sistemas complexos?
+- Como práticas de DevOps podem ser adaptadas para equipes pequenas ou startups?
 ```
