@@ -3,41 +3,38 @@
 tipo: pesquisa
 criado: 2026-07-18
 atualizado: 2026-07-18
-pergunta-central: Como as técnicas de programação e desenvolvimento evoluem para atender às demandas da tecnologia moderna?
-relacionado-a: [tecnologia, inovação]
-related: [[Claude API e Anthropic SDK]]
+pergunta-central: Como a programação e o desenvolvimento de software continuam a evoluir para atender às demandas tecnológicas e sociais atuais?
+relacionado-a: []
+related: []
 tags: [pesquisa, dev, produtividade]
 ---
 
 # Pesquisa - Programação e Desenvolvimento
 
 ## ❓ Pergunta central
-Como as técnicas de programação e desenvolvimento evoluem para atender às demandas da tecnologia moderna?
+Como a programação e o desenvolvimento de software continuam a evoluir para atender às demandas tecnológicas e sociais atuais?
 
 ## 🎯 Síntese (3-5 linhas)
-A programação e o desenvolvimento evoluíram significativamente nas últimas décadas, impulsionados pela necessidade de criar soluções mais eficientes, acessíveis e escaláveis. Novas linguagens, frameworks e metodologias ágeis estão ajudando a acelerar o tempo de desenvolvimento e a promover a colaboração entre equipes. Além disso, a ascensão da inteligência artificial e do aprendizado de máquina está redefinindo o que é possível alcançar na área de desenvolvimento.
+A programação e o desenvolvimento de software são áreas em constante transformação, impulsionadas por avanços em inteligência artificial, metodologias ágeis e uma crescente demanda por soluções escaláveis e sustentáveis. A adoção de tecnologias como aprendizado de máquina, computação em nuvem e desenvolvimento low-code está redefinindo o panorama, enquanto questões como ética, acessibilidade e segurança permanecem centrais no debate.
 
 ## 🔬 Detalhes
-- As linguagens de programação estão cada vez mais abstratas e de alto nível, permitindo maior produtividade e acessibilidade para novos desenvolvedores.
-- Metodologias ágeis, como Scrum e Kanban, dominam o cenário organizacional por promover ciclos curtos de desenvolvimento e feedback contínuo.
-- Frameworks e bibliotecas como React, Angular e Vue.js aceleram o desenvolvimento de aplicações web modernas.
-- DevOps e CI/CD (Integração Contínua/Entrega Contínua) estão transformando a forma como as equipes integram, testam e lançam software.
-- A inteligência artificial está sendo usada para otimizar o processo de desenvolvimento, desde a geração de código até o teste automatizado.
-- O desenvolvimento low-code e no-code está abrindo novas possibilidades para pessoas sem formação técnica criarem suas próprias soluções.
+- A programação funcional e reativa vem ganhando tração devido à sua capacidade de lidar com sistemas complexos e distribuídos, especialmente em aplicações como streaming de dados.
+- Ferramentas low-code e no-code estão democratizando o desenvolvimento, permitindo que usuários sem formação técnica criem aplicações funcionais.
+- Metodologias ágeis e frameworks como Scrum e Kanban continuam a dominar, mas há uma crescente adoção de práticas DevOps para integrar desenvolvimento e operações.
+- Inteligência artificial está sendo amplamente utilizada, tanto no desenvolvimento de software quanto no suporte a programadores, com ferramentas como GitHub Copilot e ChatGPT.
+- A segurança em software está no centro das atenções, com a implementação de práticas como DevSecOps e o uso de ferramentas automatizadas de análise estática de código.
+- A acessibilidade digital está se tornando uma prioridade, com guidelines de design inclusivo sendo incorporados desde as fases iniciais do desenvolvimento.
 
 ## 🔗 Conexões
 - [[Claude API e Anthropic SDK]]
-- [[Pesquisa - Inteligência Artificial e Ética]]
-- [[Referência - Metodologias Ágeis]]
-- [[Pesquisa - Ferramentas de Desenvolvimento Low-Code]]
+- [[Projeto - Sistema Chamados]]
 
 ## 📚 Fontes
-- [[Referência - História das Linguagens de Programação]]
-- [[Referência - DevOps para Iniciantes]]
-- [[Referência - O Futuro do Low-Code e No-Code]]
+- [[Referência - Livro Clean Code]]
+- [[Referência - Artigo sobre DevOps e Metodologias Ágeis]]
 
 ## 🚧 Lacunas
-- Quais são as principais barreiras enfrentadas pelas equipes ao adotar metodologias ágeis e como superá-las?
-- Como a programação quântica pode impactar o futuro do desenvolvimento de software?
-- Qual será o papel do desenvolvedor em um mundo dominado por ferramentas de geração de código por IA?
+- Como a programação quântica irá impactar as práticas de desenvolvimento nos próximos anos?
+- Quais são as barreiras para a adoção global de ferramentas low-code em grandes empresas?
+- Como equilibrar inovação em IA com a necessidade de garantir privacidade e ética no desenvolvimento de software?
 ```
