@@ -1,41 +1,39 @@
-```markdown
 ---
 tipo: pesquisa
 criado: 2026-07-18
 atualizado: 2026-07-18
-pergunta-central: Quais são os principais paradigmas e ferramentas que impulsionam a evolução da programação e do desenvolvimento de software?
+pergunta-central: Como a programação e o desenvolvimento de software estão moldando o futuro da tecnologia e da sociedade?
 relacionado-a: []
-related: []
+related: [[Claude API e Anthropic SDK]]
 tags: [pesquisa, dev, produtividade]
 ---
 
 # Pesquisa - Programação e Desenvolvimento
 
 ## ❓ Pergunta central
-Quais são os principais paradigmas e ferramentas que impulsionam a evolução da programação e do desenvolvimento de software?
+Como a programação e o desenvolvimento de software estão moldando o futuro da tecnologia e da sociedade?
 
 ## 🎯 Síntese (3-5 linhas)
-Programação e desenvolvimento de software são campos dinâmicos, moldados por paradigmas como programação orientada a objetos, funcional e reativa. A evolução tecnológica trouxe ferramentas como IDEs avançadas, sistemas de controle de versão e plataformas de desenvolvimento low-code. A integração de inteligência artificial e automação está transformando ainda mais o setor, permitindo maior eficiência e inovação.
+A programação e o desenvolvimento de software são pilares da transformação digital, impactando desde a automação de processos até a criação de inteligência artificial avançada. Com o crescimento de tecnologias como aprendizado de máquina, computação em nuvem e sistemas distribuídos, esses campos estão redefinindo indústrias, otimizando tarefas e democratizando o acesso à inovação. No entanto, desafios éticos e a necessidade de inclusão continuam sendo questões críticas.
 
 ## 🔬 Detalhes
-- A programação orientada a objetos (POO) continua sendo um dos paradigmas mais utilizados, priorizando a modularidade e a reutilização de código.
-- A programação funcional, que enfatiza funções puras e imutabilidade, está ganhando popularidade em áreas como ciência de dados e desenvolvimento paralelo.
-- O desenvolvimento low-code/no-code democratizou o acesso à criação de software, permitindo que não-programadores criem aplicações básicas.
-- Ferramentas como Git e plataformas como GitHub e GitLab revolucionaram o controle de versão e o trabalho colaborativo em equipes de desenvolvimento.
-- A integração de inteligência artificial, como uso de modelos de linguagem para geração de código (ex.: [[Claude API e Anthropic SDK]], GitHub Copilot), está simplificando tarefas complexas e acelerando o desenvolvimento.
-- Práticas ágeis e DevOps fomentaram a colaboração contínua entre equipes de desenvolvimento e operações, reduzindo o tempo de entrega de software.
+- A programação é a base de tecnologias emergentes como inteligência artificial, IoT e blockchain.
+- Linguagens de programação, como Python, JavaScript e Rust, dominam diferentes nichos de desenvolvimento.
+- O desenvolvimento ágil, com metodologias como Scrum e Kanban, tornou-se padrão para equipes modernas.
+- Ferramentas de DevOps e integração contínua (CI/CD) aumentaram a eficiência e a qualidade do desenvolvimento.
+- A acessibilidade ao aprendizado de programação tem crescido com plataformas como GitHub, Codecademy e FreeCodeCamp.
+- A ética na programação, incluindo viés algorítmico e privacidade, está se tornando uma preocupação central.
 
 ## 🔗 Conexões
 - [[Claude API e Anthropic SDK]]
-- [[Pesquisa - Automação no desenvolvimento de software]]
+- [[Pesquisa - Automação e IA no trabalho]]
+- [[Referência - Livro Clean Code]]
 
 ## 📚 Fontes
-- [[Referência - Clean Code (Robert C. Martin)]]
-- [[Referência - The Pragmatic Programmer (Andrew Hunt, David Thomas)]]
-- [[Referência - Artigo sobre ferramentas de desenvolvimento no GitHub Blog]]
+- [[Referência - Artigo sobre o impacto da programação na sociedade]]
+- [[Referência - Livro The Pragmatic Programmer]]
 
 ## 🚧 Lacunas
-- Qual será o impacto a longo prazo da inteligência artificial na redução do papel dos desenvolvedores humanos?
-- Quais são as melhores práticas para equilibrar o uso de ferramentas low-code com o desenvolvimento tradicional?
-- Como os novos paradigmas, como a programação orientada a eventos, se posicionarão em relação aos paradigmas existentes?
-```
+- Quais são as melhores práticas para ensinar programação a iniciantes, considerando diversidade e inclusão?
+- Como regulamentar o impacto ético do software sem sufocar a inovação?
+- De que forma a programação pode ser mais acessível em países em desenvolvimento?
