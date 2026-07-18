@@ -3,40 +3,39 @@
 tipo: pesquisa
 criado: 2026-07-18
 atualizado: 2026-07-18
-pergunta-central: Como a programação e o desenvolvimento de software podem ser otimizados para aumentar a eficiência e a qualidade dos sistemas entregues?
+pergunta-central: Como a programação e o desenvolvimento estão evoluindo para atender às demandas de um mundo cada vez mais digital e interconectado?
 relacionado-a: []
-related: [[Claude API e Anthropic SDK]]
+related: []
 tags: [pesquisa, dev, produtividade]
 ---
 
 # Pesquisa - Programação e Desenvolvimento
 
 ## ❓ Pergunta central
-Como a programação e o desenvolvimento de software podem ser otimizados para aumentar a eficiência e a qualidade dos sistemas entregues?
+Como a programação e o desenvolvimento estão evoluindo para atender às demandas de um mundo cada vez mais digital e interconectado?
 
 ## 🎯 Síntese (3-5 linhas)
-A programação e o desenvolvimento de software são disciplinas que combinam lógica, criatividade e ferramentas tecnológicas para criar soluções digitais. A eficiência e a qualidade podem ser aprimoradas com metodologias ágeis, boas práticas de codificação, ferramentas de automação e colaboração em equipe. O avanço da inteligência artificial também está moldando o futuro do desenvolvimento. 
+Programação e desenvolvimento são fundamentais na transformação digital, permitindo a criação de soluções tecnológicas inovadoras. Com a ascensão da inteligência artificial, desenvolvimento ágil e ferramentas low-code/no-code, o processo de criar software está se tornando mais acessível e eficiente. No entanto, questões como segurança, ética e sustentabilidade continuam a desafiar profissionais da área.
 
 ## 🔬 Detalhes
-- **Metodologias ágeis**: abordagens como Scrum e Kanban promovem iterações rápidas e feedback contínuo para melhorar produtos e processos.
-- **Boas práticas de codificação**: seguir padrões, fazer revisões de código e escrever testes automatizados ajudam a garantir a qualidade do software.
-- **Ferramentas de automação**: CI/CD (Integração e Entrega Contínuas) e scripts de build reduzem o tempo gasto em tarefas manuais.
-- **Integração de IA**: ferramentas como GitHub Copilot e ChatGPT estão auxiliando desenvolvedores a gerar, revisar e otimizar código.
-- **Colaboração em equipe**: uso de plataformas como Git, Jira e Trello facilita o trabalho em equipe, organização e rastreamento de progresso.
-- **Arquitetura de software**: boas decisões arquiteturais, como uso de microserviços ou serverless, impactam diretamente a escalabilidade e a manutenção.
+- A popularização de linguagens de programação acessíveis e frameworks tem democratizado o acesso ao desenvolvimento de software.
+- Metodologias ágeis, como Scrum e Kanban, estão sendo amplamente adotadas para melhorar a eficiência e a colaboração em equipes de desenvolvimento.
+- A explosão de ferramentas low-code e no-code está permitindo que não programadores criem aplicativos e automações, reduzindo as barreiras técnicas.
+- A inteligência artificial está revolucionando o desenvolvimento, com ferramentas como [[Claude API e Anthropic SDK]] ajudando na geração de código e na resolução de problemas.
+- Segurança e privacidade são desafios críticos, com ataques cibernéticos mais sofisticados exigindo abordagens proativas.
+- Sustentabilidade no desenvolvimento de software é uma questão emergente, com foco em reduzir o impacto ambiental de aplicações e data centers.
 
 ## 🔗 Conexões
 - [[Claude API e Anthropic SDK]]
-- [[Pesquisa - Metodologias Ágeis]]
-- [[Referência - Clean Code]]
+- [[Projeto - Sistema Chamados]]
 
 ## 📚 Fontes
-- [[Referência - The Pragmatic Programmer]]
-- [[Referência - Accelerate: The Science of Lean Software and DevOps]]
 - [[Referência - Clean Code]]
+- [[Referência - The Pragmatic Programmer]]
+- [[Referência - Artigo sobre low-code e no-code]]
 
 ## 🚧 Lacunas
-- Como medir objetivamente a eficiência de uma equipe de desenvolvimento e correlacioná-la com a qualidade do software entregue?
-- Quais são as limitações atuais do uso de IA no desenvolvimento de software?
-- Qual é o impacto real das metodologias ágeis em equipes distribuídas globalmente?
+- Como as ferramentas de IA para desenvolvimento influenciarão a demanda por programadores no futuro?
+- Quais práticas são mais eficazes para integrar sustentabilidade ao ciclo de vida do software?
+- Que novas habilidades serão essenciais para programadores nos próximos 5 anos?
 ```
