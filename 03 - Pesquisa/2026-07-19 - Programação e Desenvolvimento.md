@@ -3,40 +3,39 @@
 tipo: pesquisa
 criado: 2026-07-19
 atualizado: 2026-07-19
-pergunta-central: Qual é o papel da programação no desenvolvimento de soluções tecnológicas e como otimizar processos de desenvolvimento?
+pergunta-central: Como a programação e o desenvolvimento de software estão moldando o futuro da tecnologia e da sociedade?
 relacionado-a: []
-related: []
-tags: ["pesquisa", "dev", "produtividade"]
+related: [[Claude API e Anthropic SDK]], [[Pesquisa - Inteligência Artificial Generativa]]
+tags: [pesquisa, dev, produtividade]
 ---
 
 # Pesquisa - Programação e Desenvolvimento
 
 ## ❓ Pergunta central
-Qual é o papel da programação no desenvolvimento de soluções tecnológicas e como otimizar processos de desenvolvimento?
+Como a programação e o desenvolvimento de software estão moldando o futuro da tecnologia e da sociedade?
 
 ## 🎯 Síntese (3-5 linhas)
-Programação é a base para criar soluções tecnológicas, transformando ideias em produtos e serviços funcionais. O processo de desenvolvimento envolve não apenas habilidades técnicas, mas também colaboração, boas práticas e ferramentas adequadas. A otimização passa por metodologias ágeis, automação e um entendimento claro das necessidades do usuário.
+A programação e o desenvolvimento de software são motores fundamentais da transformação tecnológica e social. Eles habilitam inovações como inteligência artificial, automação e plataformas digitais, moldando a forma como vivemos, trabalhamos e interagimos. Entretanto, questões éticas, acessibilidade e sustentabilidade permanecem como desafios cruciais para o futuro da área.
 
 ## 🔬 Detalhes
-- Programação é o ato de escrever instruções que um computador pode interpretar e executar.
-- Linguagens de programação variam em níveis de abstração, desde low-level (ex.: Assembly) até high-level (ex.: Python).
-- Ferramentas como Git e IDEs (ex.: VSCode) são essenciais para gerenciar código e melhorar a produtividade.
-- Metodologias ágeis, como Scrum e Kanban, ajudam a estruturar o trabalho em equipes de desenvolvimento.
-- DevOps integra desenvolvimento e operações, promovendo automação e ciclos de entrega mais rápidos.
-- A comunicação entre desenvolvedores, designers e stakeholders é fundamental para evitar retrabalho e atender às expectativas dos usuários.
+- A programação é essencial para a criação de tecnologias emergentes, como inteligência artificial, blockchain e internet das coisas.
+- Linguagens de programação mais utilizadas atualmente incluem Python, JavaScript, Java, C++ e Rust, cada uma com suas características e casos de uso.
+- Metodologias ágeis, como Scrum e Kanban, têm transformado a forma como equipes desenvolvem software, promovendo entregas rápidas e iterativas.
+- Ferramentas de low-code e no-code estão democratizando o desenvolvimento, permitindo que pessoas sem formação técnica criem soluções digitais.
+- A ética no desenvolvimento de software é um tópico emergente, especialmente com o uso crescente de inteligência artificial e aprendizado de máquina.
+- A sustentabilidade no desenvolvimento de software está ganhando atenção, com práticas como coding verde e otimização de recursos.
 
 ## 🔗 Conexões
 - [[Claude API e Anthropic SDK]]
-- [[Pesquisa - Automação e DevOps]]
-- [[Projeto - Sistema Chamados]]
+- [[Pesquisa - Inteligência Artificial Generativa]]
 
 ## 📚 Fontes
-- [[Referência - Clean Code (Robert C. Martin)]]
-- [[Referência - The Pragmatic Programmer]]
-- [[Referência - Artigo sobre Metodologias Ágeis]]
+- [[Referência - Programação Moderna: Guia Completo]]
+- [[Referência - Livro Clean Code]]
+- [[Referência - Artigo sobre Ética na IA]]
 
 ## 🚧 Lacunas
-- Quais são os critérios para escolher a melhor linguagem de programação para um projeto específico?
-- Como equilibrar inovação e estabilidade em equipes de desenvolvimento?
-- Qual o impacto das ferramentas de IA no futuro da programação?
+- Como a programação pode ser mais acessível para pessoas de diferentes contextos socioeconômicos?
+- Quais são as melhores práticas para tornar o desenvolvimento de software mais sustentável?
+- Como prever e mitigar impactos negativos de softwares na sociedade e no meio ambiente?
 ```
