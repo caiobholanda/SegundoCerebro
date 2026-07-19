@@ -1,9 +1,8 @@
-```markdown
 ---
 tipo: pesquisa
 criado: 2026-07-19
 atualizado: 2026-07-19
-pergunta-central: Quais são as tendências, desafios e oportunidades no mercado de TI brasileiro em 2026?
+pergunta-central: Quais são as tendências e desafios do mercado de TI no Brasil em 2026?
 relacionado-a: []
 related: []
 tags: [pesquisa, mercado, carreira]
@@ -12,29 +11,30 @@ tags: [pesquisa, mercado, carreira]
 # Pesquisa - Mercado de TI no Brasil
 
 ## ❓ Pergunta central
-Quais são as tendências, desafios e oportunidades no mercado de TI brasileiro em 2026?
+Quais são as tendências e desafios do mercado de TI no Brasil em 2026?
 
 ## 🎯 Síntese (3-5 linhas)
-O mercado de TI no Brasil continua em expansão, impulsionado pela transformação digital, crescimento de startups e demanda por soluções em nuvem, IA e segurança cibernética. No entanto, há desafios como a escassez de talentos qualificados e a necessidade de políticas públicas para fomentar inovação. O setor se mostra resiliente e promissor, com oportunidades em áreas como fintechs, agritech e healthtech.
+O mercado de TI no Brasil continua em expansão, impulsionado pela transformação digital acelerada e pela crescente demanda por soluções tecnológicas em diversos setores. Profissionais de áreas como cibersegurança, inteligência artificial e desenvolvimento de software são os mais requisitados. No entanto, há desafios relacionados à escassez de mão de obra qualificada e à necessidade de investimentos em infraestrutura tecnológica e educação.
 
 ## 🔬 Detalhes
-- O setor de TI no Brasil representa cerca de 7% do PIB nacional, com crescimento anual acima da média de outros setores.
-- A demanda por profissionais de TI supera a oferta, com déficit estimado de 300 mil vagas não preenchidas em 2026.
-- Áreas como inteligência artificial, ciência de dados, cibersegurança e desenvolvimento de software continuam em alta demanda.
-- O ecossistema de startups brasileiras é robusto, com um aumento significativo de investimentos em fintechs, agritechs e healthtechs.
-- A transformação digital acelerada durante a pandemia resultou em maior adoção de soluções em nuvem e trabalho remoto.
-- Desafios incluem a falta de formação técnica qualificada, desigualdade de acesso à tecnologia e um ambiente regulatório que ainda precisa ser modernizado.
+- A transformação digital de empresas brasileiras continua acelerada, especialmente no setor financeiro, varejo e saúde.
+- Áreas como cibersegurança, inteligência artificial e ciência de dados estão entre as que mais crescem em demanda por profissionais.
+- Há uma lacuna significativa entre a demanda do mercado e a formação de profissionais qualificados no Brasil.
+- O modelo de trabalho híbrido e remoto permanece relevante, permitindo que empresas contratem talentos de diferentes regiões.
+- Startups desempenham um papel crucial na inovação tecnológica no país, especialmente nos setores de fintechs e edtechs.
+- Apesar do crescimento, gargalos como infraestrutura tecnológica limitada e alta carga tributária ainda impedem o avanço completo do setor.
 
 ## 🔗 Conexões
 - [[Projeto - Sistema Chamados]]
-- [[Referência - Inteligência Artificial no Brasil]]
+- [[Referência - Tendências Tecnológicas 2026]]
+- [[Pesquisa - Inteligência Artificial no Brasil]]
 
 ## 📚 Fontes
-- [[Referência - Relatório Softex 2026]]
-- [[Referência - Panorama Startups Brasil 2026]]
+- [[Referência - Relatório Mercado TI Brasil 2026]]
+- [[Referência - Transformação Digital no Brasil]]
+- [[Referência - Panorama Startups Brasileiras 2026]]
 
 ## 🚧 Lacunas
-- Como o governo brasileiro pode criar políticas públicas mais efetivas para reduzir o déficit de profissionais de TI?
-- Quais são os impactos de longo prazo da inteligência artificial no mercado de trabalho de TI no Brasil?
-- Há oportunidades inexploradas no mercado de TI em regiões menos desenvolvidas do país?
-```
+- Quais são as políticas públicas mais eficazes para reduzir a lacuna de formação em TI no Brasil?
+- Qual o impacto exato das startups no mercado de trabalho e na inovação tecnológica brasileira?
+- Como o Brasil pode melhorar a infraestrutura tecnológica para competir globalmente?
