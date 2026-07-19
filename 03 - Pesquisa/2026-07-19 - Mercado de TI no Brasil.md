@@ -1,38 +1,40 @@
+```markdown
 ---
 tipo: pesquisa
 criado: 2026-07-19
 atualizado: 2026-07-19
-pergunta-central: Qual é o panorama atual e as perspectivas futuras para o mercado de TI no Brasil?
+pergunta-central: Quais são as principais tendências, desafios e oportunidades no mercado de TI no Brasil em 2026?
 relacionado-a: []
-related: []
+related: [[Pesquisa - Futuro do trabalho]], [[Área - Tecnologia da Informação]]
 tags: [pesquisa, mercado, carreira]
 ---
 
 # Pesquisa - Mercado de TI no Brasil
 
 ## ❓ Pergunta central
-Qual é o panorama atual e as perspectivas futuras para o mercado de TI no Brasil?
+Quais são as principais tendências, desafios e oportunidades no mercado de TI no Brasil em 2026?
 
 ## 🎯 Síntese (3-5 linhas)
-O mercado de TI no Brasil está em constante crescimento, impulsionado pela transformação digital e pela demanda por soluções tecnológicas em diversos setores. Profissões como desenvolvedor de software, cientista de dados e analista de cibersegurança estão em alta. No entanto, o setor enfrenta desafios relacionados à falta de mão de obra qualificada e à necessidade de políticas públicas que incentivem inovação e investimento em tecnologia.
+O mercado de TI no Brasil está em ascensão, impulsionado pela digitalização, pela demanda por soluções de inteligência artificial e pela expansão de startups de tecnologia. Contudo, enfrenta desafios como a escassez de profissionais qualificados e a necessidade de adaptação às regulamentações de proteção de dados. Investimentos em formação e políticas públicas podem determinar os rumos do setor.
 
 ## 🔬 Detalhes
-- A transformação digital acelerada pela pandemia gerou maior demanda por profissionais de TI em áreas como cloud computing, inteligência artificial e big data.
-- O Brasil é o maior mercado de TI da América Latina, representando cerca de 40% do total da região.
-- Há um déficit anual de mais de 100 mil profissionais qualificados para atender às demandas do setor.
-- O setor de TI no Brasil é impulsionado por startups, especialmente nas áreas de fintechs, healthtechs e edtechs.
-- Políticas públicas como a Lei de Informática e programas de incentivo à inovação tecnológica têm papel importante no desenvolvimento do mercado.
-- A inclusão de mulheres e outras minorias no setor ainda é um desafio, mas iniciativas para promover diversidade têm ganhado espaço.
+- O Brasil é o maior mercado de TI da América Latina, representando cerca de 40% do setor na região.
+- A demanda por profissionais de TI continua crescendo, especialmente em áreas como cibersegurança, inteligência artificial e desenvolvimento de software.
+- A escassez de profissionais qualificados é um desafio significativo, com estimativas de déficit de mais de 400 mil vagas até 2026.
+- A Lei Geral de Proteção de Dados (LGPD) impulsiona a demanda por especialistas em compliance e segurança de dados.
+- Startups brasileiras de tecnologia, especialmente em fintechs e healthtechs, têm atraído investimentos internacionais significativos.
+- Empresas brasileiras estão fortalecendo suas estratégias de transformação digital, com foco em automação, análise de dados e computação em nuvem.
 
 ## 🔗 Conexões
-- [[Projeto - Sistema Chamados]]
-- [[Pesquisa - Inteligência Artificial no Brasil]]
+- [[Claude API e Anthropic SDK]]
+- [[Pesquisa - Futuro do trabalho]]
 
 ## 📚 Fontes
 - [[Referência - Panorama do Mercado de TI no Brasil]]
-- [[Referência - Transformação Digital e Oportunidades de Carreira em TI]]
+- [[Referência - Impactos da LGPD na Tecnologia da Informação]]
 
 ## 🚧 Lacunas
-- Quais estratégias específicas podem ser adotadas para reduzir o déficit de profissionais qualificados em TI no Brasil?
-- Quais são as perspectivas para a internacionalização de startups brasileiras de tecnologia?
-- Qual o impacto das regulamentações recentes sobre proteção de dados no crescimento do mercado de TI?
+- Qual é o papel das políticas públicas na redução da escassez de profissionais de TI no Brasil?
+- Como o avanço da inteligência artificial pode alterar o perfil das profissões no setor de TI nos próximos anos?
+- Quais são as principais barreiras para a internacionalização de empresas de TI brasileiras?
+```
