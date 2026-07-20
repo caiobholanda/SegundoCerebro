@@ -3,40 +3,39 @@
 tipo: pesquisa
 criado: 2026-07-20
 atualizado: 2026-07-20
-pergunta-central: Quais são as melhores práticas e ferramentas para realizar deploys eficientes e gerenciar infraestrutura em ambientes de cloud computing?
+pergunta-central: Como estruturar um deploy eficiente e escalável utilizando infraestrutura cloud moderna?
 relacionado-a: []
 related: []
-tags: [pesquisa, dev, infra]
+tags: ["pesquisa", "dev", "infra"]
 ---
 
 # Pesquisa - Deploy e Infraestrutura Cloud
 
 ## ❓ Pergunta central
-Quais são as melhores práticas e ferramentas para realizar deploys eficientes e gerenciar infraestrutura em ambientes de cloud computing?
+Como estruturar um deploy eficiente e escalável utilizando infraestrutura cloud moderna?
 
 ## 🎯 Síntese (3-5 linhas)
-Deploy e infraestrutura cloud são pilares fundamentais para a escalabilidade e eficiência de aplicações modernas. A adoção de práticas como infraestrutura como código (IaC), CI/CD e o uso de plataformas como AWS, Azure e GCP facilita a automação e a gestão. A escolha das ferramentas e a arquitetura adequada são determinantes para garantir alta disponibilidade, segurança e otimização de custos.
+Deploy e infraestrutura cloud são fundamentais para oferecer serviços confiáveis e escaláveis. As práticas modernas envolvem automação, containers (ex.: Docker), orquestração (ex.: Kubernetes), e serviços gerenciados de grandes provedores como AWS, Azure e GCP. A escolha da abordagem depende do balanceamento entre custo, flexibilidade e necessidades específicas do negócio.
 
 ## 🔬 Detalhes
-- **Infraestrutura como Código (IaC)**: Ferramentas como Terraform e AWS CloudFormation permitem gerenciar infraestrutura de forma declarativa, garantindo consistência e versionamento.
-- **CI/CD Pipelines**: Integração e entrega contínuas, com ferramentas como Jenkins, GitHub Actions e GitLab CI/CD, automatizam testes, builds e deploys, reduzindo erros humanos.
-- **Orquestração de Contêineres**: Kubernetes e Docker Swarm são amplamente utilizados para gerenciar contêineres, oferecendo escalabilidade e resiliência.
-- **Monitoramento e Observabilidade**: Soluções como Prometheus, Grafana e ELK Stack são essenciais para identificar e resolver problemas rapidamente na infraestrutura.
-- **Segurança na Nuvem**: Implementar boas práticas de segurança, como políticas de acesso baseadas em identidade (IAM), criptografia de dados e monitoramento de ameaças.
-- **Gerenciamento de Custos**: Ferramentas como AWS Cost Explorer e GCP Billing permitem controlar e otimizar gastos em ambientes cloud.
+- **Automação no deploy**: Ferramentas como CI/CD (ex.: Jenkins, GitHub Actions) permitem integração e entrega contínuas, reduzindo o tempo entre desenvolvimento e produção.
+- **Containers e Imutabilidade**: Docker e outros sistemas de containerização ajudam a padronizar ambientes, evitando problemas de configuração entre desenvolvimento e produção.
+- **Orquestração e Escalabilidade**: Kubernetes é o padrão para gerenciar clusters de containers, garantindo alta disponibilidade e escalabilidade.
+- **Infraestrutura como Código (IaC)**: Ferramentas como Terraform e AWS CloudFormation permitem a criação e configuração de infraestruturas de forma declarativa e versionada.
+- **Serviços Gerenciados**: Plataformas como AWS Elastic Beanstalk, Google Cloud Run e Azure App Service simplificam o deployment, gerenciando a infraestrutura subjacente.
+- **Monitoramento e Observabilidade**: Soluções como Prometheus, Grafana e New Relic são essenciais para rastrear a saúde dos sistemas e identificar gargalos ou falhas rapidamente.
 
 ## 🔗 Conexões
+- [[Claude API e Anthropic SDK]]
 - [[Projeto - Sistema Chamados]]
-- [[Referência - Kubernetes e Orquestração de Contêineres]]
-- [[Referência - Terraform e Infraestrutura como Código]]
 
 ## 📚 Fontes
-- [[Referência - AWS CloudFormation Documentation]]
-- [[Referência - Kubernetes: Up & Running]]
-- [[Referência - CI/CD com GitHub Actions]]
+- [[Referência - Infrastructure as Code (Kief Morris)]]
+- [[Referência - Kubernetes Patterns (Bilgin Ibryam, Roland Huß)]]
+- [[Referência - The DevOps Handbook (Gene Kim, Patrick Debois, John Willis, Jez Humble)]]
 
 ## 🚧 Lacunas
-- Quais são os desafios mais comuns ao migrar sistemas legados para a nuvem?
-- Como comparar a eficiência de diferentes provedores de serviços cloud (AWS, Azure, GCP)?
-- Quais são as tendências emergentes em deploy e gerenciamento de infraestrutura cloud?
+- Quais são os trade-offs entre provedores de infraestrutura cloud para diferentes tipos de negócio?
+- Como calcular o custo-benefício de adotar Kubernetes para empresas de pequeno porte?
+- Quais tendências emergentes podem substituir ou complementar a abordagem baseada em containers?
 ```
