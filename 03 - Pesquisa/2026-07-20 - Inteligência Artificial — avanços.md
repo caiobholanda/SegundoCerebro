@@ -1,41 +1,42 @@
-```markdown
+```yaml
 ---
 tipo: pesquisa
 criado: 2026-07-20
 atualizado: 2026-07-20
-pergunta-central: Quais são os avanços mais recentes em inteligência artificial e suas implicações práticas?
+pergunta-central: Quais são os avanços mais recentes em inteligência artificial e como eles estão transformando diferentes indústrias?
 relacionado-a: []
-related: [[Claude API e Anthropic SDK]], [[Pesquisa - Machine Learning em Saúde]]
+related: []
 tags: [pesquisa, ia]
 ---
 
 # Pesquisa - Inteligência Artificial — avanços
 
 ## ❓ Pergunta central
-Quais são os avanços mais recentes em inteligência artificial e suas implicações práticas?
+Quais são os avanços mais recentes em inteligência artificial e como eles estão transformando diferentes indústrias?
 
 ## 🎯 Síntese (3-5 linhas)
-Os avanços recentes em inteligência artificial incluem modelos de linguagem mais eficientes, como GPT-4 e Claude, maior integração com hardware especializado, e aplicações práticas em áreas como saúde, educação e entretenimento. A IA generativa e multimodal está transformando a criatividade e a produtividade, enquanto desafios éticos e técnicos continuam a surgir, exigindo regulamentação e inovação responsável.
+Os avanços mais recentes em IA incluem a consolidação de modelos generativos como GPT-4, o uso de IA em descobertas científicas, a ampliação de aplicações em saúde e a integração em sistemas autônomos. Além disso, o desenvolvimento de sistemas de IA mais éticos e transparentes está em pauta. A IA está moldando áreas como saúde, educação, finanças e entretenimento, enquanto abre debates sobre regulamentação e impactos éticos.
 
 ## 🔬 Detalhes
-- Modelos de linguagem de última geração, como GPT-4 e Claude, apresentam melhor capacidade de compreensão e geração de texto, com maior precisão em tarefas específicas.
-- A IA generativa evoluiu para incluir capacidade multimodal, permitindo lidar com texto, imagem, áudio e vídeo simultaneamente.
-- Aplicações práticas estão impactando setores como saúde (diagnósticos assistidos por IA), educação (tutoria personalizada) e entretenimento (criação de conteúdo automatizado).
-- Sistemas de IA estão sendo integrados a hardware especializado, como chips dedicados à aceleração de treinamento e inferência, otimizando custos e desempenho.
-- O uso de IA em automação robótica está se expandindo, com avanços em visão computacional e controle autônomo.
-- Questões éticas, como viés algorítmico e privacidade, continuam sendo desafios críticos, levando à necessidade de regulamentação e transparência.
+- Lançamento de modelos de linguagem como GPT-4 e Claude 2, com maior capacidade de compreensão e geração de texto.
+- Crescimento de modelos generativos aplicados a imagens, música e vídeos, como DALL-E e Stable Diffusion.
+- Uso de IA para acelerar pesquisas em biotecnologia, como no desenvolvimento de medicamentos e terapias personalizadas.
+- Implementação de IA em diagnósticos médicos, melhorando a precisão e a velocidade na identificação de doenças.
+- Expansão de sistemas autônomos, como veículos autônomos mais seguros e drones para entregas e monitoramento.
+- Avanços na IA explicável, promovendo maior transparência e confiança em decisões baseadas em algoritmos.
+- Discussões intensificadas sobre regulamentação, privacidade de dados e impactos éticos da automação em larga escala.
 
 ## 🔗 Conexões
 - [[Claude API e Anthropic SDK]]
-- [[Pesquisa - Machine Learning em Saúde]]
+- [[Pesquisa - Ética na IA e viés algorítmico]]
 
 ## 📚 Fontes
-- [[Referência - OpenAI GPT-4 Technical Paper]]
-- [[Referência - Anthropic Claude Overview]]
-- [[Referência - Artigo sobre IA generativa em multimodalidade]]
+- [[Referência - OpenAI GPT-4 Whitepaper]]
+- [[Referência - Artigo - Avanços na medicina com IA]]
+- [[Referência - Report - Tendências em modelos generativos 2026]]
 
 ## 🚧 Lacunas
-- Como regulamentações globais emergentes irão impactar o desenvolvimento e uso da IA?
-- Quais são as limitações atuais da IA generativa e como superá-las?
-- De que forma a IA pode ser integrada de forma mais ética e inclusiva em setores críticos?
+- Como as regulamentações de IA estão evoluindo globalmente para lidar com esses avanços?
+- Quais são os limites e desafios técnicos atuais dos modelos generativos?
+- Como garantir que os benefícios da IA sejam distribuídos de forma equitativa entre diferentes sociedades?
 ```
