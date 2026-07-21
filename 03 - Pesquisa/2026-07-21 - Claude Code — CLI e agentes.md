@@ -1,41 +1,40 @@
-```yaml
+```markdown
 ---
 tipo: pesquisa
 criado: 2026-07-21
 atualizado: 2026-07-21
-pergunta-central: Como o Claude Code pode ser integrado via CLI para expandir as capacidades de agentes inteligentes?
+pergunta-central: Como o Claude Code utiliza CLI e agentes para integrar fluxos de trabalho e automações?
 relacionado-a: []
-related: [[Claude API e Anthropic SDK]], [[Automação com agentes IA]]
+related: [[Claude API e Anthropic SDK]]
 tags: [pesquisa, ia, dev, claude]
 ---
 
 # Pesquisa - Claude Code — CLI e agentes
 
 ## ❓ Pergunta central
-Como o Claude Code pode ser integrado via CLI para expandir as capacidades de agentes inteligentes?
+Como o Claude Code utiliza CLI e agentes para integrar fluxos de trabalho e automações?
 
 ## 🎯 Síntese (3-5 linhas)
-O Claude Code oferece ferramentas CLI para interagir e automatizar fluxos de trabalho com agentes IA. Ele facilita integrações com APIs, suporte a linguagens como Python e YAML, e permite a execução de tarefas complexas como análise de dados, geração de texto e automação de processos. A CLI é especialmente útil para desenvolvedores e pesquisadores que precisam de rapidez e escalabilidade.
+O Claude Code combina uma interface de linha de comando (CLI) poderosa com agentes configuráveis para criar fluxos de trabalho automatizados. A CLI permite interações diretas e customizáveis, enquanto os agentes atuam como extensões inteligentes que executam tarefas específicas. Juntos, eles oferecem flexibilidade e escalabilidade para desenvolvedores e equipes.
 
 ## 🔬 Detalhes
-- O Claude Code inclui suporte para execução de scripts personalizados diretamente via CLI, permitindo fácil automação de tarefas.
-- Ele se integra com o Anthropic SDK, possibilitando a interação direta com os modelos Claude via APIs REST.
-- A CLI suporta comandos para configuração de agentes, definição de parâmetros e controle de sessões em tempo real.
-- Scripts YAML podem ser utilizados para descrever fluxos de trabalho complexos, facilitando a replicação e a padronização.
-- Há suporte nativo a linguagens como Python para manipulação de dados e execução de lógica personalizada dentro dos agentes.
-- Segurança é uma prioridade, com autenticação baseada em chaves API e limites configuráveis para evitar uso não autorizado.
+- O Claude Code CLI é uma ferramenta que permite interagir com o modelo de IA da Anthropic por meio de comandos diretos, facilitando a automação de tarefas repetitivas.
+- Os agentes do Claude Code são scripts configuráveis que podem ser adaptados para diferentes finalidades, como análise de dados, manipulação de arquivos e integração com APIs externas.
+- A CLI do Claude suporta personalização por meio de arquivos de configuração, permitindo ajustar parâmetros como contexto, tokens e comportamento do modelo.
+- Os agentes podem operar de forma independente ou em conjunto, criando pipelines complexos que conectam diversas ferramentas e APIs.
+- Integrações comuns incluem ferramentas como Git, bancos de dados, sistemas de gestão de projetos e plataformas de mensagens.
+- A segurança é uma prioridade no design do CLI e dos agentes, com suporte para autenticação robusta e controle de permissões em ambientes sensíveis.
 
 ## 🔗 Conexões
 - [[Claude API e Anthropic SDK]]
-- [[Automação com agentes IA]]
+- [[Projeto - Sistema Chamados]]
 
 ## 📚 Fontes
-- [[Referência - Documentação oficial do Claude Code]]
-- [[Referência - Artigo sobre uso de IA em automação]]
-- [[Referência - Integrações com Anthropic]]
+- [[Referência - Documentação oficial do Anthropic CLI]]
+- [[Referência - Guia de agentes Claude Code]]
 
 ## 🚧 Lacunas
-- Como otimizar o desempenho de agentes Claude em fluxos de trabalho de alta complexidade via CLI?
-- Quais são as melhores práticas para segurança em implementações Claude Code CLI?
-- Existe suporte para linguagens além de Python e YAML na CLI do Claude Code?
+- Como os agentes Claude Code podem ser treinados para contextos específicos sem comprometer a performance geral?
+- Quais são as melhores práticas para gerenciar autenticação e segurança em fluxos de trabalho complexos que utilizam a CLI?
+- Existe suporte nativo para integração com ferramentas de monitoramento e logging?
 ```

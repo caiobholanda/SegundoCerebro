@@ -3,7 +3,7 @@
 tipo: pesquisa
 criado: 2026-07-21
 atualizado: 2026-07-21
-pergunta-central: Como a programação e o desenvolvimento estão moldando o futuro da tecnologia e da produtividade humana?
+pergunta-central: Como a programação e o desenvolvimento de software moldam o futuro da tecnologia e da produtividade humana?
 relacionado-a: []
 related: []
 tags: [pesquisa, dev, produtividade]
@@ -12,29 +12,30 @@ tags: [pesquisa, dev, produtividade]
 # Pesquisa - Programação e Desenvolvimento
 
 ## ❓ Pergunta central
-Como a programação e o desenvolvimento estão moldando o futuro da tecnologia e da produtividade humana?
+Como a programação e o desenvolvimento de software moldam o futuro da tecnologia e da produtividade humana?
 
 ## 🎯 Síntese (3-5 linhas)
-A programação e o desenvolvimento são as bases da era digital, permitindo a criação de soluções tecnológicas que transformam setores inteiros. Elas evoluem rapidamente com ferramentas como inteligência artificial e automação, aumentando a produtividade e reduzindo barreiras de entrada. O futuro aponta para sistemas mais integrados, acessíveis e personalizados.
+A programação é a base para o desenvolvimento de soluções que transformam a sociedade, desde sistemas de automação até inteligência artificial. Com o avanço de metodologias e ferramentas, o processo de desenvolvimento está cada vez mais ágil e colaborativo, permitindo a criação de produtos e serviços inovadores. No entanto, a rápida evolução tecnológica exige adaptação constante dos profissionais e uma atenção especial à ética no uso do software.
 
 ## 🔬 Detalhes
-- A programação é fundamental para criar softwares, aplicativos e sistemas que conectam pessoas e organizações.
-- Ferramentas de low-code e no-code permitem que pessoas sem conhecimento técnico desenvolvam soluções simples, democratizando o acesso à tecnologia.
-- A crescente adoção de inteligência artificial e machine learning está redefinindo como sistemas aprendem e se adaptam, melhorando a eficiência e criando novas possibilidades.
-- Desenvolvimento ágil tornou-se o padrão para equipes de tecnologia, promovendo ciclos iterativos, entregas rápidas e foco no cliente.
-- Linguagens de programação estão se tornando mais acessíveis e intuitivas, como o Python, que é amplamente utilizado devido à sua simplicidade e versatilidade.
-- O movimento open source continua a impulsionar a inovação, permitindo colaboração global e acesso gratuito a ferramentas poderosas.
+- Programação é o processo de escrever, testar e manter código-fonte para criar software.
+- Linguagens de programação populares incluem Python, JavaScript, Java, C# e Rust.
+- Metodologias ágeis, como Scrum e Kanban, são amplamente usadas para gerenciar projetos de desenvolvimento.
+- O desenvolvimento de software está cada vez mais integrado a práticas de DevOps, promovendo automação e integração contínua.
+- A inteligência artificial e o aprendizado de máquina estão revolucionando o desenvolvimento de software, permitindo a criação de sistemas mais inteligentes e autônomos.
+- A ética em programação é um tema crescente, especialmente em questões como privacidade de dados e viés algorítmico.
 
 ## 🔗 Conexões
-- [[Projeto - Sistema Chamados]]
 - [[Claude API e Anthropic SDK]]
+- [[Referência - Livro Clean Code]]
 
 ## 📚 Fontes
-- [[Referência - Clean Code (Robert C. Martin)]]
-- [[Referência - The Pragmatic Programmer (Andrew Hunt & David Thomas)]]
+- [[Referência - The Pragmatic Programmer]]
+- [[Referência - Documentação Python]]
+- [[Referência - Artigo sobre Ética em IA]]
 
 ## 🚧 Lacunas
-- Como a evolução das ferramentas de low-code/no-code impactará a demanda por programadores tradicionais?
-- Quais as implicações éticas do uso crescente de inteligência artificial no desenvolvimento de software?
-- Como o movimento open source pode ser sustentado economicamente em larga escala?
+- O impacto de ferramentas como o GitHub Copilot na produtividade e criatividade dos desenvolvedores.
+- Como a programação pode ser mais inclusiva e diversificada para atrair novos talentos.
+- Quais serão as próximas grandes mudanças nas linguagens de programação nos próximos 10 anos?
 ```
