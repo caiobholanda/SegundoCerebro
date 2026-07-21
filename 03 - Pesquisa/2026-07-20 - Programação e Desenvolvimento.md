@@ -3,41 +3,39 @@
 tipo: pesquisa
 criado: 2026-07-20
 atualizado: 2026-07-20
-pergunta-central: Como a programação e o desenvolvimento de software evoluem para atender as demandas tecnológicas e sociais atuais?
+pergunta-central: Como a programação e o desenvolvimento de software podem evoluir para atender às demandas do futuro?
 relacionado-a: []
-related: [[Claude API e Anthropic SDK]]
+related: [[Claude API e Anthropic SDK]], [[Pesquisa - Tendências em Inteligência Artificial]]
 tags: [pesquisa, dev, produtividade]
 ---
 
 # Pesquisa - Programação e Desenvolvimento
 
 ## ❓ Pergunta central
-Como a programação e o desenvolvimento de software evoluem para atender as demandas tecnológicas e sociais atuais?
+Como a programação e o desenvolvimento de software podem evoluir para atender às demandas do futuro?
 
 ## 🎯 Síntese (3-5 linhas)
-A programação e o desenvolvimento de software estão em constante evolução, impulsionados por avanços em inteligência artificial, metodologias ágeis e novas linguagens de programação. O foco está em criar soluções mais eficientes, acessíveis e seguras, enquanto se adaptam às mudanças sociais, como a demanda por diversidade e inclusão na tecnologia. Ferramentas de automação e aprendizado contínuo desempenham papéis fundamentais nesse cenário.
+A programação e o desenvolvimento de software são pilares da tecnologia moderna, moldando como interagimos com o mundo digital. Com a popularização da inteligência artificial, a automação de processos e a crescente demanda por eficiência, o setor está em rápida transformação. O futuro aponta para maior automação no desenvolvimento, maior acessibilidade por meio de ferramentas no-code e low-code, e maior foco em segurança e sustentabilidade.
 
 ## 🔬 Detalhes
-- A adoção de metodologias ágeis e DevOps acelerou o ciclo de vida do desenvolvimento de software, permitindo lançamentos mais rápidos e iterativos.
-- Linguagens modernas como Rust e Go ganham popularidade por oferecerem melhores performances e segurança em relação às linguagens tradicionais.
-- Frameworks e bibliotecas de código aberto são amplamente reutilizados, economizando tempo e promovendo a colaboração na comunidade de desenvolvimento.
-- Ferramentas baseadas em IA, como geradores de código e depuradores automatizados, estão transformando a forma como os desenvolvedores trabalham, aumentando produtividade e reduzindo erros.
-- A crescente preocupação com privacidade e segurança impulsiona a adoção de práticas como DevSecOps, que integra segurança desde o início do ciclo de desenvolvimento.
-- O movimento de low-code/no-code está democratizando o desenvolvimento de software, permitindo que não-programadores criem aplicações simples, mas eficazes.
+- A programação está se tornando mais acessível com o surgimento de plataformas no-code e low-code, permitindo que não programadores desenvolvam soluções digitais.
+- Ferramentas baseadas em inteligência artificial, como o GitHub Copilot e o Claude API, estão automatizando tarefas de codificação, aumentando a produtividade dos desenvolvedores.
+- A segurança cibernética se torna cada vez mais importante, com práticas como DevSecOps integrando segurança no ciclo de desenvolvimento.
+- Linguagens como Python, JavaScript e Rust continuam dominando o mercado, mas novas linguagens focadas em desempenho e paralelismo, como Zig, estão ganhando espaço.
+- O desenvolvimento sustentável está ganhando destaque, com práticas que visam reduzir o consumo de energia em data centers e melhorar a eficiência dos softwares.
+- A colaboração em projetos de código aberto segue impulsionando a inovação, com comunidades como GitHub e GitLab sendo catalisadores para o compartilhamento de conhecimento.
 
 ## 🔗 Conexões
 - [[Claude API e Anthropic SDK]]
 - [[Pesquisa - Tendências em Inteligência Artificial]]
-- [[Referência - Metodologias Ágeis no Desenvolvimento de Software]]
 
 ## 📚 Fontes
-- [[Referência - Clean Code por Robert C. Martin]]
-- [[Referência - The Pragmatic Programmer por Andrew Hunt e David Thomas]]
-- [[Referência - Artigo sobre Rust e Go na InfoQ]]
-- [[Referência - Relatório de Estado do DevOps 2025]]
+- [[Referência - Artigo sobre no-code e low-code (TechCrunch)]]
+- [[Referência - Relatório do GitHub sobre tendências de desenvolvimento 2026]]
+- [[Referência - Livro 'Clean Code' de Robert C. Martin]]
 
 ## 🚧 Lacunas
-- Como equilibrar a necessidade de rapidez no desenvolvimento com a qualidade e segurança do software?
-- De que maneira a programação pode lidar com os desafios éticos do uso de inteligência artificial?
-- Qual o impacto do movimento low-code/no-code na profissão de programador a longo prazo?
+- Quais são os possíveis impactos éticos e sociais da automação no desenvolvimento de software?
+- Como as novas linguagens de programação podem se adaptar para atender às demandas de sustentabilidade?
+- Quais serão as implicações da evolução das ferramentas de IA para a profissão de desenvolvedor?
 ```
