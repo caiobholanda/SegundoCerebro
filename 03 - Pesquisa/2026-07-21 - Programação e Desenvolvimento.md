@@ -1,42 +1,40 @@
-```markdown
 ---
 tipo: pesquisa
 criado: 2026-07-21
 atualizado: 2026-07-21
-pergunta-central: Como a programação e o desenvolvimento evoluem para atender às demandas tecnológicas e sociais contemporâneas?
+pergunta-central: Qual é o estado atual das práticas, linguagens e ferramentas mais relevantes para programação e desenvolvimento?
 relacionado-a: []
-related: []
-tags: ["pesquisa", "dev", "produtividade"]
+related: [[Claude API e Anthropic SDK]]
+tags: [pesquisa, dev, produtividade]
 ---
 
 # Pesquisa - Programação e Desenvolvimento
 
 ## ❓ Pergunta central
-Como a programação e o desenvolvimento evoluem para atender às demandas tecnológicas e sociais contemporâneas?
+Qual é o estado atual das práticas, linguagens e ferramentas mais relevantes para programação e desenvolvimento?
 
 ## 🎯 Síntese (3-5 linhas)
-A programação acompanha tendências como a inteligência artificial, o desenvolvimento sustentável e a integração de ferramentas low-code/no-code para democratizar o acesso à tecnologia. Frameworks ágeis e práticas modernas como DevOps têm acelerado os ciclos de desenvolvimento, enquanto linguagens como Python e JavaScript continuam dominando o mercado devido à sua versatilidade e ampla comunidade.
+O campo da programação está em constante evolução, impulsionado por avanços em inteligência artificial, frameworks de código aberto e práticas ágeis. Linguagens como Python e JavaScript continuam dominantes, mas linguagens novas como Rust e Go estão ganhando espaço devido à sua eficiência e segurança. Ferramentas de automação e colaboração, como GitHub Copilot e plataformas de CI/CD, estão transformando a produtividade das equipes de desenvolvimento.
 
 ## 🔬 Detalhes
-- A inteligência artificial e o aprendizado de máquina estão moldando novas ferramentas e frameworks para automatizar tarefas e otimizar processos.
-- Linguagens como Python, JavaScript e Rust estão em alta devido à sua flexibilidade e suporte a diversos paradigmas.
-- O movimento de low-code e no-code está expandindo o acesso ao desenvolvimento para pessoas sem formação técnica.
-- A metodologia ágil e o DevOps se consolidaram como práticas padrão no mercado, promovendo entregas rápidas e iterativas.
-- Programação sustentável está ganhando força, com foco em código eficiente e impacto ambiental reduzido.
-- Segurança cibernética é uma área crítica no desenvolvimento, com práticas como DevSecOps sendo incorporadas desde o início dos projetos.
+- **Linguagens populares**: Python lidera em ciência de dados e aprendizado de máquina, enquanto JavaScript domina o desenvolvimento web e frameworks como React e Node.js.
+- **Linguagens emergentes**: Rust é valorizada por sua segurança e alta performance, enquanto Go é amplamente usada para sistemas escaláveis e aplicações em nuvem.
+- **Práticas ágeis**: Métodos como Scrum e Kanban continuam sendo a base para a gestão de projetos ágeis, com foco na colaboração e entregas incrementais.
+- **Git e GitHub**: Git permanece essencial para controle de versão, enquanto GitHub e GitLab são líderes em colaboração e automação de processos com CI/CD.
+- **Inteligência Artificial**: Ferramentas como GitHub Copilot e ChatGPT estão auxiliando desenvolvedores com sugestões inteligentes, geração de código e automação de tarefas repetitivas.
+- **Desenvolvimento low-code/no-code**: Plataformas como Bubble e OutSystems estão democratizando o desenvolvimento, permitindo que pessoas sem formação técnica criem aplicações funcionais.
 
 ## 🔗 Conexões
 - [[Claude API e Anthropic SDK]]
-- [[Pesquisa - Inteligência Artificial e Ética]]
-- [[Pesquisa - Automação no Desenvolvimento de Software]]
+- [[Pesquisa - Inovação em Inteligência Artificial]]
+- [[Pesquisa - Metodologias Ágeis]]
 
 ## 📚 Fontes
-- [[Referência - Livro Clean Code]]
-- [[Referência - Artigo sobre DevOps e produtividade]]
-- [[Referência - Relatório GitHub State of the Octoverse 2025]]
+- [[Referência - Site Oficial do Python]]
+- [[Referência - Documentação do GitHub Copilot]]
+- [[Referência - Artigo sobre Rust e Go no Medium]]
 
 ## 🚧 Lacunas
-- Quais são as implicações éticas do uso de inteligência artificial no desenvolvimento de software?
-- Como as práticas de programação sustentável podem ser amplamente adotadas na indústria?
-- Qual será o impacto de longo prazo das ferramentas no-code no papel dos programadores tradicionais?
-```
+- Como as ferramentas de IA irão impactar a demanda por habilidades tradicionais de programação no futuro?
+- Qual é o impacto ambiental do uso crescente de linguagens e frameworks de alto desempenho em larga escala?
+- Quais são as melhores práticas para equilibrar o uso de ferramentas low-code/no-code com o desenvolvimento tradicional?
