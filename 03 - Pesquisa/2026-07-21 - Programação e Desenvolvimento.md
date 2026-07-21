@@ -3,7 +3,7 @@
 tipo: pesquisa
 criado: 2026-07-21
 atualizado: 2026-07-21
-pergunta-central: Como as práticas modernas de programação e desenvolvimento podem acelerar a entrega de software de alta qualidade?
+pergunta-central: Como a evolução das ferramentas e metodologias de programação está impactando o desenvolvimento de software na atualidade?
 relacionado-a: []
 related: []
 tags: ["pesquisa", "dev", "produtividade"]
@@ -12,29 +12,30 @@ tags: ["pesquisa", "dev", "produtividade"]
 # Pesquisa - Programação e Desenvolvimento
 
 ## ❓ Pergunta central
-Como as práticas modernas de programação e desenvolvimento podem acelerar a entrega de software de alta qualidade?
+Como a evolução das ferramentas e metodologias de programação está impactando o desenvolvimento de software na atualidade?
 
 ## 🎯 Síntese (3-5 linhas)
-A programação e o desenvolvimento evoluíram para além da simples escrita de código, incorporando metodologias ágeis, automação e práticas colaborativas. Ferramentas como CI/CD, versionamento e frameworks modernos permitem uma entrega mais rápida e com menos erros. A cultura de desenvolvimento também está mais focada em aprendizado contínuo e na integração de inteligência artificial para potencializar a produtividade.
+A programação e o desenvolvimento de software estão em constante evolução, impulsionados por novas ferramentas, linguagens e metodologias. O surgimento de tecnologias como IA generativa, plataformas low-code/no-code e metodologias como DevOps e Continuous Delivery têm transformado a forma como softwares são criados, testados e entregues. A colaboração e a produtividade das equipes de desenvolvimento são cada vez mais otimizadas por essas inovações.
 
 ## 🔬 Detalhes
-- A adoção de metodologias ágeis, como Scrum e Kanban, permite ciclos de desenvolvimento curtos e maior adaptação às mudanças.
-- Integração e entrega contínuas (CI/CD) automatizam os processos de build, testes e deploy, reduzindo o tempo para entregar novas funcionalidades.
-- Frameworks modernos, como React, Django e Spring Boot, abstraem complexidades técnicas e aceleram o desenvolvimento de aplicações robustas.
-- O uso de sistemas de controle de versão, como Git, facilita a colaboração em equipe e o rastreamento de alterações no código.
-- Ferramentas de automação, como Jenkins, Docker e Kubernetes, otimizam a infraestrutura e tornam os processos mais eficientes.
-- A integração de inteligência artificial no desenvolvimento, como o uso de assistentes de código (ex.: GitHub Copilot), está transformando a forma como os desenvolvedores escrevem e analisam código.
+- Ferramentas baseadas em inteligência artificial, como o [[Claude API e Anthropic SDK]], estão permitindo automação em tarefas complexas, como geração de código e testes automatizados.
+- Métodos ágeis e práticas DevOps têm reduzido o ciclo de desenvolvimento, integrando desenvolvimento e operações para entregas contínuas.
+- Linguagens modernas, como Rust e Go, têm ganhado popularidade por sua eficiência e segurança, principalmente em aplicações de alto desempenho e sistemas críticos.
+- Plataformas low-code/no-code democratizam a criação de software, permitindo que não-desenvolvedores criem soluções simples e reduzam a carga sobre equipes de TI.
+- O movimento de código aberto continua sendo um pilar do desenvolvimento, incentivando a colaboração global e o compartilhamento de soluções para problemas comuns.
+- A preocupação com segurança e privacidade no desenvolvimento de software tem se intensificado, especialmente com regulamentações como GDPR e LGPD.
 
 ## 🔗 Conexões
 - [[Claude API e Anthropic SDK]]
 - [[Projeto - Sistema Chamados]]
 
 ## 📚 Fontes
-- [[Referência - Clean Code de Robert C. Martin]]
-- [[Referência - DevOps Handbook de Gene Kim]]
+- [[Referência - Livro Clean Code]]
+- [[Referência - Artigo sobre DevOps - TechCrunch]]
+- [[Referência - Documentação oficial do Rust]]
 
 ## 🚧 Lacunas
-- Como medir de forma objetiva o impacto da IA na produtividade dos desenvolvedores?
-- Quais são os limites éticos e os riscos da automação no desenvolvimento?
-- Como equipes distribuídas podem maximizar a colaboração usando práticas modernas de desenvolvimento?
+- Qual o impacto de longo prazo do uso de IA generativa no papel dos programadores humanos?
+- Como equilibrar a adoção de plataformas low-code/no-code com a necessidade de soluções altamente personalizadas?
+- Quais são os desafios éticos emergentes no desenvolvimento de software, especialmente relacionados à IA?
 ```
