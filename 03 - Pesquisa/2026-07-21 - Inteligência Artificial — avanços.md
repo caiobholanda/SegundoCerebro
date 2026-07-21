@@ -1,8 +1,9 @@
+```markdown
 ---
 tipo: pesquisa
 criado: 2026-07-21
 atualizado: 2026-07-21
-pergunta-central: Quais são os avanços mais significativos na Inteligência Artificial nos últimos anos e como eles estão transformando diferentes setores?
+pergunta-central: Quais são os avanços mais significativos da inteligência artificial em 2026 e como eles impactam diferentes setores?
 relacionado-a: []
 related: []
 tags: [pesquisa, ia]
@@ -11,30 +12,29 @@ tags: [pesquisa, ia]
 # Pesquisa - Inteligência Artificial — avanços
 
 ## ❓ Pergunta central
-Quais são os avanços mais significativos na Inteligência Artificial nos últimos anos e como eles estão transformando diferentes setores?
+Quais são os avanços mais significativos da inteligência artificial em 2026 e como eles impactam diferentes setores?
 
 ## 🎯 Síntese (3-5 linhas)
-Nos últimos anos, a Inteligência Artificial avançou significativamente em áreas como aprendizado de máquina, redes neurais profundas e modelos de linguagem generativa, como os LLMs. Tecnologias como GPT e sistemas multimodais expandiram as fronteiras da compreensão e geração de linguagem, imagens e até vídeos. Esses avanços estão transformando setores como saúde, educação, transporte e entretenimento, trazendo benefícios, mas também levantando questões éticas e regulatórias.
+Em 2026, a inteligência artificial alcançou novos patamares em áreas como modelos generativos multimodais, integração de IA em biotecnologia e avanços em agentes autônomos. Aplicações práticas incluem diagnósticos médicos mais precisos, ferramentas criativas para arte e design, e automação cognitiva em indústrias complexas. Contudo, desafios éticos e regulatórios permanecem centrais.
 
 ## 🔬 Detalhes
-- Modelos de linguagem de grande escala, como GPT-4, revolucionaram o processamento de linguagem natural, permitindo interações mais humanas com máquinas.
-- Avanços em IA multimodal, como o CLIP e DALL-E, possibilitam a análise simultânea de texto e imagens, ampliando aplicações em design, marketing e diagnósticos médicos.
-- A integração de IA em dispositivos IoT (Internet das Coisas) está otimizando operações em fábricas inteligentes, cidades conectadas e residências automatizadas.
-- Na saúde, a IA está sendo usada para diagnóstico precoce de doenças, desenvolvimento de medicamentos e personalização de tratamentos, aumentando a eficiência e a acessibilidade.
-- O setor de transporte está sendo transformado por tecnologias de veículos autônomos, como carros e drones, que prometem reduzir acidentes e melhorar a logística.
-- A IA também está impactando a criatividade humana, com ferramentas que auxiliam na geração de arte, música e escrita, levantando questões sobre autoria e direitos intelectuais.
+- Modelos generativos multimodais, como sucessores do GPT e DALL-E, combinam texto, imagem, áudio e vídeo, permitindo interações e criações mais naturais.
+- Avanços em IA médica incluem diagnósticos assistidos por IA, criação de terapias personalizadas e previsão de surtos de doenças com maior precisão.
+- Sistemas autônomos, como carros e drones, evoluíram com maior segurança e eficiência graças a melhorias em visão computacional e sensores de aprendizado.
+- A IA está sendo integrada à biotecnologia para acelerar descobertas científicas, como o mapeamento de proteínas e desenvolvimento de medicamentos.
+- Aplicações éticas e transparentes de IA ganharam destaque, com frameworks regulatórios sendo implementados globalmente para mitigar vieses e desigualdades.
+- IA criativa está transformando setores como entretenimento e design, permitindo que profissionais criem conteúdos complexos em menos tempo.
 
 ## 🔗 Conexões
 - [[Claude API e Anthropic SDK]]
-- [[Pesquisa - Ética na Inteligência Artificial]]
-- [[Referência - GPT-4 e o futuro dos LLMs]]
+- [[Projeto - Sistema Chamados]]
 
 ## 📚 Fontes
-- [[Referência - Livro "Human Compatible" de Stuart Russell]]
-- [[Referência - Artigo "Transformers: State of the Art in NLP" (2023)]]
-- [[Referência - Relatório McKinsey sobre IA e economia global (2025)]]
+- [[Referência - OpenAI GPT-5: o que muda]]
+- [[Referência - IA em biotecnologia: avanços e desafios]]
 
 ## 🚧 Lacunas
-- Como os avanços em IA podem ser democratizados para países em desenvolvimento?
-- Quais regulamentações são necessárias para garantir o uso ético e responsável dessas tecnologias?
-- Que impactos a longo prazo a automação baseada em IA terá no mercado de trabalho global?
+- Como os avanços atuais da IA estão sendo regulamentados e quais impactos isso pode gerar no futuro?
+- Quais são os limites técnicos para a evolução de modelos generativos multimodais?
+- Como os setores mais vulneráveis, como educação e saúde em países em desenvolvimento, podem ser beneficiados pela IA sem agravar desigualdades?
+```
