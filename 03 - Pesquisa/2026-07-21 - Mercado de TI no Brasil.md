@@ -1,41 +1,39 @@
-```markdown
 ---
 tipo: pesquisa
 criado: 2026-07-21
 atualizado: 2026-07-21
-pergunta-central: Quais são as principais tendências e desafios do mercado de TI no Brasil em 2026?
+pergunta-central: Qual é o panorama atual do mercado de TI no Brasil e suas perspectivas futuras?
 relacionado-a: []
-related: [[Projeto - Sistema Chamados]]
+related: []
 tags: [pesquisa, mercado, carreira]
 ---
 
 # Pesquisa - Mercado de TI no Brasil
 
 ## ❓ Pergunta central
-Quais são as principais tendências e desafios do mercado de TI no Brasil em 2026?
+Qual é o panorama atual do mercado de TI no Brasil e suas perspectivas futuras?
 
 ## 🎯 Síntese (3-5 linhas)
-O mercado de TI no Brasil em 2026 permanece aquecido, impulsionado pela transformação digital nas empresas e pela demanda crescente por soluções baseadas em IA e computação em nuvem. Apesar da alta demanda, o país enfrenta desafios como déficit de profissionais qualificados, disparidades regionais e adaptação às rápidas mudanças tecnológicas.
+O mercado de TI no Brasil está em crescimento acelerado, impulsionado pela transformação digital em empresas de todos os setores. A demanda por profissionais qualificados supera a oferta, criando oportunidades em áreas como desenvolvimento de software, segurança cibernética e ciência de dados. No entanto, desafios permanecem, como a escassez de mão de obra especializada e a necessidade de maior investimento em educação tecnológica.
 
 ## 🔬 Detalhes
-- O setor de TI no Brasil cresce em média 10% ao ano, impulsionado pela digitalização de negócios e pelo aumento da conectividade.
-- Áreas como inteligência artificial, machine learning e cibersegurança lideram a demanda por profissionais especializados.
-- O déficit de mão de obra qualificada é um dos maiores desafios, com estimativas de escassez de 500 mil profissionais até 2030.
-- Pequenas e médias empresas estão investindo mais em soluções digitais, ampliando o mercado interno.
-- A concentração de oportunidades ainda está em grandes centros urbanos como São Paulo e Curitiba, gerando desigualdades regionais.
-- Políticas públicas, como programas de incentivo à formação técnica em TI, estão sendo implementadas, mas os resultados ainda são tímidos.
+- O mercado de TI no Brasil apresentou um crescimento médio anual de 10% nos últimos anos, mesmo durante períodos de instabilidade econômica.
+- As áreas mais demandadas incluem desenvolvimento de software, análise de dados, segurança cibernética, computação em nuvem e inteligência artificial.
+- Relatórios apontam que o Brasil sofre com um déficit de profissionais qualificados em TI, estimado em mais de 400 mil vagas não preenchidas até 2026.
+- A adoção de tecnologias emergentes, como IA generativa e blockchain, tem impulsionado a criação de startups e a modernização de grandes empresas.
+- Incentivos governamentais, como programas de capacitação tecnológica e políticas de inovação, têm buscado mitigar o déficit de talentos no setor.
+- O trabalho remoto, amplamente adotado desde a pandemia, ampliou as oportunidades para brasileiros atuarem em empresas internacionais, aumentando a competitividade por talentos.
 
 ## 🔗 Conexões
 - [[Claude API e Anthropic SDK]]
-- [[Pesquisa - Tendências tecnológicas para 2026]]
+- [[Pesquisa - Inteligência Artificial no Brasil]]
+- [[Área - Desenvolvimento de Software]]
 
 ## 📚 Fontes
-- [[Referência - Relatório Mercado de TI Brasil 2025]]
-- [[Referência - Panorama de Transformação Digital no Brasil]]
-- [[Referência - Cibersegurança e Mercado de Trabalho]]
+- [[Referência - Relatório Mercado de TI Brasil 2026]]
+- [[Referência - Análise da Transformação Digital no Brasil]]
 
 ## 🚧 Lacunas
-- Como as empresas brasileiras estão adaptando suas estratégias para lidar com a escassez de profissionais em TI?
-- Qual é o impacto das políticas públicas na formação de novos talentos para o setor?
-- Como o mercado de TI está se desenvolvendo fora dos grandes centros urbanos no Brasil?
-```
+- Quais políticas públicas específicas têm maior impacto no desenvolvimento do setor de TI no Brasil?
+- Como as universidades brasileiras estão adaptando seus currículos para atender à demanda do mercado?
+- Qual o impacto da exportação de talentos brasileiros para mercados internacionais no longo prazo?

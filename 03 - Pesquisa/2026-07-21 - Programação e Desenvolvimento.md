@@ -1,43 +1,39 @@
-```markdown
 ---
 tipo: pesquisa
 criado: 2026-07-21
 atualizado: 2026-07-21
-pergunta-central: Quais são os fundamentos essenciais e as tendências emergentes que moldam a prática de programação e desenvolvimento atualmente?
+pergunta-central: Como a programação e o desenvolvimento continuam evoluindo para atender às demandas tecnológicas e sociais modernas?
 relacionado-a: []
-related: [[Claude API e Anthropic SDK]]
-tags: ["pesquisa", "dev", "produtividade"]
+related: []
+tags: [pesquisa, dev, produtividade]
 ---
 
 # Pesquisa - Programação e Desenvolvimento
 
 ## ❓ Pergunta central
-Quais são os fundamentos essenciais e as tendências emergentes que moldam a prática de programação e desenvolvimento atualmente?
+Como a programação e o desenvolvimento continuam evoluindo para atender às demandas tecnológicas e sociais modernas?
 
 ## 🎯 Síntese (3-5 linhas)
-Programação e desenvolvimento envolvem a criação de sistemas digitais, combinando lógica, criatividade e ferramentas tecnológicas. Hoje, temas como inteligência artificial, desenvolvimento ágil, e programação funcional ganham destaque, enquanto práticas como DevOps e metodologias de integração contínua são essenciais para eficiência e qualidade. A evolução constante de linguagens e frameworks exige aprendizado contínuo e adaptação.
+A programação e o desenvolvimento têm evoluído rapidamente, impulsionados por tendências como inteligência artificial, desenvolvimento de software ágil e cloud computing. Ferramentas mais acessíveis e linguagens de alto nível estão democratizando o acesso à tecnologia, enquanto práticas como DevOps e metodologias ágeis aceleram os ciclos de desenvolvimento. Além disso, há um foco crescente na ética e na sustentabilidade no desenvolvimento de software.
 
 ## 🔬 Detalhes
-- Programação é a arte de traduzir lógica e requisitos em código executável por máquinas, utilizando linguagens como Python, JavaScript, e C++.
-- Desenvolvimento moderno requer integração contínua (CI/CD) para automatizar testes e deploys, garantindo ciclos mais rápidos e confiáveis.
-- Metodologias ágeis, como Scrum e Kanban, promovem flexibilidade e melhor comunicação nas equipes.
-- Inteligência Artificial e aprendizado de máquina estão redefinindo o desenvolvimento, com ferramentas como TensorFlow e PyTorch.
-- Tendências como desenvolvimento orientado a eventos (event-driven) e microsserviços estão moldando arquiteturas modernas.
-- Linguagens e frameworks emergentes, como Rust e Svelte, focam em segurança, desempenho e simplicidade.
-- Práticas de DevOps e infraestrutura como código (IaC) com ferramentas como Terraform agilizam a gestão de sistemas complexos.
+- A programação evoluiu de linguagens de baixo nível (como Assembly) para linguagens de alto nível (como Python e JavaScript), que são mais acessíveis e produtivas.
+- O desenvolvimento ágil e práticas como DevOps permitem ciclos de entrega mais rápidos e maior colaboração entre equipes.
+- Ferramentas de desenvolvimento low-code e no-code estão permitindo que pessoas sem formação técnica criem aplicativos e soluções personalizadas.
+- A programação orientada a IA está se expandindo, com ferramentas como [[Claude API e Anthropic SDK]], que permitem integrar modelos de linguagem em sistemas.
+- Sustentabilidade em TI está ganhando importância, com práticas de código eficiente e otimização de recursos para reduzir o impacto ambiental.
+- Ética na programação está no centro das discussões, especialmente em áreas como privacidade de dados, viés algorítmico e impactos sociais da automação.
 
 ## 🔗 Conexões
 - [[Claude API e Anthropic SDK]]
-- [[Referência - Metodologias Ágeis]]
-- [[Pesquisa - Inteligência Artificial e Aprendizado de Máquina]]
+- [[Projeto - Sistema Chamados]]
 
 ## 📚 Fontes
-- [[Referência - Clean Code (Robert C. Martin)]]
-- [[Referência - The Pragmatic Programmer (Andy Hunt e Dave Thomas)]]
-- [[Referência - Documentação Oficial do Python]]
+- [[Referência - Clean Code]]
+- [[Referência - The Pragmatic Programmer]]
+- [[Referência - DevOps Handbook]]
 
 ## 🚧 Lacunas
-- Como linguagens emergentes como Rust e Kotlin estão sendo adotadas em ambientes corporativos?
-- Quais são os impactos éticos e as melhores práticas ao integrar IA em sistemas de desenvolvimento?
-- Como o desenvolvimento em Web3 e blockchain está transformando paradigmas tradicionais de programação?
-```
+- Como as ferramentas de programação low-code/no-code podem impactar o mercado de trabalho para desenvolvedores tradicionais?
+- Qual o papel da ética no desenvolvimento de soluções de inteligência artificial nos próximos 5-10 anos?
+- Quais novas linguagens de programação podem surgir para atender às demandas da computação quântica?
