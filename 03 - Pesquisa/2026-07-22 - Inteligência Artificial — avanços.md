@@ -1,9 +1,8 @@
-```markdown
 ---
 tipo: pesquisa
 criado: 2026-07-22
 atualizado: 2026-07-22
-pergunta-central: Quais são os avanços mais significativos em inteligência artificial nos últimos anos e quais impactos eles têm causado na sociedade e na tecnologia?
+pergunta-central: Quais são os avanços mais significativos da Inteligência Artificial e como estão impactando diferentes setores?
 relacionado-a: []
 related: []
 tags: [pesquisa, ia]
@@ -12,30 +11,30 @@ tags: [pesquisa, ia]
 # Pesquisa - Inteligência Artificial — avanços
 
 ## ❓ Pergunta central
-Quais são os avanços mais significativos em inteligência artificial nos últimos anos e quais impactos eles têm causado na sociedade e na tecnologia?
+Quais são os avanços mais significativos da Inteligência Artificial e como estão impactando diferentes setores?
 
 ## 🎯 Síntese (3-5 linhas)
-Nos últimos anos, os avanços em inteligência artificial têm transformado diversos setores, desde saúde e finanças até entretenimento e educação. Modelos de linguagem como [[Claude API e Anthropic SDK]] e [[GPT-4]] alcançaram níveis surpreendentes de compreensão e geração de texto. Além disso, o desenvolvimento de IA generativa trouxe inovações em imagens, vídeos e música. Porém, desafios éticos e questões de regulamentação permanecem em destaque.
+A Inteligência Artificial tem avançado rapidamente em áreas como aprendizado profundo, modelos de linguagem e robótica. Tecnologias como modelos generativos (ex.: GPT-4) e sistemas de recomendação estão transformando setores como saúde, educação e indústria. No entanto, surgem desafios éticos e técnicos relacionados à transparência, viés e impacto social. 
 
 ## 🔬 Detalhes
-- O surgimento de modelos de linguagem avançados, como GPT-4 e Claude, capazes de realizar tarefas de alta complexidade, incluindo programação e escrita criativa.
-- Avanços em IA generativa, como DALL-E e Stable Diffusion, que possibilitam a criação de imagens realistas a partir de descrições textuais.
-- Aplicações práticas em saúde, como diagnóstico assistido por IA, personalização de tratamentos e descoberta de medicamentos.
-- Adoção crescente de IA em finanças, com algoritmos sofisticados para análise de risco, previsão de mercado e detecção de fraudes.
-- Avanços em robótica com integração de IA, melhorando a interação humano-máquina em setores como manufatura e assistência médica.
-- Discussões éticas e regulamentares sobre o uso de IA, incluindo preocupações com viés, impacto no mercado de trabalho e privacidade de dados.
+- Modelos de linguagem como GPT-4 e Claude estão cada vez mais precisos, permitindo interações quase humanas em diversas aplicações.
+- Avanços em aprendizado por reforço profundo (Deep Reinforcement Learning) têm aprimorado a capacidade de IA em resolver problemas complexos, como jogos e planejamento estratégico.
+- Sistemas de visão computacional estão revolucionando diagnósticos médicos, permitindo detecção precoce de doenças como câncer.
+- Robótica avançada integrada com IA está sendo usada na automação industrial, agricultura e até em missões espaciais.
+- Modelos generativos, como DALL-E, MidJourney e outros, estão impactando a criatividade, gerando imagens, vídeos e músicas com alta qualidade.
+- Desafios éticos em IA incluem a mitigação de viés algorítmico, supervisão regulatória e impacto no mercado de trabalho.
 
 ## 🔗 Conexões
 - [[Claude API e Anthropic SDK]]
-- [[GPT-4]]
-- [[Referência - Ética em IA]]
+- [[Pesquisa - Ética em Inteligência Artificial]]
+- [[Projeto - Sistema Chamados]]
 
 ## 📚 Fontes
-- [[Referência - OpenAI e GPT]]
-- [[Referência - Avanços em IA generativa]]
+- [[Referência - OpenAI GPT-4 Overview]]
+- [[Referência - Ética em IA — Artigo Científico]]
+- [[Referência - Tendências em Robótica e Automação]]
 
 ## 🚧 Lacunas
-- Quais regulamentações específicas para IA estão sendo discutidas globalmente e qual o impacto esperado?
-- Como mitigar os vieses nos modelos de IA para torná-los mais inclusivos e justos?
-- Quais serão os impactos de longo prazo da automação por IA no mercado de trabalho?
-```
+- Como lidar com os riscos de superdependência de tecnologias baseadas em IA em setores críticos?
+- Quais são as melhores práticas para regulação global de IA, considerando diferentes contextos culturais e econômicos?
+- Como garantir que os avanços em IA sejam acessíveis a países em desenvolvimento?

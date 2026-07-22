@@ -3,7 +3,7 @@
 tipo: pesquisa
 criado: 2026-07-22
 atualizado: 2026-07-22
-pergunta-central: Quais são as melhores práticas para realizar deploys eficientes e gerenciar infraestrutura em ambientes de cloud computing?
+pergunta-central: Como arquitetar um deploy eficiente e escalável utilizando infraestrutura cloud?
 relacionado-a: []
 related: []
 tags: [pesquisa, dev, infra]
@@ -12,33 +12,30 @@ tags: [pesquisa, dev, infra]
 # Pesquisa - Deploy e Infraestrutura Cloud
 
 ## ❓ Pergunta central
-Quais são as melhores práticas para realizar deploys eficientes e gerenciar infraestrutura em ambientes de cloud computing?
+Como arquitetar um deploy eficiente e escalável utilizando infraestrutura cloud?
 
-## 🎯 Síntese
-Deploy e gerenciamento de infraestrutura em cloud são pilares da entrega ágil de software. A automação, escalabilidade e monitoramento são essenciais para evitar falhas e otimizar recursos. Ferramentas como Terraform, Kubernetes e CI/CD pipelines são indispensáveis para equipes modernas. Compreender modelos de cloud (IaaS, PaaS, SaaS) e práticas como infraestrutura como código (IaC) são fundamentais para eficiência e controle.
+## 🎯 Síntese (3-5 linhas)
+Deploy e infraestrutura cloud são pilares fundamentais para a entrega de aplicações modernas. Com ferramentas como CI/CD, containers e orquestradores, é possível automatizar processos e escalar recursos sob demanda. Escolher provedores e arquiteturas adequados — como serverless ou multi-cloud — é essencial para otimizar custos e garantir alta disponibilidade.
 
 ## 🔬 Detalhes
-- **Automação**: A automação reduz erros humanos e acelera processos. Ferramentas como CI/CD pipelines (ex.: Jenkins, GitHub Actions) permitem deploy contínuo de forma confiável.
-- **Infraestrutura como Código (IaC)**: Ferramentas como Terraform e AWS CloudFormation possibilitam gerenciar infraestrutura de forma declarativa, garantindo consistência entre ambientes.
-- **Orquestração**: Kubernetes é amplamente usado para gerenciar contêineres e orquestrar aplicações distribuídas, garantindo alta disponibilidade e balanceamento de carga.
-- **Escalabilidade**: Serviços de cloud como AWS, Google Cloud e Azure oferecem opções para auto scaling, permitindo que aplicações lidem com aumento ou redução de demanda automaticamente.
-- **Monitoramento e Observabilidade**: Ferramentas como Prometheus, Grafana e New Relic são cruciais para identificar gargalos de performance e prevenir downtime.
-- **Segurança na Cloud**: Práticas como controle de acesso baseado em funções (RBAC), criptografia de dados e uso de firewalls ajudam a proteger aplicações e dados.
-- **Modelos de Nuvem**: Compreender os diferentes modelos (IaaS, PaaS, SaaS) permite escolher a solução ideal para cada caso de uso, balanceando personalização e simplicidade.
+- **Provedores principais**: AWS, Microsoft Azure e Google Cloud dominam o mercado, oferecendo serviços abrangentes de computação, armazenamento e rede.
+- **Automação com CI/CD**: Ferramentas como GitHub Actions, Jenkins e GitLab CI/CD permitem pipelines automatizados para testes, builds e deploys.
+- **Containers e orquestração**: Docker e Kubernetes são padrões para empacotar e gerenciar aplicações em ambientes isolados e escaláveis.
+- **Modelos de arquitetura**: Serverless (ex.: AWS Lambda) reduz a complexidade operacional, enquanto arquiteturas multi-cloud oferecem redundância e resiliência.
+- **Infraestrutura como Código (IaC)**: Ferramentas como Terraform e AWS CloudFormation facilitam o provisionamento automatizado e reproduzível de recursos.
+- **Escalabilidade e monitoramento**: Implementar auto-scaling e soluções de observabilidade (ex.: Prometheus, Grafana) para lidar com variações de carga.
 
 ## 🔗 Conexões
-- [[Pesquisa - Kubernetes e orquestração de contêineres]]
-- [[Referência - Terraform e práticas de IaC]]
 - [[Claude API e Anthropic SDK]]
+- [[Projeto - Sistema Chamados]]
 
 ## 📚 Fontes
-- [[Referência - The DevOps Handbook]]
-- [[Referência - Site Reliability Engineering (SRE)]]
-- [[Referência - Documentação oficial do Terraform]]
-- [[Referência - Kubernetes Patterns]]
+- [[Referência - Terraform e práticas de IaC]]
+- [[Referência - Orquestração com Kubernetes]]
+- [[Referência - Serverless em AWS]]
 
 ## 🚧 Lacunas
-- Como escolher entre diferentes provedores de cloud para aplicações específicas (AWS vs. Google Cloud vs. Azure)?
-- Como integrar práticas de FinOps no gerenciamento de infraestrutura cloud para otimização de custos?
-- Quais são as tendências emergentes em infraestrutura cloud, como serverless e edge computing?
+- Quais são os critérios para escolher entre uma arquitetura serverless e uma baseada em containers?
+- Como otimizar custos em ambientes multi-cloud sem comprometer a performance?
+- Quais são as melhores práticas de segurança para pipelines CI/CD em infraestrutura cloud?
 ```
