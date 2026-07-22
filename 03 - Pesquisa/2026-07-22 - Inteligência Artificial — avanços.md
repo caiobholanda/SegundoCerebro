@@ -1,9 +1,8 @@
-```markdown
 ---
 tipo: pesquisa
 criado: 2026-07-22
 atualizado: 2026-07-22
-pergunta-central: Quais são os avanços mais significativos na área de Inteligência Artificial nos últimos anos e como eles estão impactando diferentes setores?
+pergunta-central: Quais são os avanços mais significativos na área de inteligência artificial nos últimos anos e seus impactos?
 relacionado-a: []
 related: []
 tags: [pesquisa, ia]
@@ -12,30 +11,30 @@ tags: [pesquisa, ia]
 # Pesquisa - Inteligência Artificial — avanços
 
 ## ❓ Pergunta central
-Quais são os avanços mais significativos na área de Inteligência Artificial nos últimos anos e como eles estão impactando diferentes setores?
+Quais são os avanços mais significativos na área de inteligência artificial nos últimos anos e seus impactos?
 
 ## 🎯 Síntese (3-5 linhas)
-A Inteligência Artificial tem registrado avanços notáveis, como o desenvolvimento de modelos generativos, maior eficiência em aprendizado por reforço e integração com dispositivos físicos. Essas inovações impactam áreas como saúde, transporte e geração de conteúdo. Apesar do progresso, desafios éticos e regulatórios permanecem em destaque.
+A inteligência artificial avançou significativamente nos últimos anos, impulsionada por modelos de linguagem maiores, como os LLMs, e melhorias em áreas como aprendizado por reforço e visão computacional. Aplicações práticas incluem diagnósticos médicos, automação de processos e ferramentas criativas como geração de arte e texto. Apesar dos avanços, desafios éticos e técnicos permanecem, incluindo vieses, consumo energético e regulamentações.
 
 ## 🔬 Detalhes
-- Modelos de linguagem avançados, como [[Claude API e Anthropic SDK]] e [[GPT-4]], estão transformando a geração de texto, diálogos e codificação.
-- Avanços em aprendizado por reforço profundo permitiram conquistas em jogos complexos e operações robóticas mais precisas.
-- Aplicações de IA na saúde incluem diagnósticos mais rápidos e precisos, além de descobertas aceleradas de fármacos.
-- Integração de IA com Internet das Coisas (IoT) resultou em dispositivos mais inteligentes e autônomos.
-- Veículos autônomos estão se tornando mais seguros e eficientes graças ao uso de algoritmos de visão computacional e aprendizado profundo.
-- A IA generativa, como ferramentas de criação de imagem e vídeo, democratizou o acesso à produção criativa, mas também levantou questões sobre direitos autorais.
+- A criação de modelos de linguagem de grande escala, como GPT-4 e sucessores, potencializou a automação de tarefas baseadas em linguagem natural.
+- O aprendizado por reforço profundo permitiu avanços em áreas como jogos, robótica e tomada de decisão estratégica.
+- A ascensão de modelos generativos, como os baseados em GANs e difusão, transformou áreas criativas, incluindo produção de arte, música e design.
+- IA tem sido usada para diagnósticos médicos avançados, como detecção precoce de câncer e doenças raras, com precisão crescente.
+- Ferramentas de IA estão sendo integradas em processos empresariais, como análise preditiva, atendimento ao cliente e logística.
+- Apesar do progresso, questões éticas, como vieses algorítmicos, privacidade de dados e impactos no mercado de trabalho, continuam sendo desafios significativos.
 
 ## 🔗 Conexões
 - [[Claude API e Anthropic SDK]]
-- [[Projeto - Sistema Chamados]]
+- [[Pesquisa - Ética em inteligência artificial]]
+- [[Pesquisa - Impactos da automação no mercado de trabalho]]
 
 ## 📚 Fontes
-- [[Referência - Artigo sobre IA generativa]]
-- [[Referência - Livro sobre aprendizado por reforço]]
-- [[Referência - Relatório de impacto de IA na saúde]]
+- [[Referência - OpenAI e os avanços nos LLMs]]
+- [[Referência - Estudos sobre GANs na geração de arte]]
+- [[Referência - Diagnósticos médicos com IA]]
 
 ## 🚧 Lacunas
-- Impactos de longo prazo de modelos de IA generativa na economia criativa.
-- Limites éticos e regulatórios para o uso de IA em decisões críticas.
-- Como tornar a IA mais acessível para países em desenvolvimento.
-```
+- Quais são as abordagens mais promissoras para mitigar o consumo energético de grandes modelos de IA?
+- Como garantir que os sistemas de IA sejam auditáveis e livres de vieses em larga escala?
+- Qual será o impacto de longo prazo da IA generativa nas indústrias criativas e na sociedade em geral?
