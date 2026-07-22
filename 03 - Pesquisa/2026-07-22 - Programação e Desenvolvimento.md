@@ -3,7 +3,7 @@
 tipo: pesquisa
 criado: 2026-07-22
 atualizado: 2026-07-22
-pergunta-central: Como a programação pode ser utilizada para resolver problemas complexos de forma eficiente e escalável?
+pergunta-central: Como a evolução em linguagens e práticas de programação está moldando o futuro do desenvolvimento de software?
 relacionado-a: []
 related: []
 tags: [pesquisa, dev, produtividade]
@@ -12,30 +12,31 @@ tags: [pesquisa, dev, produtividade]
 # Pesquisa - Programação e Desenvolvimento
 
 ## ❓ Pergunta central
-Como a programação pode ser utilizada para resolver problemas complexos de forma eficiente e escalável?
+Como a evolução em linguagens e práticas de programação está moldando o futuro do desenvolvimento de software?
 
 ## 🎯 Síntese (3-5 linhas)
-A programação é uma habilidade essencial para transformar ideias em soluções práticas. Ela permite a automação de processos, análise de grandes volumes de dados e criação de sistemas escaláveis. Dominar princípios fundamentais, como algoritmos, estruturas de dados e boas práticas de desenvolvimento, é crucial para abordar problemas de forma eficiente. As ferramentas e linguagens evoluem constantemente, exigindo aprendizado contínuo dos profissionais.
+A programação e o desenvolvimento de software estão em constante transformação, impulsionados por novas linguagens, ferramentas e paradigmas como programação funcional e IA generativa. A busca por maior produtividade, eficiência e sustentabilidade está moldando o futuro do setor, com práticas como DevOps, metodologias ágeis e o uso crescente de plataformas low-code e no-code. A acessibilidade à programação também está se expandindo, permitindo que mais pessoas contribuam para a criação de soluções tecnológicas.
 
 ## 🔬 Detalhes
-- A programação é baseada em linguagens formais que permitem a comunicação entre humanos e máquinas, como Python, JavaScript e C++.
-- Estruturas de dados e algoritmos são os alicerces para resolver problemas computacionais de forma eficiente.
-- Boas práticas, como controle de versão, testes automatizados e clean code, aumentam a qualidade e a manutenibilidade do software.
-- Paradigmas como programação funcional, orientada a objetos e reativa ajudam a modularizar e organizar o código.
-- Tecnologias emergentes, como aprendizado de máquina e blockchain, expandem o impacto da programação em áreas como IA e segurança digital.
-- A colaboração em equipes de desenvolvimento requer ferramentas como Git, metodologias ágeis e comunicação eficaz.
+- **Evolução das linguagens de programação**: A popularidade de linguagens como Python e Rust reflete a busca por legibilidade, segurança e desempenho.
+- **Paradigmas emergentes**: A programação funcional está ganhando espaço para resolver problemas complexos com maior modularidade e menos efeitos colaterais.
+- **Automação e IA no desenvolvimento**: Ferramentas como GitHub Copilot e modelos de linguagem como GPT estão acelerando tarefas de codificação e revisão.
+- **Low-code e no-code**: Plataformas como Bubble e Webflow estão democratizando o desenvolvimento, reduzindo barreiras técnicas.
+- **Metodologias ágeis e DevOps**: A integração contínua e a entrega contínua (CI/CD) estão se tornando práticas padrão para aumentar a eficiência.
+- **Foco em sustentabilidade**: Há um movimento crescente para criar software energeticamente eficiente e reduzir a pegada ambiental do desenvolvimento.
 
 ## 🔗 Conexões
 - [[Claude API e Anthropic SDK]]
+- [[Pesquisa - Inteligência Artificial na Automação de Tarefas]]
 - [[Projeto - Sistema Chamados]]
 
 ## 📚 Fontes
-- [[Referência - Clean Code: A Handbook of Agile Software Craftsmanship]]
-- [[Referência - Estruturas de Dados e Algoritmos em Python]]
-- [[Referência - Documentação oficial do Git]]
+- [[Referência - Livro Clean Code]]
+- [[Referência - Artigo sobre programação funcional]]
+- [[Referência - Relatório do GitHub sobre tendências de desenvolvimento]]
 
 ## 🚧 Lacunas
-- Como escolher a linguagem de programação mais adequada para diferentes tipos de projetos?
-- Quais são as melhores estratégias para lidar com débitos técnicos em sistemas legados?
-- Como a inteligência artificial pode ser integrada ao desenvolvimento tradicional para aumentar a produtividade?
+- Quais são os impactos éticos e sociais do uso crescente de IA na programação?
+- Como linguagens de programação emergentes podem influenciar o futuro do setor?
+- Qual é o papel da acessibilidade e inclusão na formação de novos programadores?
 ```
