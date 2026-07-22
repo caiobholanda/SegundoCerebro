@@ -3,40 +3,39 @@
 tipo: pesquisa
 criado: 2026-07-22
 atualizado: 2026-07-22
-pergunta-central: Quais são as melhores práticas para realizar deploys eficientes e gerenciar infraestrutura em nuvem de maneira escalável e segura?
+pergunta-central: Como arquitetar e gerenciar um processo eficiente de deploy em diferentes provedores de infraestrutura cloud?
 relacionado-a: []
 related: []
-tags: ["pesquisa", "dev", "infra"]
+tags: [pesquisa, dev, infra]
 ---
 
 # Pesquisa - Deploy e Infraestrutura Cloud
 
 ## ❓ Pergunta central
-Quais são as melhores práticas para realizar deploys eficientes e gerenciar infraestrutura em nuvem de maneira escalável e segura?
+Como arquitetar e gerenciar um processo eficiente de deploy em diferentes provedores de infraestrutura cloud?
 
 ## 🎯 Síntese (3-5 linhas)
-O deploy e a infraestrutura cloud são pilares fundamentais para empresas que buscam escalabilidade e alta disponibilidade. Ferramentas como CI/CD, conteinerização e orquestração são indispensáveis para automação e eficiência. Adotar boas práticas de segurança, monitoramento contínuo e otimização de custos é essencial para garantir uma operação confiável e sustentável.
+O deploy em infraestrutura cloud envolve automação, escalabilidade e monitoramento contínuo. Ferramentas como CI/CD, containers (Docker) e orquestradores (Kubernetes) são cruciais para fluxos modernos. Além disso, a escolha do provedor cloud (AWS, Azure, GCP) impacta custos, desempenho e integridade. Dominar práticas de IaC (Infraestrutura como Código) é essencial para consistência e reprodutibilidade.
 
 ## 🔬 Detalhes
-- A automação com pipelines de CI/CD (Continuous Integration/Continuous Deployment) reduz erros humanos e acelera o ciclo de deploy.
-- Ferramentas de orquestração como Kubernetes permitem gerenciar clusters de containers de forma eficiente, garantindo resiliência e alta disponibilidade.
-- A escolha correta entre provedores de nuvem (AWS, Azure, GCP) depende de requisitos como custo, escalabilidade, suporte e compatibilidade com tecnologias existentes.
-- Práticas de segurança incluem o uso de autenticação multifator (MFA), controle de acesso baseado em funções (RBAC) e gerenciamento adequado de chaves e credenciais.
-- Monitoramento e logging contínuos com ferramentas como Prometheus, Grafana e ELK Stack ajudam a identificar e solucionar problemas rapidamente.
-- Estratégias para redução de custos incluem o uso de instâncias spot/preemptibles, dimensionamento automático (auto-scaling) e limpeza de recursos não utilizados.
+- **Automação é essencial**: pipelines CI/CD, como GitHub Actions e Jenkins, reduzem erros humanos e aceleram o deploy.
+- **Containers e orquestração**: Docker facilita a portabilidade de aplicações, enquanto Kubernetes gerencia clusters e escalabilidade.
+- **Infraestrutura como Código (IaC)**: ferramentas como Terraform e AWS CloudFormation permitem configurar e gerenciar infraestrutura de forma declarativa.
+- **Provedores cloud**: AWS, Azure e GCP oferecem serviços robustos, mas escolher o ideal depende de custos, disponibilidade regional e serviços integrados.
+- **Segurança no deploy**: práticas como gestão de chaves, autenticação via IAM e VPNs garantem proteção no ambiente cloud.
+- **Monitoramento contínuo**: ferramentas como Prometheus, Grafana e AWS CloudWatch ajudam na observação e resolução proativa de problemas.
 
 ## 🔗 Conexões
 - [[Claude API e Anthropic SDK]]
-- [[Pesquisa - Boas práticas em DevOps]]
-- [[Referência - Computação em Nuvem]]
+- [[Projeto - Sistema Chamados]]
 
 ## 📚 Fontes
-- [[Referência - Kubernetes: Orquestração na prática]]
-- [[Referência - AWS Well-Architected Framework]]
-- [[Referência - Livro Clean Code]]
+- [[Referência - Terraform Documentation]]
+- [[Referência - Kubernetes Basics]]
+- [[Referência - AWS CloudFormation User Guide]]
 
 ## 🚧 Lacunas
-- Como escolher entre diferentes ferramentas de CI/CD (ex.: Jenkins, GitHub Actions, GitLab CI)?
-- Quais são as melhores práticas específicas para reduzir a latência em aplicações globais hospedadas na nuvem?
-- Como realizar migrações de infraestrutura on-premises para a nuvem com o mínimo de downtime?
+- Quais são os critérios mais importantes para comparar provedores cloud ao planejar um deploy de larga escala?
+- Como otimizar custos em um ambiente cloud sem comprometer a performance?
+- Quais são as melhores práticas para integrar segurança ao fluxo de CI/CD?
 ```
