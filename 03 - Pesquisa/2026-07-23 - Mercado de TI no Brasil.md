@@ -3,40 +3,38 @@
 tipo: pesquisa
 criado: 2026-07-23
 atualizado: 2026-07-23
-pergunta-central: Quais são as principais tendências, desafios e oportunidades do mercado de TI no Brasil em 2026?
+pergunta-central: Quais são as principais tendências e desafios do mercado de TI no Brasil em 2026?
 relacionado-a: []
-related: []
+related: [[Projeto - Sistema Chamados]]
 tags: [pesquisa, mercado, carreira]
 ---
 
 # Pesquisa - Mercado de TI no Brasil
 
 ## ❓ Pergunta central
-Quais são as principais tendências, desafios e oportunidades do mercado de TI no Brasil em 2026?
+Quais são as principais tendências e desafios do mercado de TI no Brasil em 2026?
 
 ## 🎯 Síntese (3-5 linhas)
-O mercado de TI no Brasil continua em expansão, impulsionado pela digitalização de empresas e pela crescente demanda por soluções tecnológicas. Áreas como inteligência artificial, segurança cibernética e desenvolvimento de software estão em alta, mas há desafios significativos relacionados à falta de mão de obra qualificada e à desigualdade de acesso à tecnologia em diferentes regiões do país. Políticas públicas e iniciativas educacionais podem desempenhar um papel crucial na superação dessas lacunas.
+O mercado de TI no Brasil segue em expansão, com alta demanda por profissionais qualificados em áreas como desenvolvimento de software, segurança cibernética e inteligência artificial. Porém, desafios como a escassez de mão-de-obra especializada e a adaptação às novas tecnologias permanecem. Empresas têm investido em capacitação interna e parcerias educacionais para suprir essas lacunas.
 
 ## 🔬 Detalhes
-- O mercado de TI no Brasil cresce a uma taxa média de 10% ao ano, com projeções de alcançar R$ 300 bilhões em 2026.
-- Profissionais especializados em áreas como inteligência artificial, ciência de dados e segurança cibernética são os mais demandados.
-- A falta de mão de obra qualificada segue como um gargalo crítico, com mais de 400 mil vagas abertas no setor em 2026.
-- Empresas estão investindo em programas próprios de capacitação, como academias de tecnologia e bootcamps.
-- A desigualdade de acesso à tecnologia é um desafio, especialmente em regiões Norte e Nordeste.
-- Políticas públicas, como a ampliação do acesso à banda larga e incentivos fiscais para startups, estão ajudando a fomentar o setor.
+- O mercado de TI brasileiro cresceu cerca de 10% em 2025, impulsionado por investimentos em transformação digital.
+- A área de segurança cibernética é uma das mais promissoras, devido ao aumento de ataques e à necessidade de proteção de dados.
+- Profissionais com conhecimento em inteligência artificial e aprendizado de máquina estão entre os mais procurados.
+- A formação técnica e superior ainda não atende à demanda: cerca de 40% das vagas de TI ficam abertas por mais de 6 meses.
+- Empresas estão desenvolvendo programas internos de capacitação para formar talentos em áreas estratégicas.
+- A adoção de tecnologias como blockchain e computação quântica ainda é incipiente, mas com potencial de crescimento nos próximos anos.
 
 ## 🔗 Conexões
+- [[Claude API e Anthropic SDK]]
 - [[Pesquisa - Inteligência Artificial no Brasil]]
-- [[Área - Educação e formação profissional]]
-- [[Referência - Relatório Anual sobre o Mercado de TI no Brasil]]
 
 ## 📚 Fontes
-- [[Referência - Relatório do IDC sobre TI no Brasil 2026]]
-- [[Referência - Artigo da ABES sobre mercado de tecnologia]]
-- [[Referência - Estudo da Brasscom sobre empregos em TI]]
+- [[Referência - Relatório Mercado TI Brasil 2025]]
+- [[Referência - Tendências em Segurança Cibernética]]
 
 ## 🚧 Lacunas
-- Como a automação e a IA estão impactando a empregabilidade no setor de TI no Brasil?
-- Quais políticas públicas específicas têm maior impacto no desenvolvimento do setor em regiões menos favorecidas?
-- Quais são as diferenças salariais e de oportunidades entre grandes centros urbanos e cidades menores no Brasil?
+- Qual o impacto da computação quântica no mercado de TI brasileiro nos próximos 5 anos?
+- Como políticas públicas podem ajudar na formação de profissionais especializados em TI?
+- Quais estados brasileiros estão liderando em investimentos e inovação tecnológica?
 ```
